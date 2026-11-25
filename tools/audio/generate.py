@@ -53,8 +53,9 @@ def speakable(token):
     return re.sub(r'[{}«»()\[\]﴿﴾]', '', token)
 
 
-def chunks(words, marks):
-    """Split a paragraph into requests under the byte limit, at punctuation where possible."""
+def chunks(words, marks, max_words=None):
+    """Split a paragraph into requests under the byte limit (and, for Chirp 3 HD voices, which reject long
+    sentences, under max_words), at punctuation where possible."""
     def ssml(ws, start):
         parts = []
         for k, w in enumerate(ws):
@@ -63,7 +64,7 @@ def chunks(words, marks):
         return '<speak>' + ' '.join(parts) + '</speak>' if marks else ' '.join(speakable(w) for w in ws)
     out, cur, start = [], [], 0
     for i, w in enumerate(words):
-        if cur and len(ssml(cur + [w], start).encode()) > MAX_BYTES:
+        if cur and (len(ssml(cur + [w], start).encode()) > MAX_BYTES or (max_words and len(cur) >= max_words)):
             # back up to the last word ending a clause, if there is one in the second half
             cut = max((k for k, x in enumerate(cur) if re.search(r'[،,.:؛]$', x) and k > len(cur) // 2), default=len(cur) - 1)
             out.append((start, cur[:cut + 1]))
@@ -146,7 +147,7 @@ def synth_hadith(hd, voice, rate, engine, marks):
             t += PARA_GAP
         start = t
         wtimes = [None] * len(words)
-        for first, payload, count in chunks(words, marks or engine is macos_say):
+        for first, payload, count in chunks(words, marks or engine is macos_say, 24 if 'Chirp' in voice and engine is google else None):
             pcm, sr, times = engine(payload, voice, rate, marks)
             if sr != RATE_HZ:
                 sys.exit(f'unexpected sample rate {sr}')
