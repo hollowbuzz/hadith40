@@ -1,16 +1,24 @@
 // Service worker: offline app shell + cached Google Fonts.
 // Bump VERSION whenever you change any file so returning users get the update.
-const VERSION = 'arbaeen-v1.0.0';
+const VERSION = 'arbaeen-v1.1.0';
 const FONT_CACHE = 'arbaeen-fonts';
 const SHELL = [
   './', './index.html', './manifest.webmanifest', './css/app.css',
   './js/app.js', './js/data.js', './js/store.js', './js/i18n.js', './js/text.js', './js/srs.js', './js/quiz.js',
-  './js/lesson.js', './js/render.js', './js/ui.js', './js/sound.js', './js/achievements.js',
+  './js/lesson.js', './js/render.js', './js/ui.js', './js/sound.js', './js/achievements.js', './js/sharh.js',
   './icons/icon.svg', './icons/icon-192.png', './icons/icon-512.png', './icons/icon-180.png', './icons/icon-maskable-512.png',
 ];
 
+// The three commentaries (about 2 MB, much less compressed) are cached too, so they read offline.
+// They are optional: if one fails to download, the app still installs and fetches it when opened.
+const BOOKS = ['fath-al-qawi-al-matin', 'al-tuhfah-al-rabbaniyyah', 'al-sharh-al-mujaz-al-mufid']
+  .map(f => `./data/commentaries/${f}.json`);
+
 self.addEventListener('install', e => {
-  e.waitUntil(caches.open(VERSION).then(c => c.addAll(SHELL)));
+  e.waitUntil(caches.open(VERSION).then(async c => {
+    await c.addAll(SHELL);
+    await Promise.all(BOOKS.map(u => c.add(u).catch(() => {})));
+  }));
 });
 
 self.addEventListener('activate', e => {

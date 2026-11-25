@@ -10,10 +10,11 @@ The Arabic text is taken verbatim from **«متون طالب العلم – ال
 - **Exercises:** word order, fill-in-the-blank (multiple choice or typed with an on-screen Arabic keyboard), “what comes next?”, hadith **numbers** (both directions), **narrators**, **takhrīj**, topics and meanings, matching pairs, and a self-graded **recitation check**.
 - **Strength tracking:** every hadith is tracked on five facets (text, number, narrator, takhrīj, meaning). Spaced-repetition review schedules each hadith, and *Weak spots* drills your weakest hadith and facets.
 - **Memorise mode:** hide 25–100% of the words (random, from the end, or first letters), then tap a word to peek.
+- **Commentaries:** three short commentaries on every hadith, *Fatḥ al-Qawī al-Matīn* (al-ʿAbbād), *al-Tuḥfah al-Rabbāniyyah* (al-Anṣārī) and *al-Sharḥ al-Mūjaz al-Mufīd* (al-Muḥsin). Read them as Arabic only, English only, or each Arabic sentence with its English beneath. Open them from the *Commentary* tab on a hadith page, or from the Library, which also has each book’s introduction and contents. The English is an AI translation, not yet reviewed by a scholar.
 - **Duolingo-style game layer:** XP, levels, daily goal, streaks, combos, optional hearts, a 60-second lightning round, achievements, confetti and synthesized sound effects (no audio files).
 - **Arabic and English UI** (full RTL), English translation per paragraph, tashkeel toggle, choice of Arabic font and text size, light and dark themes.
 - **Your data:** saved in the browser (`localStorage`), with JSON **export and import** in Settings.
-- **Offline PWA:** installable, and works offline after the first visit.
+- **Offline PWA:** installable, and works offline after the first visit (the commentaries included).
 
 ## Run locally
 
@@ -46,6 +47,7 @@ Then open <http://localhost:8000>.
 index.html            app shell (+ inline SVG icons)
 css/app.css           all styles (light/dark, RTL/LTR, mobile/desktop)
 js/app.js             router + views (path, practice, library, hadith page, profile, settings)
+js/sharh.js           commentary reader (three books × three reading modes) and book pages
 js/lesson.js          lesson runner, exercise screens, lightning round, end screens
 js/quiz.js            question generators and session builders
 js/srs.js             mastery facets, spaced repetition, strength and weak lists
@@ -56,7 +58,8 @@ js/data.js            GENERATED hadith dataset (do not edit by hand)
 js/render.js, ui.js, sound.js, achievements.js
 sw.js, manifest.webmanifest, icons/
 data/shamela-raw.json raw text scraped from Shamela
-tools/                scripts that rebuild js/data.js
+data/commentaries/    the three commentaries, Arabic + English aligned by sentence (see its README)
+tools/                scripts that rebuild js/data.js; tools/commentaries/ rebuilds data/commentaries/
 ```
 
 ## Rebuilding the data

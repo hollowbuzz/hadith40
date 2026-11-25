@@ -16,8 +16,9 @@ import { renderHadith, arEl, ar, crownsEl, strengthBar, statusChip, nameEl, sour
 import { buildLearn, buildPractice, buildMixed, reviewPool, weakPool, recitePool, rangePool, enabledTypes, GEN } from './quiz.js';
 import { runSession, runLightning, inLesson, lessonNavigatedAway, plainText } from './lesson.js';
 import { ACHIEVEMENTS, checkAchievements } from './achievements.js';
+import { sharhTab, bookView, bookCards, BOOKS, MODES } from './sharh.js';
 
-const VERSION = '1.0.0';
+const VERSION = '1.1.0';
 const H = n => HADITH[n - 1];
 const view = () => $('#view');
 
@@ -91,7 +92,7 @@ let currentRoute = null;
 let lessonReturn = null; // { route, y } — where to come back to after a lesson
 function route() {
   const hash = location.hash.replace(/^#\/?/, '');
-  const [name = '', arg] = hash.split('/');
+  const [name = '', arg, ...rest] = hash.split('/');
   if (name === 'lesson') {
     if (!inLesson()) location.replace('#/');
     else lessonReturn = { route: currentRoute, y: scrollY };
@@ -103,12 +104,12 @@ function route() {
   lessonReturn = null;
   const same = currentRoute === hash;
   currentRoute = hash;
-  const views = { '': homeView, practice: practiceView, library: libraryView, h: hadithView, profile: profileView, settings: settingsView };
+  const views = { '': homeView, practice: practiceView, library: libraryView, h: hadithView, book: bookView, profile: profileView, settings: settingsView };
   const fn = views[name] || homeView;
   const el = clear(view());
   el.className = 'view view-' + (name || 'home');
-  fn(el, arg);
-  renderNav(name === 'h' ? 'library' : name);
+  fn(el, arg, rest);
+  renderNav(name === 'h' || name === 'book' ? 'library' : name);
   renderHeader();
   if (back != null) window.scrollTo(0, back);
   else if (!same) window.scrollTo(0, 0);
@@ -300,7 +301,9 @@ function libraryView(el) {
   const chips = h('div.chips.scroll', filters.map(f => h('button.fchip' + (lib.filter === f ? '.on' : ''), {
     type: 'button', onclick: e => { lib.filter = f; chips.querySelectorAll('.fchip').forEach(b => b.classList.remove('on')); e.currentTarget.classList.add('on'); paint(); },
   }, t('filter.' + f))));
-  el.append(h('h1.page-title', t('lib.title')), h('div.searchbar', svgIcon('search', 20), search), chips, list);
+  el.append(h('h1.page-title', t('lib.title')),
+    h('h2.sec-label', t('sh.commentaries')), bookCards(),
+    h('h2.sec-label', t('lib.hadith')), h('div.searchbar', svgIcon('search', 20), search), chips, list);
   paint();
 }
 
@@ -308,8 +311,16 @@ function libraryView(el) {
 // Hadith page
 // =====================================================================
 const hv = { tab: 'read', hide: 0, mode: 'random', seed: 1 };
-function hadithView(el, arg) {
+function hadithView(el, arg, [sub, bookKey] = []) {
   const n = Math.max(1, Math.min(50, parseInt(arg, 10) || 1));
+  // #/h/<n>/sharh[/<book>] opens the Commentary tab (links from a book's contents)
+  if (sub === 'sharh') {
+    hv.tab = 'sharh';
+    if (BOOKS.some(b => b.key === bookKey) && state.settings.sharhBook !== bookKey) setSetting('sharhBook', bookKey);
+    // applied once: a later re-render must not undo a book picked on the page
+    history.replaceState(null, '', '#/h/' + n);
+    currentRoute = 'h/' + n;
+  }
   const hd = H(n);
   const learned = isLearned(n), unlocked = isUnlocked(n);
   if (hv.n !== n) { hv.n = n; hv.seed = Math.random(); hv.revealed = new Set(); }
@@ -351,7 +362,7 @@ function hadithView(el, arg) {
       : h('div.muted.grow', '🔒 ' + t('home.locked')),
     listen));
 
-  const tabs = ['read', 'memorize', 'stats'];
+  const tabs = ['read', 'sharh', 'memorize', 'stats'];
   const body = h('div.tab-body');
   const tabBar = h('div.tabs', { role: 'tablist' }, tabs.map(k => h('button.tab' + (hv.tab === k ? '.on' : ''), {
     type: 'button', role: 'tab', 'aria-selected': hv.tab === k ? 'true' : 'false',
@@ -362,6 +373,7 @@ function hadithView(el, arg) {
   function paintTab() {
     clear(body);
     if (hv.tab === 'read') body.append(readTab(hd));
+    else if (hv.tab === 'sharh') body.append(sharhTab(n));
     else if (hv.tab === 'memorize') body.append(memorizeTab(hd));
     else body.append(statsTab(n));
   }
@@ -562,7 +574,8 @@ function settingsView(el) {
     row(t('st.font'), seg('arFont', ['amiri', 'scheherazade', 'naskh', 'system'],
       v => ({ amiri: 'Amiri', scheherazade: 'Scheherazade', naskh: 'Noto Naskh', system: t('st.font.system') }[v]), { appearance: true })),
     row(t('st.size'), sizeIn),
-    sample));
+    sample,
+    row(t('st.sharhMode'), seg('sharhMode', MODES, v => t('sh.mode.' + v)), t('st.sharhModeSub'))));
 
   const vol = h('input.range', { type: 'range', min: 0, max: 1, step: 0.05, value: s.volume, 'aria-label': t('st.volume'), onchange: e => { set('volume', +e.target.value); sfx.correct(); } });
   const rate = h('input.range', { type: 'range', min: 0.5, max: 1.3, step: 0.05, value: s.ttsRate, 'aria-label': t('st.tts'), onchange: e => set('ttsRate', +e.target.value) });
@@ -657,6 +670,10 @@ function registerSW() {
 function boot() {
   applyLang();
   applyAppearance();
+  const bar = $('.topbar');
+  const setBarH = () => document.documentElement.style.setProperty('--topbar-h', bar.offsetHeight + 'px');
+  if ('ResizeObserver' in window) new ResizeObserver(setBarH).observe(bar);
+  setBarH();
   matchMedia('(prefers-color-scheme: dark)').addEventListener('change', applyAppearance);
   window.addEventListener('hashchange', route);
   let pending = false;

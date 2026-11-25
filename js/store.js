@@ -10,6 +10,8 @@ export const DEFAULT_SETTINGS = {
   showTashkeel: true,
   arFont: 'amiri',       // 'amiri' | 'scheherazade' | 'naskh' | 'system'
   arSize: 26,            // px
+  sharhBook: 'fath',     // commentary shown on the hadith page: 'fath' | 'tuhfah' | 'mujaz'
+  sharhMode: 'both',     // commentary reading mode: 'ar' | 'en' | 'both'
   sound: true,
   volume: 0.7,
   haptics: true,
