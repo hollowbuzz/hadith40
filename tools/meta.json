@@ -1,0 +1,525 @@
+{
+  "takhreejLabels": {
+    "bm": { "ar": "البخاري ومسلم", "en": "al-Bukhārī & Muslim" },
+    "b": { "ar": "البخاري", "en": "al-Bukhārī" },
+    "m": { "ar": "مسلم", "en": "Muslim" },
+    "t": { "ar": "الترمذي", "en": "al-Tirmidhī" },
+    "tn": { "ar": "الترمذي والنسائي", "en": "al-Tirmidhī & al-Nasāʾī" },
+    "tg": { "ar": "الترمذي وغيره", "en": "al-Tirmidhī & others" },
+    "ad": { "ar": "أبو داود والترمذي", "en": "Abū Dāwūd & al-Tirmidhī" },
+    "mad": { "ar": "مسلم، وأحمد والدارمي", "en": "Muslim; Aḥmad & al-Dārimī" },
+    "dq": { "ar": "الدارقطني وغيره", "en": "al-Dāraquṭnī & others" },
+    "ij": { "ar": "ابن ماجه وغيره", "en": "Ibn Mājah & others" },
+    "ijdq": { "ar": "ابن ماجه والدارقطني، ومالك مرسلًا", "en": "Ibn Mājah & al-Dāraquṭnī; Mālik (mursal)" },
+    "bh": { "ar": "البيهقي وغيره", "en": "al-Bayhaqī & others" },
+    "ijbh": { "ar": "ابن ماجه والبيهقي", "en": "Ibn Mājah & al-Bayhaqī" },
+    "hujjah": { "ar": "كتاب «الحجة»", "en": "Kitāb al-Ḥujjah" },
+    "a4": { "ar": "أحمد والترمذي والنسائي وابن ماجه", "en": "Aḥmad, al-Tirmidhī, al-Nasāʾī & Ibn Mājah" },
+    "a4hh": { "ar": "أحمد والترمذي والنسائي وابن ماجه وابن حبان والحاكم", "en": "Aḥmad, al-Tirmidhī, al-Nasāʾī, Ibn Mājah, Ibn Ḥibbān & al-Ḥākim" },
+    "atih": { "ar": "أحمد، والترمذي وابن ماجه وابن حبان", "en": "Aḥmad; al-Tirmidhī, Ibn Mājah & Ibn Ḥibbān" }
+  },
+  "corrections": {
+    "29": [
+      {
+        "find": "{يَعْلَمُونَ}",
+        "replace": "{يَعْمَلُونَ}",
+        "note": {
+          "ar": "في النص الرقمي على الشاملة: «يَعْلَمُونَ»، والصواب «يَعْمَلُونَ» كما في آخر الآية (السجدة: ١٧).",
+          "en": "The Shamela digital text reads «يَعْلَمُونَ»; corrected to «يَعْمَلُونَ», the final word of the ayah (al-Sajdah 32:17)."
+        }
+      }
+    ]
+  },
+  "hadith": {
+    "1": {
+      "title": { "ar": "إنما الأعمال بالنيات", "en": "Actions Are by Intentions" },
+      "narrator": { "ar": "عمر بن الخطاب", "en": "ʿUmar ibn al-Khaṭṭāb" },
+      "takhreej": "bm",
+      "en": [
+        "On the authority of the Commander of the Believers, Abū Ḥafṣ ʿUmar ibn al-Khaṭṭāb (may Allah be pleased with him), who said: I heard the Messenger of Allah ﷺ say: “Actions are only by intentions, and every person shall have only what he intended. So whoever’s emigration was to Allah and His Messenger, his emigration is to Allah and His Messenger; and whoever’s emigration was for some worldly gain he would attain, or a woman he would marry, his emigration is to that for which he emigrated.” Reported by the two imams of the hadith scholars — Abū ʿAbdillāh Muḥammad ibn Ismāʿīl ibn Ibrāhīm ibn al-Mughīrah ibn Bardizbah al-Bukhārī, and Abū al-Ḥusayn Muslim ibn al-Ḥajjāj ibn Muslim al-Qushayrī al-Naysābūrī (may Allah be pleased with them both) — in their two Ṣaḥīḥs, which are the most authentic of compiled books."
+      ]
+    },
+    "2": {
+      "title": { "ar": "حديث جبريل: الإسلام والإيمان والإحسان", "en": "Jibrīl: Islām, Īmān and Iḥsān" },
+      "narrator": { "ar": "عمر بن الخطاب", "en": "ʿUmar ibn al-Khaṭṭāb" },
+      "takhreej": "m",
+      "en": [
+        "Also on the authority of ʿUmar (may Allah be pleased with him), who said: “While we were sitting with the Messenger of Allah ﷺ one day, there appeared before us a man whose clothes were exceedingly white and whose hair was exceedingly black. No trace of travel could be seen on him, and none of us knew him. He came and sat down by the Prophet ﷺ, rested his knees against his knees, placed his palms on his thighs, and said: O Muḥammad!",
+        "Tell me about Islām.",
+        "The Messenger of Allah ﷺ said: Islām is that you testify that there is no god but Allah and that Muḥammad is the Messenger of Allah, establish the prayer, give the zakāh, fast Ramaḍān, and make pilgrimage to the House if you are able to find a way to it. He said: You have spoken truly. — We were amazed at him: he asks him and then confirms him! —",
+        "He said: Then tell me about īmān (faith).",
+        "He said: That you believe in Allah, His angels, His books, His messengers and the Last Day, and that you believe in the decree (qadar), its good and its bad. He said: You have spoken truly.",
+        "He said: Then tell me about iḥsān (excellence).",
+        "He said: That you worship Allah as though you see Him; and though you do not see Him, He surely sees you.",
+        "He said: Then tell me about the Hour.",
+        "He said: The one asked about it knows no more than the one asking.",
+        "He said: Then tell me about its signs.",
+        "He said: That the slave-woman gives birth to her mistress, and that you see the barefoot, unclothed, destitute shepherds of sheep competing in raising tall buildings.",
+        "He said: Then he left, and I stayed a long while. Then he said to me: O ʿUmar, do you know who the questioner was? I said: Allah and His Messenger know best. He said: That was Jibrīl, who came to you to teach you your religion.” Reported by Muslim."
+      ]
+    },
+    "3": {
+      "title": { "ar": "بني الإسلام على خمس", "en": "Islām Is Built upon Five" },
+      "narrator": { "ar": "عبد الله بن عمر", "en": "ʿAbdullāh ibn ʿUmar" },
+      "takhreej": "bm",
+      "en": [
+        "On the authority of Abū ʿAbd al-Raḥmān ʿAbdullāh, son of ʿUmar ibn al-Khaṭṭāb (may Allah be pleased with them both), who said: I heard the Messenger of Allah ﷺ say: “Islām has been built upon five: testifying that there is no god but Allah and that Muḥammad is His slave and Messenger, establishing the prayer, giving the zakāh, pilgrimage to the House, and fasting Ramaḍān.” Reported by al-Bukhārī and Muslim."
+      ]
+    },
+    "4": {
+      "title": { "ar": "خلق الإنسان والقدر", "en": "Creation in the Womb and the Decree" },
+      "narrator": { "ar": "عبد الله بن مسعود", "en": "ʿAbdullāh ibn Masʿūd" },
+      "takhreej": "bm",
+      "en": [
+        "On the authority of Abū ʿAbd al-Raḥmān ʿAbdullāh ibn Masʿūd (may Allah be pleased with him), who said: The Messenger of Allah ﷺ — and he is the truthful, the one confirmed as truthful — told us: “The creation of each one of you is gathered in his mother’s womb for forty days; then he becomes a clinging clot (ʿalaqah) for a like period; then a lump of flesh (muḍghah) for a like period.",
+        "Then the angel is sent to him, and he breathes the soul into him, and he is commanded with four matters: to write down his provision, his lifespan, his deeds, and whether he will be wretched or happy.",
+        "By the One besides whom there is no god! One of you may do the deeds of the people of Paradise until there is only a forearm’s length between him and it; then the decree overtakes him, so he does the deeds of the people of the Fire and enters it.",
+        "And one of you may do the deeds of the people of the Fire until there is only a forearm’s length between him and it; then the decree overtakes him, so he does the deeds of the people of Paradise and enters it.” Reported by al-Bukhārī and Muslim."
+      ]
+    },
+    "5": {
+      "title": { "ar": "رد المحدثات", "en": "Rejection of Innovations" },
+      "narrator": { "ar": "عائشة أم المؤمنين", "en": "ʿĀʾishah, Mother of the Believers" },
+      "takhreej": "bm",
+      "en": [
+        "On the authority of the Mother of the Believers, Umm ʿAbdillāh ʿĀʾishah (may Allah be pleased with her and her father), who said: The Messenger of Allah ﷺ said: “Whoever introduces into this affair of ours something that is not part of it — it is rejected.” Reported by al-Bukhārī and Muslim.",
+        "In a narration of Muslim: “Whoever does a deed that is not in accordance with our affair — it is rejected.”"
+      ]
+    },
+    "6": {
+      "title": { "ar": "الحلال بيّن والحرام بيّن", "en": "The Lawful Is Clear and the Unlawful Is Clear" },
+      "narrator": { "ar": "النعمان بن بشير", "en": "al-Nuʿmān ibn Bashīr" },
+      "takhreej": "bm",
+      "en": [
+        "On the authority of Abū ʿAbdillāh al-Nuʿmān ibn Bashīr (may Allah be pleased with them both), who said: I heard the Messenger of Allah ﷺ say: “The lawful is clear and the unlawful is clear, and between them are doubtful matters which many people do not know.",
+        "So whoever guards against the doubtful matters has protected his religion and his honour.",
+        "And whoever falls into the doubtful matters falls into the unlawful — like the shepherd who grazes around a sanctuary, about to graze within it.",
+        "Indeed, every king has a sanctuary; indeed, the sanctuary of Allah is what He has made unlawful.",
+        "Indeed, in the body there is a morsel of flesh: if it is sound, the whole body is sound, and if it is corrupt, the whole body is corrupt. Indeed, it is the heart.” Reported by al-Bukhārī and Muslim."
+      ]
+    },
+    "7": {
+      "title": { "ar": "الدين النصيحة", "en": "The Religion Is Sincere Counsel" },
+      "narrator": { "ar": "تميم الداري", "en": "Tamīm al-Dārī" },
+      "takhreej": "m",
+      "en": [
+        "On the authority of Abū Ruqayyah Tamīm ibn Aws al-Dārī (may Allah be pleased with him) that the Prophet ﷺ said: “The religion is sincere counsel (naṣīḥah). We said: To whom? He said: To Allah, to His Book, to His Messenger, to the leaders of the Muslims, and to their common people.” Reported by Muslim."
+      ]
+    },
+    "8": {
+      "title": { "ar": "أمرت أن أقاتل الناس", "en": "The Sanctity of a Muslim" },
+      "narrator": { "ar": "عبد الله بن عمر", "en": "ʿAbdullāh ibn ʿUmar" },
+      "takhreej": "bm",
+      "en": [
+        "On the authority of Ibn ʿUmar (may Allah be pleased with them both) that the Messenger of Allah ﷺ said: “I have been commanded to fight the people until they testify that there is no god but Allah and that Muḥammad is the Messenger of Allah, establish the prayer and give the zakāh.",
+        "If they do that, they have protected their blood and their wealth from me — except by the right of Islām — and their reckoning is with Allah the Exalted.” Reported by al-Bukhārī and Muslim."
+      ]
+    },
+    "9": {
+      "title": { "ar": "ما نهيتكم عنه فاجتنبوه", "en": "Avoid What I Have Forbidden" },
+      "narrator": { "ar": "أبو هريرة", "en": "Abū Hurayrah" },
+      "takhreej": "bm",
+      "en": [
+        "On the authority of Abū Hurayrah ʿAbd al-Raḥmān ibn Ṣakhr (may Allah be pleased with him), who said: I heard the Messenger of Allah ﷺ say: “Whatever I have forbidden you, avoid it; and whatever I have commanded you, do of it as much as you are able. For what destroyed those before you was only their excessive questioning and their disagreeing with their prophets.” Reported by al-Bukhārī and Muslim."
+      ]
+    },
+    "10": {
+      "title": { "ar": "إن الله طيب لا يقبل إلا طيبًا", "en": "Allah Is Good and Accepts Only the Good" },
+      "narrator": { "ar": "أبو هريرة", "en": "Abū Hurayrah" },
+      "takhreej": "m",
+      "en": [
+        "On the authority of Abū Hurayrah (may Allah be pleased with him), who said: The Messenger of Allah ﷺ said: “Allah is Good and accepts only what is good. Allah the Exalted has commanded the believers with what He commanded the messengers, for He the Exalted said: ‘O messengers, eat from the good things and do righteous deeds’ [al-Muʾminūn 23:51]; and He the Exalted said: ‘O you who believe, eat from the good things We have provided you’ [al-Baqarah 2:172].",
+        "Then he mentioned a man who travels far, dishevelled and dusty, stretching his hands to the sky: ‘O Lord! O Lord!’ — while his food is unlawful, his drink is unlawful, his clothing is unlawful, and he has been nourished with the unlawful; so how could he be answered?!” Reported by Muslim."
+      ]
+    },
+    "11": {
+      "title": { "ar": "دع ما يريبك", "en": "Leave What Makes You Doubt" },
+      "narrator": { "ar": "الحسن بن علي", "en": "al-Ḥasan ibn ʿAlī" },
+      "takhreej": "tn",
+      "en": [
+        "On the authority of Abū Muḥammad al-Ḥasan ibn ʿAlī ibn Abī Ṭālib — the grandson of the Messenger of Allah ﷺ and his sweet basil — (may Allah be pleased with them both), who said: I memorised from the Messenger of Allah ﷺ: “Leave what makes you doubt for what does not make you doubt.” Reported by al-Tirmidhī and al-Nasāʾī, and al-Tirmidhī said: “A ḥasan ṣaḥīḥ hadith.”"
+      ]
+    },
+    "12": {
+      "title": { "ar": "ترك ما لا يعني", "en": "Leaving What Does Not Concern You" },
+      "narrator": { "ar": "أبو هريرة", "en": "Abū Hurayrah" },
+      "takhreej": "tg",
+      "en": [
+        "On the authority of Abū Hurayrah (may Allah be pleased with him), who said: The Messenger of Allah ﷺ said: “Part of the excellence of a person’s Islām is his leaving what does not concern him.” A ḥasan hadith, reported by al-Tirmidhī and others."
+      ]
+    },
+    "13": {
+      "title": { "ar": "يحب لأخيه ما يحب لنفسه", "en": "Love for Your Brother What You Love for Yourself" },
+      "narrator": { "ar": "أنس بن مالك", "en": "Anas ibn Mālik" },
+      "takhreej": "bm",
+      "en": [
+        "On the authority of Abū Ḥamzah Anas ibn Mālik (may Allah be pleased with him) — the servant of the Messenger of Allah ﷺ — that the Prophet ﷺ said: “None of you truly believes until he loves for his brother what he loves for himself.” Reported by al-Bukhārī and Muslim."
+      ]
+    },
+    "14": {
+      "title": { "ar": "حرمة دم المسلم", "en": "The Sanctity of a Muslim’s Blood" },
+      "narrator": { "ar": "عبد الله بن مسعود", "en": "ʿAbdullāh ibn Masʿūd" },
+      "takhreej": "bm",
+      "en": [
+        "On the authority of Ibn Masʿūd (may Allah be pleased with him), who said: The Messenger of Allah ﷺ said: “The blood of a Muslim person is not lawful except in one of three cases: the married adulterer, a life for a life, and the one who abandons his religion and separates from the community.” Reported by al-Bukhārī and Muslim."
+      ]
+    },
+    "15": {
+      "title": { "ar": "فليقل خيرًا أو ليصمت", "en": "Speak Good or Remain Silent" },
+      "narrator": { "ar": "أبو هريرة", "en": "Abū Hurayrah" },
+      "takhreej": "bm",
+      "en": [
+        "On the authority of Abū Hurayrah (may Allah be pleased with him) that the Messenger of Allah ﷺ said: “Whoever believes in Allah and the Last Day, let him speak good or remain silent.",
+        "Whoever believes in Allah and the Last Day, let him honour his neighbour.",
+        "Whoever believes in Allah and the Last Day, let him honour his guest.” Reported by al-Bukhārī and Muslim."
+      ]
+    },
+    "16": {
+      "title": { "ar": "لا تغضب", "en": "Do Not Become Angry" },
+      "narrator": { "ar": "أبو هريرة", "en": "Abū Hurayrah" },
+      "takhreej": "b",
+      "en": [
+        "On the authority of Abū Hurayrah (may Allah be pleased with him): “A man said to the Prophet ﷺ: Advise me. He said: Do not become angry. The man repeated it several times, and he said: Do not become angry.” Reported by al-Bukhārī."
+      ]
+    },
+    "17": {
+      "title": { "ar": "الإحسان في كل شيء", "en": "Excellence in Everything" },
+      "narrator": { "ar": "شداد بن أوس", "en": "Shaddād ibn Aws" },
+      "takhreej": "m",
+      "en": [
+        "On the authority of Abū Yaʿlā Shaddād ibn Aws (may Allah be pleased with him) that the Messenger of Allah ﷺ said: “Allah has prescribed excellence (iḥsān) in all things. So when you kill, kill well; and when you slaughter, slaughter well. Let each of you sharpen his blade and spare his animal suffering.” Reported by Muslim."
+      ]
+    },
+    "18": {
+      "title": { "ar": "اتق الله حيثما كنت", "en": "Fear Allah Wherever You Are" },
+      "narrator": { "ar": "أبو ذر ومعاذ بن جبل", "en": "Abū Dharr & Muʿādh ibn Jabal" },
+      "takhreej": "t",
+      "en": [
+        "On the authority of Abū Dharr Jundub ibn Junādah and Abū ʿAbd al-Raḥmān Muʿādh ibn Jabal (may Allah be pleased with them both) that the Messenger of Allah ﷺ said: “Fear Allah wherever you are; follow a bad deed with a good deed and it will wipe it out; and treat people with good character.” Reported by al-Tirmidhī, who said: “A ḥasan hadith,” and in some copies: “ḥasan ṣaḥīḥ.”"
+      ]
+    },
+    "19": {
+      "title": { "ar": "احفظ الله يحفظك", "en": "Be Mindful of Allah and He Will Protect You" },
+      "narrator": { "ar": "عبد الله بن عباس", "en": "ʿAbdullāh ibn ʿAbbās" },
+      "takhreej": "t",
+      "en": [
+        "On the authority of Abū al-ʿAbbās ʿAbdullāh ibn ʿAbbās (may Allah be pleased with them both), who said: I was behind the Prophet ﷺ one day and he said: “O young man, I will teach you some words: Be mindful of Allah and He will protect you. Be mindful of Allah and you will find Him before you.",
+        "When you ask, ask Allah; and when you seek help, seek help from Allah.",
+        "And know that if the nation were to gather together to benefit you with something, they would not benefit you except with something Allah had already written for you.",
+        "And if they gathered together to harm you with something, they would not harm you except with something Allah had already written against you. The pens have been lifted and the pages have dried.” Reported by al-Tirmidhī, who said: “A ḥasan ṣaḥīḥ hadith.”",
+        "In a narration other than al-Tirmidhī’s: “Be mindful of Allah and you will find Him in front of you. Get to know Allah in times of ease and He will know you in times of hardship.",
+        "And know that what missed you was never going to befall you, and what befell you was never going to miss you.",
+        "And know that victory comes with patience, relief comes with affliction, and with hardship comes ease.”"
+      ]
+    },
+    "20": {
+      "title": { "ar": "الحياء", "en": "Modesty (Ḥayāʾ)" },
+      "narrator": { "ar": "أبو مسعود البدري", "en": "Abū Masʿūd al-Badrī" },
+      "takhreej": "b",
+      "en": [
+        "On the authority of Abū Masʿūd ʿUqbah ibn ʿAmr al-Anṣārī al-Badrī (may Allah be pleased with him), who said: The Messenger of Allah ﷺ said: “Among the words people have received from the earliest prophecy is: If you feel no shame, then do as you wish.” Reported by al-Bukhārī."
+      ]
+    },
+    "21": {
+      "title": { "ar": "قل آمنت بالله ثم استقم", "en": "Say: I Believe in Allah — Then Be Steadfast" },
+      "narrator": { "ar": "سفيان بن عبد الله", "en": "Sufyān ibn ʿAbdillāh" },
+      "takhreej": "m",
+      "en": [
+        "On the authority of Abū ʿAmr — and it is said Abū ʿAmrah — Sufyān ibn ʿAbdillāh (may Allah be pleased with him), who said: “I said: O Messenger of Allah, tell me something about Islām which I will not need to ask anyone about but you. He said: Say: I believe in Allah — then be steadfast.” Reported by Muslim."
+      ]
+    },
+    "22": {
+      "title": { "ar": "الاقتصار على الفرائض", "en": "Will I Enter Paradise?" },
+      "narrator": { "ar": "جابر بن عبد الله", "en": "Jābir ibn ʿAbdillāh" },
+      "takhreej": "m",
+      "en": [
+        "On the authority of Abū ʿAbdillāh Jābir ibn ʿAbdillāh al-Anṣārī (may Allah be pleased with them both): “A man asked the Messenger of Allah ﷺ, saying: Do you think that if I pray the obligatory prayers, fast Ramaḍān, treat the lawful as lawful and the unlawful as unlawful, and add nothing to that — will I enter Paradise? He said: Yes.” Reported by Muslim.",
+        "The meaning of “I treat the unlawful as unlawful” is: I avoid it.",
+        "The meaning of “I treat the lawful as lawful” is: I do it believing it to be lawful."
+      ]
+    },
+    "23": {
+      "title": { "ar": "الطهور شطر الإيمان", "en": "Purity Is Half of Faith" },
+      "narrator": { "ar": "أبو مالك الأشعري", "en": "Abū Mālik al-Ashʿarī" },
+      "takhreej": "m",
+      "en": [
+        "On the authority of Abū Mālik al-Ḥārith ibn ʿĀṣim al-Ashʿarī (may Allah be pleased with him), who said: The Messenger of Allah ﷺ said: “Purity is half of faith.",
+        "And al-ḥamdu lillāh (praise be to Allah) fills the Scale.",
+        "And subḥān Allāh wa-l-ḥamdu lillāh (glory be to Allah, and praise be to Allah) fill — or: fills — what is between the heavens and the earth.",
+        "Prayer is light, charity is proof, and patience is radiance.",
+        "And the Qurʾān is a proof for you or against you.",
+        "Every person goes out in the morning and sells his soul — either freeing it or ruining it.” Reported by Muslim."
+      ]
+    },
+    "24": {
+      "title": { "ar": "تحريم الظلم", "en": "The Prohibition of Injustice" },
+      "narrator": { "ar": "أبو ذر الغفاري", "en": "Abū Dharr al-Ghifārī" },
+      "takhreej": "m",
+      "en": [
+        "On the authority of Abū Dharr (may Allah be pleased with him), from the Prophet ﷺ, in what he related from Allah, the Mighty and Majestic, that He said: “O My servants, I have forbidden injustice for Myself and have made it forbidden among you, so do not wrong one another.",
+        "O My servants, all of you are astray except those whom I have guided, so seek guidance from Me and I will guide you.",
+        "O My servants, all of you are hungry except those whom I have fed, so seek food from Me and I will feed you.",
+        "O My servants, all of you are naked except those whom I have clothed, so seek clothing from Me and I will clothe you.",
+        "O My servants, you err by night and by day, and I forgive all sins, so seek forgiveness from Me and I will forgive you.",
+        "O My servants, you will never be able to harm Me so as to harm Me, nor be able to benefit Me so as to benefit Me.",
+        "O My servants, if the first of you and the last of you, your humans and your jinn, were all as pious as the most pious heart of any one man among you, that would not add anything to My dominion.",
+        "O My servants, if the first of you and the last of you, your humans and your jinn, were all as wicked as the most wicked heart of any one man, that would not decrease anything from My dominion.",
+        "O My servants, if the first of you and the last of you, your humans and your jinn, were all to stand on one plain and ask of Me, and I gave every person what he asked, that would not decrease what I have except as a needle decreases the sea when dipped into it.",
+        "O My servants, it is only your deeds that I record for you and then repay you for. So whoever finds good, let him praise Allah; and whoever finds otherwise, let him blame no one but himself.” Reported by Muslim."
+      ]
+    },
+    "25": {
+      "title": { "ar": "ذهب أهل الدثور بالأجور", "en": "The Wealthy Have Taken the Rewards" },
+      "narrator": { "ar": "أبو ذر الغفاري", "en": "Abū Dharr al-Ghifārī" },
+      "takhreej": "m",
+      "en": [
+        "Also on the authority of Abū Dharr (may Allah be pleased with him): “Some of the Companions of the Messenger of Allah ﷺ said to the Prophet ﷺ: O Messenger of Allah, the people of wealth have taken the rewards! They pray as we pray, they fast as we fast, and they give charity from their surplus wealth.",
+        "He said: Has Allah not given you things with which to give charity?!",
+        "Every tasbīḥah is charity, every takbīrah is charity, every taḥmīdah is charity, and every tahlīlah is charity.",
+        "Enjoining good is charity, and forbidding evil is charity.",
+        "And in the intimacy of one of you there is charity. They said: O Messenger of Allah, does one of us fulfil his desire and receive a reward for it?!",
+        "He said: Do you not see that if he fulfilled it unlawfully he would bear a sin? Likewise, if he fulfils it lawfully, he has a reward.” Reported by Muslim."
+      ]
+    },
+    "26": {
+      "title": { "ar": "كل سلامى عليه صدقة", "en": "Charity Is Due on Every Joint" },
+      "narrator": { "ar": "أبو هريرة", "en": "Abū Hurayrah" },
+      "takhreej": "bm",
+      "en": [
+        "On the authority of Abū Hurayrah (may Allah be pleased with him), who said: The Messenger of Allah ﷺ said: “Charity is due on every joint of people, on every day on which the sun rises:",
+        "Judging justly between two people is charity.",
+        "Helping a man with his mount — lifting him onto it or lifting his goods onto it — is charity.",
+        "A good word is charity.",
+        "Every step you take towards the prayer is charity.",
+        "And removing harm from the road is charity.” Reported by al-Bukhārī and Muslim."
+      ]
+    },
+    "27": {
+      "title": { "ar": "البر حسن الخلق", "en": "Righteousness Is Good Character" },
+      "narrator": { "ar": "النواس بن سمعان ووابصة بن معبد", "en": "al-Nawwās ibn Samʿān & Wābiṣah ibn Maʿbad" },
+      "takhreej": "mad",
+      "en": [
+        "On the authority of al-Nawwās ibn Samʿān (may Allah be pleased with him) that the Prophet ﷺ said: “Righteousness is good character, and sin is what wavers in your soul and you dislike people coming to know of it.” Reported by Muslim.",
+        "And on the authority of Wābiṣah ibn Maʿbad (may Allah be pleased with him), who said: “I came to the Messenger of Allah ﷺ and he said: You have come to ask about righteousness and sin? I said: Yes. He said: Consult your heart. Righteousness is that with which the soul is at ease and the heart is at ease; and sin is what wavers in the soul and moves to and fro in the chest — even if people give you a ruling, and give you rulings again.” A ḥasan hadith, which we have narrated in the Musnads of the two imams Aḥmad ibn Ḥanbal and al-Dārimī with a ḥasan chain."
+      ]
+    },
+    "28": {
+      "title": { "ar": "الوصية بالسنة", "en": "Hold Fast to My Sunnah" },
+      "narrator": { "ar": "العرباض بن سارية", "en": "al-ʿIrbāḍ ibn Sāriyah" },
+      "takhreej": "ad",
+      "en": [
+        "On the authority of Abū Najīḥ al-ʿIrbāḍ ibn Sāriyah (may Allah be pleased with him), who said: “The Messenger of Allah ﷺ admonished us with an admonition that made the hearts tremble and the eyes shed tears. We said: O Messenger of Allah, it is as though it were a farewell admonition, so advise us.",
+        "He said: I advise you to fear Allah, and to listen and obey, even if a slave is put in command over you. Whoever of you lives after me will see much disagreement; so hold to my Sunnah and the Sunnah of the rightly guided, guiding caliphs — bite onto it with your molar teeth. And beware of newly invented matters, for every innovation is misguidance.” Reported by Abū Dāwūd and al-Tirmidhī, who said: “A ḥasan ṣaḥīḥ hadith.”"
+      ]
+    },
+    "29": {
+      "title": { "ar": "أبواب الخير", "en": "The Gates of Good" },
+      "narrator": { "ar": "معاذ بن جبل", "en": "Muʿādh ibn Jabal" },
+      "takhreej": "t",
+      "en": [
+        "On the authority of Muʿādh ibn Jabal (may Allah be pleased with him), who said: “I said: O Messenger of Allah, tell me of a deed that will admit me into Paradise and keep me far from the Fire. He said: You have asked about something great — yet it is easy for the one for whom Allah makes it easy: worship Allah without associating anything with Him, establish the prayer, give the zakāh, fast Ramaḍān, and make pilgrimage to the House.",
+        "Then he said: Shall I not guide you to the gates of good? Fasting is a shield; charity extinguishes sin as water extinguishes fire; and a man’s prayer in the depth of the night. Then he recited: ‘Their sides forsake their beds…’ until he reached ‘…what they used to do’ [al-Sajdah 32:16–17].",
+        "Then he said: Shall I not tell you of the head of the matter, its pillar, and its highest peak? I said: Yes indeed, O Messenger of Allah.",
+        "He said: The head of the matter is Islām, its pillar is the prayer, and its highest peak is jihād.",
+        "Then he said: Shall I not tell you of what holds all of that together? I said: Yes indeed, O Messenger of Allah. So he took hold of his tongue and said: Restrain this.",
+        "I said: O Prophet of Allah, will we really be taken to account for what we say?! He said: May your mother be bereft of you! Is there anything that topples people into the Fire on their faces — or he said: on their noses — other than the harvests of their tongues?!” Reported by al-Tirmidhī, who said: “A ḥasan ṣaḥīḥ hadith.”"
+      ]
+    },
+    "30": {
+      "title": { "ar": "حدود الله", "en": "The Limits Set by Allah" },
+      "narrator": { "ar": "أبو ثعلبة الخشني", "en": "Abū Thaʿlabah al-Khushanī" },
+      "takhreej": "dq",
+      "en": [
+        "On the authority of Abū Thaʿlabah al-Khushanī — Jurthūm ibn Nāshir — (may Allah be pleased with him) that the Messenger of Allah ﷺ said: “Allah has laid down obligations, so do not neglect them; He has set limits, so do not transgress them; He has forbidden things, so do not violate them; and He has remained silent about things — as a mercy to you, not out of forgetfulness — so do not search into them.” A ḥasan hadith, reported by al-Dāraquṭnī and others."
+      ]
+    },
+    "31": {
+      "title": { "ar": "الزهد", "en": "Renunciation (Zuhd)" },
+      "narrator": { "ar": "سهل بن سعد الساعدي", "en": "Sahl ibn Saʿd al-Sāʿidī" },
+      "takhreej": "ij",
+      "en": [
+        "On the authority of Abū al-ʿAbbās Sahl ibn Saʿd al-Sāʿidī (may Allah be pleased with him), who said: “A man came to the Prophet ﷺ and said: O Messenger of Allah, direct me to a deed which, if I do it, Allah will love me and people will love me. He said: Renounce the world and Allah will love you; and renounce what people possess and people will love you.” A ḥasan hadith, reported by Ibn Mājah and others with ḥasan chains."
+      ]
+    },
+    "32": {
+      "title": { "ar": "لا ضرر ولا ضرار", "en": "No Harm and No Reciprocal Harm" },
+      "narrator": { "ar": "أبو سعيد الخدري", "en": "Abū Saʿīd al-Khudrī" },
+      "takhreej": "ijdq",
+      "en": [
+        "On the authority of Abū Saʿīd Saʿd ibn Mālik ibn Sinān al-Khudrī (may Allah be pleased with him) that the Messenger of Allah ﷺ said: “There is to be no harm and no reciprocating harm.” A ḥasan hadith, reported by Ibn Mājah, al-Dāraquṭnī and others with a connected chain (musnad).",
+        "Mālik reported it in al-Muwaṭṭaʾ — from ʿAmr ibn Yaḥyā, from his father, from the Prophet ﷺ — as mursal, omitting Abū Saʿīd.",
+        "It has routes of transmission that strengthen one another."
+      ]
+    },
+    "33": {
+      "title": { "ar": "البينة على المدعي", "en": "The Burden of Proof" },
+      "narrator": { "ar": "عبد الله بن عباس", "en": "ʿAbdullāh ibn ʿAbbās" },
+      "takhreej": "bh",
+      "en": [
+        "On the authority of Ibn ʿAbbās (may Allah be pleased with them both) that the Messenger of Allah ﷺ said: “If people were given according to their claims, men would claim the wealth and blood of others. But the burden of proof is on the claimant, and the oath is on the one who denies.” A ḥasan hadith, reported by al-Bayhaqī and others in this form, and part of it is in the two Ṣaḥīḥs."
+      ]
+    },
+    "34": {
+      "title": { "ar": "تغيير المنكر", "en": "Changing Evil" },
+      "narrator": { "ar": "أبو سعيد الخدري", "en": "Abū Saʿīd al-Khudrī" },
+      "takhreej": "m",
+      "en": [
+        "On the authority of Abū Saʿīd al-Khudrī (may Allah be pleased with him), who said: I heard the Messenger of Allah ﷺ say: “Whoever among you sees an evil, let him change it with his hand; if he is unable, then with his tongue; and if he is unable, then with his heart — and that is the weakest of faith.” Reported by Muslim."
+      ]
+    },
+    "35": {
+      "title": { "ar": "أخوة الإسلام", "en": "The Brotherhood of Islām" },
+      "narrator": { "ar": "أبو هريرة", "en": "Abū Hurayrah" },
+      "takhreej": "m",
+      "en": [
+        "On the authority of Abū Hurayrah (may Allah be pleased with him), who said: The Messenger of Allah ﷺ said: “Do not envy one another; do not inflate prices against one another; do not hate one another; do not turn your backs on one another; and do not undercut one another’s sales. Be, O servants of Allah, brothers.",
+        "A Muslim is the brother of a Muslim: he does not wrong him, nor forsake him, nor look down on him. Taqwā is here — and he pointed to his chest three times.",
+        "It is evil enough for a person to look down on his Muslim brother.",
+        "All of a Muslim is inviolable to another Muslim: his blood, his wealth and his honour.” Reported by Muslim."
+      ]
+    },
+    "36": {
+      "title": { "ar": "تفريج الكربات", "en": "Relieving Hardships" },
+      "narrator": { "ar": "أبو هريرة", "en": "Abū Hurayrah" },
+      "takhreej": "m",
+      "en": [
+        "On the authority of Abū Hurayrah (may Allah be pleased with him) that the Prophet ﷺ said: “Whoever relieves a believer of one of the hardships of this world, Allah will relieve him of one of the hardships of the Day of Resurrection.",
+        "Whoever eases things for one in difficulty, Allah will ease things for him in this world and the Hereafter.",
+        "Whoever covers a Muslim, Allah will cover him in this world and the Hereafter.",
+        "Allah is in the aid of the servant as long as the servant is in the aid of his brother.",
+        "Whoever treads a path seeking knowledge, Allah will make easy for him, through it, a path to Paradise.",
+        "No people gather in one of the houses of Allah, reciting the Book of Allah and studying it among themselves, except that tranquillity descends upon them, mercy covers them, the angels surround them, and Allah mentions them among those with Him.",
+        "And whoever is held back by his deeds will not be hastened forward by his lineage.” Reported by Muslim with this wording."
+      ]
+    },
+    "37": {
+      "title": { "ar": "كتابة الحسنات والسيئات", "en": "The Recording of Good and Bad Deeds" },
+      "narrator": { "ar": "عبد الله بن عباس", "en": "ʿAbdullāh ibn ʿAbbās" },
+      "takhreej": "bm",
+      "en": [
+        "On the authority of Ibn ʿAbbās (may Allah be pleased with him), from the Messenger of Allah ﷺ — in what he relates from his Lord, Blessed and Exalted — that he said: “Allah has written the good deeds and the bad deeds, then He made that clear: whoever intends a good deed but does not do it, Allah writes it down with Him as one complete good deed.",
+        "And if he intends it and does it, Allah writes it down with Him as ten good deeds, up to seven hundred times, up to many times more.",
+        "And if he intends a bad deed but does not do it, Allah writes it down with Him as one complete good deed.",
+        "And if he intends it and does it, Allah writes it down as one single bad deed.” Reported by al-Bukhārī and Muslim in their two Ṣaḥīḥs with these very words."
+      ]
+    },
+    "38": {
+      "title": { "ar": "من عادى لي وليًّا", "en": "Whoever Shows Enmity to My Ally" },
+      "narrator": { "ar": "أبو هريرة", "en": "Abū Hurayrah" },
+      "takhreej": "b",
+      "en": [
+        "On the authority of Abū Hurayrah (may Allah be pleased with him), who said: The Messenger of Allah ﷺ said: “Allah the Exalted said: Whoever shows enmity to an ally (walī) of Mine, I have declared war on him. My servant does not draw near to Me with anything more beloved to Me than what I have made obligatory upon him.",
+        "And My servant keeps drawing near to Me with voluntary deeds until I love him. When I love him, I am his hearing with which he hears, his sight with which he sees, his hand with which he strikes, and his foot with which he walks. If he asks Me, I will surely give him; and if he seeks My refuge, I will surely grant him refuge.” Reported by al-Bukhārī."
+      ]
+    },
+    "39": {
+      "title": { "ar": "رفع الحرج", "en": "Pardon for Mistakes, Forgetfulness and Coercion" },
+      "narrator": { "ar": "عبد الله بن عباس", "en": "ʿAbdullāh ibn ʿAbbās" },
+      "takhreej": "ijbh",
+      "en": [
+        "On the authority of Ibn ʿAbbās (may Allah be pleased with him) that the Messenger of Allah ﷺ said: “Allah has pardoned for me my nation’s mistakes and forgetfulness, and what they are coerced into.” A ḥasan hadith, reported by Ibn Mājah, al-Bayhaqī and others."
+      ]
+    },
+    "40": {
+      "title": { "ar": "كن في الدنيا كأنك غريب", "en": "Be in This World as a Stranger" },
+      "narrator": { "ar": "عبد الله بن عمر", "en": "ʿAbdullāh ibn ʿUmar" },
+      "takhreej": "b",
+      "en": [
+        "On the authority of Ibn ʿUmar (may Allah be pleased with them both), who said: “The Messenger of Allah ﷺ took hold of my shoulder and said: Be in this world as though you were a stranger, or a traveller passing through.",
+        "And Ibn ʿUmar used to say: When evening comes, do not wait for the morning; and when morning comes, do not wait for the evening. Take from your health for your sickness, and from your life for your death.” Reported by al-Bukhārī."
+      ]
+    },
+    "41": {
+      "title": { "ar": "اتباع الهوى للشرع", "en": "Desires Following the Revelation" },
+      "narrator": { "ar": "عبد الله بن عمرو بن العاص", "en": "ʿAbdullāh ibn ʿAmr ibn al-ʿĀṣ" },
+      "takhreej": "hujjah",
+      "en": [
+        "On the authority of Abū Muḥammad ʿAbdullāh ibn ʿAmr ibn al-ʿĀṣ (may Allah be pleased with them both), who said: The Messenger of Allah ﷺ said: “None of you truly believes until his desires follow what I have brought.” An authentic (ṣaḥīḥ) hadith, which we have narrated in the book al-Ḥujjah with an authentic chain."
+      ]
+    },
+    "42": {
+      "title": { "ar": "سعة مغفرة الله", "en": "The Vastness of Allah’s Forgiveness" },
+      "narrator": { "ar": "أنس بن مالك", "en": "Anas ibn Mālik" },
+      "takhreej": "t",
+      "en": [
+        "On the authority of Anas (may Allah be pleased with him), who said: I heard the Messenger of Allah ﷺ say: “Allah the Exalted said: O son of Ādam, so long as you call upon Me and hope in Me, I will forgive you whatever you have done, and I do not mind.",
+        "O son of Ādam, were your sins to reach the clouds of the sky and you then asked My forgiveness, I would forgive you.",
+        "O son of Ādam, were you to come to Me with nearly an earthful of sins and then meet Me without associating anything with Me, I would come to you with nearly an earthful of forgiveness.” Reported by al-Tirmidhī, who said: “A ḥasan hadith.”"
+      ]
+    },
+    "43": {
+      "title": { "ar": "ألحقوا الفرائض بأهلها", "en": "Give the Inheritance Shares to Their Owners" },
+      "narrator": { "ar": "عبد الله بن عباس", "en": "ʿAbdullāh ibn ʿAbbās" },
+      "takhreej": "bm",
+      "en": [
+        "On the authority of Ibn ʿAbbās (may Allah be pleased with them both), who said: The Messenger of Allah ﷺ said: “Give the fixed shares (farāʾiḍ) to those entitled to them; and whatever the fixed shares leave over goes to the nearest male relative.” Reported by al-Bukhārī and Muslim."
+      ]
+    },
+    "44": {
+      "title": { "ar": "الرضاعة تحرم ما تحرم الولادة", "en": "Nursing Prohibits What Birth Prohibits" },
+      "narrator": { "ar": "عائشة أم المؤمنين", "en": "ʿĀʾishah, Mother of the Believers" },
+      "takhreej": "bm",
+      "en": [
+        "On the authority of ʿĀʾishah (may Allah be pleased with her) that the Prophet ﷺ said: “Nursing makes unlawful what birth makes unlawful.” Reported by al-Bukhārī and Muslim."
+      ]
+    },
+    "45": {
+      "title": { "ar": "تحريم بيع الخمر والميتة", "en": "Forbidden Sales" },
+      "narrator": { "ar": "جابر بن عبد الله", "en": "Jābir ibn ʿAbdillāh" },
+      "takhreej": "bm",
+      "en": [
+        "On the authority of Jābir (may Allah be pleased with him) that he heard the Prophet ﷺ say, in the year of the Conquest while he was in Makkah: “Allah and His Messenger have forbidden the sale of wine, carrion, swine and idols.",
+        "It was said: O Messenger of Allah, what about the fat of carrion? Ships are coated with it, hides are oiled with it, and people light their lamps with it. He said: No; it is unlawful.",
+        "Then the Messenger of Allah ﷺ said at that point: May Allah fight the Jews! Allah forbade them the fat, so they melted it down, then sold it and consumed its price.” Reported by al-Bukhārī and Muslim."
+      ]
+    },
+    "46": {
+      "title": { "ar": "كل مسكر حرام", "en": "Every Intoxicant Is Unlawful" },
+      "narrator": { "ar": "أبو موسى الأشعري", "en": "Abū Mūsā al-Ashʿarī" },
+      "takhreej": "bm",
+      "en": [
+        "On the authority of Abū Burdah, from his father — Abū Mūsā al-Ashʿarī — (may Allah be pleased with him): “The Prophet ﷺ sent him to Yemen, and he asked him about drinks that are made there. He said: What are they? He said: al-bitʿ and al-mizr.",
+        "— Abū Burdah was asked: What is al-bitʿ? He said: Nabīdh of honey; and al-mizr is nabīdh of barley. —",
+        "So he said: Every intoxicant is unlawful.” Reported by al-Bukhārī.",
+        "Muslim reported it, and his wording is: “He said: The Messenger of Allah ﷺ sent me and Muʿādh to Yemen. I said: O Messenger of Allah, a drink is made in our land called al-mizr, from barley, and a drink called al-bitʿ, from honey. He said: Every intoxicant is unlawful.”",
+        "In a narration of Muslim: “He said: Everything that intoxicates so as to keep one from the prayer is unlawful.”",
+        "And in another narration of his: “The Messenger of Allah ﷺ had been given concise, comprehensive speech with its conclusive endings, and he said: I forbid every intoxicant that keeps one from the prayer.”"
+      ]
+    },
+    "47": {
+      "title": { "ar": "ما ملأ آدمي وعاء شرًّا من بطن", "en": "Moderation in Eating" },
+      "narrator": { "ar": "المقدام بن معدي كرب", "en": "al-Miqdām ibn Maʿdīkarib" },
+      "takhreej": "a4",
+      "en": [
+        "On the authority of al-Miqdām ibn Maʿdīkarib (may Allah be pleased with him), who said: I heard the Messenger of Allah ﷺ say: “A human being fills no vessel worse than his stomach. A few morsels are enough for the son of Ādam to keep his back upright. If it must be more, then a third for his food, a third for his drink, and a third for his breath.” Reported by Imam Aḥmad, al-Tirmidhī, al-Nasāʾī and Ibn Mājah, and al-Tirmidhī said: “Ḥasan.”"
+      ]
+    },
+    "48": {
+      "title": { "ar": "خصال النفاق", "en": "The Traits of Hypocrisy" },
+      "narrator": { "ar": "عبد الله بن عمرو بن العاص", "en": "ʿAbdullāh ibn ʿAmr ibn al-ʿĀṣ" },
+      "takhreej": "bm",
+      "en": [
+        "On the authority of ʿAbdullāh ibn ʿAmr (may Allah be pleased with them both) that the Prophet ﷺ said: “Four traits — whoever has them is a hypocrite; and whoever has one of them has a trait of hypocrisy until he gives it up: when he speaks he lies, when he promises he breaks it, when he disputes he transgresses, and when he makes a pact he betrays it.” Reported by al-Bukhārī and Muslim."
+      ]
+    },
+    "49": {
+      "title": { "ar": "التوكل على الله", "en": "True Reliance upon Allah" },
+      "narrator": { "ar": "عمر بن الخطاب", "en": "ʿUmar ibn al-Khaṭṭāb" },
+      "takhreej": "a4hh",
+      "en": [
+        "On the authority of ʿUmar ibn al-Khaṭṭāb (may Allah be pleased with him) that the Prophet ﷺ said: “If you were to rely upon Allah as He truly should be relied upon, He would provide for you as He provides for the birds: they go out in the morning hungry and return in the evening full.” Reported by Imam Aḥmad, al-Tirmidhī, al-Nasāʾī, Ibn Mājah, Ibn Ḥibbān in his Ṣaḥīḥ, and al-Ḥākim; and al-Tirmidhī said: “Ḥasan ṣaḥīḥ.”"
+      ]
+    },
+    "50": {
+      "title": { "ar": "فضل ذكر الله", "en": "Keep Your Tongue Moist with Remembrance" },
+      "narrator": { "ar": "عبد الله بن بسر", "en": "ʿAbdullāh ibn Busr" },
+      "takhreej": "atih",
+      "en": [
+        "On the authority of ʿAbdullāh ibn Busr (may Allah be pleased with him), who said: “A man came to the Prophet ﷺ and said: O Messenger of Allah, the laws of Islām have become too many for us, so is there a comprehensive door we can hold fast to? He said: Let your tongue never cease to be moist with the remembrance of Allah, the Mighty and Majestic.” Reported by Imam Aḥmad with this wording.",
+        "Al-Tirmidhī, Ibn Mājah and Ibn Ḥibbān (in his Ṣaḥīḥ) reported it with its meaning, and al-Tirmidhī said: “Ḥasan gharīb.”",
+        "All of them reported it through ʿAmr ibn Qays al-Kindī, from ʿAbdullāh ibn Busr (may Allah be pleased with him).",
+        "Ibn Ḥibbān (in his Ṣaḥīḥ) and others reported it from the hadith of Muʿādh ibn Jabal (may Allah be pleased with him), who said: “The last thing upon which I parted from the Messenger of Allah ﷺ was that I said to him: Which deeds are best and closest to Allah? He said: That you die while your tongue is moist with the remembrance of Allah, the Mighty and Majestic.”"
+      ]
+    }
+  }
+}
