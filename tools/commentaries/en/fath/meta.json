@@ -1,0 +1,60 @@
+{
+ "book": {
+  "short_title": {
+   "ar": "فتح القوي المتين",
+   "en": "Fatḥ al-Qawī al-Matīn"
+  },
+  "title": {
+   "ar": "فتح القوي المتين في شرح الأربعين وتتمة الخمسين للنووي وابن رجب رحمهما الله",
+   "en": "Fatḥ al-Qawī al-Matīn: A Commentary on the Forty and the Completion of the Fifty by al-Nawawī and Ibn Rajab"
+  },
+  "author": {
+   "ar": "عبد المحسن بن حمد بن عبد المحسن بن عبد الله بن حمد العباد البدر",
+   "en": "ʿAbd al-Muḥsin ibn Ḥamad ibn ʿAbd al-Muḥsin ibn ʿAbdillāh ibn Ḥamad al-ʿAbbād al-Badr"
+  },
+  "category": {
+   "ar": "شروح الحديث",
+   "en": "Hadith commentaries"
+  },
+  "publisher": {
+   "ar": "دار ابن القيم، الدمام المملكة العربية السعودية",
+   "en": "Dār Ibn al-Qayyim, Dammam, Saudi Arabia"
+  },
+  "edition": {
+   "ar": "الأولى، 1424هـ/2003م",
+   "en": "First edition, 1424 AH / 2003 CE"
+  },
+  "printed_page_count": 155,
+  "source": {
+   "platform": "al-Maktabah al-Shāmilah",
+   "shamela_publication_date": {
+    "ar": "8 ذو الحجة 1431",
+    "en": "8 Dhū al-Ḥijjah 1431 AH"
+   },
+   "filename": "فتح القوي المتين في شرح الأربعين وتتمة الخمسين للنووي وابن رجب رحمهما الله.htm",
+   "title_card_ar": "فتح القوي المتين في شرح الأربعين وتتمة الخمسين للنووي وابن رجب رحمهما الله (عبد المحسن العباد)القسم: شروح الحديثالكتاب: فتح القوي المتين في شرح الأربعين وتتمة الخمسين للنووي وابن رجب رحمهما اللهالمؤلف: عبد المحسن بن حمد بن عبد المحسن بن عبد الله بن حمد العباد البدرالناشر: دار ابن القيم، الدمام المملكة العربية السعوديةالطبعة: الأولى، 1424هـ/2003معدد الصفحات: 155[ترقيم الكتاب موافق للمطبوع]تاريخ النشر بالشاملة: 8 ذو الحجة 1431",
+   "page_numbering": "Page numbers are those of the printed edition, as given in the Shamela export."
+  }
+ },
+ "translation": {
+  "status": "complete",
+  "language": "en-GB",
+  "revised": "2026-11-25",
+  "method": "Fresh English translation made directly from the Arabic of the Shamela export, segment by segment, after reviewing the earlier draft translation; not abridged. Translated with Claude (AI) and not yet reviewed by a scholar.",
+  "conventions": [
+   "Every Arabic paragraph is split into segments of a sentence or short clause; each segment carries its own English. Reading the segments in order gives continuous text in either language, and pairing them gives an interlinear view.",
+   "The Arabic is unchanged from the Shamela export apart from removing markup, running headers and invisible characters, normalising whitespace, and moving printed list numbers into the number/printed_number fields. Joining a prose paragraph's segments with single spaces reproduces its text; in a verse paragraph each segment is one line of poetry.",
+   "Evident misprints that affect the meaning are translated in their intended reading and recorded in a block's notes array; the Arabic itself is not corrected.",
+   "Square brackets in the English mark words supplied for clarity and Qurʾān references (Sūrah chapter:verse).",
+   "ﷺ renders صلى الله عليه وسلم; longer formulas (…وآله وسلم, رضي الله عنه/عنها/عنهما, رحمه الله, عز وجل, تعالى) are translated in full.",
+   "Names and technical terms use full transliteration (ʿUmar ibn al-Khaṭṭāb, al-Bukhārī, īmān, iḥsān, Qurʾān, Sharīʿah); British spelling.",
+   "Poetry: one segment per verse, with hemistichs separated by “ / ” to mirror the Arabic “…”. Verse is rendered for meaning, not metre.",
+   "The authors' doctrinal, legal and historical positions and their hadith gradings are translated as theirs, without comment or softening. This is not an official or scholar-reviewed translation."
+  ],
+  "notes": [
+   "Each chapter has the hadith, numbered commentary paragraphs (number = the author's paragraph number) and a list of lessons. The author prints the lessons heading as the chapter's last numbered paragraph; that number is kept in the benefits section's number field.",
+   "In hadith 29 the quoted verse (al-Sajdah 32:17) is printed ending يعلمون; the Qurʾānic text is يعملون. The Arabic is left as printed and a note is attached.",
+   "The Shamela title card that opens the export is kept in book.source.title_card_ar rather than repeated as front matter."
+  ]
+ }
+}

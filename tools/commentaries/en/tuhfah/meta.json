@@ -1,0 +1,63 @@
+{
+ "book": {
+  "short_title": {
+   "ar": "التحفة الربانية",
+   "en": "Al-Tuḥfah al-Rabbāniyyah"
+  },
+  "title": {
+   "ar": "التحفة الربانية في شرح الأربعين حديثا النووية",
+   "en": "Al-Tuḥfah al-Rabbāniyyah (The Divine Gift): A Commentary on al-Nawawī’s Forty Hadiths"
+  },
+  "subtitle": {
+   "ar": "ومعها شرح الأحاديث التي زادها ابن رجب الحنبلي",
+   "en": "Together with a commentary on the hadiths added by Ibn Rajab al-Ḥanbalī"
+  },
+  "author": {
+   "ar": "إسماعيل بن محمد بن ماحي السعدي الأنصاري",
+   "en": "Ismāʿīl ibn Muḥammad ibn Māḥī al-Saʿdī al-Anṣārī"
+  },
+  "author_death_ah": 1417,
+  "category": {
+   "ar": "شروح الحديث",
+   "en": "Hadith commentaries"
+  },
+  "publisher": {
+   "ar": "مطبعة دار نشر الثقافة - الإسكندرية",
+   "en": "Dār Nashr al-Thaqāfah Press, Alexandria"
+  },
+  "edition": {
+   "ar": "الأولى، 1380 هـ",
+   "en": "First edition, 1380 AH"
+  },
+  "printed_page_count": 104,
+  "source": {
+   "platform": "al-Maktabah al-Shāmilah",
+   "shamela_publication_date": {
+    "ar": "6 ذو القعدة 1432",
+    "en": "6 Dhū al-Qaʿdah 1432 AH"
+   },
+   "filename": "التحفة الربانية في شرح الأربعين حديثا النووية.htm",
+   "page_numbering": "Page numbers are those of the printed edition, as given in the Shamela export."
+  }
+ },
+ "translation": {
+  "status": "complete",
+  "language": "en-GB",
+  "revised": "2026-11-25",
+  "method": "Fresh English translation made directly from the Arabic of the Shamela export, segment by segment, after reviewing the earlier draft translation; not abridged. Translated with Claude (AI) and not yet reviewed by a scholar.",
+  "conventions": [
+   "Every Arabic paragraph is split into segments of a sentence or short clause; each segment carries its own English. Reading the segments in order gives continuous text in either language, and pairing them gives an interlinear view.",
+   "The Arabic is unchanged from the Shamela export apart from removing markup, running headers and invisible characters, normalising whitespace, and moving printed list numbers into the number/printed_number fields. Joining a prose paragraph's segments with single spaces reproduces its text; in a verse paragraph each segment is one line of poetry.",
+   "Evident misprints that affect the meaning are translated in their intended reading and recorded in a block's notes array; the Arabic itself is not corrected.",
+   "Square brackets in the English mark words supplied for clarity and Qurʾān references (Sūrah chapter:verse).",
+   "ﷺ renders صلى الله عليه وسلم; longer formulas (…وآله وسلم, رضي الله عنه/عنها/عنهما, رحمه الله, عز وجل, تعالى) are translated in full.",
+   "Names and technical terms use full transliteration (ʿUmar ibn al-Khaṭṭāb, al-Bukhārī, īmān, iḥsān, Qurʾān, Sharīʿah); British spelling.",
+   "Poetry: one segment per verse, with hemistichs separated by “ / ” to mirror the Arabic “…”. Verse is rendered for meaning, not metre.",
+   "The authors' doctrinal, legal and historical positions and their hadith gradings are translated as theirs, without comment or softening. This is not an official or scholar-reviewed translation."
+  ],
+  "notes": [
+   "Each chapter has the hadith, a vocabulary list (one block per entry, with term.ar / term.en for the word or phrase explained) and the lessons drawn from it (يستفاد منه). Printed lesson numbers are kept in printed_number.",
+   "The front matter keeps the Shamela title card and the foreword as printed, in their original order; those blocks have no page numbers in the export."
+  ]
+ }
+}

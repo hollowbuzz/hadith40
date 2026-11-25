@@ -1,0 +1,60 @@
+{
+ "book": {
+  "short_title": {
+   "ar": "الشرح الموجز المفيد",
+   "en": "Al-Sharḥ al-Mūjaz al-Mufīd"
+  },
+  "title": {
+   "ar": "الأحاديث الأربعين النووية مع ما زاد عليها ابن رجب وعليها الشرح الموجز المفيد",
+   "en": "Al-Nawawī’s Forty Hadiths, with Ibn Rajab’s Addition, and the Concise, Beneficial Commentary (al-Sharḥ al-Mūjaz al-Mufīd)"
+  },
+  "author": {
+   "ar": "عبد الله بن صالح المحسن",
+   "en": "ʿAbdullāh ibn Ṣāliḥ al-Muḥsin"
+  },
+  "category": {
+   "ar": "كتب السنة",
+   "en": "Books of the Sunnah"
+  },
+  "publisher": {
+   "ar": "الجامعة الإسلامية، المدينة المنورة",
+   "en": "The Islamic University, Madīnah"
+  },
+  "edition": {
+   "ar": "الثالثة، 1404هـ/1984م",
+   "en": "Third edition, 1404 AH / 1984 CE"
+  },
+  "printed_page_count": 94,
+  "source": {
+   "platform": "al-Maktabah al-Shāmilah",
+   "shamela_publication_date": {
+    "ar": "8 ذو الحجة 1431",
+    "en": "8 Dhū al-Ḥijjah 1431 AH"
+   },
+   "filename": "الأحاديث الأربعين النووية مع ما زاد عليها ابن رجب وعليها الشرح الموجز المفيد.htm",
+   "page_numbering": "Page numbers are those of the printed edition, as given in the Shamela export."
+  }
+ },
+ "translation": {
+  "status": "complete",
+  "language": "en-GB",
+  "revised": "2026-11-25",
+  "method": "Fresh English translation made directly from the Arabic of the Shamela export, segment by segment, after reviewing the earlier draft translation; not abridged. Translated with Claude (AI) and not yet reviewed by a scholar.",
+  "conventions": [
+   "Every Arabic paragraph is split into segments of a sentence or short clause; each segment carries its own English. Reading the segments in order gives continuous text in either language, and pairing them gives an interlinear view.",
+   "The Arabic is unchanged from the Shamela export apart from removing markup, running headers and invisible characters, normalising whitespace, and moving printed list numbers into the number/printed_number fields. Joining a prose paragraph's segments with single spaces reproduces its text; in a verse paragraph each segment is one line of poetry.",
+   "Evident misprints that affect the meaning are translated in their intended reading and recorded in a block's notes array; the Arabic itself is not corrected.",
+   "Square brackets in the English mark words supplied for clarity and Qurʾān references (Sūrah chapter:verse).",
+   "ﷺ renders صلى الله عليه وسلم; longer formulas (…وآله وسلم, رضي الله عنه/عنها/عنهما, رحمه الله, عز وجل, تعالى) are translated in full.",
+   "Names and technical terms use full transliteration (ʿUmar ibn al-Khaṭṭāb, al-Bukhārī, īmān, iḥsān, Qurʾān, Sharīʿah); British spelling.",
+   "Poetry: one segment per verse, with hemistichs separated by “ / ” to mirror the Arabic “…”. Verse is rendered for meaning, not metre.",
+   "The authors' doctrinal, legal and historical positions and their hadith gradings are translated as theirs, without comment or softening. This is not an official or scholar-reviewed translation."
+  ],
+  "notes": [
+   "Each chapter has the hadith, vocabulary (المفردات), benefits (الفوائد), the concise explanation (الموجز) and usually poetry (شعر). Sections and paragraphs follow the printed order exactly; verses that the author places inside the vocabulary or explanation stay there.",
+   "This edition prints hadiths 21 and 22 in the reverse of the usual order. number is the edition's number; standard_number is the usual al-Nawawī number, used for the app's title.",
+   "The edition's benefit numbering is irregular (skipped and repeated numbers, and some chapters numbered 1-, 2-). number is sequential; printed_number keeps what is printed.",
+   "Hadith-level notes record the narrations printed in shortened or variant form (hadiths 36 and 45) and the misprinted heading in hadith 43."
+  ]
+ }
+}
