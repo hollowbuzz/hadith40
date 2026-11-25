@@ -727,11 +727,67 @@ details.cm-more[open] > summary::after { transform: rotate(90deg); }
 .toc-pg { white-space: nowrap; }
 
 @media (max-width: 480px) {
-  .tab { padding: 10px 2px; font-size: .9rem; }
+  .tab { padding: 10px 5px; font-size: .86rem; }
   .cm-bar .seg-btn { padding: 6px 9px; font-size: .9rem; }
   .bookpick-btn { padding: 7px 9px; }
   .bookpick-btn strong { font-size: .88rem; }
 }
+
+/* ---------- recorded audio: the word being spoken ---------- */
+.w-say { border-radius: 5px; transition: background-color .12s; }
+.w-say.say { background: var(--gold-l); box-shadow: 0 0 0 2px var(--gold-l); }
+.hp.say { background: color-mix(in srgb, var(--gold-l) 60%, transparent); border-radius: 8px; }
+.has-audio .w-say { cursor: pointer; }
+.has-audio .w-say:hover { background: var(--surface); }
+
+/* ---------- Iʿrāb ---------- */
+.cm-bar-hint { font-size: .85rem; font-weight: 700; color: var(--muted); }
+.ir-text { background: var(--surface); border: 2px solid var(--line); border-radius: 16px; padding: 12px 16px; margin: 8px 0 6px; }
+.ir-text p { font-family: var(--ar-font); font-size: calc(var(--ar-size) * .92); line-height: 2.15; margin: 0 0 .3em; }
+.ir-w {
+  cursor: pointer; border-radius: 6px; padding: 0 1px;
+  text-decoration: underline dotted color-mix(in srgb, var(--seg-q) 70%, transparent); text-decoration-thickness: 2px; text-underline-offset: .4em;
+}
+.ir-w:hover { background: var(--green-l); }
+.ir-w.on { background: var(--gold-l); text-decoration-color: var(--gold-d); }
+.ir-w:focus-visible { outline: 2px solid var(--blue); outline-offset: 1px; }
+.ir-hint { font-size: .85rem; color: var(--muted); margin: 0 0 6px; }
+.ir-list { border-top: 0; }
+.ir-item { padding: 10px 2px; border-bottom: 1px solid var(--line); }
+.ir-head { font-family: var(--ar-font); font-weight: 700; color: var(--seg-q); font-size: calc(var(--ar-size) * .9); line-height: 1.7; }
+.ir-body { font-family: var(--ar-font); font-size: calc(var(--ar-size) * .78); line-height: 1.95; }
+@media (min-width: 560px) {
+  .ir-item { display: grid; grid-template-columns: minmax(90px, 26%) minmax(0, 1fr); gap: 16px; align-items: baseline; }
+}
+.ir-sub { font-weight: 700; color: var(--ink); }
+.ir-q { color: var(--seg-q); }
+.ir-fn-mark { font: 700 .62em/1 var(--ui-font); color: var(--blue-d); padding: 0 1px; }
+.ir-fns { margin-top: .3em; }
+.ir-fn { margin: .15em 0 0; font-family: var(--ar-font); font-size: calc(var(--ar-size) * .66); line-height: 1.8; color: var(--muted); }
+.ir-text .ir-fns { border-top: 1px dashed var(--line); padding-top: 4px; }
+.ir-note { padding: 10px 2px; border-bottom: 1px solid var(--line); font-family: var(--ar-font); font-size: calc(var(--ar-size) * .78); line-height: 1.95; color: var(--muted); }
+.ir-note p { margin: 0; }
+.ir-label { font-family: var(--ar-font); font-size: calc(var(--ar-size) * .85); margin: 18px 0 4px; color: var(--green-d); }
+.ir-refs { font-family: var(--ar-font); font-size: 1.15rem; line-height: 1.9; padding-inline-start: 1.6em; }
+.ir-sheet .ir-sheet-top { display: flex; justify-content: space-between; align-items: center; gap: 10px; }
+.ir-sheet .ir-head { font-size: calc(var(--ar-size) * 1.15); margin: 4px 0 2px; }
+.ir-sheet .ir-body { font-size: calc(var(--ar-size) * .86); }
+.ir-nav { display: flex; gap: 10px; margin-top: 16px; }
+.ir-nav .btn { flex: 1; }
+
+/* hadith page: five tabs */
+.tabs { overflow-x: auto; scrollbar-width: none; }
+.tab { flex: 1 0 auto; white-space: nowrap; padding: 10px 8px; }
+
+/* Settings › About › Sources */
+.src-title { font-size: 1rem; margin: 16px 0 8px; }
+.src-list { list-style: none; margin: 0 0 12px; padding: 0; display: grid; gap: 8px; }
+.src { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; justify-content: space-between; padding: 10px 12px; border: 2px solid var(--line); border-radius: 14px; }
+.src-main { display: grid; gap: 1px; min-width: 0; flex: 1 1 220px; }
+.src-main small { color: var(--muted); font-size: .8rem; }
+.src-main small.ar { font-family: var(--ar-font); font-size: 1rem; color: var(--ink); }
+.src-links { display: flex; gap: 6px; flex-wrap: wrap; }
+.src-links .btn { min-height: 34px; padding: 4px 10px; font-size: .82rem; box-shadow: 0 2px 0 var(--line); }
 
 /* ---------- animations ---------- */
 @keyframes pop { from { transform: scale(.92); opacity: .4; } to { transform: none; opacity: 1; } }

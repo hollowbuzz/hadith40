@@ -4,7 +4,8 @@ import {
   state, save, onChange, setSetting, xpToday, currentStreak, levelInfo, exportData, parseImport, replaceState,
   resetProgress, dayKey, addDays,
 } from './store.js';
-import { h, $, clear, svgIcon, toast, modal, confirmDialog, speak, stopSpeaking, canSpeak, onVoices } from './ui.js';
+import { h, $, clear, svgIcon, toast, modal, confirmDialog, speak, stopSpeaking, canSpeak, onVoices, canListen, listen, sayHighlighter } from './ui.js';
+import { loadAudioIndex, onAudioIndex, audioFor, hasAudio, timeOf } from './audio.js';
 import { t, L, num, isAr, applyLang, lang } from './i18n.js';
 import { sfx, unlockAudio } from './sound.js';
 import { prep, normalize, firstLetter } from './text.js';
@@ -16,9 +17,10 @@ import { renderHadith, arEl, ar, crownsEl, strengthBar, statusChip, nameEl, sour
 import { buildLearn, buildPractice, buildMixed, reviewPool, weakPool, recitePool, rangePool, enabledTypes, GEN } from './quiz.js';
 import { runSession, runLightning, inLesson, lessonNavigatedAway, plainText } from './lesson.js';
 import { ACHIEVEMENTS, checkAchievements } from './achievements.js';
-import { sharhTab, bookView, bookCards, BOOKS, MODES } from './sharh.js';
+import { sharhTab, bookView, bookCards, BOOKS, MODES, shamelaUrl } from './sharh.js';
+import { iraabTab, iraabBookView, iraabCard, IRAAB } from './iraab.js';
 
-const VERSION = '1.1.0';
+const VERSION = '1.3.0';
 const H = n => HADITH[n - 1];
 const view = () => $('#view');
 
@@ -104,7 +106,10 @@ function route() {
   lessonReturn = null;
   const same = currentRoute === hash;
   currentRoute = hash;
-  const views = { '': homeView, practice: practiceView, library: libraryView, h: hadithView, book: bookView, profile: profileView, settings: settingsView };
+  const views = {
+    '': homeView, practice: practiceView, library: libraryView, h: hadithView, profile: profileView, settings: settingsView,
+    book: (el, key) => (key === 'iraab' ? iraabBookView(el) : bookView(el, key)),
+  };
   const fn = views[name] || homeView;
   const el = clear(view());
   el.className = 'view view-' + (name || 'home');
@@ -302,7 +307,7 @@ function libraryView(el) {
     type: 'button', onclick: e => { lib.filter = f; chips.querySelectorAll('.fchip').forEach(b => b.classList.remove('on')); e.currentTarget.classList.add('on'); paint(); },
   }, t('filter.' + f))));
   el.append(h('h1.page-title', t('lib.title')),
-    h('h2.sec-label', t('sh.commentaries')), bookCards(),
+    h('h2.sec-label', t('sh.commentaries')), bookCards([iraabCard()]),
     h('h2.sec-label', t('lib.hadith')), h('div.searchbar', svgIcon('search', 20), search), chips, list);
   paint();
 }
@@ -313,10 +318,10 @@ function libraryView(el) {
 const hv = { tab: 'read', hide: 0, mode: 'random', seed: 1 };
 function hadithView(el, arg, [sub, bookKey] = []) {
   const n = Math.max(1, Math.min(50, parseInt(arg, 10) || 1));
-  // #/h/<n>/sharh[/<book>] opens the Commentary tab (links from a book's contents)
-  if (sub === 'sharh') {
-    hv.tab = 'sharh';
-    if (BOOKS.some(b => b.key === bookKey) && state.settings.sharhBook !== bookKey) setSetting('sharhBook', bookKey);
+  // #/h/<n>/sharh[/<book>] and #/h/<n>/iraab open those tabs (links from a book's contents)
+  if (sub === 'sharh' || sub === 'iraab') {
+    hv.tab = sub;
+    if (sub === 'sharh' && BOOKS.some(b => b.key === bookKey) && state.settings.sharhBook !== bookKey) setSetting('sharhBook', bookKey);
     // applied once: a later re-render must not undo a book picked on the page
     history.replaceState(null, '', '#/h/' + n);
     currentRoute = 'h/' + n;
@@ -348,21 +353,29 @@ function hadithView(el, arg, [sub, bookKey] = []) {
     h('div.fact', h('small', t('hd.takhreej')), nameEl(TAKHREEJ[hd.takhreej])),
     h('div.fact', h('small', t('hd.source')), sourceLink(hd))));
 
+  // Listen: the recorded audio (words highlighted in the Read tab) or the device voice.
   let speaking = false;
-  const listen = canSpeak() ? h('button.btn.ghost', {
-    type: 'button', onclick: e => {
-      const b = e.currentTarget;
-      if (speaking) { stopSpeaking(); speaking = false; b.lastChild.textContent = t('btn.listen'); return; }
-      speaking = speak(plainText(hd), () => { speaking = false; b.lastChild.textContent = t('btn.listen'); });
-      b.lastChild.textContent = t('btn.stop');
+  const player = {
+    play(from = 0) {
+      stopSpeaking();
+      speaking = listen(n, plainText(hd), {
+        from,
+        onTick: (p, w) => { const r = body.querySelector('.reader'); if (r) sayHighlighter(r)(p, w); },
+        onEnd: () => { speaking = false; if (listenBtn) listenBtn.lastChild.textContent = t('btn.listen'); },
+      });
+      if (speaking && listenBtn) listenBtn.lastChild.textContent = t('btn.stop');
     },
+    stop() { stopSpeaking(); speaking = false; },
+  };
+  const listenBtn = canListen(n) ? h('button.btn.ghost', {
+    type: 'button', onclick: () => (speaking ? player.stop() : player.play()),
   }, svgIcon('volume', 18), h('span', t('btn.listen'))) : null;
   el.append(h('div.row.gap.hd-actions',
     unlocked ? h('button.btn.green.grow', { type: 'button', onclick: () => (learned ? startPractice(n) : startLearn(n)) }, learned ? t('hd.practice') : t('hd.learn'))
       : h('div.muted.grow', '🔒 ' + t('home.locked')),
-    listen));
+    listenBtn));
 
-  const tabs = ['read', 'sharh', 'memorize', 'stats'];
+  const tabs = ['read', 'sharh', 'iraab', 'memorize', 'stats'];
   const body = h('div.tab-body');
   const tabBar = h('div.tabs', { role: 'tablist' }, tabs.map(k => h('button.tab' + (hv.tab === k ? '.on' : ''), {
     type: 'button', role: 'tab', 'aria-selected': hv.tab === k ? 'true' : 'false',
@@ -372,8 +385,9 @@ function hadithView(el, arg, [sub, bookKey] = []) {
 
   function paintTab() {
     clear(body);
-    if (hv.tab === 'read') body.append(readTab(hd));
+    if (hv.tab === 'read') body.append(readTab(hd, player));
     else if (hv.tab === 'sharh') body.append(sharhTab(n));
+    else if (hv.tab === 'iraab') body.append(iraabTab(n));
     else if (hv.tab === 'memorize') body.append(memorizeTab(hd));
     else body.append(statsTab(n));
   }
@@ -395,10 +409,19 @@ function toggleRow(hd, repaint) {
       h('button.icon-btn.small', { type: 'button', onclick: size(2), 'aria-label': '+' }, 'A+')));
 }
 
-function readTab(hd) {
+function readTab(hd, player) {
   const box = h('div');
   const paint = () => {
-    clear(box).append(toggleRow(hd, paint), h('article.reader', renderHadith(hd, { legend: true })));
+    // with recorded audio, tapping a word plays the hadith from that word
+    const recorded = !!audioFor(hd.n);
+    const reader = h('article.reader' + (recorded ? '.has-audio' : ''), {
+      onclick: recorded ? e => {
+        const w = e.target.closest('[data-w]'), p = e.target.closest('[data-p]');
+        if (w && p) player.play(timeOf(hd.n, +p.dataset.p, +w.dataset.w));
+      } : null,
+    }, renderHadith(hd, { legend: true }));
+    clear(box).append(toggleRow(hd, paint), reader);
+    if (recorded) box.append(h('p.small.muted', t('hd.tapToPlay')));
     hd.notes.forEach(nt => box.append(h('div.note', h('strong', t('hd.note') + ': '), L(nt))));
     if (state.settings.showTranslation) box.append(h('p.small.muted', t('hd.translationNote')));
   };
@@ -535,6 +558,23 @@ function profileView(el) {
 let installEvt = null;
 window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); installEvt = e; if (currentRoute === 'settings') rerender(); });
 
+/** Settings › About: every text in the app, with a link to the original. */
+function sourcesList() {
+  const ext = (href, label) => h('a.btn.small.ghost', { href, target: '_blank', rel: 'noopener' }, label + ' ↗');
+  const row = (title, arTitle, lines, links) => h('li.src',
+    h('div.src-main', h('strong', title), isAr() ? null : h('small.ar', { dir: 'rtl', lang: 'ar' }, arTitle),
+      lines.filter(Boolean).map(x => h('small', x))),
+    h('div.src-links', links));
+  return h('div.srcs', h('h3.src-title', t('st.sources')), h('ul.src-list',
+    row(L(SOURCE.work), SOURCE.work.ar,
+      [`${L(SOURCE.title)} — ${L(SOURCE.editor)}`, t('st.src.hadith')],
+      [ext(SOURCE.url, t('sh.onShamela'))]),
+    BOOKS.map(b => row(L(b.name), b.name.ar, [L(b.author) + ' · ' + L(b.pub), t('st.src.ai')],
+      [ext(shamelaUrl(b.shamela), t('sh.onShamela')), h('a.btn.small.ghost', { href: '#/book/' + b.key }, t('sh.about'))])),
+    row(L(IRAAB.name), IRAAB.name.ar, [L(IRAAB.author), t('st.src.iraab')],
+      [ext(IRAAB.url, 'ketabonline'), h('a.btn.small.ghost', { href: '#/book/iraab' }, t('sh.about'))])));
+}
+
 function settingsView(el) {
   const s = state.settings;
   const set = (k, v, { appearance = false, full = false } = {}) => {
@@ -583,8 +623,8 @@ function settingsView(el) {
     sw('sound', t('st.sounds')),
     row(t('st.volume'), vol),
     sw('haptics', t('st.haptics')),
-    canSpeak() ? row(t('st.tts'), rate) : h('p.small.muted', t('st.ttsNone')),
-    canSpeak() ? sw('autoListen', t('st.autoListen')) : null));
+    canSpeak() || hasAudio() ? row(t('st.tts'), rate) : h('p.small.muted', t('st.ttsNone')),
+    canSpeak() || hasAudio() ? sw('autoListen', t('st.autoListen')) : null));
 
   el.append(section(t('st.learning'),
     row(t('st.goal'), seg('dailyGoal', [10, 20, 30, 50], v => `${t('st.goal.' + v)} · ${num(v)}`)),
@@ -635,7 +675,7 @@ function settingsView(el) {
   const standalone = matchMedia('(display-mode: standalone)').matches || navigator.standalone;
   el.append(section(t('st.about'),
     h('p', t('st.aboutText')),
-    h('p', h('a', { href: SOURCE.url, target: '_blank', rel: 'noopener' }, 'shamela.ws/book/570')),
+    sourcesList(),
     h('p.small.muted', t('hd.translationNote')),
     h('p.small.muted', t('st.offline') + ' · ' + t('st.version') + ' ' + VERSION),
     standalone ? h('p.small', '✅ ' + t('st.installed'))
@@ -685,6 +725,8 @@ function boot() {
   // unlock the WebAudio context on the first gesture (iOS)
   document.addEventListener('pointerdown', unlockAudio, { once: true, capture: true });
   onVoices(() => { if (/^(h\/|settings)/.test(currentRoute || '')) rerender(); });
+  onAudioIndex(() => { if (hasAudio() && /^(h\/|settings)/.test(currentRoute || '')) rerender(); });
+  loadAudioIndex();
   checkAchievements();
   if (location.hash === '#/lesson') location.replace('#/');
   route();

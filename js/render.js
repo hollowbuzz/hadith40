@@ -11,12 +11,34 @@ export const ar = s => (state.settings.showTashkeel ? s : stripTashkeel(s));
 /** Arabic span with correct direction. */
 export const arEl = (text, cls = '') => h('span.ar' + (cls ? '.' + cls : ''), { dir: 'rtl', lang: 'ar' }, ar(text));
 
+/** Words of a paragraph — whitespace tokens with an Arabic letter — as [start, end) offsets.
+ *  tools/audio/generate.py uses the same rule, so word i here is word i in data/audio/index.json. */
+function wordRanges(text) {
+  const out = [];
+  for (const m of text.matchAll(/\S+/g)) if (/[\u0621-\u064A]/.test(m[0])) out.push([m.index, m.index + m[0].length]);
+  return out;
+}
+
 export function renderHadith(hd, { translation = state.settings.showTranslation, legend = false } = {}) {
   const wrap = h('div.hadith');
   hd.paras.forEach((segs, i) => {
-    const p = h('p.hp.ar', { dir: 'rtl', lang: 'ar' });
+    const p = h('p.hp.ar', { dir: 'rtl', lang: 'ar', 'data-p': i });
+    const words = wordRanges(segs.map(([, x]) => x).join(''));
+    let off = 0;
     for (const [kind, text] of segs) {
-      p.append(h('span.seg-' + kind, ar(kind === 'q' ? ornate(text) : text)));
+      const show = s => ar(kind === 'q' ? ornate(s) : s);
+      const span = h('span.seg-' + kind);
+      let pos = 0;
+      words.forEach(([a, b], wi) => {
+        const s = Math.max(a - off, pos), e = Math.min(b - off, text.length);
+        if (e <= s) return;
+        if (s > pos) span.append(show(text.slice(pos, s)));
+        span.append(h('span.w-say', { 'data-w': wi }, show(text.slice(s, e))));
+        pos = e;
+      });
+      if (pos < text.length) span.append(show(text.slice(pos)));
+      p.append(span);
+      off += text.length;
     }
     wrap.append(p);
     if (translation && hd.en[i]) wrap.append(h('p.hp-en', { dir: 'ltr', lang: 'en' }, hd.en[i]));

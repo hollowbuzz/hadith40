@@ -10,23 +10,27 @@ import { ar } from './render.js';
 // (Fatḥ al-Qawī numbers its commentary paragraphs; the other two number only their lessons).
 export const BOOKS = [
   {
-    key: 'fath', file: 'fath-al-qawi-al-matin', tone: 'green', numbers: 'number',
+    key: 'fath', file: 'fath-al-qawi-al-matin', tone: 'green', numbers: 'number', shamela: 11325,
+    pub: { ar: 'دار ابن القيم، الدمام، ط1، 1424هـ', en: 'Dār Ibn al-Qayyim, Dammam, 1st ed., 1424 AH' },
     name: { ar: 'فتح القوي المتين', en: 'Fatḥ al-Qawī al-Matīn' }, short: { ar: 'فتح القوي', en: 'Fatḥ al-Qawī' },
     author: { ar: 'عبد المحسن العبّاد', en: 'ʿAbd al-Muḥsin al-ʿAbbād' }, by: { ar: 'العبّاد', en: 'al-ʿAbbād' },
   },
   {
-    key: 'tuhfah', file: 'al-tuhfah-al-rabbaniyyah', tone: 'blue', numbers: 'printed_number',
+    key: 'tuhfah', file: 'al-tuhfah-al-rabbaniyyah', tone: 'blue', numbers: 'printed_number', shamela: 4469,
+    pub: { ar: 'دار نشر الثقافة، الإسكندرية، ط1، 1380هـ', en: 'Dār Nashr al-Thaqāfah, Alexandria, 1st ed., 1380 AH' },
     name: { ar: 'التحفة الربانية', en: 'al-Tuḥfah al-Rabbāniyyah' }, short: { ar: 'التحفة', en: 'al-Tuḥfah' },
     author: { ar: 'إسماعيل الأنصاري', en: 'Ismāʿīl al-Anṣārī' }, by: { ar: 'الأنصاري', en: 'al-Anṣārī' },
   },
   {
-    key: 'mujaz', file: 'al-sharh-al-mujaz-al-mufid', tone: 'purple', numbers: 'printed_number',
+    key: 'mujaz', file: 'al-sharh-al-mujaz-al-mufid', tone: 'purple', numbers: 'printed_number', shamela: 8713,
+    pub: { ar: 'الجامعة الإسلامية، المدينة المنورة، ط3، 1404هـ', en: 'The Islamic University, Madīnah, 3rd ed., 1404 AH' },
     name: { ar: 'الشرح الموجز المفيد', en: 'al-Sharḥ al-Mūjaz al-Mufīd' }, short: { ar: 'الموجز', en: 'al-Mūjaz' },
     author: { ar: 'عبد الله المحسن', en: 'ʿAbdullāh al-Muḥsin' }, by: { ar: 'المحسن', en: 'al-Muḥsin' },
   },
 ];
 export const MODES = ['ar', 'en', 'both'];
 
+export const shamelaUrl = id => `https://shamela.ws/book/${id}`;
 export const bookInfo = key => BOOKS.find(b => b.key === key) || BOOKS[0];
 export const currentBook = () => bookInfo(state.settings.sharhBook);
 export const currentMode = () => (MODES.includes(state.settings.sharhMode) ? state.settings.sharhMode : 'both');
@@ -145,8 +149,8 @@ function keepPlace(scope, bar, repaint) {
   if (el) window.scrollBy(0, el.getBoundingClientRect().top - off);
 }
 
-/** Sticky bar: reading mode + text size. `repaint` redraws everything inside `scope`. */
-export function readerBar(scope, repaint, { sticky = true } = {}) {
+/** Sticky bar: reading mode (unless `modes` is false) + text size. `repaint` redraws everything inside `scope`. */
+export function readerBar(scope, repaint, { sticky = true, modes: withModes = true, hint = null } = {}) {
   const bar = h('div.cm-bar' + (sticky ? '' : '.static'));
   const modes = h('div.seg.cm-modes', { role: 'radiogroup', 'aria-label': t('sh.mode') }, MODES.map(m => h('button.seg-btn', {
     type: 'button', role: 'radio', 'data-m': m,
@@ -168,7 +172,7 @@ export function readerBar(scope, repaint, { sticky = true } = {}) {
     keepPlace(scope, bar, () => document.documentElement.style.setProperty('--ar-size', v + 'px'));
   };
   mark();
-  bar.append(modes, h('div.grow'),
+  bar.append(withModes ? modes : h('span.cm-bar-hint', hint), h('div.grow'),
     h('div.sizebtns', { role: 'group', 'aria-label': t('hd.size') },
       h('button.icon-btn.small', { type: 'button', onclick: size(-2), 'aria-label': t('sh.smaller') }, 'A−'),
       h('button.icon-btn.small', { type: 'button', onclick: size(2), 'aria-label': t('sh.larger') }, 'A+')));
@@ -197,7 +201,8 @@ const errorEl = retry => h('div.cm-loading', h('p.muted', t('sh.error')),
 function footer(data) {
   const b = data.book;
   return h('footer.cm-foot',
-    h('p', L(b.title), ' — ', L(b.author), '. ', L(b.publisher), ', ', L(b.edition), '.'),
+    h('p', L(b.title), ' — ', L(b.author), '. ', L(b.publisher), ', ', L(b.edition), '. ',
+      b.source?.url ? h('a', { href: b.source.url, target: '_blank', rel: 'noopener' }, t('sh.onShamela')) : null),
     h('p', t('sh.aiNote')));
 }
 
@@ -280,16 +285,17 @@ export function bookView(el, key) {
         b.source?.page_numbering ? h('p.small.muted', b.source.page_numbering) : null)));
     clear(body).append(
       h('p.bk-title', L(b.title)),
-      h('dl.bk-facts', fact(t('sh.author'), b.author), fact(t('sh.publisher'), b.publisher), fact(t('sh.edition'), b.edition)),
+      h('dl.bk-facts', fact(t('sh.author'), b.author), fact(t('sh.publisher'), b.publisher), fact(t('sh.edition'), b.edition),
+        h('dt', t('ir.source')), h('dd', h('a', { href: shamelaUrl(book.shamela), target: '_blank', rel: 'noopener' }, t('sh.onShamela') + ' ↗'))),
       readerBar(scope, paintMatter, { sticky: false }), scope, h('p.small.muted', t('sh.aiNote')));
     paintMatter();
   };
   paint();
 }
 
-/** Library strip: one card per commentary. */
-export function bookCards() {
+/** Library strip: one card per commentary, then any `extra` cards. */
+export function bookCards(extra = []) {
   return h('div.books', BOOKS.map(b => h('a.bookcard.' + b.tone, { href: '#/book/' + b.key },
     h('span.bookcard-ico', svgIcon('book', 22)),
-    h('span.bookcard-body', h('strong', L(b.name)), h('small', L(b.author))))));
+    h('span.bookcard-body', h('strong', L(b.name)), h('small', L(b.author))))), extra);
 }

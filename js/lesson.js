@@ -1,7 +1,7 @@
 // Lesson runner + exercise renderers.
 import { HADITH } from './data.js';
 import { state, save, addXp, touchStreak, levelInfo, currentStreak } from './store.js';
-import { h, $, clear, svgIcon, confetti, speak, stopSpeaking, canSpeak, confirmDialog, shuffle, toast } from './ui.js';
+import { h, $, clear, svgIcon, confetti, speak, stopSpeaking, canSpeak, canListen, listen, sayHighlighter, confirmDialog, shuffle, toast } from './ui.js';
 import { t, L, num, isAr } from './i18n.js';
 import { sfx, haptic } from './sound.js';
 import { prep, normalize, firstLetter } from './text.js';
@@ -442,12 +442,16 @@ const RENDER = {
   read(q) {
     const hd = H(q.n);
     let speaking = false;
-    const listenBtn = canSpeak() ? h('button.btn.small.ghost', {
+    const text = h('div.read-text', renderHadith(hd, { legend: true }));
+    const listenBtn = canListen(hd.n) ? h('button.btn.small.ghost', {
       type: 'button',
       onclick: () => {
         if (speaking) { stopSpeaking(); speaking = false; listenBtn.lastChild.textContent = t('btn.listen'); return; }
-        speaking = speak(plainText(hd), () => { speaking = false; listenBtn.lastChild.textContent = t('btn.listen'); });
-        listenBtn.lastChild.textContent = t('btn.stop');
+        speaking = listen(hd.n, plainText(hd), {
+          onTick: sayHighlighter(text),
+          onEnd: () => { speaking = false; listenBtn.lastChild.textContent = t('btn.listen'); },
+        });
+        if (speaking) listenBtn.lastChild.textContent = t('btn.stop');
       },
     }, svgIcon('volume', 18), h('span', t('btn.listen'))) : null;
     if (listenBtn && state.settings.autoListen) setTimeout(() => listenBtn.click(), 400);
@@ -460,7 +464,7 @@ const RENDER = {
             hd.ibnRajab ? h('span.chip.ir', t('hd.ibnRajab')) : null),
           listenBtn),
         h('p.hint', t('q.readHint')),
-        h('div.read-text', renderHadith(hd, { legend: true }))),
+        text),
     };
   },
 

@@ -1,5 +1,6 @@
 // DOM helpers, toasts, dialogs, confetti, text-to-speech.
 import { state } from './store.js';
+import { audioFor, playHadith, stopAudio } from './audio.js';
 
 /** h('div.card.big', {onclick, dir:'rtl'}, child, [children], 'text') */
 export function h(sel, attrs, ...kids) {
@@ -141,7 +142,26 @@ export function speak(text, onend) {
   speechSynthesis.speak(u);
   return true;
 }
-export function stopSpeaking() { if ('speechSynthesis' in window) speechSynthesis.cancel(); }
+export function stopSpeaking() { stopAudio(); if ('speechSynthesis' in window) speechSynthesis.cancel(); }
+
+/** Hadith n can be heard: a recorded file, or a device voice. */
+export const canListen = n => !!audioFor(n) || canSpeak();
+/** Play hadith n: its recorded file when there is one (with word timings), else the device voice reads `text`. */
+export function listen(n, text, { onEnd = null, onTick = null, from = 0 } = {}) {
+  if (audioFor(n)) return playHadith(n, { from, onTick, onEnd });
+  return speak(text, onEnd);
+}
+/** onTick for listen(): marks the spoken word (or paragraph) inside a rendered hadith under `root`. */
+export function sayHighlighter(root) {
+  return (p, w) => {
+    root.querySelectorAll('.say').forEach(x => x.classList.remove('say'));
+    if (p < 0) return;
+    const para = root.querySelector(`[data-p="${p}"]`);
+    if (!para) return;
+    if (w < 0) { para.classList.add('say'); return; }
+    para.querySelectorAll(`[data-w="${w}"]`).forEach(x => x.classList.add('say'));
+  };
+}
 
 // ---------- misc ----------
 export function shuffle(a) {

@@ -2,3 +2,5 @@
 __pycache__/
 *.pyc
 .claude/
+tools/audio/preview/
+tools/audio/samples/
