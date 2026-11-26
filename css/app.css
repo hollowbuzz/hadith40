@@ -52,6 +52,8 @@
 
 *, *::before, *::after { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
+/* no double-tap zoom (taps in quick succession, e.g. tiles, were zooming on iPhone); pinch-to-zoom still works */
+*, *::before, *::after { touch-action: manipulation; }
 body {
   margin: 0; background: var(--bg); color: var(--ink);
   font-family: var(--ui-font); font-size: 16px; line-height: 1.45;

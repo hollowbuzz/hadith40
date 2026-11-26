@@ -23,7 +23,7 @@ import { recorderPanel } from './recorder.js';
 import { showIntro, showKnownPicker } from './intro.js';
 import { mufradatView, mufradatCard } from './mufradat.js';
 
-const VERSION = '1.6.0';
+const VERSION = '1.6.1';
 const H = n => HADITH[n - 1];
 const view = () => $('#view');
 
