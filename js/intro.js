@@ -27,28 +27,30 @@ export function markMemorised(ns) {
 }
 
 /** Grid of the 50 hadith to tick; returns { el, selected: Set }. */
-export function hadithPicker(initial = []) {
-  const selected = new Set(initial);
+/** allowed(n): whether n can be ticked (the practice picker greys out locked hadith). onChange runs after each tick. */
+export function hadithPicker(initial = [], { allowed = () => true, onChange = null, note = null } = {}) {
+  const selected = new Set(initial.filter(allowed));
   const count = h('span.pick-count');
   const btns = HADITH.map(hd => h('button.pick-n' + (hd.ibnRajab ? '.ir' : ''), {
-    type: 'button', 'aria-pressed': 'false', title: L(hd.title),
+    type: 'button', 'aria-pressed': 'false', title: L(hd.title), disabled: !allowed(hd.n),
     onclick: e => { selected.has(hd.n) ? selected.delete(hd.n) : selected.add(hd.n); paint(); e.currentTarget.blur?.(); },
-  }, num(hd.n)));
+  }, allowed(hd.n) ? num(hd.n) : '🔒'));
   const range = (a, b, label) => h('button.tchip', {
     type: 'button',
-    onclick: () => { const all = HADITH.filter(x => x.n >= a && x.n <= b).every(x => selected.has(x.n));
-      HADITH.filter(x => x.n >= a && x.n <= b).forEach(x => (all ? selected.delete(x.n) : selected.add(x.n))); paint(); },
+    onclick: () => { const ns = HADITH.filter(x => x.n >= a && x.n <= b && allowed(x.n)); const all = ns.every(x => selected.has(x.n));
+      ns.forEach(x => (all ? selected.delete(x.n) : selected.add(x.n))); paint(); },
   }, label);
   const paint = () => {
     btns.forEach((b, i) => { const on = selected.has(i + 1); b.classList.toggle('on', on); b.setAttribute('aria-pressed', on); });
     count.textContent = t('intro.selected', { n: selected.size });
+    onChange?.(selected);
   };
   paint();
   const el = h('div.picker',
     h('div.chips.wrap', range(1, 10, t('unit.range', { a: 1, b: 10 })), range(1, 42, t('range.nawawi')), range(43, 50, t('range.ibnRajab')),
       h('button.tchip', { type: 'button', onclick: () => { selected.clear(); paint(); } }, t('intro.clear'))),
     h('div.pick-grid', btns),
-    h('div.pick-foot', count, h('small.muted', t('intro.pickNote'))));
+    h('div.pick-foot', count, h('small.muted', note || t('intro.pickNote'))));
   return { el, selected };
 }
 

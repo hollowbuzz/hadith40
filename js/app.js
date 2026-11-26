@@ -20,10 +20,10 @@ import { ACHIEVEMENTS, checkAchievements } from './achievements.js';
 import { sharhTab, bookView, bookCards, BOOKS, MODES, shamelaUrl } from './sharh.js';
 import { iraabTab, iraabBookView, iraabCard, IRAAB } from './iraab.js';
 import { recorderPanel } from './recorder.js';
-import { showIntro, showKnownPicker } from './intro.js';
+import { showIntro, showKnownPicker, hadithPicker } from './intro.js';
 import { mufradatView, mufradatCard } from './mufradat.js';
 
-const VERSION = '1.6.1';
+const VERSION = '1.6.3';
 const H = n => HADITH[n - 1];
 const view = () => $('#view');
 
@@ -195,7 +195,8 @@ function nodeSheet(n) {
     h('div.row.gap',
       h('button.btn.ghost', { type: 'button', onclick: () => { close(); location.hash = '#/h/' + n; } }, t('home.read')),
       unlocked ? h('button.btn.green.grow', { type: 'button', onclick: () => { close(); learned ? startPractice(n) : startLearn(n); } },
-        learned ? t('home.practice') : t('home.learn')) : null),
+        learned ? t('home.practice') : t('home.learn')) : null,
+      !learned && state.settings.unlockAll ? h('button.btn.ghost', { type: 'button', onclick: () => { close(); startPractice(n); } }, t('home.practice')) : null),
   ], { cls: 'sheet' });
 }
 
@@ -233,7 +234,7 @@ function startRecite() {
 // =====================================================================
 // Practice hub
 // =====================================================================
-const drill = { types: null, range: 'all', from: 1, to: 10 };
+const drill = { types: null, range: 'all', from: 1, to: 10, picked: [] };
 function practiceView(el) {
   const learned = learnedList().length;
   const due = dueList().length;
@@ -256,28 +257,35 @@ function practiceView(el) {
     type: 'button', 'aria-pressed': drill.types.has(k) ? 'true' : 'false',
     onclick: e => { drill.types.has(k) ? drill.types.delete(k) : drill.types.add(k); e.currentTarget.classList.toggle('on'); e.currentTarget.setAttribute('aria-pressed', drill.types.has(k)); sfx.tap(); },
   }, t('type.' + k))));
-  const ranges = ['all', 'learned', 'nawawi', 'ibnRajab', 'custom'];
+  const ranges = ['all', 'learned', 'nawawi', 'ibnRajab', 'custom', 'pick'];
   const fromIn = h('input.num-in', { type: 'number', min: 1, max: 50, value: drill.from, 'aria-label': 'from', onchange: e => { drill.from = clamp(+e.target.value); } });
   const toIn = h('input.num-in', { type: 'number', min: 1, max: 50, value: drill.to, 'aria-label': 'to', onchange: e => { drill.to = clamp(+e.target.value); } });
   const custom = h('div.row.gap.custom-range' + (drill.range === 'custom' ? '' : '.hide'), fromIn, h('span', '–'), toIn);
+  // choose exactly which hadith to drill: any of them with "Unlock all", otherwise the unlocked ones
+  const picker = hadithPicker(drill.picked, {
+    allowed: isUnlocked, onChange: sel => { drill.picked = [...sel]; },
+    note: state.settings.unlockAll ? t('pr.pickAll') : t('pr.pickUnlocked'),
+  });
+  const pickBox = h('div' + (drill.range === 'pick' ? '' : '.hide'), picker.el);
   const rangeSel = h('div.seg', ranges.map(r => h('button.seg-btn' + (drill.range === r ? '.on' : ''), {
     type: 'button', onclick: e => {
       drill.range = r;
       rangeSel.querySelectorAll('.seg-btn').forEach(b => b.classList.remove('on'));
       e.currentTarget.classList.add('on');
       custom.classList.toggle('hide', r !== 'custom');
+      pickBox.classList.toggle('hide', r !== 'pick');
     },
   }, t('range.' + r))));
   el.append(h('section.panel',
     h('h2', '🛠️ ' + t('pr.drill')),
     h('div.field', h('label', t('pr.types')), chips),
-    h('div.field', h('label', t('pr.range')), rangeSel, custom),
+    h('div.field', h('label', t('pr.range')), rangeSel, custom, pickBox),
     h('button.btn.big.green', {
       type: 'button', onclick: () => {
         const types = [...drill.types];
         if (!types.length) return toast(t('pr.noneSelected'));
-        const pool = rangePool(drill.range, drill.from, drill.to);
-        if (!pool.length) return toast(t('pr.needLearn'));
+        const pool = drill.range === 'pick' ? [...drill.picked].sort((a, b) => a - b) : rangePool(drill.range, drill.from, drill.to);
+        if (!pool.length) return toast(drill.range === 'pick' ? t('pr.pickNone') : t('pr.needLearn'));
         const make = () => buildMixed(pool, { types, mode: 'drill' });
         runSession({ kind: 'drill', back: here(), questions: make(), rebuild: make });
       },
@@ -385,6 +393,7 @@ function hadithView(el, arg, [sub, bookKey] = []) {
     type: 'button', onclick: () => (speaking ? player.stop() : player.play()),
   }, svgIcon('volume', 18), h('span', t('btn.listen'))) : null;
   el.append(h('div.row.gap.hd-actions',
+    !learned && state.settings.unlockAll ? h('button.btn.ghost', { type: 'button', onclick: () => startPractice(n) }, t('home.practice')) : null,
     unlocked ? h('button.btn.green.grow', { type: 'button', onclick: () => (learned ? startPractice(n) : startLearn(n)) }, learned ? t('hd.practice') : t('hd.learn'))
       : h('div.muted.grow', '🔒 ' + lockHint(n)),
     listenBtn,

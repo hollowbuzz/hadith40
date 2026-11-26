@@ -1,6 +1,6 @@
 // Service worker: offline app shell + cached Google Fonts.
 // Bump VERSION whenever you change any file so returning users get the update.
-const VERSION = 'arbaeen-v1.6.1';
+const VERSION = 'arbaeen-v1.6.3';
 const AUDIO_CACHE = 'arbaeen-audio'; // kept across app versions; files are keyed by their ?v= hash
 const FONT_CACHE = 'arbaeen-fonts';
 const SHELL = [

@@ -48,7 +48,8 @@ const S = {
     'pr.reciteSub': 'Recite learned hadith and grade yourself', 'pr.drill': 'Custom drill', 'pr.types': 'Question types',
     'pr.range': 'Hadith range', 'pr.needLearn': 'Learn your first hadith on the Learn tab to unlock this.',
     'pr.noneSelected': 'Choose at least one question type.',
-    'range.all': 'All 50', 'range.learned': 'Learned only', 'range.nawawi': 'al-Nawawī 1–42', 'range.ibnRajab': 'Ibn Rajab 43–50', 'range.custom': 'From – to',
+    'range.all': 'All 50', 'range.learned': 'Learned only', 'range.nawawi': 'al-Nawawī 1–42', 'range.ibnRajab': 'Ibn Rajab 43–50', 'range.custom': 'From – to', 'range.pick': 'Choose hadith',
+    'pr.pickAll': 'Tap any hadith to include it.', 'pr.pickUnlocked': 'Unlocked hadith only — turn on Unlock all in Settings to choose any.', 'pr.pickNone': 'Choose at least one hadith.',
     'type.order': 'Word order', 'type.blank': 'Fill in the blank', 'type.next': 'Next phrase', 'type.number': 'Hadith numbers',
     'type.narrator': 'Narrators', 'type.takhreej': 'Takhrīj', 'type.meaning': 'Meanings & topics', 'type.match': 'Matching',
     'type.before': 'What comes before', 'type.missing': 'Missing phrase', 'type.spot': 'Spot the wrong word', 'type.chain': 'Phrase order', 'type.where': 'Which hadith?', 'type.recite': 'Recitation',
@@ -195,7 +196,8 @@ const S = {
     'pr.reciteSub': 'سمِّع ما حفظت وقيِّم نفسك', 'pr.drill': 'تدريب مخصَّص', 'pr.types': 'أنواع الأسئلة',
     'pr.range': 'نطاق الأحاديث', 'pr.needLearn': 'تعلَّم أول حديث من تبويب «تعلَّم» لفتح هذا.',
     'pr.noneSelected': 'اختر نوعًا واحدًا على الأقل.',
-    'range.all': 'الخمسون كلها', 'range.learned': 'المحفوظة فقط', 'range.nawawi': 'النووية ١–٤٢', 'range.ibnRajab': 'ابن رجب ٤٣–٥٠', 'range.custom': 'من – إلى',
+    'range.all': 'الخمسون كلها', 'range.learned': 'المحفوظة فقط', 'range.nawawi': 'النووية ١–٤٢', 'range.ibnRajab': 'ابن رجب ٤٣–٥٠', 'range.custom': 'من – إلى', 'range.pick': 'اختر أحاديث',
+    'pr.pickAll': 'انقر أي حديث لتضمينه.', 'pr.pickUnlocked': 'المفتوحة فقط — فعِّل «فتح جميع الأحاديث» في الإعدادات لتختار ما شئت.', 'pr.pickNone': 'اختر حديثًا واحدًا على الأقل.',
     'type.order': 'ترتيب الكلمات', 'type.blank': 'إكمال الفراغ', 'type.next': 'الجملة التالية', 'type.number': 'أرقام الأحاديث',
     'type.narrator': 'الرواة', 'type.takhreej': 'التخريج', 'type.meaning': 'المعاني والموضوعات', 'type.match': 'المطابقة',
     'type.before': 'ما يسبق', 'type.missing': 'الجملة الناقصة', 'type.spot': 'الكلمة الخطأ', 'type.chain': 'ترتيب الجمل', 'type.where': 'من أيِّ حديث؟', 'type.recite': 'التسميع',
@@ -314,7 +316,12 @@ export function t(key, vars) {
   let s = S[L][key] ?? S.en[key];
   if (s === undefined) { console.warn('missing i18n', key); return key; }
   if (Array.isArray(s)) s = s[(Math.random() * s.length) | 0];
-  if (vars) s = s.replace(/\{(\w+)\}/g, (_, k) => (typeof vars[k] === 'number' ? num(vars[k]) : vars[k] ?? ''));
+  if (vars) s = s.replace(/\{(\w+)\}/g, (_, k) => {
+    const v = vars[k];
+    if (typeof v === 'number') return num(v);
+    if (v && typeof v === 'object') return v[L] ?? v.en ?? ''; // an {ar, en} pair, e.g. a hadith title
+    return v ?? '';
+  });
   return s;
 }
 

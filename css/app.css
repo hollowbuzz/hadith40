@@ -759,6 +759,7 @@ details.cm-more[open] > summary::after { transform: rotate(90deg); }
 .pick-n { height: 38px; border-radius: 10px; border: 2px solid var(--line); background: var(--card); font-weight: 800; color: var(--muted); }
 .pick-n.ir { border-style: dashed; }
 .pick-n.on { background: var(--green); border-color: var(--green-d); color: #fff; }
+.pick-n:disabled { opacity: .45; cursor: not-allowed; font-size: .8rem; }
 .pick-foot { display: flex; justify-content: space-between; align-items: center; gap: 8px; font-weight: 700; font-size: .9rem; }
 
 /* ---------- mufradāt path ---------- */
@@ -788,7 +789,6 @@ details.cm-more[open] > summary::after { transform: rotate(90deg); }
 
 /* ---------- new question kinds ---------- */
 .blank.wide { min-width: 5em; }
-.swap { border-bottom: 2px dashed var(--muted); }
 .swap del { color: var(--red); text-decoration-thickness: 2px; }
 .swap ins { color: var(--green-d); text-decoration: none; font-weight: 700; }
 

@@ -211,13 +211,14 @@ export function recorderPanel(n, { compact = false } = {}) {
 
   paintBtn();
   markSpeed();
-  wrap.append(
+  wrap.append(...[ // the native append would print a null as "null"
     compact ? null : h('h3.rec-title', '🎙️ ' + t('rec.title')),
     compact ? null : h('p.small.muted', t('rec.hint')),
     h('div.rec-ctl', recBtn, timer, meter),
     list,
     h('div.rec-speed-row', h('small.muted', t('rec.speed')), speeds),
-    compact ? null : h('p.small.muted', t('rec.private')));
+    compact ? null : h('p.small.muted', t('rec.private')),
+  ].filter(Boolean));
   paintList();
   return wrap;
 }
