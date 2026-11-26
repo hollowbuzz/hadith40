@@ -134,7 +134,7 @@ export function exportData() {
   const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
   const a = document.createElement('a');
   a.href = URL.createObjectURL(blob);
-  a.download = `arbaeen-progress-${dayKey()}.json`;
+  a.download = `jawami-progress-${dayKey()}.json`;
   document.body.append(a);
   a.click();
   setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 1000);

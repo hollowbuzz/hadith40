@@ -21,7 +21,7 @@ import { sharhTab, bookView, bookCards, BOOKS, MODES, shamelaUrl } from './sharh
 import { iraabTab, iraabBookView, iraabCard, IRAAB } from './iraab.js';
 import { recorderPanel } from './recorder.js';
 
-const VERSION = '1.4.0';
+const VERSION = '1.4.1';
 const H = n => HADITH[n - 1];
 const view = () => $('#view');
 

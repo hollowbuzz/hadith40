@@ -1,4 +1,8 @@
-# Arbaʿīn — الأربعون
+# Jawāmiʿ — جوامع
+
+**40 Hadith** · <https://hollowbuzz.github.io/hadith40/>
+
+The name comes from *jawāmiʿ al-kalim*, the concise, comprehensive words these hadith are known for.
 
 A gamified, offline-first web app to **memorise and revise al-Nawawī’s Forty Hadith with Ibn Rajab’s addition (50 hadith)** — in Arabic and English.
 
@@ -32,16 +36,16 @@ Then open <http://localhost:8000>.
 
 ## Host on GitHub Pages
 
-1. Create a new repository on GitHub, for example `arbaeen`.
+1. Create a new repository on GitHub, for example `hadith40`.
 2. Push this folder to it:
    ```bash
-   git init && git add . && git commit -m "Arbaʿīn app"
+   git init && git add . && git commit -m "Jawāmiʿ app"
    git branch -M main
-   git remote add origin https://github.com/<you>/arbaeen.git
+   git remote add origin https://github.com/<you>/hadith40.git
    git push -u origin main
    ```
 3. On GitHub, open **Settings → Pages**. Under **Source** choose *Deploy from a branch*, then pick **main** and **/ (root)**, and save.
-4. Your site is published at `https://<you>.github.io/arbaeen/`. All paths are relative, so it works from a sub-folder.
+4. Your site is published at `https://<you>.github.io/hadith40/`. All paths are relative, so it works from a sub-folder.
 
 **Updating:** the service worker is network-first, so online visitors always get the latest files. When you change files, also bump `VERSION` in `sw.js`. This refreshes the offline copy and shows returning users a “new version” prompt.
 

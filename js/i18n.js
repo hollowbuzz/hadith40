@@ -3,8 +3,8 @@ import { state } from './store.js';
 
 const S = {
   en: {
-    'app.name': 'Arbaʿīn',
-    'app.tagline': 'al-Nawawī’s Forty + Ibn Rajab’s addition',
+    'app.name': 'Jawāmiʿ',
+    'app.tagline': '40 Hadith · al-Nawawī & Ibn Rajab',
     'nav.learn': 'Learn', 'nav.practice': 'Practice', 'nav.library': 'Library', 'nav.profile': 'Profile', 'nav.settings': 'Settings',
     'hadithN': 'Hadith {n}',
     'unit': 'Unit {n}', 'unit.range': 'Hadith {a}–{b}', 'unit.nawawiEnd': 'Completing al-Nawawī’s Forty', 'unit.ibnRajab': 'Ibn Rajab’s addition',
@@ -128,8 +128,8 @@ const S = {
     'ach.recite10': 'Reciter', 'ach.recite10.d': 'Grade 10 recitations “Perfect”',
   },
   ar: {
-    'app.name': 'الأربعون',
-    'app.tagline': 'الأربعون النووية مع زيادة ابن رجب',
+    'app.name': 'جوامع',
+    'app.tagline': 'الأربعون النووية وزيادة ابن رجب',
     'nav.learn': 'تعلَّم', 'nav.practice': 'تدرَّب', 'nav.library': 'المكتبة', 'nav.profile': 'ملفّي', 'nav.settings': 'الإعدادات',
     'hadithN': 'الحديث {n}',
     'unit': 'الوحدة {n}', 'unit.range': 'الأحاديث {a}–{b}', 'unit.nawawiEnd': 'تمام الأربعين النووية', 'unit.ibnRajab': 'زيادة ابن رجب',
@@ -281,5 +281,5 @@ export function applyLang() {
   const l = lang();
   document.documentElement.lang = l;
   document.documentElement.dir = l === 'ar' ? 'rtl' : 'ltr';
-  document.title = l === 'ar' ? 'الأربعون — احفظ وراجع' : 'Arbaʿīn — memorise & revise';
+  document.title = l === 'ar' ? 'جوامع — الأربعون النووية' : 'Jawāmiʿ — 40 Hadith';
 }
