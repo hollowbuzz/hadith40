@@ -733,6 +733,35 @@ details.cm-more[open] > summary::after { transform: rotate(90deg); }
   .bookpick-btn strong { font-size: .88rem; }
 }
 
+/* ---------- new question kinds ---------- */
+.blank.wide { min-width: 5em; }
+.swap { border-bottom: 2px dashed var(--muted); }
+.swap del { color: var(--red); text-decoration-thickness: 2px; }
+.swap ins { color: var(--green-d); text-decoration: none; font-weight: 700; }
+
+/* ---------- record yourself ---------- */
+.rec { border: 2px solid var(--line); border-radius: 18px; padding: 14px 16px; margin: 18px 0 8px; background: var(--card); }
+.rec.compact { padding: 10px 12px; margin: 10px 0; }
+.rec-title { font-size: 1.05rem; margin: 0 0 4px; }
+.rec .small.muted { margin: 4px 0 10px; }
+.rec-ctl { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+.rec-btn.on { animation: recpulse 1.4s ease-in-out infinite; }
+@keyframes recpulse { 50% { filter: brightness(1.15); box-shadow: 0 4px 0 var(--red-d), 0 0 0 8px color-mix(in srgb, var(--red) 20%, transparent); } }
+.rec-timer { font: 700 1.05rem var(--ui-font); font-variant-numeric: tabular-nums; color: var(--red); }
+.rec-meter { flex: 1; min-width: 80px; max-width: 220px; height: 8px; border-radius: 99px; background: var(--line); overflow: hidden; }
+.rec-meter i { display: block; height: 100%; width: 0; background: var(--red); transition: width .08s; }
+.rec-list { display: grid; gap: 6px; margin: 12px 0 4px; }
+.rec-row { display: flex; align-items: center; gap: 10px; padding: 6px 8px; border-radius: 12px; border: 2px solid transparent; }
+.rec-row.on { border-color: var(--blue); background: var(--blue-l); }
+.rec-info { flex: 1; min-width: 0; display: grid; gap: 4px; }
+.rec-when { font-size: .82rem; color: var(--muted); }
+.rec-prog { display: flex; align-items: center; gap: 8px; }
+.rec-bar { flex: 1; height: 6px; border-radius: 99px; background: var(--line); overflow: hidden; }
+.rec-bar i { display: block; height: 100%; width: 0; background: var(--blue); }
+.rec-time { font-size: .8rem; font-variant-numeric: tabular-nums; color: var(--muted); white-space: nowrap; }
+.rec-speed-row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-top: 8px; }
+.rec-speeds .seg-btn { padding: 5px 10px; font-size: .88rem; }
+
 /* ---------- recorded audio: the word being spoken ---------- */
 .w-say { border-radius: 5px; transition: background-color .12s; }
 .w-say.say { background: var(--gold-l); box-shadow: 0 0 0 2px var(--gold-l); }

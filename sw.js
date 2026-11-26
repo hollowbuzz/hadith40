@@ -1,12 +1,12 @@
 // Service worker: offline app shell + cached Google Fonts.
 // Bump VERSION whenever you change any file so returning users get the update.
-const VERSION = 'arbaeen-v1.3.0';
+const VERSION = 'arbaeen-v1.4.0';
 const AUDIO_CACHE = 'arbaeen-audio'; // kept across app versions; files are keyed by their ?v= hash
 const FONT_CACHE = 'arbaeen-fonts';
 const SHELL = [
   './', './index.html', './manifest.webmanifest', './css/app.css',
   './js/app.js', './js/data.js', './js/store.js', './js/i18n.js', './js/text.js', './js/srs.js', './js/quiz.js',
-  './js/lesson.js', './js/render.js', './js/ui.js', './js/sound.js', './js/achievements.js', './js/sharh.js', './js/iraab.js', './js/audio.js',
+  './js/lesson.js', './js/render.js', './js/ui.js', './js/sound.js', './js/achievements.js', './js/sharh.js', './js/iraab.js', './js/audio.js', './js/recorder.js',
   './icons/icon.svg', './icons/icon-192.png', './icons/icon-512.png', './icons/icon-180.png', './icons/icon-maskable-512.png',
 ];
 

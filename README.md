@@ -7,9 +7,10 @@ The Arabic text is taken verbatim from **«متون طالب العلم – ال
 ## Features
 
 - **Learning path** in five units (1–10, 11–20, 21–30, 31–42, Ibn Rajab 43–50); each hadith has 5 mastery levels.
-- **Exercises:** word order, fill-in-the-blank (multiple choice or typed with an on-screen Arabic keyboard), “what comes next?”, hadith **numbers** (both directions), **narrators**, **takhrīj**, topics and meanings, matching pairs, and a self-graded **recitation check**.
+- **Exercises:** word order, fill-in-the-blank (multiple choice or typed with an on-screen Arabic keyboard), “what comes next?”, “what comes before?”, the missing phrase, spot the wrong word, phrase order, “which hadith is this from?”, hadith **numbers** (both directions), **narrators**, **takhrīj**, topics and meanings, matching pairs, and a self-graded **recitation check**.
 - **Strength tracking:** every hadith is tracked on five facets (text, number, narrator, takhrīj, meaning). Spaced-repetition review schedules each hadith, and *Weak spots* drills your weakest hadith and facets.
 - **Memorise mode:** hide 25–100% of the words (random, from the end, or first letters), then tap a word to peek.
+- **Record yourself:** record your recitation (Memorise tab, and in the recitation check) and play it back at 0.75×–2×. Recordings stay on the device, the newest 10 per hadith.
 - **Commentaries:** three short commentaries on every hadith, *Fatḥ al-Qawī al-Matīn* (al-ʿAbbād), *al-Tuḥfah al-Rabbāniyyah* (al-Anṣārī) and *al-Sharḥ al-Mūjaz al-Mufīd* (al-Muḥsin). Read them as Arabic only, English only, or each Arabic sentence with its English beneath. Open them from the *Commentary* tab on a hadith page, or from the Library, which also has each book’s introduction and contents. The English is an AI translation, not yet reviewed by a scholar.
 - **Iʿrāb:** ʿUmar al-ʿUmarī’s word-by-word grammatical analysis of al-Nawawī’s 42 hadith (Arabic). On the *Iʿrāb* tab, tap an underlined word of the hadith to see its iʿrāb, then step through the words.
 - **Recorded audio (optional):** generate the hadith with Google Cloud Text-to-Speech (`tools/audio/`). *Listen* then plays the recording with each word highlighted, a tap on any word plays from there, and recordings work offline once played. Without recordings the app uses the device's voice.
@@ -54,7 +55,8 @@ js/sharh.js           commentary reader (three books × three reading modes) and
 js/iraab.js           iʿrāb reader (tappable words, entry sheet) and its book page
 js/audio.js           recorded-audio player with word timings (falls back to the device voice)
 js/lesson.js          lesson runner, exercise screens, lightning round, end screens
-js/quiz.js            question generators and session builders
+js/quiz.js            question generators, session builders, and rotation (unseen and missed prompts first)
+js/recorder.js        record yourself and play back at any speed (IndexedDB)
 js/srs.js             mastery facets, spaced repetition, strength and weak lists
 js/text.js            Arabic normalisation, tokens, phrases, openings
 js/store.js           localStorage state, XP/streak/level, export/import

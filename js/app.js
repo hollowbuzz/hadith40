@@ -19,8 +19,9 @@ import { runSession, runLightning, inLesson, lessonNavigatedAway, plainText } fr
 import { ACHIEVEMENTS, checkAchievements } from './achievements.js';
 import { sharhTab, bookView, bookCards, BOOKS, MODES, shamelaUrl } from './sharh.js';
 import { iraabTab, iraabBookView, iraabCard, IRAAB } from './iraab.js';
+import { recorderPanel } from './recorder.js';
 
-const VERSION = '1.3.0';
+const VERSION = '1.4.0';
 const H = n => HADITH[n - 1];
 const view = () => $('#view');
 
@@ -237,7 +238,7 @@ function practiceView(el) {
 
   // custom drill
   if (!drill.types) drill.types = new Set(enabledTypes());
-  const TYPES = ['order', 'blank', 'next', 'number', 'narrator', 'takhreej', 'meaning', 'match'];
+  const TYPES = ['order', 'blank', 'next', 'before', 'missing', 'spot', 'chain', 'number', 'narrator', 'takhreej', 'meaning', 'where', 'match'];
   const chips = h('div.chips.wrap', TYPES.map(k => h('button.tchip' + (drill.types.has(k) ? '.on' : ''), {
     type: 'button', 'aria-pressed': drill.types.has(k) ? 'true' : 'false',
     onclick: e => { drill.types.has(k) ? drill.types.delete(k) : drill.types.add(k); e.currentTarget.classList.toggle('on'); e.currentTarget.setAttribute('aria-pressed', drill.types.has(k)); sfx.tap(); },
@@ -431,6 +432,7 @@ function readTab(hd, player) {
 
 function memorizeTab(hd) {
   const box = h('div');
+  const recPanel = recorderPanel(hd.n); // kept across repaints so a recording isn't cut off
   const tokens = prep(hd.n).tokens;
   // deterministic pseudo-random order per shuffle
   const rank = tokens.map((tk, i) => ({ i, r: frac(Math.sin((i + 1) * 9301 + hv.seed * 49297) * 233280) }));
@@ -466,7 +468,8 @@ function memorizeTab(hd) {
       h('div.field', mseg),
       h('div.row.gap', h('p.small.muted.grow', t('hd.tapReveal')),
         h('button.btn.small.ghost', { type: 'button', onclick: () => { hv.seed = Math.random(); hv.revealed = new Set(); sfx.flip(); memorizeRefresh(); } }, '🔀 ' + t('hd.shuffle'))),
-      text);
+      text,
+      recPanel);
   };
   const memorizeRefresh = () => { const nb = memorizeTab(hd); box.replaceWith(nb); };
   paint();

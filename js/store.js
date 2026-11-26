@@ -22,7 +22,11 @@ export const DEFAULT_SETTINGS = {
   unlockAll: false,
   autoListen: false,
   ttsRate: 0.85,
-  types: { order: true, blank: true, next: true, number: true, narrator: true, takhreej: true, meaning: true, match: true },
+  recSpeed: 1,           // playback speed of your own recordings
+  types: {
+    order: true, blank: true, next: true, before: true, missing: true, spot: true, chain: true,
+    number: true, narrator: true, takhreej: true, meaning: true, where: true, match: true,
+  },
 };
 
 function fresh() {
@@ -36,6 +40,7 @@ function fresh() {
     streak: { count: 0, best: 0, lastDay: null },
     stats: { answers: 0, correct: 0, lessons: 0, perfect: 0, bestCombo: 0, lightningBest: 0, weakSessions: 0, recites: 0, timeMs: 0 },
     achievements: {},
+    asked: {},          // question rotation: when each prompt was last asked, and whether it was answered right
   };
 }
 

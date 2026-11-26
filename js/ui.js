@@ -142,7 +142,10 @@ export function speak(text, onend) {
   speechSynthesis.speak(u);
   return true;
 }
-export function stopSpeaking() { stopAudio(); if ('speechSynthesis' in window) speechSynthesis.cancel(); }
+const stopHooks = new Set();
+/** fn runs whenever playback should stop (navigation, a new question, another Listen). */
+export const onStop = fn => stopHooks.add(fn);
+export function stopSpeaking() { stopAudio(); stopHooks.forEach(fn => fn()); if ('speechSynthesis' in window) speechSynthesis.cancel(); }
 
 /** Hadith n can be heard: a recorded file, or a device voice. */
 export const canListen = n => !!audioFor(n) || canSpeak();

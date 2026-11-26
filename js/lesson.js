@@ -6,9 +6,10 @@ import { t, L, num, isAr } from './i18n.js';
 import { sfx, haptic } from './sound.js';
 import { prep, normalize, firstLetter } from './text.js';
 import { record, settle, crowns } from './srs.js';
+import { recorderPanel } from './recorder.js';
 import { renderHadith, arEl, ar, nameEl, heading } from './render.js';
 import { checkAchievements } from './achievements.js';
-import { lightningQuestion } from './quiz.js';
+import { lightningQuestion, noteAnswer } from './quiz.js';
 
 const H = n => HADITH[n - 1];
 let S = null; // active session
@@ -140,7 +141,8 @@ function doCheck(arg) {
   const ok = res.ok;
   const quality = res.quality ?? (ok ? 1 : 0);
 
-  // mastery
+  // mastery, and rotation (so this prompt waits its turn — sooner if it was missed)
+  noteAnswer(q.key, ok);
   if (res.records) res.records.forEach(r => record(r.n, r.facet, r.q));
   else if (q.facet) record(q.n, q.facet, quality);
   const per = S.per[q.n] || (S.per[q.n] = { c: 0, t: 0 });
@@ -407,17 +409,21 @@ function lightningEnd() {
 const MCQ_TITLES = {
   blank: 'q.blank', next: 'q.next', number: 'q.number', numberRev: 'q.numberRev', narrator: 'q.narrator',
   takhreej: 'q.takhreej', title: 'q.title', titleRev: 'q.titleRev', gist: 'q.meaning',
+  before: 'q.before', missing: 'q.missing', spot: 'q.spot', where: 'q.where',
 };
 
 function qHeader(title, extra) {
   return h('div.q-head', h('h2.q-title', title), extra || null);
 }
 
-function piecesEl(pieces, { trailing = false, blankEl = null } = {}) {
+function piecesEl(pieces, { trailing = false, leading = false, blankEl = null } = {}) {
   const line = h('div.pieces.ar', { dir: 'rtl', lang: 'ar' });
+  if (leading) line.append(h('span.blank.dots', '…'), ' ');
   pieces.forEach(p => {
     if (p.blank) {
-      line.append(p.pre ? ar(p.pre) : '', blankEl || h('span.blank', ' '), p.post ? ar(p.post) : '', ' ');
+      line.append(p.pre ? ar(p.pre) : '', blankEl || h('span.blank' + (p.core === '' ? '.wide' : ''), ' '), p.post ? ar(p.post) : '', ' ');
+    } else if (p.swap) {
+      line.append(ar(p.pre), h('span.swap', { 'data-fix': p.fix }, ar(p.core)), ar(p.post) + ' ');
     } else {
       line.append(ar(p.pre + p.core + p.post) + ' ');
     }
@@ -473,7 +479,7 @@ const RENDER = {
     let prompt;
     switch (q.prompt.kind) {
       case 'opening': prompt = openingCard(q.n); break;
-      case 'pieces': prompt = h('div.prompt-card', piecesEl(q.prompt.pieces, { trailing: q.prompt.trailing })); break;
+      case 'pieces': prompt = h('div.prompt-card', piecesEl(q.prompt.pieces, { trailing: q.prompt.trailing, leading: q.prompt.leading })); break;
       case 'bignum': prompt = h('div.prompt-card.center', h('div.big-num.xl', num(q.n))); break;
       case 'title': prompt = h('div.prompt-card.center', h('div.prompt-title', L(H(q.n).title))); break;
       case 'gist': prompt = h('div.prompt-card', h('p.gist', { dir: 'ltr', lang: 'en' }, '“' + prep(q.n).gist + '”')); break;
@@ -516,8 +522,10 @@ const RENDER = {
           else if (b.dataset.id === sel) b.classList.add('wrong');
         });
         const right = q.options.find(o => o.id === q.answer);
-        const blank = q.kind === 'blank' && prompt?.querySelector('.blank');
+        const blank = (q.kind === 'blank' || q.kind === 'missing') && prompt?.querySelector('.blank:not(.dots)');
         if (blank) { blank.textContent = ar(right.text); blank.classList.add('filled'); }
+        const swap = q.kind === 'spot' && prompt?.querySelector('.swap');
+        if (swap) swap.replaceChildren(h('del', swap.textContent), ' ', h('ins', ar(swap.dataset.fix)));
         return { ok, answer: ok ? null : h('span.fb-answer', optionContent(right)) };
       },
     };
@@ -556,7 +564,8 @@ const RENDER = {
       ? h('div.prompt-card.ctx', piecesEl(q.context, { trailing: true }))
       : h('div.prompt-card.ctx.center', h('div.muted', L(H(q.n).title) + ' · ' + t('hadithN', { n: q.n })));
     return {
-      el: h('div', qHeader(q.first ? t('q.orderStart') : t('q.order'), !q.first && q.context ? h('div.muted.small', t('q.orderCtx')) : null),
+      el: h('div', qHeader(q.kind === 'chain' ? t('q.chain') : q.first ? t('q.orderStart') : t('q.order'),
+        !q.first && q.context ? h('div.muted.small', t('q.orderCtx')) : null),
         context, line, bank),
       onKey(e) { if (e.key === 'Backspace' && placed.length) { const p = placed[placed.length - 1]; toBank(p.tile, p.btn, p.slot); } },
       check() {
@@ -662,6 +671,7 @@ const RENDER = {
           h('div.prompt-title', L(hd.title)),
           h('div.muted', heading(hd))),
         h('p.hint', t('q.reciteHint')),
+        recorderPanel(q.n, { compact: true }),
         hintBtn, hintBox, reveal),
       reveal() {
         hintBox.remove(); hintBtn.remove(); reveal.append(renderHadith(hd));
