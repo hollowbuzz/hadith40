@@ -33,7 +33,7 @@ function freshness(key) {
   return age * (a[1] ? 1 : 4) * (0.75 + Math.random() * 0.5); // missed ones come back four times sooner
 }
 /** Pick the freshest item; keyOf(item) names the prompt it would produce. */
-function pickFresh(items, keyOf) {
+export function pickFresh(items, keyOf) {
   if (!items.length) return null;
   let best = null, bestScore = -Infinity;
   for (const it of items) { const s = freshness(keyOf(it)); if (s > bestScore) { bestScore = s; best = it; } }

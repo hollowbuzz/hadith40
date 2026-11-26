@@ -34,11 +34,12 @@ The name comes from *jawāmiʿ al-kalim*, the concise, comprehensive words these
 ## What you can do
 
 **Learn and review**
-- Follow a learning path of 50 hadith in five units. Each hadith has five levels.
+- Follow a learning path of 50 hadith in five units. Each hadith has five levels. Learning a hadith opens the next two, so you usually have a choice, and half of a unit opens the next unit.
 - Short lessons with 13 kinds of question: arrange the words, fill the gap (tap or type with an Arabic keyboard), what comes next or before, the missing phrase, spot the wrong word, put the phrases in order, which hadith a phrase is from, hadith numbers, narrators, takhrīj, topics, and matching pairs.
 - Questions rotate: what you haven’t seen comes first, and what you got wrong comes back sooner, so long hadith are covered part by part.
 - Spaced repetition schedules each hadith for review, and *Weak spots* drills the hadith and facts you know least.
 - On first visit, start from the beginning, tick the hadith you already know, or unlock everything.
+- An optional **mufradāt path**: for each hadith, an overview of its key words and phrases as *al-Tuḥfah al-Rabbāniyyah* explains them, then a short test (word → meaning, meaning → word) with its own stars.
 
 **Read and understand**
 - Three commentaries on every hadith — *Fatḥ al-Qawī al-Matīn*, *al-Tuḥfah al-Rabbāniyyah* and *al-Sharḥ al-Mūjaz al-Mufīd* — in Arabic, English, or each Arabic sentence with its English beneath.
@@ -71,8 +72,6 @@ The name comes from *jawāmiʿ al-kalim*, the concise, comprehensive words these
 
 ## Roadmap
 
-- **Unlock paths:** finishing particular hadith opens others, instead of one long line.
-- **Mufradāt paths:** optional side paths from *al-Tuḥfah al-Rabbāniyyah* that show a hadith’s key words and phrases with their meanings, then test them.
 - Meaning questions from the commentaries’ vocabulary and lessons.
 - Listening questions using the recorded audio.
 - An optional iʿrāb drill for Arabic learners.
@@ -96,6 +95,7 @@ index.html            app shell (+ inline SVG icons)
 css/app.css           all styles (light/dark, RTL/LTR, mobile/desktop)
 js/app.js             router + views (path, practice, library, hadith page, profile, settings)
 js/intro.js           first-visit introduction, "hadith I already know" picker
+js/mufradat.js        mufradāt path: al-Tuḥfah vocabulary overview and tests
 js/lesson.js          lesson runner, exercise screens, lightning round, end screens
 js/quiz.js            question generators, session builders, rotation (unseen and missed prompts first)
 js/srs.js             mastery facets, spaced repetition, strength and weak lists

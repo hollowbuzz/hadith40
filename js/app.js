@@ -10,7 +10,7 @@ import { t, L, num, isAr, applyLang, lang } from './i18n.js';
 import { sfx, unlockAudio } from './sound.js';
 import { prep, normalize, firstLetter } from './text.js';
 import {
-  FACETS, prog, peek, isLearned, isUnlocked, crowns, status, strength, facetStrength, dueList, weakList,
+  FACETS, prog, peek, isLearned, isUnlocked, unlockRule, crowns, status, strength, facetStrength, dueList, weakList,
   learnedList, nextToLearn, toggleFav, isFav, isDue,
 } from './srs.js';
 import { renderHadith, arEl, ar, crownsEl, strengthBar, statusChip, nameEl, sourceLink, hadithCard, heading } from './render.js';
@@ -21,8 +21,9 @@ import { sharhTab, bookView, bookCards, BOOKS, MODES, shamelaUrl } from './sharh
 import { iraabTab, iraabBookView, iraabCard, IRAAB } from './iraab.js';
 import { recorderPanel } from './recorder.js';
 import { showIntro, showKnownPicker } from './intro.js';
+import { mufradatView, mufradatCard } from './mufradat.js';
 
-const VERSION = '1.5.0';
+const VERSION = '1.6.0';
 const H = n => HADITH[n - 1];
 const view = () => $('#view');
 
@@ -110,13 +111,14 @@ function route() {
   currentRoute = hash;
   const views = {
     '': homeView, practice: practiceView, library: libraryView, h: hadithView, profile: profileView, settings: settingsView,
+    mufradat: mufradatView,
     book: (el, key) => (key === 'iraab' ? iraabBookView(el) : bookView(el, key)),
   };
   const fn = views[name] || homeView;
   const el = clear(view());
   el.className = 'view view-' + (name || 'home');
   fn(el, arg, rest);
-  renderNav(name === 'h' || name === 'book' ? 'library' : name);
+  renderNav(name === 'h' || name === 'book' ? 'library' : name === 'mufradat' ? 'practice' : name);
   renderHeader();
   if (back != null) window.scrollTo(0, back);
   else if (!same) window.scrollTo(0, 0);
@@ -144,6 +146,7 @@ function homeView(el) {
         h('span.qa-ico', '🎯'), h('span', h('strong', t('home.weak')), h('small', none ? t('home.startFirst') : weak.length ? t('home.weakN', { n: weak.length }) : t('home.noWeak')))))));
 
   if (!nxt && learnedList().length === 50) el.append(h('div.banner.gold', '👑 ' + t('home.allLearned')));
+  el.append(mufradatCard());
 
   const path = h('section.path');
   UNITS.forEach((u, ui) => {
@@ -188,12 +191,20 @@ function nodeSheet(n) {
       h('div', h('h3', L(hd.title)), h('div.muted', heading(hd)), h('div.chips', ...statusChip(n), hd.ibnRajab ? h('span.chip.ir', t('hd.ibnRajab')) : null))),
     h('div.sheet-open', arEl(prep(n).opening)),
     learned ? h('div.sheet-meter', crownsEl(n, 16), strengthBar(strength(n))) : null,
-    !unlocked ? h('p.muted', '🔒 ' + t('home.locked')) : null,
+    !unlocked ? h('p.muted', '🔒 ' + lockHint(n)) : null,
     h('div.row.gap',
       h('button.btn.ghost', { type: 'button', onclick: () => { close(); location.hash = '#/h/' + n; } }, t('home.read')),
       unlocked ? h('button.btn.green.grow', { type: 'button', onclick: () => { close(); learned ? startPractice(n) : startLearn(n); } },
         learned ? t('home.practice') : t('home.learn')) : null),
   ], { cls: 'sheet' });
+}
+
+/** Why hadith n is locked, and what opens it. */
+function lockHint(n) {
+  const r = unlockRule(n);
+  if (r.kind === 'any') return r.of.length > 1 ? t('home.lockedAny', { a: r.of[1], b: r.of[0] }) : t('home.lockedOne', { a: r.of[0] });
+  if (r.kind === 'unit') return t('home.lockedUnit', { need: r.need, a: r.from, b: r.to, have: r.have });
+  return t('home.locked');
 }
 
 // ---------- starters ----------
@@ -235,7 +246,8 @@ function practiceView(el) {
       card('red', '🎯', t('pr.weak'), learned ? t('pr.weakSub') + (weak ? ` · ${num(weak)}` : '') : t('pr.needLearn'), startWeak, !learned),
       card('gold', '⚡', t('pr.lightning'), t('pr.lightningSub') + ' · ' + t('pr.best', { n: state.stats.lightningBest }),
         () => runLightning(learned >= 4 ? learnedList() : HADITH.map(x => x.n), here())),
-      card('purple', '🎙️', t('pr.recite'), learned ? t('pr.reciteSub') : t('pr.needLearn'), startRecite, !learned)));
+      card('purple', '🎙️', t('pr.recite'), learned ? t('pr.reciteSub') : t('pr.needLearn'), startRecite, !learned),
+      card('green', '📚', t('mf.title'), t('mf.entry'), () => { location.hash = '#/mufradat'; })));
 
   // custom drill
   if (!drill.types) drill.types = new Set(enabledTypes());
@@ -374,8 +386,9 @@ function hadithView(el, arg, [sub, bookKey] = []) {
   }, svgIcon('volume', 18), h('span', t('btn.listen'))) : null;
   el.append(h('div.row.gap.hd-actions',
     unlocked ? h('button.btn.green.grow', { type: 'button', onclick: () => (learned ? startPractice(n) : startLearn(n)) }, learned ? t('hd.practice') : t('hd.learn'))
-      : h('div.muted.grow', '🔒 ' + t('home.locked')),
-    listenBtn));
+      : h('div.muted.grow', '🔒 ' + lockHint(n)),
+    listenBtn,
+    h('a.btn.ghost', { href: '#/mufradat/' + n, title: t('mf.title') }, '📚 ', h('span', t('mf.short')))));
 
   const tabs = ['read', 'sharh', 'iraab', 'memorize', 'stats'];
   const body = h('div.tab-body');

@@ -42,11 +42,11 @@ export function lessonNavigatedAway() { pushed = false; if (S) closeLesson(); }
 // =====================================================================
 // Session
 // =====================================================================
-export function runSession({ kind, questions, n = null, back = '#/', rebuild = null }) {
+export function runSession({ kind, questions, n = null, back = '#/', rebuild = null, onFinish = null }) {
   if (!questions.length) { toast(t('pr.needLearn')); return; }
   closeLesson();
   S = {
-    kind, n, back, rebuild,
+    kind, n, back, rebuild, onFinish,
     queue: questions.slice(), idx: 0, phase: 'answer', ctl: null,
     xp: 0, combo: 0, maxCombo: 0, graded: 0, correct: 0, mistakes: 0,
     hearts: state.settings.hearts ? 5 : null,
@@ -145,8 +145,10 @@ function doCheck(arg) {
   noteAnswer(q.key, ok);
   if (res.records) res.records.forEach(r => record(r.n, r.facet, r.q));
   else if (q.facet) record(q.n, q.facet, quality);
-  const per = S.per[q.n] || (S.per[q.n] = { c: 0, t: 0 });
-  per.t++; per.c += quality;
+  if (!q.vocab) { // mufradāt tests keep their own stars and leave hadith review dates alone
+    const per = S.per[q.n] || (S.per[q.n] = { c: 0, t: 0 });
+    per.t++; per.c += quality;
+  }
 
   // score
   S.graded++;
@@ -261,6 +263,7 @@ function finish() {
   sfx.complete();
   confetti();
   const acc = graded ? Math.round((S.correct / graded) * 100) : 100;
+  S.onFinish?.(acc / 100);
   const mm = Math.floor(ms / 60000), ss = Math.floor(ms / 1000) % 60;
   const tile = (cls, label, value) => h('div.stile.' + cls, h('div.stile-label', label), h('div.stile-value', value));
   const body = clear(S.el.body);
@@ -483,6 +486,8 @@ const RENDER = {
       case 'bignum': prompt = h('div.prompt-card.center', h('div.big-num.xl', num(q.n))); break;
       case 'title': prompt = h('div.prompt-card.center', h('div.prompt-title', L(H(q.n).title))); break;
       case 'gist': prompt = h('div.prompt-card', h('p.gist', { dir: 'ltr', lang: 'en' }, '“' + prep(q.n).gist + '”')); break;
+      case 'word': prompt = h('div.prompt-card.center', arEl(q.prompt.ar, 'big')); break;
+      case 'meaning': prompt = h('div.prompt-card', h('p.vmean' + (q.prompt.ar ? '.ar' : ''), q.prompt.ar ? { dir: 'rtl', lang: 'ar' } : { dir: 'ltr', lang: 'en' }, q.prompt.ar ? ar(q.prompt.text) : q.prompt.text)); break;
       default: prompt = null;
     }
     let sel = null;

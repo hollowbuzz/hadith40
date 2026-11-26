@@ -82,9 +82,31 @@ export function status(n) {
   return s < 0.5 ? 'weak' : s < 0.8 ? 'learning' : 'strong';
 }
 
+// ---------- unlocking: branches, not one line ----------
+// Within a unit, learning a hadith opens the next two, so there are usually two to choose from.
+// The first hadith of a unit opens once half of the previous unit is learned.
+export const UNIT_RANGES = [[1, 10], [11, 20], [21, 30], [31, 42], [43, 50]];
+const unitIndex = n => UNIT_RANGES.findIndex(([a, b]) => n >= a && n <= b);
+const learnedIn = (a, b) => { let c = 0; for (let i = a; i <= b; i++) if (isLearned(i)) c++; return c; };
+
+/** What opens hadith n: { kind: 'start' } | { kind: 'any', of: [a, b] } | { kind: 'unit', from, to, need, have }. */
+export function unlockRule(n) {
+  const u = unitIndex(n);
+  const [a] = UNIT_RANGES[u];
+  if (n === 1) return { kind: 'start' };
+  if (n === a) {
+    const [pa, pb] = UNIT_RANGES[u - 1];
+    return { kind: 'unit', from: pa, to: pb, need: Math.ceil((pb - pa + 1) / 2), have: learnedIn(pa, pb) };
+  }
+  return { kind: 'any', of: [n - 1, n - 2].filter(x => x >= a) };
+}
+
 export function isUnlocked(n) {
-  if (state.settings.unlockAll || n === 1) return true;
-  return isLearned(n) || isLearned(n - 1);
+  if (state.settings.unlockAll || isLearned(n)) return true;
+  const r = unlockRule(n);
+  if (r.kind === 'start') return true;
+  if (r.kind === 'any') return r.of.some(isLearned);
+  return r.have >= r.need;
 }
 
 export const learnedList = () => HADITH.map(h => h.n).filter(isLearned);
