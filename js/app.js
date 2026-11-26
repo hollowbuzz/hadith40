@@ -20,8 +20,9 @@ import { ACHIEVEMENTS, checkAchievements } from './achievements.js';
 import { sharhTab, bookView, bookCards, BOOKS, MODES, shamelaUrl } from './sharh.js';
 import { iraabTab, iraabBookView, iraabCard, IRAAB } from './iraab.js';
 import { recorderPanel } from './recorder.js';
+import { showIntro, showKnownPicker } from './intro.js';
 
-const VERSION = '1.4.1';
+const VERSION = '1.5.0';
 const H = n => HADITH[n - 1];
 const view = () => $('#view');
 
@@ -561,6 +562,10 @@ function profileView(el) {
 let installEvt = null;
 window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); installEvt = e; if (currentRoute === 'settings') rerender(); });
 
+function openIntro() {
+  showIntro({ onLang: () => rerender(), onDone: msg => { rerender(); toast(msg, { icon: '🌱' }); } });
+}
+
 /** Settings › About: every text in the app, with a link to the original. */
 function sourcesList() {
   const ext = (href, label) => h('a.btn.small.ghost', { href, target: '_blank', rel: 'noopener' }, label + ' ↗');
@@ -635,6 +640,8 @@ function settingsView(el) {
     sw('hearts', t('st.hearts'), t('st.heartsSub')),
     sw('typing', t('st.typing'), t('st.typingSub')),
     sw('unlockAll', t('st.unlock'), t('st.unlockSub')),
+    h('div.setting.col', h('span.setting-text', h('span', t('st.known')), h('small', t('st.knownSub'))),
+      h('button.btn.small.ghost', { type: 'button', onclick: () => showKnownPicker({ onDone: msg => { rerender(); toast(msg, { icon: '✅' }); } }) }, t('st.knownBtn'))),
     row(t('st.types'), h('div.chips.wrap', Object.keys(s.types).map(k => h('button.tchip' + (s.types[k] ? '.on' : ''), {
       type: 'button', 'aria-pressed': s.types[k] ? 'true' : 'false',
       onclick: e => {
@@ -678,6 +685,7 @@ function settingsView(el) {
   const standalone = matchMedia('(display-mode: standalone)').matches || navigator.standalone;
   el.append(section(t('st.about'),
     h('p', t('st.aboutText')),
+    h('button.btn.small.ghost', { type: 'button', onclick: openIntro }, '👋 ' + t('st.showIntro')),
     sourcesList(),
     h('p.small.muted', t('hd.translationNote')),
     h('p.small.muted', t('st.offline') + ' · ' + t('st.version') + ' ' + VERSION),
@@ -734,6 +742,10 @@ function boot() {
   if (location.hash === '#/lesson') location.replace('#/');
   route();
   registerSW();
+  // first visit: introduce the app (people who already have progress skip it)
+  if (!state.onboarded) {
+    if (learnedList().length || state.xp) { state.onboarded = true; save(); } else openIntro();
+  }
   window.__app = { state, t, lang, HADITH, prep, version: VERSION };
 }
 boot();

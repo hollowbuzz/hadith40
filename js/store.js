@@ -40,6 +40,7 @@ function fresh() {
     streak: { count: 0, best: 0, lastDay: null },
     stats: { answers: 0, correct: 0, lessons: 0, perfect: 0, bestCombo: 0, lightningBest: 0, weakSessions: 0, recites: 0, timeMs: 0 },
     achievements: {},
+    onboarded: false,   // the first-visit introduction has been seen
     asked: {},          // question rotation: when each prompt was last asked, and whether it was answered right
   };
 }

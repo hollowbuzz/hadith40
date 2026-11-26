@@ -1,32 +1,85 @@
-# Jawāmiʿ — جوامع
+<div align="center">
 
-**40 Hadith** · <https://hollowbuzz.github.io/hadith40/>
+<img src="icons/icon-192.png" width="96" height="96" alt="">
+
+# Jawāmiʿ · جوامع
+
+**Memorise and revise the 40 Hadith — al-Nawawī’s 42 and Ibn Rajab’s 8 — in Arabic and English.**
+
+### [Open the app → hollowbuzz.github.io/hadith40](https://hollowbuzz.github.io/hadith40/)
+
+Free · no account · works offline · installable on your phone
+
+</div>
+
+<table>
+  <tr>
+    <td><img src="docs/screenshots/intro.jpg" width="180" alt="Welcome screen"></td>
+    <td><img src="docs/screenshots/path.jpg" width="180" alt="Learning path"></td>
+    <td><img src="docs/screenshots/lesson.jpg" width="180" alt="Word-order exercise"></td>
+    <td><img src="docs/screenshots/commentary.jpg" width="180" alt="Commentary in Arabic with English beneath"></td>
+    <td><img src="docs/screenshots/iraab.jpg" width="180" alt="Iʿrāb of a word"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Welcome</sub></td>
+    <td align="center"><sub>Learning path</sub></td>
+    <td align="center"><sub>Lessons</sub></td>
+    <td align="center"><sub>Commentaries</sub></td>
+    <td align="center"><sub>Iʿrāb</sub></td>
+  </tr>
+</table>
 
 The name comes from *jawāmiʿ al-kalim*, the concise, comprehensive words these hadith are known for.
 
-A gamified, offline-first web app to **memorise and revise al-Nawawī’s Forty Hadith with Ibn Rajab’s addition (50 hadith)** — in Arabic and English.
+## What you can do
 
-The Arabic text is taken verbatim from **«متون طالب العلم – المستوى الأول»**, edited by Shaykh ʿAbd al-Muḥsin al-Qāsim ([Shamela, book 570](https://shamela.ws/book/570/68), pp. 79–140). Hadith 43–50 are Ibn Rajab’s addition.
+**Learn and review**
+- Follow a learning path of 50 hadith in five units. Each hadith has five levels.
+- Short lessons with 13 kinds of question: arrange the words, fill the gap (tap or type with an Arabic keyboard), what comes next or before, the missing phrase, spot the wrong word, put the phrases in order, which hadith a phrase is from, hadith numbers, narrators, takhrīj, topics, and matching pairs.
+- Questions rotate: what you haven’t seen comes first, and what you got wrong comes back sooner, so long hadith are covered part by part.
+- Spaced repetition schedules each hadith for review, and *Weak spots* drills the hadith and facts you know least.
+- On first visit, start from the beginning, tick the hadith you already know, or unlock everything.
 
-## Features
+**Read and understand**
+- Three commentaries on every hadith — *Fatḥ al-Qawī al-Matīn*, *al-Tuḥfah al-Rabbāniyyah* and *al-Sharḥ al-Mūjaz al-Mufīd* — in Arabic, English, or each Arabic sentence with its English beneath.
+- A word-by-word iʿrāb of al-Nawawī’s 42 hadith: tap a word in the hadith to see its grammatical analysis.
+- English translation of every hadith, with or without tashkeel, in your choice of Arabic font and size.
 
-- **Learning path** in five units (1–10, 11–20, 21–30, 31–42, Ibn Rajab 43–50); each hadith has 5 mastery levels.
-- **Exercises:** word order, fill-in-the-blank (multiple choice or typed with an on-screen Arabic keyboard), “what comes next?”, “what comes before?”, the missing phrase, spot the wrong word, phrase order, “which hadith is this from?”, hadith **numbers** (both directions), **narrators**, **takhrīj**, topics and meanings, matching pairs, and a self-graded **recitation check**.
-- **Strength tracking:** every hadith is tracked on five facets (text, number, narrator, takhrīj, meaning). Spaced-repetition review schedules each hadith, and *Weak spots* drills your weakest hadith and facets.
-- **Memorise mode:** hide 25–100% of the words (random, from the end, or first letters), then tap a word to peek.
-- **Record yourself:** record your recitation (Memorise tab, and in the recitation check) and play it back at 0.75×–2×. Recordings stay on the device, the newest 10 per hadith.
-- **Commentaries:** three short commentaries on every hadith, *Fatḥ al-Qawī al-Matīn* (al-ʿAbbād), *al-Tuḥfah al-Rabbāniyyah* (al-Anṣārī) and *al-Sharḥ al-Mūjaz al-Mufīd* (al-Muḥsin). Read them as Arabic only, English only, or each Arabic sentence with its English beneath. Open them from the *Commentary* tab on a hadith page, or from the Library, which also has each book’s introduction and contents. The English is an AI translation, not yet reviewed by a scholar.
-- **Iʿrāb:** ʿUmar al-ʿUmarī’s word-by-word grammatical analysis of al-Nawawī’s 42 hadith (Arabic). On the *Iʿrāb* tab, tap an underlined word of the hadith to see its iʿrāb, then step through the words.
-- **Recorded audio (optional):** generate the hadith with Google Cloud Text-to-Speech (`tools/audio/`). *Listen* then plays the recording with each word highlighted, a tap on any word plays from there, and recordings work offline once played. Without recordings the app uses the device's voice.
-- **Sources:** Settings › About lists every text in the app with a link to the original (Shamela, or ketabonline for the iʿrāb).
-- **Duolingo-style game layer:** XP, levels, daily goal, streaks, combos, optional hearts, a 60-second lightning round, achievements, confetti and synthesized sound effects (no audio files).
-- **Arabic and English UI** (full RTL), English translation per paragraph, tashkeel toggle, choice of Arabic font and text size, light and dark themes.
-- **Your data:** saved in the browser (`localStorage`), with JSON **export and import** in Settings.
-- **Offline PWA:** installable, and works offline after the first visit (the commentaries included).
+**Listen and recite**
+- Recorded audio of every hadith, with each word highlighted as it is spoken. Tap a word to play from there.
+- Memorise mode hides 25–100% of the words, or shows only their first letters.
+- Record yourself reciting and play it back at 0.75×–2×.
 
-## Run locally
+**Yours**
+- Arabic and English interface, light and dark themes.
+- Progress stays in your browser; export a backup file and import it on another device.
+- Works offline once loaded, and installs to the home screen.
+- Daily goal, streaks, levels, achievements and a 60-second lightning round.
 
-No build step is needed. Serve the folder over HTTP; ES modules and service workers don’t work from `file://`.
+## Sources
+
+| | Author | Original | In the app |
+|---|---|---|---|
+| The 50 hadith — *Mutūn Ṭālib al-ʿIlm*, level 1 | ed. ʿAbd al-Muḥsin al-Qāsim | [Shamela 570](https://shamela.ws/book/570/68) | Arabic text; English translated for this app |
+| *Fatḥ al-Qawī al-Matīn* | ʿAbd al-Muḥsin al-ʿAbbād | [Shamela 11325](https://shamela.ws/book/11325) | Arabic + English (AI translation) |
+| *al-Tuḥfah al-Rabbāniyyah* | Ismāʿīl al-Anṣārī | [Shamela 4469](https://shamela.ws/book/4469) | Arabic + English (AI translation) |
+| *al-Sharḥ al-Mūjaz al-Mufīd* | ʿAbdullāh al-Muḥsin | [Shamela 8713](https://shamela.ws/book/8713) | Arabic + English (AI translation) |
+| *Iʿrāb al-Arbaʿīn al-Nawawiyyah* | ʿUmar al-ʿUmarī | [ketabonline 12753](https://ketabonline.com/ar/books/12753) | Arabic |
+| Audio | Google Cloud Text-to-Speech (`ar-XA-Wavenet-B`) | — | generated with `tools/audio/` |
+
+**Please note:** the English translations were made for this app with AI and have not yet been reviewed by a scholar. Check with a qualified teacher before relying on them. The books belong to their authors and publishers.
+
+## Roadmap
+
+- **Unlock paths:** finishing particular hadith opens others, instead of one long line.
+- **Mufradāt paths:** optional side paths from *al-Tuḥfah al-Rabbāniyyah* that show a hadith’s key words and phrases with their meanings, then test them.
+- Meaning questions from the commentaries’ vocabulary and lessons.
+- Listening questions using the recorded audio.
+- An optional iʿrāb drill for Arabic learners.
+
+## For developers
+
+No build step and no dependencies: plain HTML, CSS and JavaScript modules. Serve the folder over HTTP (ES modules and service workers don’t work from `file://`):
 
 ```bash
 python3 -m http.server 8000
@@ -34,59 +87,47 @@ python3 -m http.server 8000
 
 Then open <http://localhost:8000>.
 
-## Host on GitHub Pages
+**Deploying:** the site is published with GitHub Pages from `main` (root). The service worker is network-first, so online visitors always get the latest files. When you change files, bump `VERSION` in `sw.js` (and in `js/app.js`): this refreshes the offline copy and shows returning users a “new version” prompt.
 
-1. Create a new repository on GitHub, for example `hadith40`.
-2. Push this folder to it:
-   ```bash
-   git init && git add . && git commit -m "Jawāmiʿ app"
-   git branch -M main
-   git remote add origin https://github.com/<you>/hadith40.git
-   git push -u origin main
-   ```
-3. On GitHub, open **Settings → Pages**. Under **Source** choose *Deploy from a branch*, then pick **main** and **/ (root)**, and save.
-4. Your site is published at `https://<you>.github.io/hadith40/`. All paths are relative, so it works from a sub-folder.
-
-**Updating:** the service worker is network-first, so online visitors always get the latest files. When you change files, also bump `VERSION` in `sw.js`. This refreshes the offline copy and shows returning users a “new version” prompt.
-
-## Project layout
+### Project layout
 
 ```
 index.html            app shell (+ inline SVG icons)
 css/app.css           all styles (light/dark, RTL/LTR, mobile/desktop)
 js/app.js             router + views (path, practice, library, hadith page, profile, settings)
+js/intro.js           first-visit introduction, "hadith I already know" picker
+js/lesson.js          lesson runner, exercise screens, lightning round, end screens
+js/quiz.js            question generators, session builders, rotation (unseen and missed prompts first)
+js/srs.js             mastery facets, spaced repetition, strength and weak lists
 js/sharh.js           commentary reader (three books × three reading modes) and book pages
 js/iraab.js           iʿrāb reader (tappable words, entry sheet) and its book page
 js/audio.js           recorded-audio player with word timings (falls back to the device voice)
-js/lesson.js          lesson runner, exercise screens, lightning round, end screens
-js/quiz.js            question generators, session builders, and rotation (unseen and missed prompts first)
 js/recorder.js        record yourself and play back at any speed (IndexedDB)
-js/srs.js             mastery facets, spaced repetition, strength and weak lists
 js/text.js            Arabic normalisation, tokens, phrases, openings
 js/store.js           localStorage state, XP/streak/level, export/import
 js/i18n.js            English/Arabic UI strings
 js/data.js            GENERATED hadith dataset (do not edit by hand)
 js/render.js, ui.js, sound.js, achievements.js
-sw.js, manifest.webmanifest, icons/
+sw.js, manifest.webmanifest, icons/, docs/screenshots/
 data/shamela-raw.json raw text scraped from Shamela
 data/commentaries/    the three commentaries, Arabic + English aligned by sentence (see its README)
 data/iraab/           the iʿrāb of the 42 hadith, Arabic (see its README)
-data/audio/           hadith recordings + index.json with word timings, once generated (see tools/audio/README.md)
-tools/                scripts that rebuild js/data.js; tools/commentaries/ and tools/iraab/ rebuild the books;
-                      tools/audio/ generates the recordings
+data/audio/           hadith recordings + index.json with word timings (see tools/audio/README.md)
+tools/                build scripts: hadith data, commentaries, iʿrāb, audio
 ```
 
-## Rebuilding the data
+### Rebuilding the data
 
 ```bash
 python3 tools/fetch_shamela.py   # re-download pages 71–132 of book 570 → data/shamela-raw.json
 python3 tools/build_data.py      # merge with tools/meta.json → js/data.js
 ```
 
-`tools/meta.json` holds the titles, short narrator names, takhrīj keys, English translations and editorial corrections. The build script splits each paragraph into narration, matn, Qur’an and takhrīj segments, which the app colours differently.
+`tools/meta.json` holds the titles, short narrator names, takhrīj keys, English translations and editorial corrections. The build script splits each paragraph into narration, matn, Qurʾān and takhrīj segments, which the app colours differently.
 
-## Notes on the text
+The commentaries, iʿrāb and audio each have their own build script and README: [tools/commentaries](tools/commentaries/STYLE.md), [data/commentaries](data/commentaries/README.md), [data/iraab](data/iraab/README.md), [tools/audio](tools/audio/README.md).
+
+### Notes on the text
 
 - The Arabic is reproduced as it appears in the Shamela edition, including the edition’s spelling (for example «امْرِاءٍ»).
 - **One correction:** in hadith 29, the Shamela text ends the quoted ayah with «يَعْلَمُونَ». The ayah (al-Sajdah 32:17) ends «يَعْمَلُونَ», so the app uses that word and shows a note on the hadith page. Edit or remove it under `corrections` in `tools/meta.json`.
-- **The English translations were prepared for this app** directly from the Arabic text, paragraph by paragraph. They are not taken from a published translation. Please have them reviewed by a qualified teacher before relying on them.
