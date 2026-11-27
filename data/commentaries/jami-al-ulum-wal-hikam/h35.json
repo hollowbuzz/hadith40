@@ -1,0 +1,2315 @@
+{
+ "id": "h35",
+ "number": 35,
+ "standard_number": 35,
+ "collection": "nawawi",
+ "heading": {
+  "ar": "الحديث الخامس والثلاثون",
+  "en": "Hadith 35"
+ },
+ "title": {
+  "ar": "أخوة الإسلام",
+  "en": "The Brotherhood of Islām"
+ },
+ "pages": {
+  "start": 710,
+  "end": 730
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.n1",
+     "pages": [
+      710
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنْ أَبي هُريرةَ رضي الله عنه، قالَ: قالَ رسول الله صلى الله عليه وسلم: «لا تَحَاسَدُوا، ولا تَنَاجَشوا، ولا تَبَاغَضُوا، ولا تَدَابَرُوا، ولا يَبِعْ بَعضُكُمْ على بَيعِ بَعضٍ، وكُونُوا عِبادَ اللهِ إِخْواناً، المُسلِمُ أَخُو المُسلم،",
+         "en": "From Abū Hurayrah (may Allah be pleased with him), who said: The Messenger of Allah ﷺ said: “Do not envy one another; do not inflate prices against one another; do not hate one another; do not turn your backs on one another; and do not undercut one another's sales. Be, servants of Allah, brothers. The Muslim is the brother of the Muslim:"
+        },
+        {
+         "ar": "لا يَظلِمُهُ ولا يَخذُلُهُ، ولا يَكذِبُهُ، ولا يَحقِرُهُ، التَّقوى هاهُنا»، - ويُشيرُ إلى صدرِهِ ثلاثَ مرَّاتٍ - «بِحَسْبِ امرئٍ مِنَ الشَّرِّ أنْ يَحقِرَ أخَاهُ المُسلِمَ، كُلُّ المُسلمِ على المُسلِمِ حرامٌ: دَمُهُ ومَالُهُ وعِرضُهُ». رواه مسلم.",
+         "en": "he does not wrong him, nor forsake him, nor lie to him, nor look down on him. Taqwā is here” — and he pointed to his chest three times — “It is evil enough for a man to look down on his Muslim brother. All of the Muslim is inviolable to the Muslim: his blood, his wealth and his honour.” Muslim reported it."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c1",
+     "pages": [
+      710
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "هذا الحديث خرَّجه مسلم من رواية أبي سعيدٍ مولى عبد الله بن عامر بن كُرَيز عن أبي هريرة،",
+         "en": "Muslim recorded this hadith through the narration of Abū Saʿīd, the freed slave of ʿAbdullāh ibn ʿĀmir ibn Kurayz, from Abū Hurayrah."
+        },
+        {
+         "ar": "وأبو سعيد هذا لا يعرَفُ اسمُه، وقد روى عنه غيرُ واحدٍ، وذكره ابن حبان في \" ثقاته \"، وقال ابن المديني: هو مجهول.",
+         "en": "This Abū Saʿīd's name is not known. More than one person narrated from him, and Ibn Ḥibbān mentioned him in his Thiqāt, while Ibn al-Madīnī said: He is unknown."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c2",
+     "pages": [
+      710
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى هذا الحديث سفيان الثوري، فقال فيه: عن سعيد بن يسار، عن أبي هُريرة، ووهم في قوله: «سعيد بن يسار»، إنَّما هو: أبو سعيد مولى ابنِ كُريز، قاله أحمد ويحيى والدَّارقطني، وقد رُوِي بعضُه من وجه آخر.",
+         "en": "Sufyān al-Thawrī reported this hadith, saying in it: from Saʿīd ibn Yasār, from Abū Hurayrah. He erred in saying “Saʿīd ibn Yasār”; it is in fact Abū Saʿīd, the freed slave of Ibn Kurayz. So said Aḥmad, Yaḥyā and al-Dāraquṭnī. Part of it has also been narrated by another route."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c3",
+     "pages": [
+      710
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه الترمذي من رواية أبي صالح عن أبي هريرة، قال: قال رسول الله صلى الله عليه وسلم: «المسلم أخو المسلم،",
+         "en": "Al-Tirmidhī recorded it through the narration of Abū Ṣāliḥ, from Abū Hurayrah, who said: The Messenger of Allah ﷺ said: “The Muslim is the brother of the Muslim:"
+        },
+        {
+         "ar": "لا يخونُه ولا يكذِبُه ولا يَخذُلُه، كلُّ المسلمِ على المسلم حرامٌ: عِرْضُه وماله ودمُه، التقوى هاهنا، بحسب امرئٍ منَ الشرِّ أنْ يحقِرَ أخاهُ المسلم».",
+         "en": "he does not betray him, lie to him or forsake him. All of the Muslim is inviolable to the Muslim: his honour, his wealth and his blood. Taqwā is here. It is evil enough for a man to look down on his Muslim brother.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c4",
+     "pages": [
+      711
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج أبو داود من قوله: «كلُّ المسلم» إلى آخره.",
+         "en": "Abū Dāwūd recorded it from his words, “All of the Muslim…”, to the end."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c5",
+     "pages": [
+      711
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجاه في \" الصحيحين \" من رواية الأعرج عن أبي هريرة عن النَّبيِّ صلى الله عليه وسلم، قال: «لا تحاسَدُوا ولا تناجَشُوا، ولا تباغَضُوا ولا تَدابَروا، وكونوا عبادَ اللهِ إخواناً».",
+         "en": "Al-Bukhārī and Muslim recorded in the two Ṣaḥīḥs, through the narration of al-Aʿraj, from Abū Hurayrah, that the Prophet ﷺ said: “Do not envy one another, do not inflate prices against one another, do not hate one another, do not turn your backs on one another, and be, servants of Allah, brothers.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c6",
+     "pages": [
+      711
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجاه من وجوه أخر عن أبي هريرة.",
+         "en": "They also recorded it by other routes from Abū Hurayrah."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c7",
+     "pages": [
+      711
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد من حديث واثلةَ بنِ الأسقعِ، عن النَّبيِّ صلى الله عليه وسلم، قال:",
+         "en": "Imam Aḥmad recorded, from the hadith of Wāthilah ibn al-Asqaʿ, that the Prophet ﷺ said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c8",
+     "pages": [
+      711
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«كُلُّ المسلم على المسلم حرامٌ: دمه، وعرضه، وماله، المسلم أخو المسلمِ، لا يظلمُه ولا يَخذُلُه، والتَّقوى هاهنا - وأومأ بيده إلى القلب - وحسبُ امرئٍ منَ الشرِّ أنْ يحقِرَ أخاهُ المسلم».",
+         "en": "“All of the Muslim is inviolable to the Muslim: his blood, his honour and his wealth. The Muslim is the brother of the Muslim: he does not wrong him or forsake him. Taqwā is here” — and he pointed with his hand to the heart — “and it is evil enough for a man to look down on his Muslim brother.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c9",
+     "pages": [
+      711
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج أبو داود آخره فقط.",
+         "en": "Abū Dāwūd recorded only the last part of it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c10",
+     "pages": [
+      711
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" من حديث ابن عمرَ عن النَّبيِّ صلى الله عليه وسلم، قال: «المسلم أخو المسلم، لا يَظلِمُهُ ولا يُسلِمه».",
+         "en": "In the two Ṣaḥīḥs, from the hadith of Ibn ʿUmar, the Prophet ﷺ said: “The Muslim is the brother of the Muslim: he does not wrong him or abandon him to harm.”"
+        },
+        {
+         "ar": "وخرَّجه الإمامُ أحمد، ولفظه: «المسلم أخو المسلم، لا يظلِمُه ولا يخذُله ولا يحقِرُه، وبحسب المرئ مِنَ الشَّرِّ أن يحقِرَ أخاه المسلم».",
+         "en": "Imam Aḥmad recorded it, in this wording: “The Muslim is the brother of the Muslim: he does not wrong him, forsake him or look down on him; and it is evil enough for a man to look down on his Muslim brother.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c11",
+     "pages": [
+      711,
+      712
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن أنس، عن النَّبيِّ صلى الله عليه وسلم، قال: «لا تباغَضُوا، ولا تحاسَدوا، ولا تدابروا، وكونوا عِبادَ الله إخواناً».",
+         "en": "In the two Ṣaḥīḥs, from Anas, the Prophet ﷺ said: “Do not hate one another, do not envy one another, do not turn your backs on one another, and be, servants of Allah, brothers.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c12",
+     "pages": [
+      712
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويُروى معناه من حديث أبي بكر الصديق مرفوعاً وموقوفاً.",
+         "en": "Its meaning is narrated from the hadith of Abū Bakr al-Ṣiddīq, both as marfūʿ (attributed to the Prophet ﷺ) and as mawqūf on him (his own words)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c13",
+     "pages": [
+      712
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فقوله صلى الله عليه وسلم: «لا تحاسدوا» يعني: لا يحسُدْ بعضُكم بعضاً، والحسدُ مركوزٌ في طباع البشر، وهو أنَّ الإنسان يكرهُ أن يفوقَهُ أحدٌ منْ جنسهِ في شيءٍ من الفضائل.",
+         "en": "His words ﷺ, “Do not envy one another,” mean: let none of you envy another. Envy is ingrained in human nature: it is a person's dislike of anyone of his own kind surpassing him in any kind of excellence."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c14",
+     "pages": [
+      712
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ثم ينقسم الناس بعدَ هذا إلى أقسام، فمنهم من يسعى في زوال نعمةِ المحسودِ بالبغي عليه بالقول والفعل، ثمَّ منهم من يسعى في نقلِ ذلك إلى نفسه،",
+         "en": "After this, people fall into several groups. Some strive to bring about the loss of the envied person's blessing by transgressing against him in word and deed. Of these, some strive to transfer it to themselves,"
+        },
+        {
+         "ar": "ومنهم من يَسعى في إزالته عن المحسودِ فقط من غيرِ نقل إلى نفسه، وهو شرُّهما وأخبثهما، وهذا هو الحسدُ المذمومُ المنهيُّ عنه،",
+         "en": "and some strive only to remove it from the envied person without transferring it to themselves; this is the worse and the more vile of the two. This is the blameworthy envy that has been forbidden."
+        },
+        {
+         "ar": "وهو كان ذنبَ إبليس حيث حسدَ آدم عليه السلام لمَّا رآه قد فاق على الملائكة بأنْ خلقه الله بيده، وأسجد له ملائكتَه، وعلَّمه أسماء كلِّ شيءٍ، وأسكنه في جواره،",
+         "en": "It was the sin of Iblīs, when he envied Ādam (peace be upon him) on seeing that he had surpassed the angels: Allah had created him with His hand, made His angels prostrate to him, taught him the names of all things and settled him in His nearness."
+        },
+        {
+         "ar": "فما زال يسعى في إخراجه من الجنَّة حتَّى أخرج منها، ويروى عن ابن عمرَ أنَّ إبليسَ قال لنوح:",
+         "en": "He did not cease striving to have him expelled from Paradise until he was expelled from it. It is narrated from Ibn ʿUmar that Iblīs said to Nūḥ:"
+        },
+        {
+         "ar": "اثنتان بهما أُهلك بني آدم: الحسد، وبالحسد لُعِنتُ وجُعلتُ شيطاناً رجيماً، والحرص وبالحرص أُبيح آدمُ الجنةَ كلَّها، فأصبتُ حاجتي منه بالحرص.",
+         "en": "With two things I destroy the children of Ādam: envy — and by envy I was cursed and made an accursed devil — and greed — and the whole of Paradise was made lawful to Ādam, yet through greed I got what I wanted from him."
+        },
+        {
+         "ar": "خرَّجه ابنُ أبي الدُّنيا.",
+         "en": "Ibn Abī al-Dunyā recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c15",
+     "pages": [
+      712
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد وصف الله اليهودَ بالحسد في مواضع من كتابه القرآن، كقوله تعالى:",
+         "en": "Allah has described the Jews as envious in several places in His Book, the Qurʾān, such as His words, Exalted is He:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c16",
+     "pages": [
+      712
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "{وَدَّ كَثِيرٌ مِنْ أَهْلِ الْكِتَابِ لَوْ يَرُدُّونَكُمْ مِنْ بَعْدِ إِيمَانِكُمْ كُفَّاراً حَسَداً مِنْ عِنْدِ أَنْفُسِهِمْ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُمُ الْحَقّ}، وقوله: {أَمْ يَحْسُدُونَ النَّاسَ عَلَى مَا آتَاهُمُ اللهُ مِنْ فَضْلِهِ}.",
+         "en": "“Many of the People of the Book wish they could turn you back into disbelievers after your faith, out of envy from within themselves, after the truth has become clear to them” [al-Baqarah 2:109]; and His words: “Or do they envy people for what Allah has given them of His bounty?” [al-Nisāʾ 4:54]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c17",
+     "pages": [
+      712,
+      713
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد والترمذي من حديث الزُّبير بن العوَّام، عن النَّبيِّ صلى الله عليه وسلم: «دبَّ إليكم داءُ الأمم من قبلكم: الحسدُ والبغضاءُ،",
+         "en": "Imam Aḥmad and al-Tirmidhī recorded, from the hadith of al-Zubayr ibn al-ʿAwwām, from the Prophet ﷺ: “The disease of the nations before you has crept into you: envy and hatred."
+        },
+        {
+         "ar": "والبغضاءُ هي الحالقة، حالقة الدين لا حالقةُ الشعر، والذي نفس محمد بيده لا تُؤمنوا حتى تحابُّوا، أولا أُنبئكم بشيءٍ إذا فعلتموه تحابَبْتُم؟",
+         "en": "Hatred is the shaver — the shaver of religion, not the shaver of hair. By Him in whose hand is Muḥammad's soul, you will not believe until you love one another. Shall I not tell you of something that, if you do it, you will love one another?"
+        },
+        {
+         "ar": "أفشوا السَّلام بينكم».",
+         "en": "Spread the greeting of peace among you.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c18",
+     "pages": [
+      713
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج أبو داود من حديث أبي هريرة، عن النَّبيِّ صلى الله عليه وسلم، قال:",
+         "en": "Abū Dāwūd recorded, from the hadith of Abū Hurayrah, that the Prophet ﷺ said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c19",
+     "pages": [
+      713
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«إيَّاكم والحسد، فإنَّ الحسدَ يأكلُ الحسناتِ كما تأكلُ النَّارُ الحطب، أو قال: العُشبَ».",
+         "en": "“Beware of envy, for envy devours good deeds as fire devours firewood” — or he said: “grass.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c20",
+     "pages": [
+      713
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الحاكم وغيرُه من حديث أبي هريرة، عن النَّبيِّ صلى الله عليه وسلم، قال: «سيُصيبُ أُمَّتي داءُ الأمم»، قالوا: يا نبيَّ الله، وما داءُ الأمم؟",
+         "en": "Al-Ḥākim and others recorded, from the hadith of Abū Hurayrah, that the Prophet ﷺ said: “The disease of the nations will strike my nation.” They said: Prophet of Allah, what is the disease of the nations?"
+        },
+        {
+         "ar": "قال: «الأشرُ والبَطَرُ، والتَّكاثرُ والتَّنافسُ في الدُّنيا، والتَّباغُض، والتَّحاسدُ حتى يكونَ البغيُ ثمَّ الهرجُ».",
+         "en": "He said: “Insolence, arrogance, vying for more, competing for this world, hating one another and envying one another, until there is transgression and then killing.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c21",
+     "pages": [
+      713
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقسم آخر من الناسِ إذا حسدَ غيره، لم يعمل بمقتضى حسده، ولم يبغِ على المحسود بقولٍ ولا فعلٍ.",
+         "en": "Another group of people, when they envy someone, do not act on their envy and do not transgress against the envied person in word or deed."
+        },
+        {
+         "ar": "وقد رُوي عن الحسن أنَّه لا يأثمُ بذلك، وروي مرفوعاً من وجوه ضعيفة، وهذا على نوعين:",
+         "en": "It is narrated from al-Ḥasan that one does not sin by that, and this has been narrated as marfūʿ by weak routes. This is of two kinds."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c22",
+     "pages": [
+      713
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدهما: أنْ لا يمكنه إزالةُ الحسدِ من نفسِه، فيكون مغلوباً على ذَلِكَ، فلا يأثمُ به.",
+         "en": "The first is that he is unable to remove the envy from himself; he is overcome by it, and so does not sin by it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c23",
+     "pages": [
+      713
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثاني: من يُحدِّثُ نفسَه بذلك اختياراً، ويُعيده ويُبديه في نفسه مُستروِحاً إلى تمنِّي زوالِ نعمة أخيه، فهذا شبيهٌ بالعزم المصمِّم على المعصية،",
+         "en": "The second is one who deliberately entertains it, turning it over again and again within himself and taking comfort in wishing that his brother's blessing would cease. This resembles a firm resolve to commit a sin,"
+        },
+        {
+         "ar": "وفي العقاب على ذلك اختلافٌ بين العلماء، وربما يُذكر في موضعٍ آخر إنْ شاء الله تعالى، لكن هذا يَبعُدُ أن يَسلَمَ من البغي على المحسود، ولو بالقول، فيأثم بذلك.",
+         "en": "and scholars differ over whether one is punished for that; it may be discussed elsewhere, if Allah the Exalted wills. But such a person is unlikely to keep from transgressing against the one he envies, if only in words, and so he sins by that."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c24",
+     "pages": [
+      714
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقسم آخر إذا حسد لم يتمنَّ زوال نعمة المحسود، بل يسعى في اكتساب مثل فضائله، ويتمنَّى أنْ يكونَ مثله، فإن كانتِ الفضائلُ دنيويَّةً، فلا خيرَ في ذلك،",
+         "en": "Another group, when they envy, do not wish the envied person's blessing to cease, but strive to acquire excellences like his and wish to be like him. If the excellences are worldly, there is no good in that,"
+        },
+        {
+         "ar": "كما قال الَّذينَ يُريدُونَ الحياةَ الدُّنيا: {يَا لَيْتَ لَنَا مِثْلَ مَا أُوتِيَ قَارُونُ}، وإنْ كانت فضائلَ دينيَّةً، فهو حسن، وقد تمنَّى النَّبيُّ صلى الله عليه وسلم الشَّهادة في سبيل الله عز وجل.",
+         "en": "as those who desired the life of this world said: “If only we had the like of what Qārūn has been given” [al-Qaṣaṣ 28:79]. If they are religious excellences, it is good; the Prophet ﷺ himself wished for martyrdom in the path of Allah, the Mighty and Majestic."
+        },
+        {
+         "ar": "وفي \" الصحيحين \" عنه صلى الله عليه وسلم، قال: «لا حسدَ إلاَّ في اثنتين:",
+         "en": "In the two Ṣaḥīḥs, he ﷺ said: “There is no envy except in two cases:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c25",
+     "pages": [
+      714
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "رجلٌ آتاه اللهُ مالاً، فهو يُنفقه آناء الليل وآناء النَّهار، ورجلٌ آتاهُ اللهُ القرآن، فهو يقومُ به آناء اللَّيل وآناءَ النَّهار»، وهذا هو الغبطة، وسماه حسداً من باب الاستعارة.",
+         "en": "a man to whom Allah has given wealth, and he spends it through the hours of the night and the day; and a man to whom Allah has given the Qurʾān, and he stands in prayer with it through the hours of the night and the day.” This is wholesome emulation (ghibṭah), and he called it envy figuratively."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c26",
+     "pages": [
+      714
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقسم آخر إذا وجدَ من نفسه الحسدَ سعى في إزالته، وفي الإحسان إلى المحسود بإسداءِ الإحسان إليه، والدُّعاء له،",
+         "en": "Another group, when they find envy in themselves, strive to remove it and to do good to the one they envy, by showing him kindness, praying for him"
+        },
+        {
+         "ar": "ونشر فضائله، وفي إزالة ما وَجَدَ له في نفسه مِنَ الحسدِ حتّى يبدلَه بمحبَّة أنْ يكونَ أخوه المسلمُ خيراً منه وأفضلَ،",
+         "en": "and spreading word of his merits, and by ridding themselves of the envy they find towards him, until they replace it with the wish that their Muslim brother be better and more excellent than they are."
+        },
+        {
+         "ar": "وهذا مِنْ أعلى درجات الإيمان، وصاحبه هو المؤمنُ الكاملُ الذي يُحبُّ لأخيه ما يحبُّ لنفسه، وقد سبق الكلام على هذا في تفسير حديث: «لا يؤمن أحدكم حتى يحب لأخيه ما يحب لنفسه».",
+         "en": "This is among the highest degrees of faith, and the one who has it is the believer complete in faith, who loves for his brother what he loves for himself. We have already discussed this in explaining the hadith, “None of you believes until he loves for his brother what he loves for himself.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c27",
+     "pages": [
+      714
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله صلى الله عليه وسلم: «ولا تناجَشوا»: فسَّره كثيرٌ من العلماء بالنَّجْشِ في البيع، وهو: أن يزيدَ في السِّلعة من لا يُريدُ شِراءها،",
+         "en": "His words ﷺ, “do not inflate prices against one another”: many scholars explained this as najsh in sales, which is when someone who does not want to buy an item bids up its price,"
+        },
+        {
+         "ar": "إمَّا لنفع البائع بزيادةِ الثَّمن له، أو بإضرارِ المشتري بتكثير الثمن عليه، وفي \" الصحيحين \" عن ابنِ عمرَ، عن النَّبيِّ صلى الله عليه وسلم أنَّه نهى عن النَّجش.",
+         "en": "either to benefit the seller by raising its price for him, or to harm the buyer by making it dearer for him. In the two Ṣaḥīḥs, from Ibn ʿUmar, the Prophet ﷺ forbade najsh."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c28",
+     "pages": [
+      714
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال ابن أبي أوفى: النَّاجش: آكلُ ربا خائنٌ، ذكره البخاري.",
+         "en": "Ibn Abī Awfā said: The one who practises najsh is a devourer of usury and a cheat. Al-Bukhārī mentioned it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c29",
+     "pages": [
+      715
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال ابنُ عبد البرِّ: أجمعوا أنَّ فاعلَه عاصٍ لله عز وجل إذا كان بالنَّهي عالماً.",
+         "en": "Ibn ʿAbd al-Barr said: They are agreed that whoever does it is disobeying Allah, the Mighty and Majestic, if he knows of the prohibition."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c30",
+     "pages": [
+      715
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "واختلفوا في البيع، فمنهم من قال: إنَّه فاسدٌ، وهو روايةٌ عن أحمد، اختارها طائفةٌ من أصحابه، ومنهم من قال: إنْ كان الناجشُ هو البائعَ، أو من واطأه البائع على النَّجش فسد؛",
+         "en": "They differed over the sale itself. Some said it is invalid; this is a reported position of Aḥmad, chosen by a group of his followers. Others said: If the one bidding up is the seller, or someone the seller colluded with, the sale is invalid,"
+        },
+        {
+         "ar": "لأنَّ النَّهيَ هُنا يعودُ إلى العاقدِ نفسِه، وإنْ لم يكن كذلك، لم يفسُد، لأنَّه يعودُ إلى أجنبيٍّ.",
+         "en": "because the prohibition here relates to the contracting party himself; otherwise it is not invalid, because it relates to an outsider."
+        },
+        {
+         "ar": "وكذا حُكِي عَنِ الشَّافعيِّ أنَّه علَّل صحة البيع بأنَّ البائعَ غيرُ النَّاجش،",
+         "en": "Likewise it is related that al-Shāfiʿī explained the sale's validity by the seller being someone other than the one bidding up."
+        },
+        {
+         "ar": "وأكثرُ الفقهاء على أنَّ البيعَ صحيحٌ مطلقاً وهو قولُ أبي حنيفة ومالكٍ والشَّافعيِّ وأحمد في رواية عنه، إلاَّ أنَّ مالكاً وأحمد أثبتا للمشتري الخيارَ إذا لم يعلم بالحال،",
+         "en": "Most jurists hold that the sale is valid in every case. This is the view of Abū Ḥanīfah, Mālik, al-Shāfiʿī, and Aḥmad in one reported position — except that Mālik and Aḥmad gave the buyer the option of annulling if he did not know the circumstances"
+        },
+        {
+         "ar": "وغُبِنَ غَبناً فاحشاً يخرج عن العادة، وقدَّره مالكٌ وبعضُ أصحاب أحمد بثلث الثَّمنِ، فإن اختارَ المشتري حينئذٍ الفسخَ، فله ذلك، وإن أراد الإمساكَ، فإنَّه يحطُّ ما غُبِنَ به من الثَّمن، ذكره أصحابنا.",
+         "en": "and was grossly overcharged beyond what is customary. Mālik and some of Aḥmad's followers set this at a third of the price. If the buyer then chooses to annul the sale, he may; and if he wants to keep it, the amount by which he was overcharged is deducted from the price. The scholars of our [Ḥanbalī] school have mentioned this."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c31",
+     "pages": [
+      715
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويحتمل أن يُفسَّرَ التَّناجُشُ المنهيُ عنه في هذا الحديث بما هو أعمُّ من ذلك، فإنَّ أصلَ النَّجش في اللُّغة: إثارةُ الشَّيءِ بالمكرِ والحيلةِ والمخادعةِ،",
+         "en": "The tanājush forbidden in this hadith may also be explained more broadly, for the root meaning of najsh in the language is stirring something up by scheming, trickery and deceit."
+        },
+        {
+         "ar": "ومنه سُمِّي النَّاجِشُ في البيع ناجشاً، ويسمّى الصَّائدُ في اللغة ناجشاً، لأنَّه يُثير الصَّيد بحيلته عليه، وخِداعِه له، وحينئذٍ، فيكونُ المعنى: لا تتخادَعوا، ولا يُعامِلْ بعضُكُم بعضاً بالمكرِ والاحتيال.",
+         "en": "That is why the one who bids up prices in a sale is called a nājish, and in the language a hunter is also called a nājish, because he stirs up the game by trickery and deceit. On this view the meaning is: Do not deceive one another, and let none of you deal with another by scheming and trickery."
+        },
+        {
+         "ar": "وإنَّما يُرادُ بالمكر والمخادعة إيصالُ الأذى إلى المسلم: إمَّا بطريقِ الأصالة، وإما اجتلاب نفعه بذلك، ويلزم منه وصولُ الضَّرر إليه، ودخولُه عليه، وقد قال الله عز وجل: {وَلا يَحِيقُ الْمَكْرُ السَّيِّئُ إِلاَّ بِأَهْلِهِ}.",
+         "en": "Scheming and deceit are aimed only at bringing harm to a Muslim, either directly, or by gaining some benefit for oneself that necessarily brings harm upon him. Allah, the Mighty and Majestic, has said: “But the evil plot encompasses none but its own people” [Fāṭir 35:43]."
+        },
+        {
+         "ar": "وفي حديث ابن مسعودٍ عنِ النَّبيِّ صلى الله عليه وسلم: «مَنْ غَشَّنا فليس منَّا، والمكرُ والخِداعُ في النار».",
+         "en": "In the hadith of Ibn Masʿūd, from the Prophet ﷺ: “Whoever cheats us is not of us; scheming and deceit are in the Fire.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c32",
+     "pages": [
+      716
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد ذكرنا فيما تقدَّم حديث أبي بكر الصدِّيق المرفوع: «ملعونٌ من ضارَّ مسلماً أو مكرَ به» خرَّجه الترمذيُّ.",
+         "en": "We have already mentioned the marfūʿ hadith of Abū Bakr al-Ṣiddīq: “Accursed is whoever harms a Muslim or schemes against him.” Al-Tirmidhī recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c33",
+     "pages": [
+      716
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فيدخل على هذا التقدير في التناجش المنهي عنه جميعُ أنواع المعاملات بالغشِّ ونحوه، كتدليس العيوب، وكِتمانها، وغشِّ المبيع الجيد بالرديء،",
+         "en": "On this reading, the forbidden tanājush includes every kind of dealing that involves cheating and the like, such as disguising and concealing defects, and adulterating good merchandise with bad,"
+        },
+        {
+         "ar": "وغَبْنِ المسترسل الذي لا يَعرِفُ المماكسة، وقد وصف الله تعالى في كتابه الكفَّار والمنافقين بالمكر بالأنبياء وأتباعهم، وما أحسنَ قول أبي العتاهية:",
+         "en": "and overcharging a trusting man who does not know how to bargain. In His Book, Allah the Exalted has described the disbelievers and the hypocrites as scheming against the prophets and their followers. And how excellent are the words of Abū al-ʿAtāhiyah:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c34",
+     "pages": [
+      716
+     ],
+     "paragraphs": [
+      {
+       "kind": "verse",
+       "segments": [
+        {
+         "ar": "لَيس دُنيا إلاَّ بدينٍ ولَيْـ … ـسَ الدِّين إلاَّ مَكارمُ الأخْلاقِ",
+         "en": "There is no worldly good save with religion, / and religion is nothing but noble character."
+        },
+        {
+         "ar": "إنَّما المَكْرُ والخَديعَةُ في النَّارِ … هُمَا مِنْ خِصالِ أهْلِ النِّفاقِ",
+         "en": "Scheming and deceit belong in the Fire; / they are among the traits of the people of hypocrisy."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c35",
+     "pages": [
+      716
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وإنَّما يجوزُ المكرُ بمن يجوزُ إدخالُ الأذى عليه، وهم الكفَّارُ المحاربون، كما قال النَّبيُّ صلى الله عليه وسلم: «الحربُ خدعةٌ».",
+         "en": "Scheming is permissible only against those whom it is permissible to harm, namely disbelievers at war, as the Prophet ﷺ said: “War is deception.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c36",
+     "pages": [
+      716
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله صلى الله عليه وسلم: «ولا تَباغضوا»: نهى المسلمين عَنِ التَّباغض بينهم في غير الله، بل على أهواءِ النُّفوسِ، فإنَّ المسلمينَ جعلهمُ الله إخوةً، والإخوةُ يتحابُّونَ بينهم،",
+         "en": "His words ﷺ, “do not hate one another”: he forbade Muslims to hate one another for reasons other than Allah, out of personal whims. Allah has made the Muslims brothers, and brothers love one another"
+        },
+        {
+         "ar": "ولا يتباغضون، وقال النَّبيُّ صلى الله عليه وسلم: «والذي نفسي بيده، لا تدخُلُوا الجنَّة حتى تؤمنوا، ولا تؤمنوا حتَّى تحابُّوا، ألا أدلُّكم على شيءٍ إذا فعلمتموه تحاببتم؟",
+         "en": "and do not hate one another. The Prophet ﷺ said: “By Him in whose hand is my soul, you will not enter Paradise until you believe, and you will not believe until you love one another. Shall I not direct you to something that, if you do it, you will love one another?"
+        },
+        {
+         "ar": "أفشوا السَّلام بينكم» خرَّجه مسلم.",
+         "en": "Spread the greeting of peace among you.” Muslim recorded it."
+        },
+        {
+         "ar": "وقد ذكرنا فيما تقدَّم أحاديثَ في النَّهي عن التَّباغُض والتَّحاسد.",
+         "en": "We have already mentioned hadiths forbidding hatred and envy of one another."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c37",
+     "pages": [
+      716
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد حرَّم الله على المؤمنين ما يُوقع بينهم العداوة والبغضاء، كما قال:",
+         "en": "Allah has made unlawful for the believers whatever stirs up enmity and hatred between them, as He says:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c38",
+     "pages": [
+      716
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "{إِنَّمَا",
+         "en": "“All that"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c39",
+     "pages": [
+      717
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "يُرِيدُ الشَّيْطَانُ أَنْ يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ فِي الْخَمْرِ وَالْمَيْسِرِ وَيَصُدَّكُمْ عَنْ ذِكْرِ اللهِ وَعَنِ الصَّلاةِ فَهَلْ أَنْتُمْ مُنْتَهُونَ}.",
+         "en": "Satan wants is to stir up enmity and hatred between you through wine and gambling, and to turn you away from the remembrance of Allah and from prayer. Will you not then desist?” [al-Māʾidah 5:91]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c40",
+     "pages": [
+      717
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وامتنَّ على عباده بالتَّأليف بين قلوبهم، كما قال تعالى: {وَاذْكُرُوا نِعْمَتَ اللهِ عَلَيْكُمْ إِذْ كُنْتُمْ أَعْدَاءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُمْ بِنِعْمَتِهِ إِخْوَاناً}،",
+         "en": "He has reminded His servants of His favour in bringing their hearts together, as the Exalted says: “And remember the favour of Allah upon you, when you were enemies and He brought your hearts together, so that by His favour you became brothers” [Āl ʿImrān 3:103];"
+        },
+        {
+         "ar": "وقال: {هُوَ الَّذِي أَيَّدَكَ بِنَصْرِهِ وَبِالْمُؤْمِنِينَ وَأَلَّفَ بَيْنَ قُلُوبِهِمْ لَوْ أَنْفَقْتَ مَا فِي الأَرْضِ جَمِيعاً مَا أَلَّفْتَ بَيْنَ قُلُوبِهِمْ وَلَكِنَّ اللهَ أَلَّفَ بَيْنَهُمْ}.",
+         "en": "and He says: “It is He who supported you with His help and with the believers, and brought their hearts together. Had you spent all that is on earth, you could not have brought their hearts together, but Allah brought them together” [al-Anfāl 8:62–63]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c41",
+     "pages": [
+      717
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولهذا المعنى حرم المشي بالنَّميمة، لما فيها من إيقاع العداوة والبغضاء، ورُخِّصَ في الكذب في الإصلاح بين النَّاس، ورغَّب الله في الإصلاح بينهم، كما قال تعالى:",
+         "en": "For this reason, going about spreading tales has been made unlawful, because it stirs up enmity and hatred; and lying has been allowed for the sake of setting things right between people. Allah has encouraged setting things right between them, as the Exalted says:"
+        },
+        {
+         "ar": "{لا خَيْرَ فِي كَثِيرٍ مِنْ نَجْوَاهُمْ إِلاَّ مَنْ أَمَرَ بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلاحٍ بَيْنَ النَّاسِ وَمَنْ يَفْعَلْ ذَلِكَ ابْتِغَاءَ مَرْضَاتِ اللهِ فَسَوْفَ نُؤْتِيهِ أَجْراً عَظِيماً}،",
+         "en": "“There is no good in much of their private talk, except for one who enjoins charity, or what is right, or setting things right between people; and whoever does that seeking the good pleasure of Allah, We shall give him a great reward” [al-Nisāʾ 4:114];"
+        },
+        {
+         "ar": "وقال: {وَإِنْ طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا}، وقال: {فَاتَّقُوا اللهَ وَأَصْلِحُوا ذَاتَ بَيْنِكُمْ}.",
+         "en": "and He says: “And if two parties of the believers fight, then make peace between them” [al-Ḥujurāt 49:9]; and He says: “So fear Allah and set right what is between you” [al-Anfāl 8:1]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c42",
+     "pages": [
+      717
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد وأبو داود والترمذيُّ من حديث أبي الدرداء، عن النَّبيِّ صلى الله عليه وسلم، قال: «ألا أخبركم بأفضلَ مِنْ درجة الصلاة والصيام والصَّدقة؟»",
+         "en": "Imam Aḥmad, Abū Dāwūd and al-Tirmidhī recorded, from the hadith of Abū al-Dardāʾ, that the Prophet ﷺ said: “Shall I not tell you of what is higher in degree than prayer, fasting and charity?”"
+        },
+        {
+         "ar": "قالوا: بلى يا رسول الله، قال: «صلاحُ ذاتِ البينِ؛",
+         "en": "They said: Certainly, Messenger of Allah. He said: “Setting right relations between people;"
+        },
+        {
+         "ar": "فإنَّ فسادَ ذات البين هي الحالِقةُ».",
+         "en": "for corrupted relations between people are the shaver.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c43",
+     "pages": [
+      717
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد وغيرُه من حديث أسماءَ بنتِ يزيد، عن النَّبيِّ صلى الله عليه وسلم، قال: «ألا أُنبِّئُكم بشرارِكم؟»",
+         "en": "Imam Aḥmad and others recorded, from the hadith of Asmāʾ bint Yazīd, that the Prophet ﷺ said: “Shall I not tell you who are the worst of you?”"
+        },
+        {
+         "ar": "قالوا: بلى يا رسول الله، قال: «المشَّاؤون بالنَّميمة، المفرِّقُون بينَ الأحبَّةِ، الباغون للبُرءاءِ العَنَت».",
+         "en": "They said: Certainly, Messenger of Allah. He said: “Those who go about spreading tales, who separate loved ones, and who seek to bring hardship on the innocent.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c44",
+     "pages": [
+      717,
+      718
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأمَّا البغض في الله، فهو من أوثق عرى الإيمان، وليس داخلاً في النَّهي، ولو ظهر لرجل من أخيه شرٌّ، فأبغضه عليه،",
+         "en": "As for hatred for the sake of Allah, it is one of the firmest handholds of faith and is not included in the prohibition. If some evil appears to a man from his brother, and he hates him for it,"
+        },
+        {
+         "ar": "وكان الرَّجُل معذوراً فيه في نفس الأمر، أثيب المبغضُ له، وإن عُذِرَ أخوه، كما قال عمر: إنَّا كُنَّا نعرفكُم إذ رسول الله صلى الله عليه وسلم بين أظهُرنا،",
+         "en": "while in reality the man is excused, the one who hated him is rewarded, even though his brother is excused. As ʿUmar said: We used to know you while the Messenger of Allah ﷺ was among us,"
+        },
+        {
+         "ar": "وإذ ينْزل الوحيُ، وإذ يُنبِّئُنا الله مِنْ أخبارِكُم ألا وإنَّ رسول الله صلى الله عليه وسلم قدِ انطُلِقَ به، وانقطعَ الوحيُ، فإنَّما نَعْرفكم بما نَخْبُركم،",
+         "en": "while revelation was coming down and Allah was informing us of your news. But the Messenger of Allah ﷺ has been taken away and revelation has ceased, so we know you only by what we learn of you by experience."
+        },
+        {
+         "ar": "ألا مَنْ أظهرَ منكم لنا خيراً ظننَّا به خيراً، وأحببناه عليه، ومَنْ أظهر منكم شرّاً، ظننا به شراً، وأبغضناه عليه، سرائرُكم بينكم وبينَ ربِّكم عز وجل».",
+         "en": "Whoever of you shows us good, we think well of him and love him for it; and whoever of you shows us evil, we think ill of him and hate him for it. Your secrets are between you and your Lord, the Mighty and Majestic."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c45",
+     "pages": [
+      718
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الربيع بن خُثَيْم: لو رأيت رجلاً يُظهر خيراً، ويُسرُّ شرّاً، أحببتَه عليه، آجرَك الله على حبِّك الخيرَ، ولو رأيت رجلاً يُظهر شرّاً، ويسرُّ خيراً أبغضته عليه، آجرَك الله على بُغضك الشرَّ.",
+         "en": "Al-Rabīʿ ibn Khuthaym said: If you saw a man showing good and concealing evil and loved him for it, Allah would reward you for loving good; and if you saw a man showing evil and concealing good and hated him for it, Allah would reward you for hating evil."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c46",
+     "pages": [
+      718
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولمَّا كثُرَ اختلافُ النَّاس في مسائل الدِّين، وكثرَ تفرُّقُهم، كثُر بسببِ ذلك تباغُضهم وتلاعُنهم، وكلٌّ منهم يُظهِرُ أنَّه يُبغض لله، وقد يكونُ في نفس الأمر معذوراً، وقد لا يكون معذوراً،",
+         "en": "When people's disagreements over questions of religion grew many and their divisions multiplied, their hatred and cursing of one another multiplied because of it. Each of them makes out that he hates for the sake of Allah. He may in reality be excused, and he may not be excused,"
+        },
+        {
+         "ar": "بل يكون متَّبِعاً لهواه، مقصِّراً في البحث عن معرفة ما يُبغِضُ عليه، فإنَّ كثيراً من البُغض كذلك إنَّما يقعُ لمخالفة متبوع يظنُّ أنَّه لا يقولُ إلاَّ الحقَّ، وهذا الظَّنُّ خطأٌ قطعاً،",
+         "en": "but be following his own desire and falling short in investigating what he hates others for. Much hatred of this kind arises only from disagreement with someone followed whom one thinks says nothing but the truth — and that belief is certainly mistaken;"
+        },
+        {
+         "ar": "وإنْ أُريد أنَّه لا يقول إلاَّ الحقَّ فيما خُولِفَ فيه، فهذا الظنُّ قد يُخطئ ويُصيبُ، وقد يكون الحامل على الميلِ مجرَّد الهوى، أو الإلفُ، أو العادة، وكلُّ هذا يقدح في أنْ يكون هذا البغضُ لله،",
+         "en": "or, if what is meant is that he says nothing but the truth in the particular matter in which he was disagreed with, that belief may be mistaken or correct. What drives one's partisanship may be mere desire, or familiarity, or habit, and all of this undermines the claim that this hatred is for Allah."
+        },
+        {
+         "ar": "فالواجبُ على المؤمن أن ينصحَ نفسَه، ويتحرَّزَ في هذا غاية التحرُّزِ، وما أشكل منه، فلا يُدخِلُ نفسَه فيه خشيةَ أن يقعَ فيما نُهِيَ عنه مِنَ البُغض المُحرَّمِ.",
+         "en": "The believer must therefore give himself sincere counsel and be as cautious as possible in this; and where something is unclear, he should keep out of it, for fear of falling into the unlawful hatred that has been forbidden."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c47",
+     "pages": [
+      718,
+      719
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهاهنا أمرٌ خفيٌّ ينبغي التَّفطُّن له، وهو أنَّ كثيراً من أئمَّةِ الدِّينِ قد يقولُ قولاً مرجوحاً ويكون مجتهداً فيه، مأجوراً على اجتهاده فيه، موضوعاً عنه خطؤه فيهِ، ولا يكونُ المنتصِرُ لمقالته تلك بمنْزلته في هذه الدَّرجة؛",
+         "en": "There is a subtle matter here to which one should be alert. Many imams of the religion may hold a weaker view while exercising ijtihād in it, rewarded for their ijtihād and absolved of their error; yet the one who champions that view of theirs does not stand at the same rank,"
+        },
+        {
+         "ar": "لأنَّه قد لا ينتصِرُ لهذا القولِ إلاَّ لكونِ متبوعه قد قاله، بحيث أنَّه لو قاله غيرُه من أئمَّة الدِّينِ، لما قبِلَهُ ولا انتصر له،",
+         "en": "because he may champion it only because the one he follows held it, so that had another of the imams of the religion held it, he would not have accepted it or championed it,"
+        },
+        {
+         "ar": "ولا والى من وافقه، ولا عادى من خالفه، وهو مع هذا يظن أنَّه إنَّما انتصر للحقِّ بمنْزلة متبوعه، وليس كذلك،",
+         "en": "nor befriended those who agreed with it or treated as enemies those who disagreed. Yet he thinks that he is championing the truth just as the one he follows was; and that is not so."
+        },
+        {
+         "ar": "فإنَّ متبوعه إنَّما كان قصدُه الانتصارَ للحقِّ، وإنْ أخطأ في اجتهاده، وأمَّا هذا التَّابعُ، فقد شابَ انتصارَه لما يظنُّه الحقَّ إرادة علوِّ متبوعه، وظهور كلمته،",
+         "en": "The one he follows intended only to champion the truth, even if he erred in his ijtihād. This follower's championing of what he thinks is the truth, however, is mixed with the desire that the one he follows be exalted and his word prevail,"
+        },
+        {
+         "ar": "وأنْ لا يُنسَبَ إلى الخطأ، وهذه دسيسةٌ تَقْدَحُ في قصد الانتصار للحقِّ، فافهم هذا، فإنَّه فَهْمٌ عظيم، والله يهدي مَنْ يشاء إلى صراطٍ مستقيم.",
+         "en": "and that he not be charged with error. This is a hidden taint that undermines the intention of championing the truth. Understand this, for it is a great insight; and Allah guides whom He wills to a straight path."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c48",
+     "pages": [
+      719
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله: «ولا تدابروا» قال أبو عبيد: التَّدابر: المصارمة والهجران، مأخوذ من أن يُولِّي الرَّجلُ صاحبَهُ دُبُرَه، ويُعرِض عنه بوجهه، وهو التَّقاطع.",
+         "en": "His words, “do not turn your backs on one another”: Abū ʿUbayd said: Tadābur is breaking off relations and shunning, taken from a man turning his back (dubur) on his companion and averting his face from him; it is cutting each other off."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c49",
+     "pages": [
+      719
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج مسلم من حديث أنسٍ، عن النَّبيِّ صلى الله عليه وسلم، قال: «لا تحاسدُوا، ولا تَبَاغَضُوا، ولا تَقَاطعُوا، وكونوا عِبادَ الله إخواناً كما أمركُم الله».",
+         "en": "Muslim recorded, from the hadith of Anas, that the Prophet ﷺ said: “Do not envy one another, do not hate one another, do not cut one another off, and be, servants of Allah, brothers, as Allah has commanded you.”"
+        },
+        {
+         "ar": "وخرَّجه أيضاً بمعناه من حديث أبي هريرة عن النَّبيِّ صلى الله عليه وسلم.",
+         "en": "He also recorded something with its meaning from the hadith of Abū Hurayrah, from the Prophet ﷺ."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c50",
+     "pages": [
+      719
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن أبي أيوب، عن النَّبيِّ صلى الله عليه وسلم، قال: «لا يَحِلُّ لمسلمٍ أنْ يهجرَ أخاه فوق ثلاثٍ، يلتقيان، فيصدُّ هذا، ويصدُّ هذا، وخيرُهما الَّذي يَبدأ بالسَّلام».",
+         "en": "In the two Ṣaḥīḥs, from Abū Ayyūb, the Prophet ﷺ said: “It is not lawful for a Muslim to shun his brother for more than three nights, the two of them meeting and each turning away from the other; the better of them is the one who greets first.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c51",
+     "pages": [
+      719
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج أبو داود من حديث أبي خراش السُّلميِّ، عن النَّبيِّ صلى الله عليه وسلم، قال: «مَنْ هَجر أخاه سنةً، فهو كسفكِ دمه».",
+         "en": "Abū Dāwūd recorded, from the hadith of Abū Khirāsh al-Sulamī, that the Prophet ﷺ said: “Whoever shuns his brother for a year, it is like shedding his blood.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c52",
+     "pages": [
+      719
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكلُّ هذا في التَّقاطع للأمورِ الدُّنيويَّة، فأمَّا لأجلِ الدِّين، فتجوزُ الزِّيادةُ على الثلاثِ، نصَّ عليه الإمام أحمدُ، واستدلَّ بقصَّةِ الثَّلاثةِ الَّذينَ خُلِّفوا، وأمر النَّبيُّ صلى الله عليه وسلم بهجرانهم لمَّا خاف منهمُ النِّفاق،",
+         "en": "All this concerns breaking off relations over worldly matters. When it is for the sake of religion, it may go beyond three days; Imam Aḥmad stated this explicitly, citing the story of the three who stayed behind, whom the Prophet ﷺ ordered to be shunned when he feared hypocrisy from them."
+        },
+        {
+         "ar": "وأباح هِجران أهلِ البدع المغلَّظة والدعاة إلى الأهواء، وذكر الخطابي أنَّ هِجران الوالدِ لولده، والزَّوج لزوجته، وما كان في معنى ذلك تأديباً تجوزُ الزِّيادة فيه على الثَّلاث؛",
+         "en": "He also permitted shunning people of grave innovations and those who call to heresies. Al-Khaṭṭābī mentioned that a father's shunning of his child, a husband's of his wife, and the like, as discipline, may go beyond three days,"
+        },
+        {
+         "ar": "لأنَّ النَّبيَّ صلى الله عليه وسلم هجر نساءه شهراً.",
+         "en": "because the Prophet ﷺ kept away from his wives for a month."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c53",
+     "pages": [
+      720
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "واختلفوا: هل ينقطع الهِجران بالسَّلام؟",
+         "en": "They differed over whether shunning is ended by the greeting of peace."
+        },
+        {
+         "ar": "فقالت طائفةٌ: يَنقطِعُ بذلك، ورُوي عن الحسن ومالكٍ في رواية ابن وهبٍ، وقاله طائفةٌ من أصحابنا، وخرَّج أبو داود من حديث أبي هريرة عن النَّبيِّ صلى الله عليه وسلم قالَ:",
+         "en": "One group said that it is ended by it. This is narrated from al-Ḥasan, and from Mālik in the narration of Ibn Wahb, and a group of the scholars of our school held it. Abū Dāwūd recorded, from the hadith of Abū Hurayrah, that the Prophet ﷺ said:"
+        },
+        {
+         "ar": "«لا يحلُّ لمؤمنٍ أنْ يهجُرَ مؤمناً فوق ثلاثٍ، فإن مرَّت به ثلاثٌ، فليلقَهُ، فليسلِّم عليهِ، فإن ردَّ عليه السلام، فقد اشتركا في الأجر، وإن لم يردَّ عليهِ، فقد باءَ بالإثم، وخرج المُسلِّمُ من الهجرة».",
+         "en": "“It is not lawful for a believer to shun a believer for more than three days. If three have passed, let him meet him and greet him. If he returns his greeting, they share in the reward; if he does not return it, he bears the sin, and the one who greeted is released from the shunning.”"
+        },
+        {
+         "ar": "ولكن هذا فيما إذا امتنع الآخرُ من الرَّدِّ عليهِ، فأمَّا معَ الرَّدِّ إذا كانَ بينهما قبل الهجرةِ مودَّةٌ، ولم يعودا إليها، ففيه نظر.",
+         "en": "But this concerns the case where the other refuses to return the greeting. Where he returns it, if there was affection between them before the shunning and they have not gone back to it, the matter is open to question."
+        },
+        {
+         "ar": "وقد قالَ أحمد في رواية الأثرم، وسئل عن السَّلام: يقطعُ الهِجران؟",
+         "en": "Aḥmad was asked, in the narration of al-Athram, whether the greeting ends shunning,"
+        },
+        {
+         "ar": "فقال: قد يُسلم عليه وقد صَدَّ عنه، ثم قال النَّبيُّ صلى الله عليه وسلم يقول: «يلتقيان فيصدُّ هذا، ويصدُّ هذا»، فإذا كان قد عوَّده أنْ يُكلِّمه أو يُصافحه.",
+         "en": "and said: He may greet him and still have turned away from him. Then he said: The Prophet ﷺ says, “They meet, and this one turns away and that one turns away”; that is, when he had been in the habit of talking with him or shaking his hand."
+        },
+        {
+         "ar": "وكذلك رُوي عن مالكٍ أنَّه لا تنقطعُ الهجرة بدونِ العود إلى المودَّة.",
+         "en": "Likewise it is narrated from Mālik that shunning is not ended without a return to affection."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c54",
+     "pages": [
+      720
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفرَّق بعضُهم بين الأقارب والأجانب، فقال في الأجانب: تزول الهجرةُ بينهم بمجرَّد السَّلام، بخلافِ الأقارب، وإنَّما قال هذا لوجوب صلة الرَّحِمِ.",
+         "en": "Some distinguished between relatives and non-relatives, saying that between non-relatives shunning ends with the mere greeting, unlike between relatives; he said this only because maintaining ties of kinship is obligatory."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c55",
+     "pages": [
+      720
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قوله صلى الله عليه وسلم: «ولا يبِعْ بعضُكم على بيع بعض» قد تكاثرَ النَّهي عَنْ ذلك، ففي \" الصحيحين \" عن أبي هريرة،",
+         "en": "His words ﷺ, “and do not undercut one another's sales”: the prohibition of this is reported many times. In the two Ṣaḥīḥs, from Abū Hurayrah,"
+        },
+        {
+         "ar": "عن النَّبيِّ صلى الله عليه وسلم، قال: «لا يبيع الرجلُ على بيع أخيه، ولا يخطُبُ على خِطبةِ أخيه».",
+         "en": "the Prophet ﷺ said: “A man is not to sell over his brother's sale, nor propose marriage over his brother's proposal.”"
+        },
+        {
+         "ar": "وفي رواية لمسلم: «لا يَسُمِ المسلمُ على سومِ المسلم، ولا يَخطُبُ على خِطبته».",
+         "en": "In a narration of Muslim's: “A Muslim is not to bargain over a Muslim's bargaining, nor propose over his proposal.”"
+        },
+        {
+         "ar": "وخرَّجاه من حديث ابن عمر عن النَّبيِّ صلى الله عليه وسلم، قال: «لا يَبِعِ الرَّجُلُ على بيع أخيه، ولا يخطُبْ على خِطبة أخيه، إلاَّ أنْ يأذن له». ولفظه لمسلم.",
+         "en": "They recorded it from the hadith of Ibn ʿUmar, that the Prophet ﷺ said: “A man is not to sell over his brother's sale, nor propose over his brother's proposal, unless he gives him leave.” The wording is Muslim's."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c56",
+     "pages": [
+      720,
+      721
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج مسلم من حديث عقبة بن عامر، عن النَّبيِّ صلى الله عليه وسلم، قال: «المؤمنُ أخو المؤمنِ، فلا يَحِلُّ للمؤمن أن يبتاعَ على بيع أخيه، ولا يخطبَ على خِطبةِ أخيه، حتَّى يَذَرَ».",
+         "en": "Muslim recorded, from the hadith of ʿUqbah ibn ʿĀmir, that the Prophet ﷺ said: “The believer is the brother of the believer, so it is not lawful for a believer to buy over his brother's sale, nor to propose over his brother's proposal, until he gives it up.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c57",
+     "pages": [
+      721
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذا يدلُّ على أنَّ هذا حقُّ للمسلم على المسلم، فلا يُساويه الكافر في ذلك، بل يجوزُ للمسلم أن يبتاعَ على بيع الكافر، ويَخطُبَ على خِطبته،",
+         "en": "This shows that it is a right that a Muslim has over a Muslim, in which a disbeliever is not his equal; a Muslim may buy over a disbeliever's sale and propose over his proposal."
+        },
+        {
+         "ar": "وهو قولُ الأوزاعيِّ وأحمدَ، كما لا يثبتُ للكافر على المسلم حقُّ الشُّفعة عنده، وكثيرٌ من الفُقهاء ذهبوا إلى أنَّ النَّهي عامٌّ في حقِّ المسلم والكافر.",
+         "en": "This is the view of al-Awzāʿī and Aḥmad, just as in Aḥmad's view a disbeliever has no right of pre-emption against a Muslim. Many jurists held that the prohibition applies generally, to Muslim and disbeliever alike."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c58",
+     "pages": [
+      721
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "واختلفوا: هلِ النَّهيُ للتَّحريم، أو للتَّنزيه، فمِنْ أصحابنا من قال: هو للتَّنزيه دونَ التَّحريم، والصَّحيحُ الذي عليه جمهورُ العلماء: أنَّه للتَّحريمِ.",
+         "en": "They differed over whether the prohibition expresses unlawfulness or dislike. Some of the scholars of our school said that it expresses dislike rather than unlawfulness; the correct view, held by the great majority of scholars, is that it expresses unlawfulness."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c59",
+     "pages": [
+      721
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "واختلفوا: هل يصحُّ البيع على بيعِ أخيه، أوِ النِّكاحُ على خِطبته؟",
+         "en": "They differed over whether a sale over one's brother's sale, or a marriage over his proposal, is valid."
+        },
+        {
+         "ar": "فقال أبو حنيفة والشافعي وأكثر أصحابنا: يَصِحُّ، وقال مالك في النِّكاح: إنَّه إن لم يدخل بها، فُرِّقَ بينهما، وإنْ دخل بها لم يُفرَّقْ.",
+         "en": "Abū Ḥanīfah, al-Shāfiʿī and most of the scholars of our school said that it is valid. Mālik said of marriage: If he has not consummated it, they are separated; if he has consummated it, they are not separated."
+        },
+        {
+         "ar": "وقال أبو بكر مِنْ أصحابنا في البيع والنِّكاحِ: إنَّه باطلٌ بكلِّ حالٍ، وحكاه عن أحمد.",
+         "en": "Abū Bakr, of our school, said of both sale and marriage that they are void in every case, and related this from Aḥmad."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c60",
+     "pages": [
+      721
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومعنى البيع على بيع أخيه: أنْ يكونَ قد باع منه شيئاً، فيبذُل للمشتري سلعتَه ليشتريها، ويفسخ بيعَ الأوَّلِ.",
+         "en": "Selling over one's brother's sale means that the brother has sold someone something, and he then offers the buyer his own goods so that he buys them and cancels the first sale."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c61",
+     "pages": [
+      721
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهل يختصُّ ذلك بما إذا كان البذلُ في مدَّة الخيار، بحيث يتمكَّن المشتري مِنَ الفسخِ فيه، أم هو عامٌّ في مدَّةِ الخيار وبعدَها؟",
+         "en": "Does this apply only when the offer is made during the option period, when the buyer is able to cancel, or does it apply generally, both during the option period and after it?"
+        },
+        {
+         "ar": "فيه اختلاف بين العلماء، قد حكاه الإمامُ أحمد في رواية حرب، ومال إلى القول بأنَّه عامٌّ في الحالينِ، وهو قولُ طائفةٍ من أصحابنا.",
+         "en": "Scholars disagree on this. Imam Aḥmad related the disagreement in the narration of Ḥarb and inclined to the view that it applies in both cases; this is the view of a group of the scholars of our school."
+        },
+        {
+         "ar": "ومنهم من خصَّه بما إذا كان ذلك في مدَّة الخيار، وهو ظاهرُ كلامِ أحمد في رواية ابن مشيش، ومنصوصُ الشَّافعي، والأوَّلُ أظهرُ،",
+         "en": "Some restricted it to the option period; this is the apparent sense of Aḥmad's words in the narration of Ibn Mushaysh, and the explicit position of al-Shāfiʿī. The first view is the sounder,"
+        },
+        {
+         "ar": "لأنَّ المشتري وإنْ لم يتمكَّنْ من الفسخ بنفسه بعد انقضاء مدة الخيار فإنَّه إذا رغب في ردِّ السِّلعة الأُولى على بائعها،",
+         "en": "because even if the buyer cannot cancel on his own after the option period has ended, once he wants to return the first goods to their seller,"
+        },
+        {
+         "ar": "فإنَّه يتسبَّب في ردِّها عليه بأنواع من الطُّرق المقتضية لضَرره، ولو بالإلحاح عليه في المسألة، وما أدَّى إلى ضررِ المسلم، كان محرَّماً، والله أعلم.",
+         "en": "he will contrive to return them by various means that harm the seller, if only by pressing him with requests; and whatever leads to harm to a Muslim is unlawful. And Allah knows best."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c62",
+     "pages": [
+      722
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله صلى الله عليه وسلم: «وكونوا عباد الله إخواناً»: هذا ذكره النَّبيُّ صلى الله عليه وسلم كالتَّعليل لِما تقدَّم، وفيه إشارةٌ إلى أنَّهم إذا تركُوا التَّحاسُدَ، والتَّناجُشَ، والتَّباغُضَ، والتدابرَ، وبيعَ بعضِهم على بيعِ بعضٍ، كانوا إخواناً.",
+         "en": "His words ﷺ, “and be, servants of Allah, brothers”: the Prophet ﷺ mentioned this as a kind of reason for what preceded. It indicates that if they give up envying one another, inflating prices against one another, hating one another, turning their backs on one another and undercutting one another's sales, they will be brothers."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c63",
+     "pages": [
+      722
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفيه أمرٌ باكتساب ما يصيرُ المسلمون به إخواناً على الإطلاق، وذلك يدخلُ فيه أداءُ حقوقِ المسلم على المسلم مِنْ رَدِّ السلامِ، وتشميت العاطس، وعيادة المريض، وتشييع الجنازة، وإجابةِ الدَّعوة، والابتداء بالسَّلام عندَ اللِّقاء، والنُّصح بالغيب.",
+         "en": "It also contains a command to acquire whatever makes Muslims brothers in every respect. This includes fulfilling the rights a Muslim has over a Muslim: returning his greeting, invoking mercy on him when he sneezes, visiting him when he is ill, following his funeral, accepting his invitation, greeting him first when meeting him, and wishing him well in his absence."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c64",
+     "pages": [
+      722
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الترمذي \" عن أبي هُريرة، عن النَّبيِّ صلى الله عليه وسلم، قال: «تَهادَوا، فإنَّ الهديةَ تُذهِبُ وَحَرَ الصَّدر».",
+         "en": "In al-Tirmidhī, from Abū Hurayrah, the Prophet ﷺ said: “Give one another gifts, for a gift removes rancour from the breast.”"
+        },
+        {
+         "ar": "وخرَّجه غيرُه، ولفظه: «تهادوا تحابُّوا».",
+         "en": "Others recorded it, in this wording: “Give one another gifts, and you will love one another.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c65",
+     "pages": [
+      722
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" مسند البزار \" عن أنس، عن النَّبيِّ صلى الله عليه وسلم، قال: «تهادوا، فإنَّ الهدية تَسُلُّ السَّخيمة».",
+         "en": "In the Musnad of al-Bazzār, from Anas, the Prophet ﷺ said: “Give one another gifts, for a gift draws out ill will.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c66",
+     "pages": [
+      722
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويُروى عن عمر بن عبد العزيز - يرفعُ الحديثَ - قال: «تصافحوا، فإنَّه يُذهِبُ الشَّحناء، وتهادَوْا».",
+         "en": "It is narrated from ʿUmar ibn ʿAbd al-ʿAzīz, who traced the hadith back to the Prophet ﷺ: “Shake hands with one another, for it removes enmity; and give one another gifts.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c67",
+     "pages": [
+      722
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الحسن: المصافحةُ تزيد في الودِّ.",
+         "en": "Al-Ḥasan said: Shaking hands increases affection."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c68",
+     "pages": [
+      722,
+      723
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال مجاهد: بلغني أنه إذا تراءى المتحابّان، فضحك أحدُهما إلى الآخر، وتصافحا، تحاتت خطاياهما كما يتحاتُّ الورقُ من الشجر، فقيل له: إنَّ هذا ليسيرٌ مِنَ العمل،",
+         "en": "Mujāhid said: It has reached me that when two who love each other meet, and one smiles at the other and they shake hands, their sins fall away as leaves fall from a tree. It was said to him: This is an easy deed."
+        },
+        {
+         "ar": "قال: تقولُ يسيرٌ والله يقولُ: {لَوْ أَنْفَقْتَ مَا فِي الأَرْضِ جَمِيعاً مَا أَلَّفْتَ بَيْنَ قُلُوبِهِمْ وَلَكِنَّ اللهَ أَلَّفَ بَيْنَهُمْ إِنَّهُ عَزِيزٌ حَكِيمٌ}.",
+         "en": "He said: You call it easy, when Allah says: “Had you spent all that is on earth, you could not have brought their hearts together, but Allah brought them together; indeed He is Mighty, Wise” [al-Anfāl 8:63]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c69",
+     "pages": [
+      723
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله صلى الله عليه وسلم: «المسلمُ أخو المسلم، لا يظلِمُه، ولا يَخذُلُه، ولا يَكذِبُه، ولا يَحقِرُه».",
+         "en": "His words ﷺ: “The Muslim is the brother of the Muslim: he does not wrong him, nor forsake him, nor lie to him, nor look down on him.”"
+        },
+        {
+         "ar": "هذا مأخوذ من قوله عز وجل: {إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ}، فإذا كان المؤمنون إخوةً، أُمروا فيما بينهم بما يُوجب تآلُفَ القلوب واجتماعَها، ونُهوا عمَّا يوجبُ تنافرَ القلوب واختلافَها، وهذا من ذلك.",
+         "en": "This is taken from His words, Mighty and Majestic is He: “The believers are but brothers, so set things right between your two brothers” [al-Ḥujurāt 49:10]. Since the believers are brothers, they have been commanded to do among themselves whatever brings hearts together and unites them, and forbidden whatever makes hearts recoil from one another and fall apart; and this is part of that."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c70",
+     "pages": [
+      723
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأيضاً، فإنَّ الأخ مِنْ شأنه أنْ يوصِلَ إلى أخيه النَّفع، ويكفَّ عنه الضَّرر، ومن أعظم الضرِّ الذي يجبُ كفُّه عَنِ الأَخِ المسلم الظُّلم، وهذا لا يختصُّ بالمسلم،",
+         "en": "Moreover, it is a brother's way to bring benefit to his brother and keep harm away from him, and among the greatest harms that must be kept from a Muslim brother is wrongdoing. This is not restricted to the Muslim;"
+        },
+        {
+         "ar": "بل هو محرَّمٌ في حقِّ كلِّ أحَدٍ، وقد سبق الكلام على الظُّلم مستوفى عندَ ذكر حديث أبي ذرِّ الإلهي: «يا عبادي إنِّي حرَّمتُ الظُّلم على نفسي، وجعلته بينكم محرَّماً، فلا تظالموا».",
+         "en": "it is unlawful towards everyone. Wrongdoing was discussed at length in connection with the ḥadīth qudsī of Abū Dharr: “O My servants, I have made wrongdoing unlawful for Myself and have made it unlawful among you, so do not wrong one another.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c71",
+     "pages": [
+      723
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومِنْ ذلك: خِذلانُ المسلم لأخيه، فإنَّ المؤمن مأمورٌ أنْ يَنصُرَ أخاه، كما قال صلى الله عليه وسلم: «انصُر أخاك ظالماً أو مظلوماً»، قال: يا رسولَ الله، أنصُرُهُ مَظلوماً، فكيف أنصره ظالماً؟",
+         "en": "Part of this is a Muslim's forsaking his brother, for the believer is commanded to help his brother, as he ﷺ said: “Help your brother, whether he is a wrongdoer or wronged.” A man said: Messenger of Allah, I help him when he is wronged, but how do I help him when he is a wrongdoer?"
+        },
+        {
+         "ar": "قال: «تمنعه عنِ الظُّلم، فذلك نصرُك إيَّاه».",
+         "en": "He said: “You prevent him from wrongdoing; that is your help to him.”"
+        },
+        {
+         "ar": "خرَّجه البخاري بمعناه من حديث أنس، وخرَّجه مسلم بمعناه من حديث جابر.",
+         "en": "Al-Bukhārī recorded it with this meaning from the hadith of Anas, and Muslim recorded it with this meaning from the hadith of Jābir."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c72",
+     "pages": [
+      723,
+      724
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج أبو داود من حديث أبي طلحة الأنصاري وجابرِ بن عبد الله، عن النَّبيِّ صلى الله عليه وسلم، قال: «ما مِن امرئٍ مسلمٍ يخذُلُ امرأً مسلماً في موضع تُنتَهكُ فيه حرمتُه،",
+         "en": "Abū Dāwūd recorded, from the hadith of Abū Ṭalḥah al-Anṣārī and Jābir ibn ʿAbdullāh, that the Prophet ﷺ said: “No Muslim forsakes a Muslim in a place where his sanctity is violated"
+        },
+        {
+         "ar": "ويُنتقصُ فيه من عِرضه، إلاّ خذله الله في موطنٍ يُحبُّ فيه نُصرتَه، وما مِن امرئٍ ينصرُ مسلماً في موضع يُنتقصُ فيه من عِرضِه، ويُنتهكُ فيه من حرمته، إلاّ نصره الله في موضع يحبُّ فيه نصرَتَه».",
+         "en": "and his honour impugned, but Allah will forsake him in a place where he would love His help; and no one helps a Muslim in a place where his honour is impugned and his sanctity violated, but Allah will help him in a place where he would love His help.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c73",
+     "pages": [
+      724
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرّج الإمام أحمد من حديث أبي أمامة بن سهل، عن أبيه، عن النَّبيِّ صلى الله عليه وسلم، قال: «مَنْ أُذِلَّ عنده مؤمنٌ، فلم ينصُرْه وهو يقدِرُ على أن ينصُرَه، أذلَّه الله على رؤوس الخلائق يوم القيامة».",
+         "en": "Imam Aḥmad recorded, from the hadith of Abū Umāmah ibn Sahl, from his father, that the Prophet ﷺ said: “Whoever sees a believer humiliated in his presence and does not help him, though he is able to, Allah will humiliate him before all creation on the Day of Resurrection.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c74",
+     "pages": [
+      724
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج البزار من حديث عِمران بن حُصين، عن النَّبيِّ صلى الله عليه وسلم، قال: «مَنْ نَصرَ أخاه بالغيب وهو يستطيعُ نصرَه، نَصَرَهُ الله في الدُّنيا والآخرة».",
+         "en": "Al-Bazzār recorded, from the hadith of ʿImrān ibn Ḥuṣayn, that the Prophet ﷺ said: “Whoever helps his brother in his absence, being able to help him, Allah will help him in this world and the Hereafter.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c75",
+     "pages": [
+      724
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن ذلك: كذِبُ المسلم لأخيه، فلا يَحِلُّ له أن يُحدِّثه فيكذبه، بل لا يُحدِّثه إلاَّ صدقاً، وفي \" مسند الإمام أحمد \" عن النَّوَّاس بن سمعان،",
+         "en": "Part of it too is a Muslim's lying to his brother: it is not lawful for him to tell him something and lie to him; he should tell him only the truth. In the Musnad of Imam Aḥmad, from al-Nawwās ibn Samʿān,"
+        },
+        {
+         "ar": "عن النَّبيِّ صلى الله عليه وسلم، قال: «كَبُرَت خِيانةً أن تُحدِّثَ أخاكَ حديثاً هو لك مصدِّقٌ وأنت به كاذب».",
+         "en": "the Prophet ﷺ said: “It is a great betrayal that you tell your brother something in which he believes you while you are lying to him.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c76",
+     "pages": [
+      724
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن ذلك: احتقارُ المسلم لأخيه المسلم، وهو ناشئٌ عن الكِبْرِ، كما قال النَّبيُّ صلى الله عليه وسلم: «الكِبْرُ بَطَرُ الحقِّ وغَمْطُ الناس» خرَّجه مسلم من حديث ابن مسعود،",
+         "en": "Part of it too is a Muslim's looking down on his Muslim brother, which springs from arrogance, as the Prophet ﷺ said: “Arrogance is spurning the truth and looking down on people.” Muslim recorded it from the hadith of Ibn Masʿūd,"
+        },
+        {
+         "ar": "وخرَّجه الإمام أحمد، وفي رواية له: «الكبرُ سَفَهُ الحقِّ، وازدراءُ الناس»، وفي رواية: «وغمص الناس»، وفي رواية زيادة: «فلا يَراهم شيئاً» وغمص النَّاس: الطَّعنُ عليهم وازدراؤهم،",
+         "en": "and Imam Aḥmad recorded it. In one of his narrations: “Arrogance is scorning the truth and despising people”; in another: “and belittling (ghamṣ) people”; and another adds: “so that he regards them as nothing.” Ghamṣ al-nās means disparaging and despising them."
+        },
+        {
+         "ar": "وقال الله عز وجل: {يَا أَيُّهَا الَّذِينَ آمَنُوا لا يَسْخَرْ قَوْمٌ مِنْ قَوْمٍ عَسَى أَنْ يَكُونُوا خَيْراً مِنْهُمْ وَلا نِسَاءٌ مِنْ نِسَاءٍ عَسَى أَنْ يَكُنَّ خَيْراً مِنْهُنّ}،",
+         "en": "Allah, the Mighty and Majestic, has said: “O you who believe, let not a people mock another people; perhaps they may be better than them; nor women mock other women; perhaps they may be better than them” [al-Ḥujurāt 49:11]."
+        },
+        {
+         "ar": "فالمتكبر ينظرُ إلى نفسه بعين الكمال، وإلى غيره بعين النَّقصِ، فيحتقرهم ويزدريهم، ولا يراهم أهلاً لأنْ يقومَ بحقُوقهم، ولا أن يقبلَ مِنْ أحد منهم الحقَّ إذا أورده عليه.",
+         "en": "The arrogant man looks at himself with an eye that sees perfection, and at others with an eye that sees deficiency; so he looks down on them and despises them, and does not regard them as worthy of having their rights fulfilled by him, or of his accepting the truth from any of them when they bring it to him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c77",
+     "pages": [
+      725
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله صلى الله عليه وسلم: «التَّقوى هاهنا» يشير إلى صدره ثلاثَ مرَّاتٍ: فيه إشارةٌ إلى أنَّ كرم الخَلْق عند الله بالتَّقوى، فربَّ من يحقِرُه الناس لضعفه، وقلَّةِ حظِّه من الدُّنيا،",
+         "en": "His words ﷺ, “Taqwā is here,” as he pointed to his chest three times, indicate that people's nobility in the sight of Allah lies in taqwā. Many a person whom people look down on for his weakness and his meagre share of this world"
+        },
+        {
+         "ar": "وهو أعظمُ قدراً عند الله تعالى ممَّن له قدرٌ في الدُّنيا، فإنَّ الناسَ إنّما يتفاوتُون بحسب التَّقوى، كما قال الله تعالى: {إِنَّ أَكْرَمَكُمْ عِنْدَ اللهِ أَتْقَاكُمْ}، وسئل النَّبيُّ صلى الله عليه وسلم: مَنْ أكرمُ الناسِ؟",
+         "en": "is greater in standing with Allah the Exalted than one who has standing in this world; for people differ only by taqwā, as Allah the Exalted says: “The noblest of you in the sight of Allah is the most God-fearing of you” [al-Ḥujurāt 49:13]. The Prophet ﷺ was asked: Who is the noblest of people?"
+        },
+        {
+         "ar": "قال: «أتقاهُم لله عز وجل».",
+         "en": "He said: “The one among them who most fears Allah, the Mighty and Majestic.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c78",
+     "pages": [
+      725
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي حديث آخر: «الكرمُ التَّقوى»، والتَّقوى أصلُها في القلب، كما قال تعالى: {وَمَنْ يُعَظِّمْ شَعَائِرَ اللهِ فَإِنَّهَا مِنْ تَقْوَى الْقُلُوبِ}.",
+         "en": "In another hadith: “Nobility is taqwā.” The root of taqwā is in the heart, as the Exalted says: “And whoever honours the rites of Allah — that is from the taqwā of the hearts” [al-Ḥajj 22:32]."
+        },
+        {
+         "ar": "وقد سبق ذكر هذا المعنى في الكلام على حديث أبي ذرٍّ الإلهي عند قوله: «لو أنَّ أوَّلكم وآخرَكم وإنسَكُم وجنَّكُم كانوا على أتقى قلبِ رجلٍ واحد منكم، ما زاد ذلك في مُلكي شيئاً».",
+         "en": "This meaning was mentioned earlier, in discussing the ḥadīth qudsī of Abū Dharr, at his words: “If the first of you and the last of you, the humans among you and the jinn among you, were all as the most God-fearing heart of any one man among you, that would add nothing to My dominion.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c79",
+     "pages": [
+      725,
+      726
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وإذا كان أصلُ التَّقوى في القُلوب، فلا يطَّلعُ أحدٌ على حقيقتها إلا الله عز وجل، كما قال صلى الله عليه وسلم: «إنَّ الله لا ينظرُ إلى صُورِكُم وأموالِكم،",
+         "en": "Since the root of taqwā is in the hearts, no one sees its reality except Allah, the Mighty and Majestic, as he ﷺ said: “Allah does not look at your forms and your wealth,"
+        },
+        {
+         "ar": "ولكن ينظرُ إلى قلوبكم وأعمالكم» وحينئذ، فقد يكونُ كثيرٌ ممَّن له صورةٌ حسنةٌ، أو مالٌ، أو جاهٌ، أو رياسةٌ في الدنيا، قلبه خراباً من التقوى،",
+         "en": "but He looks at your hearts and your deeds.” So many a person who has a fine form, or wealth, or rank, or leadership in this world may have a heart empty of taqwā,"
+        },
+        {
+         "ar": "ويكون من ليس له شيء من ذلك قلبُه مملوءاً مِنَ التَّقوى، فيكون أكرمَ عند الله تعالى، بل ذلك هو الأكثر وقوعاً، كما في \" الصحيحين \" عن حارثةَ بن وهبٍ،",
+         "en": "while someone who has none of these may have a heart full of taqwā, and so be nobler in the sight of Allah the Exalted. Indeed, that is what happens more often, as in the two Ṣaḥīḥs, from Ḥārithah ibn Wahb,"
+        },
+        {
+         "ar": "عن النَّبيِّ صلى الله عليه وسلم، قال: «ألا أُخبِرُكم بأهل الجنَّةِ: كلُّ ضعيف متضعَّفٍ، لو أقسم على الله لأبرَّهُ، ألا أخبركم بأهل النَّارِ: كلُّ عُتُلٍّ جَوَّاظٍ مُستكبِرٍ».",
+         "en": "from the Prophet ﷺ, who said: “Shall I not tell you of the people of Paradise? Every weak person regarded as weak, who, if he swore by Allah, Allah would fulfil his oath. Shall I not tell you of the people of the Fire? Every coarse, strutting, arrogant man.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c80",
+     "pages": [
+      726
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" المسند \" عن أنس عن النَّبيِّ صلى الله عليه وسلم، قال: «أمَّا أهلُ الجنَّة، فكلُّ ضعيفٍ متضعَّفٍ، أشعث، ذي طِمرين، لو أقسمَ على الله لأبرَّه؛",
+         "en": "In the Musnad, from Anas, the Prophet ﷺ said: “As for the people of Paradise, they are every weak person regarded as weak, dishevelled, in two worn garments, who, if he swore by Allah, Allah would fulfil his oath;"
+        },
+        {
+         "ar": "وأمَّا أهلُ النَّارِ، فكلُّ جَعْظَريٍّ جَوَّاظ جمَّاعٍ، منَّاعٍ، ذي تَبَع».",
+         "en": "and as for the people of the Fire, they are every haughty, strutting man who hoards and withholds, and has a retinue.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c81",
+     "pages": [
+      726
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن أبي هريرة، عن النَّبيِّ صلى الله عليه وسلم، قال: «تحاجَّت الجنَّةُ والنَّارُ، فقالتِ النَّارُ: أُوثِرْتُ بالمتكبِّرينَ والمتجبِّرين، وقالتِ الجنَّةُ:",
+         "en": "In the two Ṣaḥīḥs, from Abū Hurayrah, the Prophet ﷺ said: “Paradise and the Fire disputed. The Fire said: I have been favoured with the arrogant and the tyrants. Paradise said:"
+        },
+        {
+         "ar": "لا يدخُلُني إلا ضعفاءُ النَّاس وسَقَطُهم، فقال الله للجنَّةِ: أنت رحمتي أرحمُ بك من أشاءُ من عبادي، وقال للنار: أنت عذابي، أعذِّبُ بكِ من أشاء من عبادي».",
+         "en": "None enter me but the weak and the lowly among people. Allah said to Paradise: You are My mercy, through which I show mercy to whom I will of My servants; and He said to the Fire: You are My punishment, through which I punish whom I will of My servants.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c82",
+     "pages": [
+      726
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه الإمام أحمد من حديث أبي سعيدٍ عن النَّبيِّ صلى الله عليه وسلم قال: «افتخرت الجنَّةُ والنَّارُ، فقالت النار: يا ربِّ، يدخُلُني الجبابرة والمتكبِّرون والملوكُ والأشرافُ، وقالت الجنَّةُ: يا ربِّ يدخُلُني الضُّعفاء والفقراءُ والمساكين» وذكر الحديث.",
+         "en": "Imam Aḥmad recorded it from the hadith of Abū Saʿīd, from the Prophet ﷺ, who said: “Paradise and the Fire boasted. The Fire said: My Lord, the tyrants, the arrogant, kings and nobles enter me. Paradise said: My Lord, the weak, the poor and the destitute enter me.” And he mentioned the rest of the hadith."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c83",
+     "pages": [
+      726
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح البخاري \" عن سهل بن سعد، قال: مرَّ رجلٌ على رسولِ الله صلى الله عليه وسلم، فقال لرجل عنده جالس: «ما رأيك في هذا؟»",
+         "en": "In Ṣaḥīḥ al-Bukhārī, from Sahl ibn Saʿd, who said: A man passed by the Messenger of Allah ﷺ, and he said to a man sitting with him: “What do you think of this man?”"
+        },
+        {
+         "ar": "فقالَ رجلٌ منْ أشراف الناس: هذا والله حريٌّ إنْ خطَب أنْ يُنكح، وإنْ شفع أنْ يشفَّعَ، وإن قالَ أن يُسمَعَ لقوله، قالَ:",
+         "en": "He said: He is one of the nobility; by Allah, this one deserves, if he proposes, to be married; if he intercedes, to have his intercession accepted; and if he speaks, to be listened to. The narrator said:"
+        },
+        {
+         "ar": "فسكت النَّبيُّ صلى الله عليه وسلم، ثُمَّ مرَّ رجلٌ آخر، فقالَ لهُ رسول الله صلى الله عليه وسلم: «ما رأيك في هذا؟»",
+         "en": "The Prophet ﷺ was silent. Then another man passed by, and the Messenger of Allah ﷺ said to him: “What do you think of this one?”"
+        },
+        {
+         "ar": "قال: يا رسول الله، هذا رجلٌ مِن فقراء المسلمين، هذا حريٌّ إنْ خطب أنْ لا يُنكحَ، وإن شفع أن لا يشفَّع،",
+         "en": "He said: Messenger of Allah, this is one of the poor Muslims. This one deserves, if he proposes, not to be married; if he intercedes, not to have his intercession accepted;"
+        },
+        {
+         "ar": "وإنْ قال أنْ لا يُسمع لقوله، فقال رسول صلى الله عليه وسلم: «هذا خيرٌ من ملءِ الأرض مثل هذا».",
+         "en": "and if he speaks, not to be listened to. The Messenger of Allah ﷺ said: “This one is better than an earthful of the likes of that one.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c84",
+     "pages": [
+      727
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال محمد بنُ كعب القُرَظيُّ في قوله تعالى: {إِذَا وَقَعَتِ الْوَاقِعَةُ لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ خَافِضَةٌ رَافِعَةٌ}، قال: تَخفِضُ رجالاً كانوا في الدُّنيا مرتفعين، وترْفَعُ رجالاً كانوا في الدُّنيا مخفوضين.",
+         "en": "Muḥammad ibn Kaʿb al-Quraẓī said of His words, Exalted is He: “When the Event befalls — there is no denying its befalling — lowering, raising” [al-Wāqiʿah 56:1–3]: It lowers men who were high in this world and raises men who were low in this world."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c85",
+     "pages": [
+      727
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قوله صلى الله عليه وسلم: «بحسب امرئٍ مِنَ الشَّرِّ أنْ يحقِرَ أخاه المسلم» يعني: يكفيه مِنَ الشرِّ احتقارُ أخيه المسلم، فإنَّه إنَّما يحتقرُ أخاه المسلم لتكبُّره عليه،",
+         "en": "His words ﷺ, “It is evil enough for a man to look down on his Muslim brother,” mean that looking down on his Muslim brother is evil enough for him; for he looks down on his Muslim brother only out of arrogance towards him,"
+        },
+        {
+         "ar": "والكِبْرُ من أعظمِ خِصالِ الشَّرِّ، وفي \" صحيح مسلم \" عن النَّبيِّ صلى الله عليه وسلم أنَّه قال: «لا يدخلُ الجنَّة من في قلبه مثقالُ ذرَّةٍ من كِبْرٍ».",
+         "en": "and arrogance is one of the gravest of evil traits. In Ṣaḥīḥ Muslim, the Prophet ﷺ said: “No one in whose heart is an atom's weight of arrogance will enter Paradise.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c86",
+     "pages": [
+      727
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفيه أيضاً عنه أنَّه قال: «العزُّ إزاره والكبر ردائه، فمن نازعني عذَّبتُه» فمنازعته الله تعالى صفاته التي لا تليقُ بالمخلوق، كفى بها شراً.",
+         "en": "It also has, from him, that he said: “Might is His lower garment and pride His cloak; whoever contends with Me over them, I will punish him.” Contending with Allah the Exalted over His attributes, which are not fitting for a created being, is evil enough."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c87",
+     "pages": [
+      727
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح ابن حبان \" عن فَضالة بنِ عُبيدٍ، عن النَّبيِّ صلى الله عليه وسلم، قال: «ثلاثة لا يُسأل عنهم:",
+         "en": "In Ṣaḥīḥ Ibn Ḥibbān, from Faḍālah ibn ʿUbayd, the Prophet ﷺ said: “There are three about whom no question will be asked:"
+        },
+        {
+         "ar": "رجلٌ يُنازعُ الله إزاره، ورجلٌ يُنازع الله رداءه، فإنَّ رداءه الكبرياء، وإزاره العزُّ، ورجلٌ في شكٍّ من أمر الله تعالى والقُنوطِ من رحمة الله».",
+         "en": "a man who contends with Allah over His lower garment, a man who contends with Allah over His cloak — for His cloak is pride and His lower garment is might — and a man in doubt about the command of Allah and despairing of the mercy of Allah.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c88",
+     "pages": [
+      727
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح مسلم \" عن أبي هريرة، عن النَّبيِّ صلى الله عليه وسلم، قال: «من قال: هلكَ الناسُ، فهو أهلكهم» قال مالك:",
+         "en": "In Ṣaḥīḥ Muslim, from Abū Hurayrah, the Prophet ﷺ said: “Whoever says, The people are ruined, is himself the most ruined of them.” Mālik said:"
+        },
+        {
+         "ar": "إذا قال ذلك تحزُّناً لما يرى في الناس، يعني في دينهم فلا أرى به بأساً، وإذا قال ذلك عُجباً بنفسه، وتصاغُراً للناس، فهو المكروهُ الذي نُهي عنه.",
+         "en": "If he says it out of grief at what he sees in people — meaning in their religion — I see no harm in it; but if he says it out of self-admiration and contempt for people, that is the disliked thing that has been forbidden."
+        },
+        {
+         "ar": "ذكره أبو داود في \" سننه \".",
+         "en": "Abū Dāwūd mentioned this in his Sunan."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c89",
+     "pages": [
+      728
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قوله صلى الله عليه وسلم: «كلُّ المسلمِ على المسلمِ حرامٌ: دمهُ ومالُه وعِرضه» هذا ممَّا كان النَّبيُّ صلى الله عليه وسلم يخطب به في المجامع العظيمةِ، فإنَّه خطب به في حَجَّة الوداع يومَ النَّحر،",
+         "en": "His words ﷺ, “All of the Muslim is inviolable to the Muslim: his blood, his wealth and his honour”: this is one of the things the Prophet ﷺ used to proclaim in his sermons at great gatherings. He proclaimed it in the Farewell Pilgrimage on the Day of Sacrifice,"
+        },
+        {
+         "ar": "ويومَ عرفةَ، ويوم الثاني من أيَّام التَّشريق، وقال: «إنَّ دماءكم وأموالكم وأعراضكم عليكم حرامٌ، كحُرمة يومكم هذا، في شهركم هذا، في بلدكم هذا» وفي رواية للبخاري وغيره: «وأبشاركم».",
+         "en": "on the Day of ʿArafah, and on the second of the Days of Tashrīq, saying: “Your blood, your wealth and your honour are inviolable to you, as inviolable as this day of yours, in this month of yours, in this land of yours.” In a narration of al-Bukhārī's and others: “and your skins.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c90",
+     "pages": [
+      728
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي رواية: فأعادها مراراً، ثم رفع رأسه، فقالَ: «اللَّهُمَّ هل بلَّغتُ؟",
+         "en": "In one narration: He repeated it several times, then raised his head and said: “O Allah, have I conveyed it?"
+        },
+        {
+         "ar": "اللهمَّ هل بلَّغت؟».",
+         "en": "O Allah, have I conveyed it?”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c91",
+     "pages": [
+      728
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي رواية: ثم قال: «ألا ليبلغِ الشاهدُ منكمُ الغائبَ».",
+         "en": "In one narration: Then he said: “Let the one present among you convey it to the one absent.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c92",
+     "pages": [
+      728
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي رواية للبخاري: «فإنَّ الله حرّم عليكم دماءكم وأموالكم وأعراضكم إلا بحقها».",
+         "en": "In a narration of al-Bukhārī's: “For Allah has made your blood, your wealth and your honour inviolable to you, except by their due right.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c93",
+     "pages": [
+      728
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي رواية: «دماؤكم وأموالُكم وأعراضُكم عليكُم حرامٌ، مثلُ هذا اليوم، وهذا البلد إلى يوم القيامة، حتّى دفعةٌ يدفعُها مسلمٌ مسلماً يريدُ بها سوءاً حرام».",
+         "en": "In one narration: “Your blood, your wealth and your honour are inviolable to you, like this day and this land, until the Day of Resurrection — even a shove that a Muslim gives a Muslim, intending harm by it, is unlawful.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c94",
+     "pages": [
+      728
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي رواية قال: «المؤمنُ حرامٌ على المؤمن، كحرمة هذا اليوم لحمُه عليه حرامٌ أنْ يأكُلَه ويغتابه بالغيب، وعِرضُه عليه حرامٌ أنْ يخرِقَه، ووجهُه عليه حرام أنْ يَلطِمَه، ودمُه عليه حرام أنْ يسفِكَه، وحرامٌ عليه أنْ يدفعه دفعةً تُعنته».",
+         "en": "In one narration he said: “The believer is inviolable to the believer, as inviolable as this day: his flesh is unlawful to him, to eat it by backbiting him in his absence; his honour is unlawful to him, to tear it; his face is unlawful to him, to slap it; his blood is unlawful to him, to shed it; and it is unlawful to him to give him a shove that distresses him.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c95",
+     "pages": [
+      728
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" سنن أبي داود \" عن بعضِ الصَّحابة أنَّهم كانوا يسيرونَ مَعَ النَّبيِّ صلى الله عليه وسلم، فنام رجلٌ منهم،",
+         "en": "In the Sunan of Abū Dāwūd, from some of the Companions: they were travelling with the Prophet ﷺ, and one of them fell asleep."
+        },
+        {
+         "ar": "فانطلق بعضُهم إلى حبلٍ معه، فأخذها ففزِعَ، فقال النَّبيُّ صلى الله عليه وسلم: «لا يحلُّ لمسلم أنْ يروِّع مسلماً».",
+         "en": "Some of them went to a rope he had and took it, and he woke in fright. The Prophet ﷺ said: “It is not lawful for a Muslim to frighten a Muslim.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c96",
+     "pages": [
+      729
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج أحمد وأبو داود والترمذي عن السَّائب بن يزيد، عن النَّبيِّ صلى الله عليه وسلم، قال: «لا يأخذ أحدُكم عصا أخيه لاعباً جادّاً، فمن أخذَ عصا أخيه، فليردَّها إليه».",
+         "en": "Aḥmad, Abū Dāwūd and al-Tirmidhī recorded, from al-Sāʾib ibn Yazīd, that the Prophet ﷺ said: “Let none of you take his brother's staff, whether in jest or in earnest; whoever takes his brother's staff, let him return it to him.”"
+        },
+        {
+         "ar": "قال أبو عبيد: يعني أن يأخذ شيئاً لا يريد سرقتَه، إنَّما يريدُ إدخالَ الغيظِ عليه، فهو لاعبٌ في مذهب السرقة، جادٌ في إدخال الأذى والروع عليه.",
+         "en": "Abū ʿUbayd said: He means that one takes something without intending to steal it, intending only to vex him; so he is jesting as far as theft goes, but in earnest in causing him harm and alarm."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c97",
+     "pages": [
+      729
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن ابنِ مسعودٍ، عن النَّبيِّ صلى الله عليه وسلم، قال: «إذا كنتم ثلاثة، فلا يتناجى اثنان دُونَ الثَّالث، فإنَّ ذلك يُحزِنُهُ» ولفظه لمسلم.",
+         "en": "In the two Ṣaḥīḥs, from Ibn Masʿūd, the Prophet ﷺ said: “When you are three, two should not converse privately apart from the third, for that grieves him.” The wording is Muslim's."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c98",
+     "pages": [
+      729
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الطبراني من حديث ابنِ عباس عن النَّبيِّ صلى الله عليه وسلم، قال: «لا يتناجى اثنان دُونَ الثَّالث، فإنَّ ذلك يُؤذي المؤمنَ، واللهُ يكره أذى المؤمن».",
+         "en": "Al-Ṭabarānī recorded, from the hadith of Ibn ʿAbbās, that the Prophet ﷺ said: “Two should not converse privately apart from the third, for that hurts the believer, and Allah dislikes the hurting of the believer.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c99",
+     "pages": [
+      729
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد من حديث ثوبان، عن النَّبيِّ صلى الله عليه وسلم، قال:",
+         "en": "Imam Aḥmad recorded, from the hadith of Thawbān, that the Prophet ﷺ said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c100",
+     "pages": [
+      729
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«لا تؤذوا عبادَ الله، ولا تعيِّرُوهم، ولا تطلبُوا عوراتهم، فإنَّ من طلبَ عورةَ أخيه المسلمِ، طلب اللهُ عورَته حتى يفضحَهُ في بيته».",
+         "en": "“Do not hurt the servants of Allah, do not reproach them, and do not seek out their faults; for whoever seeks out the faults of his Muslim brother, Allah will seek out his faults until He exposes him in his own house.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c101",
+     "pages": [
+      729
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح مسلم \" عن أبي هريرة أنَّ النَّبيَّ صلى الله عليه وسلم سُئِلَ عنِ الغيبة، فقال: «ذكرُك أخاكَ بما يكرهُ»، قال: أرأيت إنْ كان فيه ما أقولُ؟",
+         "en": "In Ṣaḥīḥ Muslim, from Abū Hurayrah: the Prophet ﷺ was asked about backbiting, and he said: “Your mentioning your brother with what he dislikes.” He said: What if what I say is in him?"
+        },
+        {
+         "ar": "فقال: «إن كان فيه ما تقولُ فقد اغتَبته، وإنْ لم يكن فيه ما تقولُ، فقد بهتَّه».",
+         "en": "He said: “If what you say is in him, you have backbitten him; and if what you say is not in him, you have slandered him.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c102",
+     "pages": [
+      730
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فتضمَّنت هذه النُّصوص كلُّها أنَّ المسلمَ لا يحِلُّ إيصالُ الأذى إليه بوجهٍ مِنَ الوجوهِ من قولٍ أو فعلٍ بغير حقٍّ، وقد قال الله تعالى: {وَالَّذِينَ يُؤْذُونَ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ بِغَيْرِ مَا اكْتَسَبُوا فَقَدِ احْتَمَلُوا بُهْتَاناً وَإِثْماً مُبِيناً}.",
+         "en": "All these texts establish that it is not lawful to bring harm to a Muslim in any way, by word or deed, without right. Allah the Exalted has said: “And those who harm believing men and believing women for something they have not earned have borne the guilt of slander and manifest sin” [al-Aḥzāb 33:58]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c103",
+     "pages": [
+      730
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وإنَّما جعلَ اللهُ المؤمنين إخوةً ليتعاطفوا ويتراحموا، وفي \" الصحيحين \" عن النعمان بن بشير، عن النَّبيِّ صلى الله عليه وسلم،",
+         "en": "Allah made the believers brothers only so that they would be compassionate and merciful to one another. In the two Ṣaḥīḥs, from al-Nuʿmān ibn Bashīr, the Prophet ﷺ"
+        },
+        {
+         "ar": "قال: «مَثَلُ المؤمنين في توادِّهم وتراحُمِهم وتعاطُفهم، مَثَلُ الجسدِ، إذا اشتكي منه عضوٌ، تداعى له سائرُ الجسد بالحمَّى والسَّهر».",
+         "en": "said: “The likeness of the believers in their mutual love, mercy and compassion is that of the body: when one limb of it suffers, the rest of the body responds to it with fever and sleeplessness.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c104",
+     "pages": [
+      730
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي رواية لمسلم: «المؤمنون كرجلٍ واحدٍ، إنِ اشتكى رأسه تداعى له سائر الجسد بالحمى والسهر».",
+         "en": "In a narration of Muslim's: “The believers are like one man: if his head suffers, the rest of the body responds to it with fever and sleeplessness.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c105",
+     "pages": [
+      730
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي رواية له أيضاً:",
+         "en": "Also in a narration of his:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c106",
+     "pages": [
+      730
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«المسلمون كرجلٍ واحد إنِ اشتكى عينُه، اشتكى كلُّه، وإنِ اشتكى رأسُه، اشتكى كلُّه».",
+         "en": "“The Muslims are like one man: if his eye suffers, all of him suffers; and if his head suffers, all of him suffers.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c107",
+     "pages": [
+      730
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفيهما عن أبي موسى، عن النَّبيِّ صلى الله عليه وسلم، قال: «المؤمن للمؤمن كالبُنيان، يشدُّ بعضُه بعضاً».",
+         "en": "In both of them, from Abū Mūsā, the Prophet ﷺ said: “The believer to the believer is like a building, one part strengthening another.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c108",
+     "pages": [
+      730
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج أبو داود من حديث أبي هُريرة، عن النَّبيِّ صلى الله عليه وسلم، قال: «المؤمن مرآةُ المؤمنِ، المؤمنُ أخو المؤمنِ، يكفُّ عنه ضيعتَه، ويحوطُه من ورائِه».",
+         "en": "Abū Dāwūd recorded, from the hadith of Abū Hurayrah, that the Prophet ﷺ said: “The believer is the mirror of the believer. The believer is the brother of the believer: he protects him from loss and guards him from behind.”"
+        },
+        {
+         "ar": "وخرَّجه الترمذي، ولفظه: «إنَّ أحدَكُم مرآةُ أخيه، فإنْ رأى به أذى، فليُمطه عنه».",
+         "en": "Al-Tirmidhī recorded it, in this wording: “Each of you is his brother's mirror; if he sees something harmful on him, let him remove it from him.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h35.c109",
+     "pages": [
+      730
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال رجل لعمر بن عبد العزيز: اجعل كبيرَ المسلمين عندَك أباً، وصغيرهم ابناً، وأوسَطَهم أخاً، فأيُّ أولئك تُحبُّ أنْ تُسيء إليه؟",
+         "en": "A man said to ʿUmar ibn ʿAbd al-ʿAzīz: Treat the elderly among the Muslims as a father, the young as a son and those in between as a brother; then which of them would you want to treat badly?"
+        },
+        {
+         "ar": "ومن كلام يحيى بن معاذ الرازي: ليكن حظُّ المؤمن منك ثلاثة: إنْ لم تنفعه، فلا تضرَّه، وإنْ لم تُفرحه، فلا تَغُمَّه، وإنْ لم تمدحه فلا تَذُمَّه.",
+         "en": "Among the sayings of Yaḥyā ibn Muʿādh al-Rāzī: Let the believer's share from you be three things: if you do not benefit him, do not harm him; if you do not gladden him, do not grieve him; and if you do not praise him, do not disparage him."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}

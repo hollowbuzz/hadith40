@@ -1,0 +1,1327 @@
+{
+ "id": "h48",
+ "number": 48,
+ "standard_number": 48,
+ "collection": "ibn-rajab",
+ "heading": {
+  "ar": "الحديث الثامن والأربعون",
+  "en": "Hadith 48"
+ },
+ "title": {
+  "ar": "خصال النفاق",
+  "en": "The Traits of Hypocrisy"
+ },
+ "pages": {
+  "start": 901,
+  "end": 913
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.n1",
+     "pages": [
+      901
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنْ عبد الله بن عمرٍو رضي الله عنهما، عَنِ النَّبيِّ صلى الله عليه وسلم، قالَ: «أَربعٌ مَنْ كُنَّ فِيهِ كَانَ مُنافِقاً،",
+         "en": "From ʿAbdullāh ibn ʿAmr (may Allah be pleased with them both), from the Prophet ﷺ, who said: “There are four traits: whoever has them is a hypocrite,"
+        },
+        {
+         "ar": "وإنْ كَانَتْ خَصلةٌ مِنهُنَّ فِيهِ كَانَتْ فِيهِ خَصلَةٌ مِنَ النِّفاقِ حتَّى يَدَعَها: مَنْ إذا حَدَّثَ كَذَبَ، وإذا وَعَدَ أَخْلَفَ، وإذا خَاصم فَجَر، وإذا عَاهَد غَدَرَ» خرَّجه البُخاريُّ ومُسلمٌ.",
+         "en": "and whoever has one of them has a trait of hypocrisy until he gives it up: when he speaks, he lies; when he promises, he breaks his promise; when he disputes, he acts wickedly; and when he makes a covenant, he betrays it.” Al-Bukhārī and Muslim recorded it."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c1",
+     "pages": [
+      901
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "هذا الحديث خرَّجاه في \" الصحيحين \" من رواية الأعمش، عن عبد الله بن مُرَّةَ، عن مسروق، عن عبد الله بن عمرو بن العاص،",
+         "en": "Both al-Bukhārī and Muslim recorded this hadith in the two Ṣaḥīḥs through the narration of al-Aʿmash, from ʿAbdullāh ibn Murrah, from Masrūq, from ʿAbdullāh ibn ʿAmr ibn al-ʿĀṣ."
+        },
+        {
+         "ar": "وخرَّجا في \" الصحيحين \" أيضاً من حديث أبي هريرة عن النَّبيِّ صلى الله عليه وسلم، قال: «آيةُ المنافق ثلاثٌ: إذا حدَّث كَذَبَ، وإذا وعد أخلف، وإذا ائتُمِن خَانَ».",
+         "en": "They also recorded in the two Ṣaḥīḥs, from the hadith of Abū Hurayrah, that the Prophet ﷺ said: “The sign of the hypocrite is three things: when he speaks, he lies; when he promises, he breaks his promise; and when he is entrusted with something, he betrays the trust.”"
+        },
+        {
+         "ar": "وفي رواية لمسلم: «وإن صام وصلَّى وزَعَمَ أنَّه مُسلمٌ» وفي رواية له أيضاً: «من علامات المنافق ثلاثة».",
+         "en": "In a narration of Muslim's: “even if he fasts and prays and claims to be a Muslim”; and in another narration of his: “Among the signs of the hypocrite are three.”"
+        },
+        {
+         "ar": "وقد رُوي هذا عن النَّبيِّ صلى الله عليه وسلم من وجوه أخر.",
+         "en": "This has also been narrated from the Prophet ﷺ by other routes."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c2",
+     "pages": [
+      901
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذا الحديث قد حمله طائفةٌ ممَّن يميل إلى الإرجاء على المنافقين الذين كانوا على عهدِ النبيِّ صلى الله عليه وسلم، فإنَّهم حدَّثوا النَّبيَّ صلى الله عليه وسلم فكذَّبوه، وائتمنهم على سرِّه فخانوه،",
+         "en": "Some of those who lean towards irjāʾ [the doctrine of the Murjiʾah] took this hadith to refer to the hypocrites of the Prophet's time ﷺ: they spoke to the Prophet ﷺ and lied to him, he entrusted them with his secret and they betrayed him,"
+        },
+        {
+         "ar": "ووعدُوه أن يخرُجوا معه في الغزو فأخلفوه، وقد روى محمَّدٌ المُحْرِمُ هذا التأويلَ عن عطاءٍ، وأنَّه قال: حدثني به جابرٌ، عن النَّبيِّ صلى الله عليه وسلم، وذكر أنَّ الحسنَ رجع إلى قول عطاء هذا لما بلغه عنه.",
+         "en": "and they promised him that they would go out with him on campaign and broke their promise. Muḥammad al-Muḥrim narrated this interpretation from ʿAṭāʾ, saying that ʿAṭāʾ said: Jābir told it to me from the Prophet ﷺ; and he mentioned that al-Ḥasan came round to this view of ʿAṭāʾ's when it reached him."
+        },
+        {
+         "ar": "وهذا كذب، والمحرم شيخ كذابٌ معروف بالكذب.",
+         "en": "This is a lie. Al-Muḥrim is a lying shaykh, known for lying."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c3",
+     "pages": [
+      902
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد رُوي عن عطاء من وجهين آخرين ضعيفين أنَّه أنكر على الحسن قوله: ثلاثٌ من كنَّ فيه، فهو منافق، وقال: قد حدَّث إخوةُ يوسف فكذبوا،",
+         "en": "It has been narrated from ʿAṭāʾ by two other, weak routes that he objected to al-Ḥasan's saying, “Three things: whoever has them is a hypocrite,” and said: The brothers of Yūsuf spoke and lied,"
+        },
+        {
+         "ar": "ووعدوا فأخلفوا، وائتمنوا فخانوا ولم يكونوا منافقين، وهذا لا يصح عن عطاء، والحسن لم يقل هذا من عنده وإنَّما بلغه عن النَّبيِّ صلى الله عليه وسلم.",
+         "en": "promised and broke their promise, were entrusted and betrayed, and yet they were not hypocrites. This is not authentic from ʿAṭāʾ; and al-Ḥasan did not say this of his own accord, but because it had reached him from the Prophet ﷺ."
+        },
+        {
+         "ar": "فالحديث ثابت عنه صلى الله عليه وسلم لا شكَّ في ثبوته وصحته والذي فسره به أهلُ العلم المعتبرون أنَّ النفاقَ في اللغة هو من جنس الخداع والمكر وإظهار الخير، وإبطان خلافه، وهو في الشرع ينقسم إلى قسمين:",
+         "en": "The hadith, then, is firmly established from him ﷺ, with no doubt that it is established and authentic. The people of knowledge whose views carry weight explain it as follows. Hypocrisy (nifāq), in the language, belongs to the same family as deception and cunning, showing good outwardly while concealing the opposite; and in the Sharīʿah it divides into two kinds."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c4",
+     "pages": [
+      902
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدهما: النفاقُ الأكبرُ، وهو أنْ يظهر الإنسانُ الإيمانَ بالله وملائكته وكتبه ورسله واليوم الآخر، ويُبطن ما يُناقض ذلك كلَّه أو بعضه،",
+         "en": "The first is the greater hypocrisy: that a person outwardly shows faith in Allah, His angels, His Books, His messengers and the Last Day, while inwardly holding what contradicts all or part of that."
+        },
+        {
+         "ar": "وهذا هو النِّفاق الذي كان على عهد النَّبيِّ صلى الله عليه وسلم، ونزل القرآن بذمِّ أهله وتكفيرهم، وأخبر أنَّ أهله في الدَّرْكِ الأسفل من النار.",
+         "en": "This is the hypocrisy that existed in the time of the Prophet ﷺ. The Qurʾān was revealed censuring those who held it and declaring them disbelievers, and it told that they are in the lowest depth of the Fire."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c5",
+     "pages": [
+      902
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثاني: النفاق الأصغر، وهو نفاق العمل، وهو أنْ يُظهر الإنسانُ علانيةً صالحةً، ويُبطن ما يُخالف ذلك.",
+         "en": "The second is the lesser hypocrisy, the hypocrisy of deeds: that a person shows a righteous outward appearance while concealing inwardly what is contrary to it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c6",
+     "pages": [
+      902
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأصولُ هذا النفاق ترجع إلى الخصال المذكورة في هذه الأحاديث، وهي خمسة: أحدها: أن يُحدِّث بحديث لمن يصدِّقه به وهو كاذب له،",
+         "en": "The roots of this hypocrisy go back to the traits mentioned in these hadiths, and they are five. The first is to tell something to someone who believes you, while you are lying to him."
+        },
+        {
+         "ar": "وفي \" المسند \" عن النَّبيِّ صلى الله عليه وسلم، قال: «كَبُرَت خيانةً أنْ تحدِّث أخاك حديثاً هو لك مصدِّقٌّ، وأنت به كاذب».",
+         "en": "In the Musnad, the Prophet ﷺ said: “It is a great betrayal that you tell your brother something in which he believes you, while you are lying to him.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c7",
+     "pages": [
+      903
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال الحسنُ: كان يقال: النفاقُ اختلاف السِّرِّ والعلانية، والقول والعمل، والمدخل والمخرج، وكان يقالُ: أُسُّ النفاق الذي بني عليه النفاق الكذبُ.",
+         "en": "Al-Ḥasan said: It used to be said: Hypocrisy is a difference between the private and the public, between word and deed, and between the way one goes in and the way one comes out. And it used to be said: The foundation of hypocrisy, on which hypocrisy is built, is lying."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c8",
+     "pages": [
+      903
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "الثاني: إذا وَعَدَ أخلف، وهو على نوعين:",
+         "en": "The second: when he promises, he breaks his promise. This is of two kinds."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c9",
+     "pages": [
+      903
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدُهُما: أنْ يَعِدَ ومِنْ نيته أنْ لا يفي بوعده، وهذا أشرُّ الخلف، ولو قال: أفعل كذا إنْ شاء الله تعالى ومن نيته أنْ لا يفعل، كان كذباً وخُلفاً، قاله الأوزاعيُّ.",
+         "en": "The first is to make a promise while intending not to keep it. This is the worst kind of breaking a promise. Even if one says, “I will do such-and-such, if Allah the Exalted wills,” while intending not to do it, it is a lie and a broken promise; al-Awzāʿī said this."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c10",
+     "pages": [
+      903
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "الثاني: أنْ يَعِدَ ومن نيته أنْ يفي، ثم يبدو له، فيُخلِفُ من غير عذرٍ له في الخلف.",
+         "en": "The second is to make a promise intending to keep it, then change one's mind and break it with no excuse for breaking it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c11",
+     "pages": [
+      903
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج أبو داود، والترمذي من حديث زيد بنِ أرقم، عن النَّبيِّ صلى الله عليه وسلم، قال: «إذا وعَد الرَّجُلُ ونَوى أنْ يفي به، فلم يَفِ، فلا جُناحَ عليه».",
+         "en": "Abū Dāwūd and al-Tirmidhī recorded, from the hadith of Zayd ibn Arqam, that the Prophet ﷺ said: “When a man makes a promise intending to keep it, and then does not keep it, there is no sin on him.”"
+        },
+        {
+         "ar": "وقال الترمذي: ليس إسنادُه بالقوي.",
+         "en": "Al-Tirmidhī said: Its chain is not strong."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c12",
+     "pages": [
+      903
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرّجه الإسماعيلي وغيره من حديث سلمان أنَّ علياً لقي أبا بكر وعمر، فقال: ما لي أراكما ثقيلين؟",
+         "en": "Al-Ismāʿīlī and others recorded it from the hadith of Salmān: ʿAlī met Abū Bakr and ʿUmar and said: Why do I see you both so heavy-hearted?"
+        },
+        {
+         "ar": "قالا: حديثٌ سمعناه من النَّبيِّ صلى الله عليه وسلم ذكر خلالَ المنافق:",
+         "en": "They said: Because of a hadith we heard from the Prophet ﷺ, in which he mentioned the traits of the hypocrite:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c13",
+     "pages": [
+      903
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«إذا وَعَدَ أخلَفَ، وإذا حَدَّثَ كَذَب، وإذا اؤتُمِنَ خَانَ» فأيُّنا ينجو من هذه الخصالِ؟",
+         "en": "“When he promises, he breaks his promise; when he speaks, he lies; and when he is entrusted, he betrays.” Which of us is safe from these traits?"
+        },
+        {
+         "ar": "فدخل عليٌّ على النَّبيِّ صلى الله عليه وسلم، فذكر ذلك له، فقال: «قد حدَّثتهما، ولم أضعه على الموضع الذي تضعونَه،",
+         "en": "ʿAlī went in to the Prophet ﷺ and mentioned this to him, and he said: “I did tell them that, but I did not mean it in the way you are taking it."
+        },
+        {
+         "ar": "ولكن المنافق إذا حدَّث وهو يحدِّث نفسه أنْ يكذبَ، وإذا وَعَدَ وهو يحدِّث نفسه أنْ يُخلِفَ، وإذا اؤتمِنَ وهو يُحدث نفسه أنْ يخونَ».",
+         "en": "Rather, the hypocrite is the one who, when he speaks, is telling himself that he will lie; when he promises, is telling himself that he will break it; and when he is entrusted, is telling himself that he will betray.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c14",
+     "pages": [
+      903
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أبو حاتم الرازي في هذا الحديث من رواية سلمان وزيد بن أرقم:",
+         "en": "Abū Ḥātim al-Rāzī said of this hadith, in the narrations of Salmān and Zayd ibn Arqam:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c15",
+     "pages": [
+      904
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "الحديثان مضطربان وفي الإسنادين مجهولان.",
+         "en": "The two hadiths are inconsistent (muḍṭarib), and there are unknown narrators in both chains."
+        },
+        {
+         "ar": "وقال الدارقطني: الحديث غير ثابت، والله أعلم.",
+         "en": "Al-Dāraquṭnī said: The hadith is not established. And Allah knows best."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c16",
+     "pages": [
+      904
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الطبراني والإسماعيلي من حديث عليٍّ مرفوعاً: «العِدَةُ دَينٌ، ويلٌ لمن وعد ثم أخلف» قالها ثلاثاً، وفي إسناده جهالة، ويُروى من حديث ابن مسعود، قال:",
+         "en": "Al-Ṭabarānī and al-Ismāʿīlī recorded, from the hadith of ʿAlī as marfūʿ (attributed to the Prophet ﷺ): “A promise is a debt. Woe to whoever promises and then breaks it” — he said it three times. Its chain contains an unknown narrator. It is also narrated from the hadith of Ibn Masʿūd, who said:"
+        },
+        {
+         "ar": "لا يَعِدْ أحدكُم صَبِيَّه، ثم لا يُنجِزُ له، فإنَّ رسول الله صلى الله عليه وسلم قال: «العِدَةُ عطية» وفي إسناده نظر، وأوَّله صحيح عن ابن مسعود من قوله.",
+         "en": "None of you should promise his child something and then not give it to him, for the Messenger of Allah ﷺ said: “A promise is a gift.” Its chain is open to question, though its first part is authentic from Ibn Masʿūd as his own words."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c17",
+     "pages": [
+      904
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي مراسيل الحسن عن النَّبيِّ صلى الله عليه وسلم قال: «العِدَةُ هِبَةٌ».",
+         "en": "Among the mursal reports of al-Ḥasan, the Prophet ﷺ said: “A promise is a present.”"
+        },
+        {
+         "ar": "وفي \" سنن أبي داود\" عن مولى لِعبد الله بن عامر بن ربيعة، عن عبدِ الله بن عامر بن ربيعة، قال:",
+         "en": "In the Sunan of Abū Dāwūd, from a freed slave of ʿAbdullāh ibn ʿĀmir ibn Rabīʿah, from ʿAbdullāh ibn ʿĀmir ibn Rabīʿah, who said:"
+        },
+        {
+         "ar": "جاء النَّبيُّ صلى الله عليه وسلم إلى بيتنا وأنا صبيٌّ، فخرجتُ لألعب، فقالت أمي: يا عبد الله تعالَ أُعطِك، فقال رسول الله صلى الله عليه وسلم: «ما أردتِ أن تعطيه؟»",
+         "en": "The Prophet ﷺ came to our house when I was a boy, and I went out to play. My mother said: ʿAbdullāh, come here and I will give you something. The Messenger of Allah ﷺ said: “What did you mean to give him?”"
+        },
+        {
+         "ar": "قلت: أردت أن أعطيه تمراً، فقال: «أما إنْ لم تفعلي كُتبت عليك كذبة».",
+         "en": "She said: I meant to give him a date. He said: “Had you not done so, a lie would have been written against you.”"
+        },
+        {
+         "ar": "وفي إسناده من لا يُعرف.",
+         "en": "Its chain contains someone who is not known."
+        }
+       ]
+      }
+     ],
+     "notes": [
+      {
+       "en": "The printed text reads قلتُ (“I said”); read قالت (“she said”), as the reply is the mother's and as Abū Dāwūd and the other sources have it. The Abū al-Nūr edition has the same misprint."
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c18",
+     "pages": [
+      904
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وذكر الزهريُّ عن أبي هُريرة، قال: من قال لِصبيٍّ: تَعَالَ هاك تمراً، ثم لا يُعطيه شيئاً فهي كذبة.",
+         "en": "Al-Zuhrī mentioned from Abū Hurayrah, who said: Whoever says to a child, “Come, here is a date,” and then gives him nothing, it is a lie."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c19",
+     "pages": [
+      904,
+      905
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد اختلف العلماء في وجوب الوفاء بالوعدِ، فمنهم من أوجبه مطلقاً، وذكر البخاري في \"صحيحه\" أنَّ ابن أشوع قضى بالوعد،",
+         "en": "The scholars have disagreed over whether keeping a promise is obligatory. Some hold it obligatory without qualification; al-Bukhārī mentioned in his Ṣaḥīḥ that Ibn al-Ashwaʿ gave judgement that promises must be kept,"
+        },
+        {
+         "ar": "وهو قولُ طائفة من أهل الظاهر وغيرهم، منهم من أوجب الوفاء به إذا اقتضى تغريماً للموعود، وهو المحكيُّ عن مالك، وكثيرٌ من الفقهاء لا يوجبونه مطلقاً.",
+         "en": "and this is the view of a group of the Ẓāhirīs and others. Some hold it obligatory to keep a promise when it has led the one promised to incur a loss; this is what is reported from Mālik. Many jurists do not hold it obligatory at all."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c20",
+     "pages": [
+      905
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثالث: إذا خاصم فجر ويعني بالفجور أنْ يخرج عن الحقِّ عمداً حتى يصير الحقُّ باطلاً والباطلُ حقاً، وهذا مما يدعو إليه الكذبُ،",
+         "en": "The third: when he disputes, he acts wickedly. By wickedness (fujūr) is meant deliberately departing from the truth, so that truth becomes falsehood and falsehood truth. Lying is one of the things that leads to this,"
+        },
+        {
+         "ar": "كما قال صلى الله عليه وسلم: «إيَّاكم والكَذِبَ، فإنَّ الكذِبَ يهدي إلى الفُجور، وإنَّ الفجور يهدي إلى النارِ».",
+         "en": "as he ﷺ said: “Beware of lying, for lying leads to wickedness, and wickedness leads to the Fire.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c21",
+     "pages": [
+      905
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن النَّبيِّ صلى الله عليه وسلم: «إنَّ أبغضَ الرجال إلى الله الألدُّ الخَصِمُ».",
+         "en": "In the two Ṣaḥīḥs, from the Prophet ﷺ: “The most hateful of men to Allah is the fiercely quarrelsome adversary.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c22",
+     "pages": [
+      905
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد قال صلى الله عليه وسلم: «إنَّكم لتَختَصمون إليَّ ولعلَّ بعضَكُم أنْ يكونَ ألحنَ بحُجَّته من بعض، وإنَّما أقضي على نحو مما أَسْمَعُ، فمن قضيتُ له بشيءٍ من حقِّ أخيه، فلا يأْخُذْهُ، فإنَّما أقطع له قِطعةً مِنَ النَّار».",
+         "en": "He ﷺ also said: “You bring your disputes to me, and perhaps some of you are more eloquent in presenting their case than others. I judge only according to what I hear; so if I give someone a judgement for something that is his brother's right, let him not take it, for I am only cutting off for him a piece of the Fire.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c23",
+     "pages": [
+      905
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال صلى الله عليه وسلم: «إنَّ مِنَ البيانِ سِحراً».",
+         "en": "He ﷺ also said: “Some eloquence is magic.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c24",
+     "pages": [
+      905
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فإذا كان الرجلُ ذا قدرةٍ عند الخصومة - سواء كانت خصومتُه في الدِّين أو في الدنيا - على أنْ ينتصر للباطل، ويُخيل للسَّامع أنَّه حقٌّ، ويوهن الحقَّ، ويخرجه في صورة الباطل، كان ذلك مِنْ أقبحِ المحرَّمات،",
+         "en": "So if a man is able, in a dispute — whether over religion or over worldly matters — to champion falsehood, make the listener imagine it is true, weaken the truth and present it in the guise of falsehood, that is one of the foulest of prohibited things"
+        },
+        {
+         "ar": "ومن أخبث خصال النفاق، وفي \" سنن أبي داود \" عن ابن عمر، عن النَّبيِّ صلى الله عليه وسلم، قال: «مَنْ خَاصَمَ في باطلٍ وهو يعلَمُهُ لم يَزَلْ في سَخَطِ الله حتى يَنزِعَ».",
+         "en": "and one of the vilest traits of hypocrisy. In the Sunan of Abū Dāwūd, from Ibn ʿUmar, the Prophet ﷺ said: “Whoever disputes on behalf of falsehood, knowing it to be so, remains under Allah's displeasure until he desists.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c25",
+     "pages": [
+      905
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي رواية له أيضاً: «ومَنْ أعانَ على خصومةٍ بظلم، فقد باء بغضب من الله».",
+         "en": "In another narration of his: “And whoever helps in a dispute unjustly has incurred wrath from Allah.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c26",
+     "pages": [
+      906
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "الرابع: إذا عاهد غدر، ولم يفِ بالعهد، وقد أمر الله بالوفاء بالعهد، فقال: {وَأَوْفُوا بِالْعَهْدِ إِنَّ الْعَهْدَ كَانَ مَسْؤُولاً}، وقال: {وَأَوْفُوا بِعَهْدِ اللهِ إِذَا عَاهَدْتُمْ وَلا تَنْقُضُوا الأَيْمَانَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ اللهَ عَلَيْكُمْ كَفِيلاً}،",
+         "en": "The fourth: when he makes a covenant, he betrays it and does not fulfil it. Allah has commanded that covenants be fulfilled, saying: “Fulfil the covenant; the covenant will be asked about” [al-Isrāʾ 17:34]; and: “Fulfil the covenant of Allah when you have made a covenant, and do not break oaths after confirming them, when you have made Allah a surety over you” [al-Naḥl 16:91];"
+        },
+        {
+         "ar": "وقال: {إِنَّ الَّذِينَ يَشْتَرُونَ بِعَهْدِ اللهِ وَأَيْمَانِهِمْ ثَمَناً قَلِيلاً أُولَئِكَ لا خَلاقَ لَهُمْ فِي الآخِرَةِ وَلا يُكَلِّمُهُمُ اللهُ وَلا يَنْظُرُ إِلَيْهِمْ يَوْمَ الْقِيَامَةِ وَلا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ}.",
+         "en": "and: “Those who sell the covenant of Allah and their oaths for a small price will have no share in the Hereafter. Allah will not speak to them or look at them on the Day of Resurrection, nor will He purify them, and they will have a painful punishment” [Āl ʿImrān 3:77]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c27",
+     "pages": [
+      906
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن ابن عمر، عن النَّبيِّ صلى الله عليه وسلم، قال: «لِكُلِّ غادرٍ لواءٌ يومَ القيامَةِ يُعرف به»،",
+         "en": "In the two Ṣaḥīḥs, from Ibn ʿUmar, the Prophet ﷺ said: “Every betrayer will have a banner on the Day of Resurrection by which he will be known.”"
+        },
+        {
+         "ar": "وفي رواية: «إنَّ الغادرَ يُنصبُ له لواءٌ يومَ القيامة، فيقال: ألا هذه غَدرةُ فلان»، وخرَّجاه أيضاً من حديث أنس بمعناه.",
+         "en": "In one narration: “A banner will be raised for the betrayer on the Day of Resurrection, and it will be said: Behold, this is the betrayal of so-and-so.” Both also recorded something with the same meaning from the hadith of Anas."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c28",
+     "pages": [
+      906
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج مسلم من حديث أبي سعيدٍ، عن النَّبيِّ صلى الله عليه وسلم، قال: «لِكلِّ غادرٍ لواء عندَ استه يومَ القِيامة».",
+         "en": "Muslim recorded from the hadith of Abū Saʿīd that the Prophet ﷺ said: “Every betrayer will have a banner at his backside on the Day of Resurrection.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c29",
+     "pages": [
+      906
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والغدرُ حرامٌ في كلِّ عهدٍ بين المسلم وغيره، ولو كان المعاهَدُ كافراً، ولهذا في حديث عبد الله بن عمرو،",
+         "en": "Betrayal is unlawful in every covenant between a Muslim and anyone else, even if the party to the covenant is a disbeliever. That is why, in the hadith of ʿAbdullāh ibn ʿAmr,"
+        },
+        {
+         "ar": "عن النَّبيِّ صلى الله عليه وسلم: «مَنْ قَتلَ نفساً مُعاهداً بغير حقها لم يَرَحْ رائحةَ الجنة، وإنَّ ريحها ليوجَدُ من مسيرة أربعين عاماً» خرّجه البخاري.",
+         "en": "the Prophet ﷺ said: “Whoever kills a person under a covenant (muʿāhad) without due right will not smell the fragrance of Paradise, though its fragrance can be found from a distance of forty years.” Al-Bukhārī recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c30",
+     "pages": [
+      906
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد أمر الله تعالى في كتابه بالوفاء بعهود المشركين إذا أقاموا على عهودهم ولم ينقُضوا منها شيئاً.",
+         "en": "Allah the Exalted has commanded in His Book that covenants with the idolaters be fulfilled, so long as they keep to their covenants and break nothing of them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c31",
+     "pages": [
+      906
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما عهودُ المسلمين فيما بينهم، فالوفاء بها أشدُّ، ونقضُها أعظم إثماً.",
+         "en": "As for covenants among Muslims, keeping them is still more binding, and breaking them a greater sin."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c32",
+     "pages": [
+      907
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومِنْ أعظمها: نقضُ عَهدِ الإمام على مَنْ بايعه، ورضِيَ به، وفي \" الصحيحين \" عن أبي هريرة، عن النَّبيِّ صلى الله عليه وسلم، قال:",
+         "en": "One of the gravest is breaking the pledge to the ruler (imām) by someone who has pledged allegiance to him and accepted him. In the two Ṣaḥīḥs, from Abū Hurayrah, the Prophet ﷺ said:"
+        },
+        {
+         "ar": "«ثلاثةٌ لا يُكلِّمُهُم الله يومَ القيامةِ ولا يُزكِّيهم ولهم عذابٌ أليمٌ، فذكر منهم: ورجلٌ بايع إماماً لا يُبايعه إلاَّ لدنيا، فإنْ أعطاه ما يريد، وفَّى له، وإلا لم يفِ له».",
+         "en": "“There are three to whom Allah will not speak on the Day of Resurrection, nor purify them, and they will have a painful punishment” — and among them he mentioned: “a man who pledged allegiance to a ruler only for worldly gain: if he gives him what he wants, he keeps faith with him, and if not, he does not.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c33",
+     "pages": [
+      907
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويدخل في العُهود التي يجب الوفاءُ بها، ويحرم الغَدْرُ فيها: جميعُ عقود المسلمين فيما بينهم، إذا تَرَاضَوا عليها من المبايعات والمناكحات وغيرها من العقود اللازمة التي يجب الوفاءُ بها،",
+         "en": "The covenants that must be kept and in which betrayal is unlawful include all the contracts Muslims make among themselves when they have agreed to them by mutual consent — sales, marriages and other binding contracts that must be fulfilled —"
+        },
+        {
+         "ar": "وكذلك ما يجبُ الوفاء به لله عز وجل ممَّا يعاهدُ العبدُ ربَّه عليه من نذرِ التَّبرُّرِ ونحوه.",
+         "en": "and likewise whatever must be fulfilled for Allah, the Mighty and Majestic, of what the servant pledges to his Lord, such as a vow of devotion (nadhr al-tabarrur) and the like."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c34",
+     "pages": [
+      907
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "الخامس: الخيانةُ في الأمانة، فإذا اؤتمِنَ الرجلُ أمانةً، فالواجبُ عليه أنْ يُؤدِّيها، كما قال تعالى: {إِنَّ اللهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الأَمَانَاتِ إِلَى أَهْلِهَا}، وقال النَّبيُّ صلى الله عليه وسلم: «أدِّ الأمانة إلى من ائتَمَنَكَ»،",
+         "en": "The fifth: betraying a trust. When a man is entrusted with something, he must render it, as the Exalted said: “Allah commands you to render trusts to those to whom they are due” [al-Nisāʾ 4:58]; and the Prophet ﷺ said: “Render the trust to the one who entrusted you.”"
+        },
+        {
+         "ar": "وقال في خطبته في حجة الوداع: «مَنْ كانَت عندَه أمانةٌ، فليؤدِّها إلى من ائتمنه عليها» وقال عز وجل: {يَا أَيُّهَا الَّذِينَ آمَنُوا لا تَخُونُوا اللهَ وَالرَّسُولَ وَتَخُونُوا أَمَانَاتِكُمْ وَأَنْتُمْ تَعْلَمُونَ} فالخيانة في الأمانة من خصال النفاق.",
+         "en": "In his sermon at the Farewell Pilgrimage he said: “Whoever has a trust with him, let him render it to the one who entrusted him with it.” And the Mighty and Majestic said: “O you who believe, do not betray Allah and the Messenger, nor knowingly betray your trusts” [al-Anfāl 8:27]. Betraying a trust is thus one of the traits of hypocrisy."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c35",
+     "pages": [
+      908
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي حديث ابن مسعودٍ من قوله، وروي مرفوعاً: «القتلُ في سبيل الله يُكفِّر كلَّ ذنب إلا الأمانة، يُؤتى بصاحب الأمانةِ فيقال له: أدِّ أَمانتكَ، فيقول: أنّى يا ربِّ وقد ذهبتِ الدُّنيا؟",
+         "en": "In the hadith of Ibn Masʿūd, as his own words — it has also been narrated as marfūʿ: “Being killed in the path of Allah expiates every sin except the trust. The holder of the trust will be brought and told: Render your trust. He will say: How, my Lord, when the world has gone?"
+        },
+        {
+         "ar": "فيقالُ: اذهبوا به إلى الهاوية، فيهوي فيها حتَّى ينتهيَ إلى قعرها، فيَجِدُها هناك كهيئتها، فيحمِلُها، فيضعها على عنقه فيَصْعَدُ بها في نار جهنم حتّى إذا رأى أنَّه قد خرج منها،",
+         "en": "It will be said: Take him to al-Hāwiyah [the Abyss]. He will be cast down into it until he reaches its bottom, and there he will find it in the form it had. He will pick it up, put it on his neck and climb with it through the fire of Hell, until, when he sees that he has come out of it,"
+        },
+        {
+         "ar": "زلَّت فهوت، وهو في إثرها أبد الآبدين» قال: والأمانة في الصلاة، والأمانة في الصوم، والأمانة في الحديث، وأشدُّ ذلك الودائع.",
+         "en": "it slips and falls, and he falls after it for ever and ever.” He said: There is trust in the prayer, trust in fasting and trust in speech, and the gravest of these is deposits."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c36",
+     "pages": [
+      908
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد روي عن محمد بن كعب القرظي أنَّه استنبط ما في هذا الحديث - أعني حديث: «آية المنافق ثلاث» - من القرآن،",
+         "en": "It is narrated of Muḥammad ibn Kaʿb al-Quraẓī that he derived the content of this hadith — I mean the hadith “The sign of the hypocrite is three” — from the Qurʾān,"
+        },
+        {
+         "ar": "فقال: مصداق ذلك في كتاب الله تعالى: {إِذَا جَاءكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ اللهِ} إلى قوله:",
+         "en": "saying: The confirmation of this is in the Book of Allah the Exalted: “When the hypocrites come to you, they say: We bear witness that you are the Messenger of Allah” up to His words:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c37",
+     "pages": [
+      908
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "{وَاللهُ يَشْهَدُ إِنَّ الْمُنَافِقِينَ لَكَاذِبُونَ}، وقال تعالى: {وَمِنْهُمْ مَنْ عَاهَدَ اللهَ لَئِنْ آتَانَا مِنْ فَضْلِهِ} إلى قوله: {فَأَعْقَبَهُمْ نِفَاقاً فِي قُلُوبِهِمْ إِلَى يَوْمِ يَلْقَوْنَهُ بِمَا أَخْلَفُوا اللهَ مَا وَعَدُوهُ وَبِمَا كَانُوا يَكَذِبُونَ}،",
+         "en": "“and Allah bears witness that the hypocrites are liars” [al-Munāfiqūn 63:1]. The Exalted also said: “And among them are those who made a covenant with Allah: If He gives us of His bounty…” up to His words: “So He caused hypocrisy to follow in their hearts until the day they meet Him, because they broke what they had promised Allah and because they used to lie” [al-Tawbah 9:75–77]."
+        },
+        {
+         "ar": "وقال: {إِنَّا عَرَضْنَا الأَمَانَةَ عَلَى السَّمَاوَاتِ وَالأَرْضِ وَالْجِبَالِ} إلى قوله: {لِيُعَذِّبَ اللهُ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ} ورُوي عن ابن مسعود نحوُ هذا الكلام، ثم تلا قوله: {فَأَعْقَبَهُمْ نِفَاقاً فِي قُلُوبِهِمْ} الآية.",
+         "en": "And He said: “We offered the trust to the heavens, the earth and the mountains…” up to His words: “so that Allah may punish the hypocrite men and the hypocrite women” [al-Aḥzāb 33:72–73]. Something similar to these words has been narrated from Ibn Masʿūd, after which he recited His words: “So He caused hypocrisy to follow in their hearts…” to the end of the verse."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c38",
+     "pages": [
+      908
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وحاصلُ الأمرِ أنَّ النفاق الأصغر كُلَّه يرجِع إلى اختلاف السريرة والعلانية قاله الحسن، وقال الحسن أيضاً: من النفاق اختلافُ القلب واللسان، واختلاف السِّرِّ والعلانية، واختلاف الدخول والخروج.",
+         "en": "The upshot is that all of the lesser hypocrisy comes back to a difference between the inward and the outward; al-Ḥasan said this. Al-Ḥasan also said: Part of hypocrisy is a difference between heart and tongue, between the private and the public, and between the way one goes in and the way one comes out."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c39",
+     "pages": [
+      909
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال طائفة من السَّلف: خشوعُ النفاق أنْ ترى الجسدَ خاشعاً، والقلب ليس بخاشع، وقد رُوي معنى ذلك عن عمر، وروي عنه أنَّه قال على المنبر: إنَّ أخوفَ ما أخافُ عليكم المنافقُ العليم، قالوا: كيف يكون المنافق عليماً؟",
+         "en": "A group of the Salaf said: The humility of hypocrisy is that you see the body humble while the heart is not humble. The meaning of this has been narrated from ʿUmar, and it is narrated that he said on the pulpit: What I fear most for you is the knowledgeable hypocrite. They said: How can a hypocrite be knowledgeable?"
+        },
+        {
+         "ar": "قال: يتكلم بالحكمةِ، ويعمل بالجور، أو قال: المنكر.",
+         "en": "He said: He speaks wisdom and acts unjustly — or he said: acts wrongly."
+        },
+        {
+         "ar": "وسُئل حذيفة عن المنافق، فقال: الذي يصف الإيمان ولا يعمل به.",
+         "en": "Ḥudhayfah was asked about the hypocrite and said: He is the one who describes faith and does not act on it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c40",
+     "pages": [
+      909
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح البخاري \" عن ابن عمر أنَّه قيل له: إنا نَدخُلُ على سلطاننا، فنقول لهم بخلاف ما نتكلَّمُ إذا خرجنا من عندهم، قال: كُنَّا نعدُّ هذا نفاقاً.",
+         "en": "In Ṣaḥīḥ al-Bukhārī, from Ibn ʿUmar: He was told: We go in to our rulers and say to them the opposite of what we say when we have left them. He said: We used to count this as hypocrisy."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c41",
+     "pages": [
+      909
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" المسند \" عن حُذيفة، قال: إنَّكم لتكلِّمون كلاماً إنْ كُنّا لنعدُّه على عهد رسول الله صلى الله عليه وسلم النفاقَ، وفي رواية قال:",
+         "en": "In the Musnad, from Ḥudhayfah, who said: You speak words that we used to count as hypocrisy in the time of the Messenger of Allah ﷺ. In one narration he said:"
+        },
+        {
+         "ar": "إنْ كان الرجلُ ليتكلَّمُ بالكلمة على عهد رسول الله صلى الله عليه وسلم، فيصير بها منافقاً، وإنِّي لأسمعها من أحدِكم في اليوم في المجلس عشر مرارٍ.",
+         "en": "A man would speak a word in the time of the Messenger of Allah ﷺ and become a hypocrite by it, and I hear it from one of you ten times a day in a single sitting."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c42",
+     "pages": [
+      909
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال بلالُ بنُ سعد: المنافق يقولُ ما يَعرِفُ، ويعمل ما يُنكِرُ.",
+         "en": "Bilāl ibn Saʿd said: The hypocrite says what he knows to be right and does what he knows to be wrong."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c43",
+     "pages": [
+      909
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن هنا كان الصحابة يخافون النفاقَ على أنفسهم، وكان عمرُ يسأل حُذيفة عن نفسه.",
+         "en": "That is why the Companions feared hypocrisy for themselves, and ʿUmar used to ask Ḥudhayfah about himself."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c44",
+     "pages": [
+      909
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وسئل أبو رجاء العطاردي: هل أدركتَ من أدركتَ من أصحاب رسول الله صلى الله عليه وسلم يخشون النفاقَ؟",
+         "en": "Abū Rajāʾ al-ʿUṭāridī was asked: Did those of the Companions of the Messenger of Allah ﷺ whom you met fear hypocrisy?"
+        },
+        {
+         "ar": "فقال: نَعَمْ إني أدركتُ منهم بحمد الله صدراً حسناً، نعم شديداً، نعم شديداً.",
+         "en": "He said: Yes. Praise be to Allah, I met a good number of them — yes, intensely; yes, intensely."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c45",
+     "pages": [
+      910
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال البخاري في \" صحيحه \": وقال ابنُ أبي مُليكة: أدركتُ ثلاثين من أصحاب النَّبيِّ صلى الله عليه وسلم كُلُّهم يخافُ النفاقَ على نفسه.",
+         "en": "Al-Bukhārī said in his Ṣaḥīḥ: Ibn Abī Mulaykah said: I met thirty of the Companions of the Prophet ﷺ, every one of whom feared hypocrisy for himself."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c46",
+     "pages": [
+      910
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويُذكر عن الحسن قال: ما خافه إلاَّ مؤمِنٌ، ولا أمنه إلا منافق. انتهى.",
+         "en": "It is mentioned that al-Ḥasan said: None fears it but a believer, and none feels safe from it but a hypocrite. End of quotation."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c47",
+     "pages": [
+      910
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروي عن الحسن أنَّه حَلَفَ: ما مضى مؤمِنٌ قطُّ ولا بقي إلا وهو من النفاق مُشفِق، ولا مضى منافق قط ولا بقي إلا وهو من النفاق آمن.",
+         "en": "It is narrated that al-Ḥasan swore: No believer has ever passed away, or remained, without fearing hypocrisy; and no hypocrite has ever passed away, or remained, without feeling safe from hypocrisy."
+        },
+        {
+         "ar": "وكان يقول: من لم يخفِ النفاق، فهو منافق.",
+         "en": "He used to say: Whoever does not fear hypocrisy is a hypocrite."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c48",
+     "pages": [
+      910
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وسَمِعَ رجل أبا الدرداء يتعوَّذُ من النفاق في صلاته، فلما سلَّم، قال له: ما شأنك وشأنُ النفاق؟",
+         "en": "A man heard Abū al-Dardāʾ seeking refuge from hypocrisy in his prayer, and when he had given the salām, he said to him: What have you to do with hypocrisy?"
+        },
+        {
+         "ar": "فقال: اللهمَّ غفراً - ثلاثاً - لا تأمن البلاءَ، واللهِ إنَّ الرجل ليُفتَنُ في ساعةٍ واحدة، فينقلِبُ عن دينه.",
+         "en": "He said: O Allah, forgive! — three times. Do not feel safe from trial. By Allah, a man may be put to trial in a single hour and turn back from his religion."
+        },
+        {
+         "ar": "والآثار عن السَّلف في هذا كثيرة جداً.",
+         "en": "The reports from the Salaf on this are very many."
+        },
+        {
+         "ar": "قال سفيان الثوري: خلافُ ما بيننا وبين المرجئة ثلاث، فذكر منها قال: نحن نقول: النفاق، وهم يقولون: لا نفاق.",
+         "en": "Sufyān al-Thawrī said: We differ from the Murjiʾah on three points. Among them he mentioned: We say there is hypocrisy, and they say there is no hypocrisy."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c49",
+     "pages": [
+      910
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الأوزاعي: قد خاف عمر النفاقَ على نفسه، قيل له: إنَّهم يقولون:",
+         "en": "Al-Awzāʿī said: ʿUmar feared hypocrisy for himself. He was told: They say"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c50",
+     "pages": [
+      910,
+      911
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "إنَّ عمر لم يَخَفْ أنْ يكونَ يومئذ منافقاً حتى سأل حُذيفة، ولكن خاف أنْ يُبتلى بذلك قبل أنْ يموت، قال: هذا قولُ أهل البدع،",
+         "en": "it was not that ʿUmar feared he was a hypocrite at that time, so that he asked Ḥudhayfah; rather, he feared he would be tried with it before he died. He said: This is the view of the people of innovation."
+        },
+        {
+         "ar": "يشير إلى أنَّ عمر كان يخاف النفاقَ على نفسه في الحال، والظَّاهر أنَّه أراد أنَّ عمر كان يخاف على نفسه في الحال من النفاق الأصغر،",
+         "en": "He was indicating that ʿUmar feared hypocrisy for himself in the present. It appears that he meant that ʿUmar feared for himself, in the present, the lesser hypocrisy;"
+        },
+        {
+         "ar": "والنفاق الأصغر وسيلةٌ وذريعةٌ إلى النفاق الأكبر، كما أنَّ المعاصي بريدُ الكفر، فكما يخشى على من أصرَّ على المعصية أنْ يُسلَبَ الإيمانَ عندَ الموت، كذلك يخشى على مَنْ أصرَّ على خصالِ النفاق أنْ يُسلَبَ الإيمانَ، فيصير منافقاً خالصاً.",
+         "en": "and the lesser hypocrisy is a means and a pathway to the greater, just as sins are the courier of disbelief. Just as it is feared that one who persists in sin will be stripped of faith at death, so it is feared that one who persists in the traits of hypocrisy will be stripped of faith and become an outright hypocrite."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c51",
+     "pages": [
+      911
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وسُئِلَ الإمامُ أحمد: ما تقولُ فيمن لا يخاف على نفسه النفاق؟",
+         "en": "Imam Aḥmad was asked: What do you say of someone who does not fear hypocrisy for himself?"
+        },
+        {
+         "ar": "فقال: ومن يأمنُ على نفسه النفاق؟",
+         "en": "He said: And who can feel safe from hypocrisy for himself?"
+        },
+        {
+         "ar": "وكان الحسن يُسمي من ظهرت منه أوصافُ النفاق العملي منافقاً، وروي نحوه عن حذيفة.",
+         "en": "Al-Ḥasan used to call anyone in whom the traits of practical hypocrisy appeared a hypocrite, and something similar is narrated from Ḥudhayfah."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c52",
+     "pages": [
+      911
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الشعبي: من كذب، فهو منافق، وحكى محمد بن نصر المروزي هذا القول عن فرقةٍ من أهل الحديث،",
+         "en": "Al-Shaʿbī said: Whoever lies is a hypocrite. Muḥammad ibn Naṣr al-Marwazī reported this view from a group of the hadith scholars."
+        },
+        {
+         "ar": "وقد سبق في أوائل الكتاب ذكرُ الاختلاف عن الإمام أحمد وغيره في مرتكب الكبائر: هل يسمي كافراً كفراً لا يَنقلُ عن الملة أم لا؟",
+         "en": "The disagreement reported from Imam Aḥmad and others about the one who commits major sins has already been mentioned near the beginning of the book: is he called a disbeliever, with a disbelief that does not take him out of the religion, or not?"
+        },
+        {
+         "ar": "واسمُ الكفر أعظم من اسم النفاق، ولعلَّ هذا هوَ الذي أنكره عطاءٌ عن الحسن إن صحَّ ذلك عنه.",
+         "en": "The name “disbelief” is weightier than the name “hypocrisy”, and perhaps this is what ʿAṭāʾ objected to in al-Ḥasan, if that is authentically reported from him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c53",
+     "pages": [
+      911,
+      912
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومِنْ أعظم خِصال النفاق العملي: أنْ يعملَ الإنسان عملاً، ويُظهرَ أنَّه قصد به الخيرَ، وإنَّما عمله ليتوصَّل به إلى غرض له سيِّئٍ،",
+         "en": "One of the gravest traits of practical hypocrisy is for a person to do a deed and make it appear that he intended good by it, when he did it only to reach some evil aim of his;"
+        },
+        {
+         "ar": "فيتمّ له ذلك، ويتوصَّل بهذه الخديعةِ إلى غرضه، ويفرح بمكره وخِداعه وحَمْدِ النَّاس له على ما أظهره،",
+         "en": "he achieves it, reaches his aim through this deception, and rejoices in his cunning and deceit and in people's praise of him for what he showed outwardly,"
+        },
+        {
+         "ar": "وتوصل به إلى غرضه السيِّئِ الذي أبطنه، وهذا قد حكاه الله في القرآن عن المنافقين واليهود، فحكى عن المنافقين أنَّهم:",
+         "en": "having reached through it the evil aim he concealed. Allah has related this in the Qurʾān of the hypocrites and of the Jews. Of the hypocrites He related that they"
+        },
+        {
+         "ar": "{اتَّخَذُوا مَسْجِداً ضِرَاراً وَكُفْراً وَتَفْرِيقاً بَيْنَ الْمُؤْمِنِينَ وَإِرْصَادَاً لِمَنْ حَارَبَ اللهَ وَرَسُولَهُ مِنْ قَبْلُ وَلَيَحْلِفُنَّ إِنْ أَرَدْنَا إِلاّ الْحُسْنَى وَاللهُ يَشْهَدُ إِنَّهُمْ لَكَاذِبُونَ}،",
+         "en": "“took a mosque for harm and disbelief, to divide the believers and as a station for one who had fought Allah and His Messenger before; and they will surely swear: We intended nothing but good. Allah bears witness that they are liars” [al-Tawbah 9:107]."
+        },
+        {
+         "ar": "وأنزل في اليهود: {لا تَحْسَبَنَّ الَّذِينَ يَفْرَحُونَ بِمَا أَتَوْا وَيُحِبُّونَ أَنْ يُحْمَدُوا بِمَا لَمْ يَفْعَلُوا فَلا تَحْسَبَنَّهُمْ بِمَفَازَةٍ مِنَ الْعَذَابِ وَلَهُمْ عَذَابٌ أَلِيمٌ} وهذه الآية نزلت في اليهود، سألهم النَّبيُّ صلى الله عليه وسلم عن شيءٍ فكتموه،",
+         "en": "And about the Jews He revealed: “Do not think that those who rejoice in what they have brought about and love to be praised for what they have not done — do not think them safe from the punishment; they will have a painful punishment” [Āl ʿImrān 3:188]. This verse was revealed about the Jews: the Prophet ﷺ asked them about something, and they concealed it"
+        },
+        {
+         "ar": "وأخبروه بغيره، فخرجوا وقد أروه أنَّهم قد أخبروه بما سألهم عنه، واستحمدوا بذلك، وفرِحُوا بما أُوتوا من كتمانهم وما سُئِلوا عنه، قال ذلك ابن عباس، وحديثُه مخرج في \"الصحيحين\".",
+         "en": "and told him something else. They went out having made him think they had told him what he had asked about, sought praise for that, and rejoiced at what they had brought about by concealing what they had been asked. Ibn ʿAbbās said this, and his hadith is recorded in the two Ṣaḥīḥs."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c54",
+     "pages": [
+      912
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفيهما أيضاً عن أبي سعيد أنَّها نزلت في رجال من المنافقين كانوا إذا خرج النَّبيُّ صلى الله عليه وسلم إلى الغزو تخلَّفوا عنه،",
+         "en": "Both also have, from Abū Saʿīd, that it was revealed about men among the hypocrites who, when the Prophet ﷺ went out on campaign, stayed behind"
+        },
+        {
+         "ar": "وفَرِحُوا بمقعدهم خلافَه فإذا قَدِمَ رسولُ الله صلى الله عليه وسلم من الغزو، اعتذروا إليه، وحلفوا، وأحبُّوا أنْ يُحمدوا بما لم يفعلوا.",
+         "en": "and rejoiced at sitting at home after he had gone. When the Messenger of Allah ﷺ returned from the campaign, they made excuses to him and swore oaths, and loved to be praised for what they had not done."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c55",
+     "pages": [
+      912
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي حديث ابن مسعود، عن النَّبيِّ صلى الله عليه وسلم، قال: «مَنْ غَشَّنا، فَلَيسَ مِنّا، والمّكْرُ والخّديعةُ في النَّارِ».",
+         "en": "In the hadith of Ibn Masʿūd, the Prophet ﷺ said: “Whoever cheats us is not of us, and cunning and deception are in the Fire.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c56",
+     "pages": [
+      912
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد وصف الله المنافقين بالمخادعة، وأحسن أبو العتاهية في قوله:",
+         "en": "Allah has described the hypocrites as deceivers, and Abū al-ʿAtāhiyah put it well when he said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c57",
+     "pages": [
+      912
+     ],
+     "paragraphs": [
+      {
+       "kind": "verse",
+       "segments": [
+        {
+         "ar": "لَيسَ دُنيا إلاّ بدينٍ وليسَ الدِّ … ينُ إلاَّ مكارمَ الأخلاقِ",
+         "en": "There is no worldly life except through religion, / and religion is nothing but noble character."
+        },
+        {
+         "ar": "إنَّما المكر والخديعةُ في النَّا … رِ هُما مِنْ خِصالِ أَهْلِ النِّفاق",
+         "en": "Cunning and deception are in the Fire; / they are among the traits of the people of hypocrisy."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c58",
+     "pages": [
+      912,
+      913
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولما تقرَّر عند الصحابة رضي الله عنهم أنَّ النفاق هو اختلافُ السرِّ والعلانية خشي بعضهم على نفسه أنْ يكونَ إذا تغير عليه حضورُ قلبه ورقتُه وخشوعه عندَ سماع الذكر برجوعه إلى الدنيا والاشتغال بالأهل والأولاد والأموال أنْ يكونَ ذلك منه نفاقاً،",
+         "en": "Once the Companions (may Allah be pleased with them) were sure that hypocrisy is a difference between the inward and the outward, some of them feared for themselves that if their presence of heart, their tenderness and their humility on hearing the reminder changed when they went back to worldly matters and were taken up with family, children and wealth, this might be hypocrisy on their part,"
+        },
+        {
+         "ar": "كما في \" صحيح مسلم \" عن حنظلة الأسيدي أنَّه مرَّ بأبي بكر وهو يبكي، فقال: ما لك؟",
+         "en": "as in Ṣaḥīḥ Muslim, from Ḥanẓalah al-Usaydī: He passed by Abū Bakr, weeping, and Abū Bakr said: What is wrong with you?"
+        },
+        {
+         "ar": "قالَ: نافق حنظلةُ يا أبا بكر، نكون عندَ رسول الله صلى الله عليه وسلم يُذكِّرُنا بالجنة والنار كأنّا رأيُ عين، فإذا رجعنا،",
+         "en": "He said: Ḥanẓalah has become a hypocrite, Abū Bakr! We are with the Messenger of Allah ﷺ and he reminds us of Paradise and the Fire until it is as though we see them with our own eyes; then, when we go back,"
+        },
+        {
+         "ar": "عافَسنا الأزواج والضيعة فنسينا كثيراً، قالَ أبو بكر: فوالله إنّا لكذلك، فانطلقا إلى رسول الله صلى الله عليه وسلم، فقالَ: «ما لك يا حَنْظَلة؟»",
+         "en": "we busy ourselves with our wives and our estates, and we forget much. Abū Bakr said: By Allah, we are the same. So they went off to the Messenger of Allah ﷺ, and he said: “What is wrong with you, Ḥanẓalah?”"
+        },
+        {
+         "ar": "قال: نافق حنظلة يا رسولَ الله، وذكر له مثلَ ما قال لأبي بكر، فقال رسول الله صلى الله عليه وسلم:",
+         "en": "He said: Ḥanẓalah has become a hypocrite, Messenger of Allah; and he told him the like of what he had said to Abū Bakr. The Messenger of Allah ﷺ said:"
+        },
+        {
+         "ar": "«لو تَدُومونَ على الحال التي تقومون بها من عندي، لصَافَحَتكُم الملائكة في مجالسكم وفي طُرُقِكم، ولكن يا حنظلة ساعةً وساعةً».",
+         "en": "“If you remained in the state in which you leave my presence, the angels would shake hands with you in your gatherings and on your paths. But, Ḥanẓalah, there is a time for this and a time for that.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c59",
+     "pages": [
+      913
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" مسند البزار \" عن أنس قال: قالوا: يا رسول الله، إنا نكونُ عندك على حالٍ، فإذا فارقناك كُنّا على غيره، قال: «كيف أنتم وربكم؟»",
+         "en": "In the Musnad of al-Bazzār, from Anas, who said: They said: Messenger of Allah, when we are with you we are in one state, and when we leave you we are in another. He said: “How are you with your Lord?”"
+        },
+        {
+         "ar": "قالوا: الله ربُّنا في السرِّ والعلانية، قال: «ليس ذاكم النفاق».",
+         "en": "They said: Allah is our Lord in private and in public. He said: “That is not hypocrisy.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h48.c60",
+     "pages": [
+      913
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ورُوي من وجه آخر عن أنس قال: غدا أصحابُ رسول الله صلى الله عليه وسلم، فقالوا: هلكنا، قال: «وما ذاك؟»",
+         "en": "It is narrated by another route from Anas, who said: The Companions of the Messenger of Allah ﷺ came to him one morning and said: We are ruined! He said: “What is that?”"
+        },
+        {
+         "ar": "قالوا: النفاق، النفاق، قال: «ألستم تَشهدون أنْ لا إله إلا الله، وأنَّ محمداً رسول الله؟»",
+         "en": "They said: Hypocrisy, hypocrisy! He said: “Do you not bear witness that there is no god but Allah and that Muḥammad is the Messenger of Allah?”"
+        },
+        {
+         "ar": "قالوا: بلى، قال: «فلَيسَ ذلك بالنِّفاق» ثم ذكر معنى حديث حنظلة كما تقدَّم.",
+         "en": "They said: Certainly. He said: “Then that is not hypocrisy.” Then he mentioned the meaning of the hadith of Ḥanẓalah given above."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}

@@ -1,0 +1,736 @@
+{
+ "id": "h20",
+ "number": 20,
+ "standard_number": 20,
+ "collection": "nawawi",
+ "heading": {
+  "ar": "الحديث العشرون",
+  "en": "Hadith 20"
+ },
+ "title": {
+  "ar": "الحياء",
+  "en": "Modesty (Ḥayāʾ)"
+ },
+ "pages": {
+  "start": 464,
+  "end": 470
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.n1",
+     "pages": [
+      464
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنْ أبي مَسعودٍ البَدريِّ رضي الله عنه، قال: قال رسولُ اللهِ صلى الله عليه وسلم: «إنَّ مِمَّا أدْرَكَ النَّاسُ مِنْ كَلام النُّبُوَّةِ الأُولى: إذا لَم تَستَحْيِ، فاصْنَعْ ما شِئْتَ» رَواهُ البُخاريُّ.",
+         "en": "From Abū Masʿūd al-Badrī (may Allah be pleased with him), who said: The Messenger of Allah ﷺ said: “Among the words of the earliest prophecy that people have received is: If you feel no shame, then do as you wish.” Al-Bukhārī reported it."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c1",
+     "pages": [
+      464
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "هذا الحديثُ خرَّجه البخاري من رواية منصور بن المعتمر، عن ربعي بن حِراش، عن أبي مسعود، عن النَّبيِّ صلى الله عليه وسلم، وأظنُّ أنَّ مسلماً لم يخرِّجه؛",
+         "en": "Al-Bukhārī recorded this hadith through the narration of Manṣūr ibn al-Muʿtamir, from Ribʿī ibn Ḥirāsh, from Abū Masʿūd, from the Prophet ﷺ. I think Muslim did not record it"
+        },
+        {
+         "ar": "لأنَّه قد رواه قوم، فقالوا: عن رِبعي، عن حذيفة، عن النَّبيِّ صلى الله عليه وسلم فاختلف في إسناده، لكن أكثر الحفاظ حكموا بأنَّ القولَ قولُ من قال:",
+         "en": "because some narrators reported it saying, “from Ribʿī, from Ḥudhayfah, from the Prophet ﷺ,” so there is disagreement over its chain. Most of the ḥāfiẓ scholars, however, judged the correct version to be that of those who said"
+        },
+        {
+         "ar": "عن أبي مسعود، منهم: البخاري، وأبو زرعة الرازي، والدارقطني وغيرهم، ويدلُّ على صحة ذلك أنَّه قد رُويَ من وجه آخر عن أبي مسعود من رواية مسروق عنه.",
+         "en": "“from Abū Masʿūd” — among them al-Bukhārī, Abū Zurʿah al-Rāzī, al-Dāraquṭnī and others. What shows this to be correct is that it has been narrated by another route from Abū Masʿūd, through Masrūq's narration from him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c2",
+     "pages": [
+      464
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه الطبراني من حديث أبي الطفيل، عن النَّبيِّ صلى الله عليه وسلم أيضاً.",
+         "en": "Al-Ṭabarānī also recorded it from the hadith of Abū al-Ṭufayl, from the Prophet ﷺ."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c3",
+     "pages": [
+      464
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فقولُه صلى الله عليه وسلم: «إنَّ ممّا أدرك الناسُ من كلام النبوَّةِ الأولى» يشيرُ إلى أنَّ هذا مأثورٌ عن الأنبياء المتقدمين، وأنَّ الناس تداولوه بينهم،",
+         "en": "His words ﷺ, “Among the words of the earliest prophecy that people have received,” indicate that this saying has been handed down from the earlier prophets, and that people passed it around among themselves"
+        },
+        {
+         "ar": "وتوارثوه عنهم قرناً بعد قرنٍ، وهذا يدلُّ على أنَّ النبوات المتقدِّمة جاءت بهذا الكلام، وأنَّه اشتهر بَيْنَ الناسِ حتى وصل إلى أوَّل هذه الأمة.",
+         "en": "and inherited it from them generation after generation. This shows that the earlier prophecies brought this saying, and that it became so widely known among people that it reached the first generation of this nation."
+        },
+        {
+         "ar": "وفي بعض الروايات قال: «لم يدركِ الناسُ مِنْ كلام النبوَّةِ الأولى إلاَّ هذا».",
+         "en": "In some narrations he said: “People have received nothing of the words of the earliest prophecy except this.”"
+        },
+        {
+         "ar": "خرَّجها حميدُ بن زنجويه وغيره.",
+         "en": "Ḥumayd ibn Zanjawayh and others recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c4",
+     "pages": [
+      465
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله: «إذا لم تستحي، فاصنع ما شئت» في معناه قولان:",
+         "en": "As for his words, “If you feel no shame, then do as you wish,” there are two views on their meaning."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c5",
+     "pages": [
+      465
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدهما: أنَّه ليس بمعنى الأمر: أنْ يصنع ما شاء، ولكنه على معنى الذمِّ والنهي عنه، وأهل هذه المقالة لهم طريقان:",
+         "en": "The first is that it is not a command in the sense that one should do whatever one wishes; rather, it is meant as censure and prohibition. Those who hold this view take one of two approaches."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c6",
+     "pages": [
+      465
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدهما: أنَّه أمرٌ بمعنى التهديد والوعيد، والمعني: إذا لم يكن لك حياء، فاعمل ما شئت، فإنَّ الله يُجازيك عليه، كقوله: {اعْمَلُوا مَا شِئْتُمْ إِنَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ}، وقوله:",
+         "en": "The first is that it is a command meant as a threat and a warning, the sense being: If you have no shame, do whatever you wish, for Allah will requite you for it. It is like His words, “Do whatever you wish; indeed, He sees what you do” [Fuṣṣilat 41:40], and His words,"
+        },
+        {
+         "ar": "{فَاعْبُدُوا مَا شِئْتُمْ مِنْ دُونِهِ} وقول النَّبيِّ صلى الله عليه وسلم : «من باع الخمر، فَليُشَقِّص الخنازير»، يعني: ليقطعها إما لبيعها أو لأكلها، وأمثلته متعدِّدة وهذا اختيارُ جماعة، منهم: أبو العباس ثعلب.",
+         "en": "“So worship whatever you wish besides Him” [al-Zumar 39:15], and the words of the Prophet ﷺ, “Whoever sells wine, let him butcher pigs” — that is, let him cut them up, either to sell them or to eat them. There are many examples of this. It is the view chosen by a group, among them Abū al-ʿAbbās Thaʿlab."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c7",
+     "pages": [
+      465
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والطريق الثاني: أنَّه أمرٌ، ومعناه: الخبر، والمعنى: أنَّ من لم يستحي، صنع ما شاء، فإنَّ المانعَ من فعل القبائح هو الحياء، فمن لم يكن له حياءٌ،",
+         "en": "The second approach is that it is a command in form but a statement in meaning; the sense is that whoever has no shame will do whatever he wishes. For what restrains a person from shameful deeds is modesty (ḥayāʾ), so whoever has no modesty"
+        },
+        {
+         "ar": "انهمك في كُلِّ فحشاء ومنكر، وما يمتنع من مثله من له حياء على حدِّ قوله صلى الله عليه وسلم: «مَنْ كَذَب عليَّ متعمداً،",
+         "en": "plunges into every indecency and evil, and into the like of what a person with modesty refrains from. It is along the lines of his words ﷺ, “Whoever lies about me deliberately,"
+        },
+        {
+         "ar": "فليتبوَّأ مقعده من النارِ»، فإنَّ لفظه لفظُ الأمر، ومعناه الخبر، وإنَّ من كذب عليه تبوأ مقعده من النار، وهذا اختيارُ أبي عبيد القاسم بن سلام رحمه الله،",
+         "en": "let him take his seat in the Fire”: the wording is that of a command, but the meaning is a statement — that whoever lies about him will take his seat in the Fire. This is the view chosen by Abū ʿUbayd al-Qāsim ibn Sallām (may Allah have mercy on him),"
+        },
+        {
+         "ar": "وابنِ قتيبة، ومحمدِ بن نصر المروزي وغيرهم، وروى أبو داود عن الإمام أحمد ما يدلُّ على مثل هذا القول.",
+         "en": "Ibn Qutaybah, Muḥammad ibn Naṣr al-Marwazī and others, and Abū Dāwūd narrated from Imam Aḥmad what points to a view like this."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c8",
+     "pages": [
+      466
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى ابنُ لهيعة، عن أبي قَبيل، عن عبد الله بن عمرو، عن النَّبيِّ صلى الله عليه وسلم، قال: «إذا أبغض الله عبداً، نزَعَ مِنْهُ الحَياءَ، فإذا نزع منه الحياءَ لم تلقه إلا بغيضاً متبغِّضاً،",
+         "en": "Ibn Lahīʿah narrated, from Abū Qabīl, from ʿAbdullāh ibn ʿAmr, that the Prophet ﷺ said: “When Allah hates a servant, He strips him of modesty. When He has stripped him of modesty, you will find him only hating and hated."
+        },
+        {
+         "ar": "ونزع منه الأمانة، فإذا نزع منه الأمانة نزع منه الرَّحمة، فإذا نزع منه الرَّحمةَ نزع منه رِبْقَةَ الإسلام، فإذا نزع منه رِبقةَ الإسلام، لم تلقه إلا شيطاناً مريداً».",
+         "en": "And He strips him of trustworthiness; when He has stripped him of trustworthiness, He strips him of mercy; when He has stripped him of mercy, He strips him of the tether of Islam; and when He has stripped him of the tether of Islam, you will find him only a rebellious devil.”"
+        },
+        {
+         "ar": "خرَّجه حميدُ بنُ زنجويه، وخرَّجه ابنُ ماجه بمعناه بإسناد ضعيف عن ابن عمر مرفوعاً أيضاً.",
+         "en": "Ḥumayd ibn Zanjawayh recorded it. Ibn Mājah also recorded it in meaning, with a weak chain, from Ibn ʿUmar, likewise as marfūʿ (attributed to the Prophet ﷺ)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c9",
+     "pages": [
+      466
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن سلمانَ الفارسي قال: إنَّ الله إذا أرادَ بعبدٍ هلاكاً، نزَعَ منه الحياءَ، فإذا نزعَ منه الحياءَ، لم تلقه إلاَّ مقيتاً مُمقَّتاً، فإذا كان مقيتاً ممقتاً، نزع منه الأمانةَ، فلم تلقه إلا خائناً مخوَّناً،",
+         "en": "Salmān al-Fārisī said: When Allah wills the destruction of a servant, He strips him of modesty. When He has stripped him of modesty, you will find him only detestable and detested. When he is detestable and detested, He strips him of trustworthiness, and you will find him only treacherous and distrusted."
+        },
+        {
+         "ar": "فإذا كان خائناً مخوناً، نزع منه الرحمة، فلم تلقه إلا فظاً غليظاً، فإذا كان فظاً غليظاً، نزع رِبْقَ الإيمان من عنقه، فإذا نزع رِبْقَ الإيمان من عنقه لم تلقه إلا شيطاناً لعيناً ملعناً.",
+         "en": "When he is treacherous and distrusted, He strips him of mercy, and you will find him only harsh and hard-hearted. When he is harsh and hard-hearted, He removes the tether of faith from his neck; and when He has removed the tether of faith from his neck, you will find him only a devil, accursed and execrated."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c10",
+     "pages": [
+      466
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن ابن عباس قال: الحياءُ والإيمانُ في قَرَنٍ، فإذا نُزِعَ الحياءُ، تبعه الآخر.",
+         "en": "Ibn ʿAbbās said: Modesty and faith are tied together on one rope; when modesty is removed, the other follows it."
+        },
+        {
+         "ar": "خرّجه كله حميدُ بنُ زنجويه في كتاب \" الأدب \".",
+         "en": "Ḥumayd ibn Zanjawayh recorded all of this in Kitāb al-Adab."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c11",
+     "pages": [
+      466
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد جعل النَّبيُّ صلى الله عليه وسلم الحياءَ مِنَ الإيمان كما في \" الصحيحين \" عن ابن عمر: أنَّ النَّبيَّ صلى الله عليه وسلم مرَّ على رجلٍ وهو يُعاتِبُ أخاه في الحياء يقولُ:",
+         "en": "The Prophet ﷺ made modesty part of faith, as in the two Ṣaḥīḥs from Ibn ʿUmar: the Prophet ﷺ passed by a man who was reproaching his brother about his modesty, saying:"
+        },
+        {
+         "ar": "إنَّك لتستحيي، كأنَّه يقول: قد أضرَّ بك، فقال رسولُ الله صلى الله عليه وسلم: «دَعْهُ، فإنَّ الحياءَ مِنَ الإيمانِ».",
+         "en": "You are so shy — as if to say: it has done you harm. The Messenger of Allah ﷺ said: “Leave him, for modesty is part of faith.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c12",
+     "pages": [
+      466
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن أبي هُريرة قال: «الحياءُ شُعبةٌ من الإيمان».",
+         "en": "In the two Ṣaḥīḥs, from Abū Hurayrah, he said: “Modesty is a branch of faith.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c13",
+     "pages": [
+      466,
+      467
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن عمران بن حصين، عن النَّبيِّ صلى الله عليه وسلم قال: «الحياءُ لا يأتي إلاَّ بخيرٍ»، وفي روايةٍ لمسلم قال: «الحياء خيرٌ كلُّه»، أو قال: «الحياءُ كلُّه خير».",
+         "en": "In the two Ṣaḥīḥs, from ʿImrān ibn Ḥuṣayn, the Prophet ﷺ said: “Modesty brings nothing but good.” In a narration of Muslim's he said: “Modesty is good, all of it,” or he said: “Modesty, all of it, is good.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c14",
+     "pages": [
+      467
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد والنسائي من حديث الأشج العصري قال: قال لي رسولُ الله صلى الله عليه وسلم: «إنَّ فيك لخُلُقَيْن يُحبُّهما الله» قلت: ما هما؟",
+         "en": "Imam Aḥmad and al-Nasāʾī recorded, from the hadith of al-Ashajj al-ʿAṣarī, that he said: The Messenger of Allah ﷺ said to me: “You have two traits that Allah loves.” I said: What are they?"
+        },
+        {
+         "ar": "قال: «الحِلْمُ والحياء» قلت: أقديماً كان أو حديثاً؟",
+         "en": "He said: “Forbearance and modesty.” I said: Have I had them from long ago, or are they new?"
+        },
+        {
+         "ar": "قال: «بل قديماً»، قلت: الحمد لله الذي جعلني على خُلُقين يحبهما الله.",
+         "en": "He said: “From long ago.” I said: Praise be to Allah, who has formed me with two traits that Allah loves."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c15",
+     "pages": [
+      467
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال إسماعيل بن أبي خالد: دخل عيينة بنُ حِصنٍ على النَّبيِّ صلى الله عليه وسلم وعنده رجلٌ فاستسقى، فأُتِيَ بماءٍ فشرب، فستره النَّبيُّ صلى الله عليه وسلم، فقال: ما هذا؟",
+         "en": "Ismāʿīl ibn Abī Khālid said: ʿUyaynah ibn Ḥiṣn came in to the Prophet ﷺ while a man was with him. The man asked for a drink; water was brought and he drank, and the Prophet ﷺ screened him. ʿUyaynah said: What is this?"
+        },
+        {
+         "ar": "قال: «الحياء خلَّةٌ أوتوها ومُنِعْتُموها».",
+         "en": "He said: “Modesty — a trait they have been given and you have been denied.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c16",
+     "pages": [
+      467
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "واعلم أنَّ الحياء نوعان:",
+         "en": "Know that modesty is of two kinds."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c17",
+     "pages": [
+      467
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدهما: ما كان خَلْقاً وجِبِلَّةً غيرَ مكتسب، وهو من أجلِّ الأخلاق التي يَمْنَحُها الله العبدَ ويَجبِلُه عليها، ولهذا قال صلى الله عليه وسلم: «الحياء لا يأتي إلاَّ بخير»، فإنَّه يكفُّ عن ارتكاب القبائح ودناءةِ الأخلاق،",
+         "en": "The first is part of one's created nature and disposition, not acquired. It is one of the noblest traits of character that Allah grants a servant and forms him upon. That is why he ﷺ said, “Modesty brings nothing but good,” for it holds one back from shameful deeds and base character,"
+        },
+        {
+         "ar": "ويحثُّ على استعمال مكارم الأخلاق ومعاليها، فهو مِنْ خصال الإيمان بهذا الاعتبار، وقد روي عن عمر رضي الله عنه أنَّه قال: من استحيى اختفى، ومن اختفى اتقى، ومن اتقى وُقي.",
+         "en": "and urges one to practise noble and lofty traits of character; in this respect it is one of the qualities of faith. It has been narrated that ʿUmar (may Allah be pleased with him) said: Whoever feels shame keeps himself hidden; whoever keeps himself hidden is wary; and whoever is wary is protected."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c18",
+     "pages": [
+      467
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الجَرَّاح بنُ عبد الله الحكمي - وكان فارس أهل الشام -: تركتُ الذنوب حياءً أربعين سنة، ثم أدركني الورع.",
+         "en": "Al-Jarrāḥ ibn ʿAbdillāh al-Ḥakamī, the foremost horseman of the people of al-Shām, said: I left sins out of shame for forty years, and then scrupulousness (waraʿ) came to me."
+        },
+        {
+         "ar": "وعن بعضهم قال: رأيتُ المعاصي نذالةً، فتركتها مُروءةً، فاستحالت دِيانة.",
+         "en": "Someone said: I saw sins as base, so I left them out of self-respect (murūʾah), and that turned into religion."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c19",
+     "pages": [
+      467
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثاني: ما كان مكتسباً من معرفة اللهِ، ومعرفة عظمته وقربه من عباده، واطلاعه عليهم، وعلمِه بخائنة الأعين وما تُخفي الصدور،",
+         "en": "The second is acquired from knowing Allah: knowing His greatness, His nearness to His servants, His awareness of them, and His knowledge of the treachery of the eyes and what the breasts conceal."
+        },
+        {
+         "ar": "فهذا من أعلى خصالِ الإيمان، بل هو مِنْ أعلى درجات الإحسّان، وقد تقدَّم أنَّ النَّبيَّ صلى الله عليه وسلم قال لِرجل:",
+         "en": "This is among the highest qualities of faith; indeed, it is among the highest degrees of excellence (iḥsān). It has been mentioned earlier that the Prophet ﷺ said to a man:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c20",
+     "pages": [
+      467
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«استحي مِنَ اللهِ كما تستحي رجلاً مِنْ صالحِ عشيرتِكَ».",
+         "en": "“Be shy of Allah as you would be shy of a righteous man of your own clan.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c21",
+     "pages": [
+      468
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي حديث ابن مسعود: «الاستحياءُ مِنَ الله أنْ تحفَظَ الرَّأسَ وما وعى، والبطن وما حوى، وأنْ تذكر الموتَ والبِلَى، ومن أراد الآخرة تركَ زينةَ الدُّنيا، فمن فعل ذلك، فقد استحيى مِنَ الله» خرَّجه الإمامُ أحمد والترمذي مرفوعاً.",
+         "en": "In the hadith of Ibn Masʿūd: “Being shy of Allah is to guard the head and what it holds, and the belly and what it contains, and to remember death and decay. Whoever wants the Hereafter leaves the adornment of this world. Whoever does that has been shy of Allah.” Imam Aḥmad and al-Tirmidhī recorded it as marfūʿ."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c22",
+     "pages": [
+      468
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد يتولَّدُ من الله الحياءُ من مطالعة نِعمه ورؤية التقصير في شكرها، فإذا سُلِبَ العبدُ الحياءَ المكتسب والغريزي لم يبق له ما يمنعه من ارتكاب القبيح، والأخلاق الدنيئة، فصار كأنَّه لا إيمانَ له.",
+         "en": "Modesty before Allah may also be born of contemplating His blessings and seeing one's shortcomings in thanking Him for them. When a servant is stripped of both acquired and innate modesty, nothing remains to restrain him from shameful deeds and base character, and he becomes as though he had no faith."
+        },
+        {
+         "ar": "وقد روي من مراسيل الحسن، عن النَّبيِّ صلى الله عليه وسلم قال: «الحياء حياءانِ: طَرَفٌ من الإيمان، والآخر عجز» ولعله من كلام الحسن، وكذلك قال بُشَير بن كعب العدوي لِعمران بن حصين:",
+         "en": "It has been narrated among the mursal reports of al-Ḥasan that the Prophet ﷺ said: “Modesty is of two kinds: one is a part of faith, and the other is incapacity” — though perhaps these are al-Ḥasan's own words. Similarly, Bushayr ibn Kaʿb al-ʿAdawī said to ʿImrān ibn Ḥuṣayn:"
+        },
+        {
+         "ar": "إنا نجد في بعض الكتب أنَّ منه سكينةً ووقاراً لله، ومنه ضعف، فغضب عِمران وقال: أحدثك عن رسول الله صلى الله عليه وسلم وتعارض فيه؟",
+         "en": "We find in some books that part of it is tranquillity and gravity for Allah's sake, and part of it is weakness. ʿImrān grew angry and said: I tell you something from the Messenger of Allah ﷺ, and you set something against it?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c23",
+     "pages": [
+      468
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والأمر كما قاله عِمران رضي الله عنه، فإنَّ الحياءَ الممدوح في كلام النَّبيِّ صلى الله عليه وسلم إنَّما يُريد به الخُلُقَ الذي يَحُثُّ على فعل الجميل،",
+         "en": "The matter is as ʿImrān (may Allah be pleased with him) said, for the modesty praised in the words of the Prophet ﷺ means only the trait of character that urges one to do what is fine"
+        },
+        {
+         "ar": "وتركِ القبيح، فأمَّا الضعف والعجزُ الذي يوجب التقصيرَ في شيء من حقوق الله أو حقوق عباده، فليس هو من الحياء، إنَّما هو ضعفٌ وخَوَرٌ، وعجزٌ ومهانة، والله أعلم.",
+         "en": "and leave what is shameful. As for the weakness and incapacity that make one fall short in any of the rights of Allah or the rights of His servants, that is not modesty at all; it is only weakness and feebleness, incapacity and abjectness. And Allah knows best."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c24",
+     "pages": [
+      468,
+      469
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والقول الثاني في معنى قوله: «إذا لم تستحي، فاصنع ما شئت»: أنّه أمر بفعل ما يشاء على ظاهرِ لفظه، وأنَّ المعنى:",
+         "en": "The second view on the meaning of his words, “If you feel no shame, then do as you wish,” is that it is a command to do whatever one wishes, according to the outward sense of the words, and that the meaning is:"
+        },
+        {
+         "ar": "إذا كان الذي تريدُ فعله مما لا يُستحيى من فعله، لا من الله ولا من الناس، لكونه من أفعال الطاعات،",
+         "en": "If what you want to do is something one need not be ashamed of doing, neither before Allah nor before people, because it is an act of obedience"
+        },
+        {
+         "ar": "أو من جميل الأخلاق والآداب المستحسنة، فاصنعْ منه حينئذٍ ما شئتَ، وهذا قولُ جماعةٍ من الأئمة، منهم: أبو إسحاق المروزي الشافعي، وحُكي مثله عن الإمام أحمد، ووقع كذلك في بعض نسخ \" مسائل أبي داود \" المختصرة عنه،",
+         "en": "or a matter of fine character and approved manners, then do of it whatever you wish. This is the view of a group of imams, among them Abū Isḥāq al-Marwazī the Shāfiʿī. Something similar is related from Imam Aḥmad, and it appears so in some copies of the abridgement of the Masāʾil that Abū Dāwūd related from him;"
+        },
+        {
+         "ar": "ولكن الذي في النسخ المعتمدة التامة كما حكيناه عنه من قبلُ، وكذلك رواه عنه الخلال في كتاب \" الأدب \"، ومن هذا قولُ بعض السَّلف - وقد سئل عن المروءة - فقال:",
+         "en": "but what is in the reliable, complete copies is as we related from him earlier, and that is how al-Khallāl narrated it from him in Kitāb al-Adab. Of this kind is the saying of one of the Salaf, when asked about self-respect (murūʾah):"
+        },
+        {
+         "ar": "أنْ لا تعملَ في السرِّ شيئاً تستحيي منه في العلانية، وسيأتي قولُ النَّبيِّ صلى الله عليه وسلم: «الإثم ما حاكَ في صدرك، وكرهتَ أنْ يطَّلع عليه الناس» في موضعه من هذا الكتاب إنْ شاء الله تعالى.",
+         "en": "That you do nothing in private that you would be ashamed of in public. The Prophet's words ﷺ, “Sin is what wavers in your breast and you dislike people to see,” will come in their proper place in this book, if Allah the Exalted wills."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c25",
+     "pages": [
+      469
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى عبد الرازق في \" كتابه \"، عن معمر، عن أبي إسحاق، عن رجلٍ من مزينة قال: قيلَ: يا رسولَ الله، ما أفضلُ ما أوتي الرجلُ المسلم؟",
+         "en": "ʿAbd al-Razzāq narrated in his book, from Maʿmar, from Abū Isḥāq, from a man of Muzaynah, who said: It was said: Messenger of Allah, what is the best thing a Muslim man has been given?"
+        },
+        {
+         "ar": "قال : «الخلق الحسن»، قال: فما شرُّ ما أُوتي المسلم؟",
+         "en": "He said: “Good character.” The man said: Then what is the worst thing a Muslim has been given?"
+        },
+        {
+         "ar": "قال: «إذا كرهتَ أنْ يُرى عليكَ شيءٌ في نادي القوم، فلا تفعله إذا خلوتَ».",
+         "en": "He said: “If you would dislike something to be seen on you in people's gathering, do not do it when you are alone.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c26",
+     "pages": [
+      469
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح ابن حبان \" عن أسامةَ بنِ شريك قال: قال رسولُ الله صلى الله عليه وسلم:",
+         "en": "In the Ṣaḥīḥ of Ibn Ḥibbān, from Usāmah ibn Sharīk, who said: The Messenger of Allah ﷺ said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c27",
+     "pages": [
+      469
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«ما كرهَ الله منكَ شيئاً، فلا تفعله إذا خلوتَ».",
+         "en": "“Whatever Allah dislikes from you, do not do it when you are alone.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c28",
+     "pages": [
+      469
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الطبرانيُّ من حديثِ أبي مالكٍ الأشعري قال: قلت: يا رسول اللهِ ما تمامُ البرِّ؟",
+         "en": "Al-Ṭabarānī recorded, from the hadith of Abū Mālik al-Ashʿarī, that he said: I said: Messenger of Allah, what is the completion of righteousness?"
+        },
+        {
+         "ar": "قال: «أنْ تعملَ في السرِّ عملَ العلانية».",
+         "en": "He said: “That you do in private what you do in public.”"
+        },
+        {
+         "ar": "وخرَّجه أيضاً من حديث أبي عامر السكوني، قال: قلت: يا رسولَ الله، فذكره.",
+         "en": "He also recorded it from the hadith of Abū ʿĀmir al-Sakūnī, who said: I said: Messenger of Allah — and he mentioned it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c29",
+     "pages": [
+      469
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى عبد الغني بنُ سعيد الحافظ في كتاب \" أدب المحدّث \" بإسناده عن حرملةَ بنِ عبد الله، قال:",
+         "en": "The ḥāfiẓ ʿAbd al-Ghanī ibn Saʿīd narrated in his book Adab al-Muḥaddith, with his chain, from Ḥarmalah ibn ʿAbdillāh, who said:"
+        },
+        {
+         "ar": "أتيتُ النَّبيَّ صلى الله عليه وسلم لأزداد مِنَ العلمِ، فقمتُ بين يديه، فقلت: يا رسولَ اللهِ، ما تأمُرني أنْ أعملَ به؟",
+         "en": "I came to the Prophet ﷺ to increase in knowledge. I stood before him and said: Messenger of Allah, what do you command me to act upon?"
+        },
+        {
+         "ar": "قال: «ائتِ المعروفَ، واجتنبِ المنكرَ، وانظر الذي سمعته أُذُنُكَ مِنَ الخير يقولُه القومُ لك إذا قمتَ من عندهم فأتِه،",
+         "en": "He said: “Do what is right and avoid what is wrong. Look at whatever good you hear people say of you when you have got up to leave them, and do it;"
+        },
+        {
+         "ar": "وانظرِ الذي تكره أنْ يقولَه القومُ لك إذا قمتَ مِنْ عندهم، فاجتنبه» قال: فنظرت فإذا هما أمران لم يتركا شيئاً: إتيانُ المعروف، واجتنابُ المنكر.",
+         "en": "and look at what you would dislike people to say of you when you have got up to leave them, and avoid it.” He said: I looked, and found that they were two things that left nothing out: doing what is right and avoiding what is wrong."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c30",
+     "pages": [
+      470
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه ابن سعد في \" طبقاته \" بمعناه.",
+         "en": "Ibn Saʿd recorded it in meaning in his Ṭabaqāt."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c31",
+     "pages": [
+      470
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وحكى أبو عبيد في معنى الحديث قولاً آخر حكاه عن جرير قال: معناه أنْ يُريدَ الرجلُ أنْ يعملَ الخيرَ، فيدعهُ حياءً من الناس كأنَّه يخاف الرِّياء، يقول: فلا يمنعك الحياءُ مِنَ المُضيِّ لما أردت،",
+         "en": "Abū ʿUbayd related another view on the meaning of the hadith, which he related from Jarīr: Its meaning is that a man wants to do some good and leaves it out of shame before people, as though he fears showing off. He is saying: do not let shame stop you from going ahead with what you intended,"
+        },
+        {
+         "ar": "كما جاء في الحديث: «إذا جاءك الشيطانُ وأنت تُصلِّي، فقال: إنَّك تُرائي، فزدها طولاً» ثم قال أبو عُبيد: وهذا الحديث ليس يجيء سياقُه ولا لفظُه على هذا التفسير، ولا على هذا يحمله الناس.",
+         "en": "as in the hadith: “If Satan comes to you while you are praying and says, ‘You are showing off,’ then make it longer.” Then Abū ʿUbayd said: Neither the context nor the wording of this hadith fits this interpretation, nor do people understand it so."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h20.c32",
+     "pages": [
+      470
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قلت: لو كان على ما قاله جرير، لكان لفظُ الحديث: إذا استحييتَ مما لا يُستحيى منه فافعل ما شئتَ، ولا يخفى بُعْدُ هذا من لفظ الحديث ومعناه، والله أعلم.",
+         "en": "I say: Had it been as Jarīr said, the wording of the hadith would have been: “If you feel shame at what one need not be ashamed of, then do as you wish.” How far this is from the wording and meaning of the hadith is plain. And Allah knows best."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}

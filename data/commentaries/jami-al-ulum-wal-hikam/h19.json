@@ -1,0 +1,3410 @@
+{
+ "id": "h19",
+ "number": 19,
+ "standard_number": 19,
+ "collection": "nawawi",
+ "heading": {
+  "ar": "الحديث التاسع عشر",
+  "en": "Hadith 19"
+ },
+ "title": {
+  "ar": "احفظ الله يحفظك",
+  "en": "Be Mindful of Allah and He Will Protect You"
+ },
+ "pages": {
+  "start": 432,
+  "end": 463
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.n1",
+     "pages": [
+      432
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنْ عبدِ الله بنِ عبَّاسٍ رضي الله عنهما قالَ: كُنتُ خَلفَ النَّبيِّ صلى الله عليه وسلم فقال:",
+         "en": "From ʿAbdullāh ibn ʿAbbās (may Allah be pleased with them both), who said: I was behind the Prophet ﷺ and he said:"
+        }
+       ]
+      },
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«يا غُلامُ إنِّي أعلِّمُكُ كَلماتٍ: احفَظِ الله يَحْفَظْكَ، احفَظِ الله تَجِدْهُ تجاهَكَ، إذا سَأَلْت فاسألِ الله، وإذا استَعنْتَ فاستَعِنْ باللهِ، واعلم أنَّ الأُمَّةَ لو اجتمعت على أنْ ينفعوك بشيءٍ،",
+         "en": "“Young man, I will teach you some words: Be mindful of Allah and He will protect you. Be mindful of Allah and you will find Him before you. When you ask, ask Allah; and when you seek help, seek help from Allah. Know that if the whole nation gathered together to benefit you with something,"
+        },
+        {
+         "ar": "لم ينفعوك إلاَّ بشيءٍ قد كَتَبَهُ الله لكَ، وإنِ اجتمعوا على أنْ يَضرُّوكَ بشيءٍ، لم يضرُّوك إلاَّ بشيءٍ قد كتبهُ الله عليكَ، رُفِعَتِ الأقلامُ وجَفَّتِ الصُّحُفُ».",
+         "en": "they would benefit you only with something Allah has already written for you; and if they gathered together to harm you with something, they would harm you only with something Allah has already written against you. The pens have been lifted and the pages have dried.”"
+        }
+       ]
+      },
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "رواه الترمذيُّ، وقال: حديثٌ حسنَ صَحيحٌ.",
+         "en": "Al-Tirmidhī reported it and said: “A ḥasan ṣaḥīḥ hadith.”"
+        }
+       ]
+      },
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي رواية غير التِّرمذي: «احفظ الله تجده أمامَك، تَعرَّفْ إلى اللهِ في الرَّخاء يَعْرِفْك في الشِّدَّةِ، واعلَمْ أنَّ ما أخطَأَكَ لم يَكُن لِيُصِيبَكَ،",
+         "en": "In a narration other than al-Tirmidhī's: “Be mindful of Allah and you will find Him in front of you. Make yourself known to Allah in times of ease and He will know you in times of hardship. Know that what missed you was never going to befall you,"
+        },
+        {
+         "ar": "وما أصابَكَ لم يَكُن ليُخطِئَكَ، واعلَمْ أنَّ النَّصْرَ مَعَ الصَّبرِ، وأنَّ الفَرَجَ مَعَ الكَرْبِ، وأنَّ معَ العُسْرِ يُسراً».",
+         "en": "and what befell you was never going to miss you. And know that victory comes with patience, relief comes with distress, and with hardship comes ease.”"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c1",
+     "pages": [
+      432,
+      433
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "هذا الحديث خرَّجه الترمذيُّ من رواية حَنَشٍ الصنعاني، عن ابنِ عباس، وخرَّجه الإمامُ أحمد من حديث حنش أيضاً مع إسنادَيْن آخرين منقطعين ولم يُميز لفظ بعضها من بعض،",
+         "en": "Al-Tirmidhī recorded this hadith through the narration of Ḥanash al-Ṣanʿānī from Ibn ʿAbbās. Imam Aḥmad also recorded it from the hadith of Ḥanash, together with two other chains that are broken (munqaṭiʿ), without distinguishing the wording of one from another."
+        },
+        {
+         "ar": "ولفظ حديثه: «يا غلام أو يا غليم ألا أُعَلِّمُك كلماتٍ ينفعُك الله بهنَّ؟»",
+         "en": "The wording of his narration is: “Young man (or: little lad), shall I not teach you some words through which Allah will benefit you?”"
+        },
+        {
+         "ar": "فقلتُ: بلى، فقالَ: «احفظِ الله يحفَظْكَ، احفظ الله تجدهُ أمامك، تعرَّف إلى الله في الرَّخاء يَعْرِفْكَ في الشِّدَّةِ، وإذا سألتَ، فاسألِ الله،",
+         "en": "I said: Certainly. He said: “Be mindful of Allah and He will protect you. Be mindful of Allah and you will find Him in front of you. Make yourself known to Allah in times of ease and He will know you in times of hardship. When you ask, ask Allah;"
+        },
+        {
+         "ar": "وإذا استعنتَ، فاستعن بالله، قد جفَّ القلمُ بما هوَ كائن، فلو أنَّ الخلق كُلَّهم جميعاً أرادوا أنْ ينفعوك بشيءٍ لم يقضه الله،",
+         "en": "and when you seek help, seek help from Allah. The pen has dried with all that is to be. Were all creation together to want to benefit you with something Allah has not decreed,"
+        },
+        {
+         "ar": "لم يَقدِرُوا عليهِ، وإنْ أرادوا أنْ يضرُّوك بشيءٍ لم يكتبه الله عليك، لم يقدروا عليه، واعلم أنَّ في الصبر على ما تكره خيراً كثيراً، وأنَّ النصر مع الصبر، وأنَّ الفرجَ مع الكربِ، وأنَّ مع العسر يسراً».",
+         "en": "they would not be able to do it; and were they to want to harm you with something Allah has not written against you, they would not be able to do it. Know that there is much good in patiently enduring what you dislike, that victory comes with patience, that relief comes with distress, and that with hardship comes ease.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c2",
+     "pages": [
+      433
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذا اللفظُ أتمُّ من اللفظ الذي ذكره الشيخ رحمه الله، وعزاه إلى غير التِّرمذي، واللفظُ الذي ذكره الشيخ رواه عبدُ بنُ حُميد في \" مسنده \" بإسناد ضعيفٍ عن عطاء،",
+         "en": "This wording is fuller than the one the Shaykh (may Allah have mercy on him) cited and attributed to a source other than al-Tirmidhī. The wording the Shaykh cited was reported by ʿAbd ibn Ḥumayd in his Musnad, with a weak chain, from ʿAṭāʾ,"
+        },
+        {
+         "ar": "عن ابن عباس، وكذلك عزاه ابنُ الصلاح في \" الأحاديث الكلية \" التي هي أصلُ أربعين الشيخ رحمه الله إلى عبد بنِ حُميد وغيره.",
+         "en": "from Ibn ʿAbbās. Ibn al-Ṣalāḥ likewise attributed it to ʿAbd ibn Ḥumayd and others in al-Aḥādīth al-Kulliyyah, the work on which the Shaykh's Forty (may Allah have mercy on him) is based."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c3",
+     "pages": [
+      433
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد روي هذا الحديث عن ابن عباس من طُرقٍ كثيرة من روايةٍ جماعةٍ منهم: ابنه عليٍّ، ومولاه عكرمة، وعطاء بن أبي رباح، وعمرو بن دينار، وعُبيد الله بن عبد الله، وعمر مولى غفرة، وابن أبي مليكة وغيرهم.",
+         "en": "This hadith has been narrated from Ibn ʿAbbās by many routes, through a group of narrators that includes his son ʿAlī, his freed slave ʿIkrimah, ʿAṭāʾ ibn Abī Rabāḥ, ʿAmr ibn Dīnār, ʿUbaydullāh ibn ʿAbdillāh, ʿUmar the freed slave of Ghufrah, Ibn Abī Mulaykah and others."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c4",
+     "pages": [
+      433,
+      434
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأصحُّ الطرق كلها طريقُ حنش الصنعاني التي خرجها الترمذي، كذا قاله ابنُ منده وغيرُه.",
+         "en": "The soundest of all its routes is that of Ḥanash al-Ṣanʿānī, which al-Tirmidhī recorded; so said Ibn Mandah and others."
+        },
+        {
+         "ar": "وقد روي عن النَّبيِّ صلى الله عليه وسلم أنَّه وصَّى ابن عباس بهذه الوصية من حديث عليِّ بن أبي طالب، وأبي سعيد الخدري، وسهل بن سعد، وعبد الله بن جعفر، وفي أسانيدها كلها ضعف.",
+         "en": "It has also been narrated that the Prophet ﷺ gave Ibn ʿAbbās this counsel in the hadiths of ʿAlī ibn Abī Ṭālib, Abū Saʿīd al-Khudrī, Sahl ibn Saʿd and ʿAbdullāh ibn Jaʿfar, but all their chains contain weakness."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c5",
+     "pages": [
+      434
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وذكر العقيلي أنَّ أسانيد الحديث كلها لينة، وبعضُها أصلحُ من بعض، وبكلِّ حال، فطريق حنشٍ التي خرجها الترمذي حسنة جيدة.",
+         "en": "Al-ʿUqaylī mentioned that the chains of this hadith are all soft (layyin), some being better than others. In any case, the route of Ḥanash recorded by al-Tirmidhī is good and sound."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c6",
+     "pages": [
+      434
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذا الحديث يتضمن وصايا عظيمة وقواعد كلية من أهمِّ أمور الدين، حتى قال بعض العلماء: تدبرتُ هذا الحديثَ، فأدهشني وكِدتُ أطيشُ، فوا أسفى من الجهل بهذا الحديث، وقِلَّةِ التفهم لمعناه.",
+         "en": "This hadith contains great pieces of counsel and universal principles that belong to the most important matters of the religion — so much so that one scholar said: I reflected on this hadith and it overwhelmed me, until I almost lost my senses. What a pity that people are ignorant of this hadith and understand so little of its meaning!"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c7",
+     "pages": [
+      434
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قلت: وقد أفردت لشرحه جزءاً كبيراً ونحن نذكر هاهنا مقاصِدَهُ على وجه الاختصار إنْ شاء الله تعالى.",
+         "en": "I say: I have devoted a large treatise to its commentary; here we shall set out its main purposes briefly, if Allah the Exalted wills."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c8",
+     "pages": [
+      434
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فقوله صلى الله عليه وسلم: «احفظِ الله» يعني: احفظ حدودَه، وحقوقَه، وأوامرَه، ونواهيَه، وحفظُ ذلك: هو الوقوفُ عندَ أوامره بالامتثال، وعند نواهيه بالاجتنابِ، وعندَ حدوده، فلا يتجاوزُ ما أمر به،",
+         "en": "His words ﷺ, “Be mindful of Allah” — literally, “guard Allah” — mean: guard His limits, His rights, His commands and His prohibitions. Guarding these means stopping at His commands by carrying them out, at His prohibitions by avoiding them, and at His limits, so as not to go beyond what He has commanded"
+        },
+        {
+         "ar": "وأذن فيه إلى ما نهى عنه، فمن فعل ذلك، فهو مِنَ الحافظين لحدود الله الذين مدحهمُ الله في كتابه، وقال عز وجل: {هَذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٍ مَنْ خَشِيَ الرَّحْمَانَ بِالْغَيْبِ وَجَاءَ بِقَلْبٍ مُنِيبٍ}.",
+         "en": "and permitted into what He has forbidden. Whoever does that is among those who guard the limits of Allah, whom Allah praised in His Book, saying, Mighty and Majestic is He: “This is what you were promised — for everyone who constantly turned back [to Allah] and kept [His bounds] (ḥafīẓ), who feared the Most Merciful unseen and came with a heart turned to Him in repentance” [Qāf 50:32–33]."
+        },
+        {
+         "ar": "وفسر الحفيظ هاهنا بالحافظ لأوامرِ الله، وبالحافظ لذنوبه ليتوب منها.",
+         "en": "Ḥafīẓ here has been explained as one who keeps Allah's commands, and as one who keeps his sins in mind so as to repent of them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c9",
+     "pages": [
+      434
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن أعظم ما يجبُ حِفظُه من أوامر الله الصَّلاةُ، وقد أمر الله بالمحافظة عليها، فقال: {حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلاةِ الْوُسْطَى} ومدح المحافظين عليها بقوله: {وَالَّذِينَ هُمْ عَلَى صَلاتِهِمْ يُحَافِظُونَ}.",
+         "en": "Among the greatest of Allah's commands that must be guarded is the prayer. Allah commanded that it be guarded, saying: “Guard the prayers, and the middle prayer” [al-Baqarah 2:238], and He praised those who guard it, saying: “And those who guard their prayer” [al-Maʿārij 70:34]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c10",
+     "pages": [
+      435
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال النَّبيُّ صلى الله عليه وسلم: «مَنْ حافظ عليها، كان له عندَ الله عهدٌ أنْ يُدخِلَه الجنَّة» وفي حديثٍ آخرَ: «من حافظ عليهنَّ، كُنَّ له نوراً وبرهاناً ونجاةً يوم القيامة».",
+         "en": "The Prophet ﷺ said: “Whoever guards it has a covenant with Allah that He will admit him to Paradise.” And in another hadith: “Whoever guards them, they will be a light, a proof and a salvation for him on the Day of Resurrection.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c11",
+     "pages": [
+      435
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكذلك الطهارة، فإنَّها مفتاحُ الصلاة، وقال النَّبيُّ صلى الله عليه وسلم: «لا يُحافِظُ على الوضوء إلاَّ مؤمن».",
+         "en": "Likewise purification, for it is the key to prayer. The Prophet ﷺ said: “None guards his wuḍūʾ except a believer.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c12",
+     "pages": [
+      435
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وممَّا يُؤمر بحفظه الأيمانُ، قال الله عز وجل: {واحْفَظوا أَيْمَانَكُم}، فإنَّ الأيمان يقع الناس فيها كثيراً، ويُهْمِل كثيرٌ منهم ما يجب بها، فلا يحفظه، ولا يلتزمه.",
+         "en": "Among the things one is commanded to guard are oaths. Allah, the Mighty and Majestic, said: “And guard your oaths” [al-Māʾidah 5:89]. People fall into swearing oaths a great deal, and many of them neglect what their oaths require of them, neither guarding it nor holding to it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c13",
+     "pages": [
+      435
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن ذلك حفظُ الرأس والبطن كما في حديث ابن مسعود المرفوع: «الاستحياءُ من الله حَقَّ الحياء أنْ تَحْفَظَ الرأس وما وَعَى، وتحفظ البطنَ وما حوى» خرَّجه الإمام أحمد والترمذي.",
+         "en": "Another is guarding the head and the belly, as in the hadith of Ibn Masʿūd traced back to the Prophet ﷺ (marfūʿ): “Being shy of Allah as He truly deserves is to guard the head and what it holds, and to guard the belly and what it contains.” Imam Aḥmad and al-Tirmidhī recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c14",
+     "pages": [
+      435,
+      436
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وحفظ الرأس وما وعى يدخل فيه حفظُ السَّمع والبصر واللسان من المحرمات، وحفظُ البطن وما حوى يتضمن حفظ القلب عَنِ الإصرار على محرم.",
+         "en": "Guarding the head and what it holds includes guarding the hearing, the sight and the tongue from what is unlawful; and guarding the belly and what it contains includes guarding the heart against persisting in anything unlawful."
+        },
+        {
+         "ar": "قال الله عز وجل:",
+         "en": "Allah, the Mighty and Majestic, said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c15",
+     "pages": [
+      436
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "{وَاعْلَمُوا أَنَّ اللهَ يَعْلَمُ مَا فِي أَنْفُسِكُمْ فَاحْذَرُوهُ}، وقد جمع الله ذلك كُلَّه في قوله: {إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَئِكَ كَانَ عَنْهُ مَسْؤُولاً}.",
+         "en": "“And know that Allah knows what is in your souls, so beware of Him” [al-Baqarah 2:235]. Allah has gathered all of this in His words: “Indeed the hearing, the sight and the heart — about each of these one will be questioned” [al-Isrāʾ 17:36]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c16",
+     "pages": [
+      436
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويتضمن أيضاً حفظُ البطنِ من إدخال الحرام إليه من المآكل والمشارب.",
+         "en": "It also includes guarding the belly from taking in unlawful food and drink."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c17",
+     "pages": [
+      436
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومِنْ أعظم ما يجبُ حفظُه من نواهي الله عز وجل: اللسانُ والفرجُ، وفي حديث أبي هريرة، عن النَّبيِّ صلى الله عليه وسلم، قال: «مَنْ حَفِظَ ما بَينَ لَحييه، وما بَينَ رِجليهِ، دَخَلَ الجنة» خرَّجه الحاكم.",
+         "en": "Among the greatest things that must be guarded against what Allah, the Mighty and Majestic, has forbidden are the tongue and the private parts. In the hadith of Abū Hurayrah, the Prophet ﷺ said: “Whoever guards what is between his jaws and what is between his legs will enter Paradise.” Al-Ḥākim recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c18",
+     "pages": [
+      436
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد من حديث أبي موسى، عن النَّبيِّ صلى الله عليه وسلم، قال: «مَنْ حَفِظ ما بينَ فَقْمَيهِ وفرجه، دخل الجنة».",
+         "en": "Imam Aḥmad recorded, from the hadith of Abū Mūsā, that the Prophet ﷺ said: “Whoever guards what is between his jawbones and his private parts will enter Paradise.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c19",
+     "pages": [
+      436
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأمر الله عز وجل بحفظ الفروج، ومدحَ الحافظين لها، فقال: {قُلْ لِلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا فُرُوجَهُمْ}، وقال: {وَالْحَافِظِينَ فُرُوجَهُمْ وَالْحَافِظَاتِ وَالذَّاكِرِينَ اللهَ كَثِيراً وَالذَّاكِرَاتِ أَعَدَّ اللهُ لَهُمْ مَغْفِرَةً وَأَجْراً عَظِيماً}،",
+         "en": "Allah, the Mighty and Majestic, commanded that the private parts be guarded and praised those who guard them. He said: “Tell the believing men to lower their gaze and guard their private parts” [al-Nūr 24:30]; and: “men who guard their private parts and women who do so, men who remember Allah much and women who do so — for them Allah has prepared forgiveness and a great reward” [al-Aḥzāb 33:35];"
+        },
+        {
+         "ar": "وقال: {قَدْ أَفْلَحَ الْمُؤْمِنُونَ الَّذِينَ هُمْ فِي صَلاتِهِمْ خَاشِعُونَ} إلى قوله: {وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ إِلاَّ عَلَى أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ}.",
+         "en": "and: “The believers have indeed succeeded — those who are humble in their prayer” [al-Muʾminūn 23:1–2], up to His words: “and who guard their private parts, except from their wives or those their right hands possess, for then they are not to be blamed” [al-Muʾminūn 23:5–6]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c20",
+     "pages": [
+      436
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أبو إدريس الخولاني: أوَّلُ ما وصى الله به آدم عند إهباطه إلى الأرض: حفظُ فرجه، وقال: لا تضعه إلا في حلال.",
+         "en": "Abū Idrīs al-Khawlānī said: The first thing Allah enjoined upon Ādam when He sent him down to earth was to guard his private parts, and He said: Do not place it except in what is lawful."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c21",
+     "pages": [
+      436,
+      437
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله صلى الله عليه وسلم: «يحفظك» يعني: أنَّ من حفظَ حدود الله، وراعى حقوقَه، حفظه الله، فإنَّ الجزاء من جنس العمل، كما قال تعالى: {وَأَوْفُوا بِعَهْدِي أُوفِ بِعَهْدِكُمْ}، وقال: {فَاذْكُرُونِي أَذْكُرْكُمْ}، وقال: {إِنْ تَنْصُرُوا اللهَ يَنْصُرْكُمْ}.",
+         "en": "His words ﷺ, “He will protect you,” mean that whoever guards the limits of Allah and observes His rights, Allah will protect him; for the recompense is of the same kind as the deed. As the Exalted said: “Fulfil My covenant and I will fulfil your covenant” [al-Baqarah 2:40]; “So remember Me; I will remember you” [al-Baqarah 2:152]; and “If you support Allah, He will support you” [Muḥammad 47:7]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c22",
+     "pages": [
+      437
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وحفظ الله لعبده يدخل فيه نوعان:",
+         "en": "Allah's protection of His servant takes in two kinds."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c23",
+     "pages": [
+      437
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدهما: حفظه له في مصالح دنياه، كحفظه في بدنه وولده وأهله وماله، قال الله عز وجل: {لَهُ مُعَقِّبَاتٌ مِنْ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِ يَحْفَظُونَهُ مِنْ أَمْرِ اللهِ}.",
+         "en": "The first is His protecting him in his worldly interests, such as protecting him in his body, his children, his family and his wealth. Allah, the Mighty and Majestic, said: “For him there are successive [angels] before him and behind him, who protect him by the command of Allah” [al-Raʿd 13:11]."
+        },
+        {
+         "ar": "قال ابن عباس: هم الملائكة يحفظونَهُ بأمرِ الله، فإذا جاء القدر خَلُّوْا عنه.",
+         "en": "Ibn ʿAbbās said: They are the angels who protect him by Allah's command; when the decree comes, they leave him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c24",
+     "pages": [
+      437
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال عليٌّ رضي الله عنه: إنَّ مع كلِّ رجلٍ ملكين يحفظانه مما لم يقدرْ فإذا جاء القدر خلّيا بينه وبينَه، وإنَّ الأجل جُنَّةٌ حصينة.",
+         "en": "ʿAlī (may Allah be pleased with him) said: With every man there are two angels who protect him from what has not been decreed; when the decree comes, they leave him to it. A man's appointed term is a strong shield."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c25",
+     "pages": [
+      437
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال مجاهد: ما مِنْ عبدٍ إلاَّ له مَلَكٌ يحفظه في نومه ويقظته من الجنّ والإنس والهوامِّ، فما من شيء يأتيه إلا قال: وراءك، إلا شيئاً أذن الله فيه فيصيبه.",
+         "en": "Mujāhid said: There is no servant but that he has an angel who protects him, asleep and awake, from jinn, humans and vermin. Nothing comes at him but the angel says: Back! — except something Allah has permitted, which then befalls him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c26",
+     "pages": [
+      437
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد، وأبو داود، والنسائي من حديث ابن عمر، قال: لم يكن رسولُ الله صلى الله عليه وسلم يَدَعُ هؤلاء الدَّعوات حين يُمسي وحين يُصبح: «اللهمّ إني أسألُكَ العافية في الدنيا والآخرة،",
+         "en": "Imam Aḥmad, Abū Dāwūd and al-Nasāʾī recorded, from the hadith of Ibn ʿUmar, that he said: The Messenger of Allah ﷺ never left off these supplications in the evening and in the morning: “O Allah, I ask You for well-being in this world and the Hereafter."
+        },
+        {
+         "ar": "اللهم إنِّي أسألك العفو والعافية في ديني ودنياي وأهلي ومالي، اللهمَّ استُر عورتي، وآمن روعتي، واحفظني من بين يدي ومن خلفي، وعن يميني وعن شمالي، ومن فوقي، وأعوذُ بعظمتك أنْ أُغتَالَ من تحتي».",
+         "en": "O Allah, I ask You for pardon and well-being in my religion and my worldly life, my family and my wealth. O Allah, cover my faults and calm my fears. Guard me from before me and from behind me, from my right and from my left, and from above me; and I seek refuge in Your greatness from being taken unawares from beneath me.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c27",
+     "pages": [
+      437
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومَنْ حفظ الله في صباه وقوَّته، حفظه الله في حال كبَره وضعفِ قوّته، ومتَّعه بسمعه وبصره وحولِه وقوَّته وعقله.",
+         "en": "Whoever is mindful of Allah in his youth and strength, Allah will protect him in his old age and frailty, and let him enjoy his hearing, his sight, his ability, his strength and his mind."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c28",
+     "pages": [
+      437,
+      438
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "كان بعض العلماء قد جاوز المئة سنة وهو ممتَّعٌ بقوَّتِه وعقله، فوثب يوماً وثبةً شديدةً، فعُوتِبَ في ذلك، فقال: هذه جوارحُ حفظناها عَنِ المعاصي في الصِّغر، فحفظها الله علينا في الكبر.",
+         "en": "One scholar had passed a hundred years of age while still enjoying his strength and his mind. One day he made a mighty leap, and when he was reproached for it he said: These are limbs we guarded from sins in our youth, so Allah has preserved them for us in our old age."
+        },
+        {
+         "ar": "وعكس هذا أنَّ بعض السَّلف رأى شيخاً يسأل الناسَ، فقال: إنَّ هذا ضيَّع الله في صغره، فضيَّعه الله في كبره.",
+         "en": "The opposite of this: one of the Salaf saw an old man begging from people and said: This man neglected Allah in his youth, so Allah has neglected him in his old age."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c29",
+     "pages": [
+      438
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد يحفظُ الله العبدَ بصلاحه بعدَ موته في ذريَّته كما قيل في قوله تعالى: {وَكَانَ أَبُوْهُمُا صَالِحاً}: أنَّهما حُفِظا بصلاح أبيهما.",
+         "en": "Allah may also protect a servant, after his death, in his descendants because of his righteousness, as has been said concerning the words of the Exalted, “And their father had been righteous” [al-Kahf 18:82]: that the two boys were protected because of their father's righteousness."
+        },
+        {
+         "ar": "قال سعيد بن المسيب لابنه: لأزيدنَّ في صلاتي مِنْ أجلِك، رجاءَ أنْ أُحْفَظَ فيكَ، ثم تلا هذه الآية {وَكَانَ أَبُوْهُمُا صَالِحاً}، وقال عمرُ بن عبد العزيز: ما من مؤمن يموتُ إلاَّ حفظه الله في عقبه وعقبِ عقبه.",
+         "en": "Saʿīd ibn al-Musayyib said to his son: I shall add to my prayer for your sake, in the hope that I will be protected in you. Then he recited this verse: “And their father had been righteous.” ʿUmar ibn ʿAbd al-ʿAzīz said: No believer dies but that Allah protects him in his offspring and his offspring's offspring."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c30",
+     "pages": [
+      438
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال ابن المنكدرِ: إنَّ الله ليحفظُ بالرجل الصالح ولدَه وولدَ ولده والدويرات التي حوله فما يزالونَ في حفظ من الله وستر.",
+         "en": "Ibn al-Munkadir said: Through a righteous man Allah protects his children, his children's children and the little houses around him, and they remain under Allah's protection and covering."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c31",
+     "pages": [
+      438
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومتى كان العبد مشتغلاً بطاعة الله، فإنَّ الله يحفظه في تلك الحال، وفي \" مسند الإمام أحمد \" عن النَّبيِّ صلى الله عليه وسلم، قال: «كانت امرأةٌ في بيتٍ، فخرجت في سريَّةٍ من المسلمين،",
+         "en": "Whenever the servant is occupied with obeying Allah, Allah protects him in that state. In the Musnad of Imam Aḥmad, the Prophet ﷺ said: “There was a woman in a house, and she went out with a raiding party of the Muslims,"
+        },
+        {
+         "ar": "وتركت ثنتي عشرة عنزاً وصيصيتها كانت تنسج بها، قال: ففقدت عنزاً لها وصيصيتها، فقالت: يا ربِّ، إنَّك قد ضَمِنْتَ لمن خرج في سبيلك أنْ تحفظَ عليه، وإنِّي قد فَقَدتُ عنزاً من غنمي وصيصيتي، وإني أَنْشُدُكَ عنزي وصيصيتي».",
+         "en": "leaving behind twelve she-goats and her ṣīṣiyah, with which she used to weave.” He said: “She lost one of her goats and her ṣīṣiyah, and she said: My Lord, You have guaranteed to whoever goes out in Your path that You will guard what he leaves behind. I have lost a goat from my flock and my ṣīṣiyah, and I implore You for my goat and my ṣīṣiyah.”"
+        },
+        {
+         "ar": "قال: وجعل رسولُ الله صلى الله عليه وسلم يذكر شدَّة مناشدتها ربَّها تبارك وتعالى، قال رسول الله صلى الله عليه وسلم:",
+         "en": "The narrator said: The Messenger of Allah ﷺ began describing how earnestly she implored her Lord, Blessed and Exalted is He. The Messenger of Allah ﷺ said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c32",
+     "pages": [
+      438
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«فأصبحت عنزها ومثلها، وصيصيتها ومثلها».",
+         "en": "“And in the morning she had her goat and another like it, and her ṣīṣiyah and another like it.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c33",
+     "pages": [
+      438
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والصيصية: هي الصِّنارة التي يُغزل بها ويُنسج.",
+         "en": "The ṣīṣiyah is the hook with which yarn is spun and woven."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c34",
+     "pages": [
+      439
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فمن حفظ الله حَفِظَهُ الله من كُلِّ أذى.",
+         "en": "So whoever is mindful of Allah, Allah protects him from every harm."
+        },
+        {
+         "ar": "قال بعضُ السَّلف: من اتقى الله، فقد حَفِظَ نفسه، ومن ضيَّع تقواه، فقد ضيَّع نفسه، والله الغنىُّ عنه.",
+         "en": "One of the Salaf said: Whoever fears Allah has protected himself, and whoever neglects his taqwā has lost himself — and Allah has no need of him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c35",
+     "pages": [
+      439
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن عجيب حفظِ الله لمن حفظه أنْ يجعلَ الحيوانات المؤذية بالطبع حافظةً له من الأذى، كما جرى لِسَفِينةَ مولى النَّبيِّ صلى الله عليه وسلم حيث كُسِرَ به المركبُ،",
+         "en": "Among the wonders of Allah's protection of whoever is mindful of Him is that He makes animals that are harmful by nature guard him from harm. So it happened to Safīnah, the freed slave of the Prophet ﷺ, when the ship he was on was wrecked"
+        },
+        {
+         "ar": "وخرج إلى جزيرة، فرأى الأسدَ، فجعل يمشي معه حتَّى دلَّه على الطريق، فلمَّا أوقفه عليها، جعل يُهَمْهِمُ كأنَّه يُوَدِّعُهُ، ثم رجع عنه.",
+         "en": "and he came ashore on an island. He saw a lion, which began walking with him until it led him to the road. When it had brought him to the road, it began to growl softly, as though bidding him farewell, and then went back."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c36",
+     "pages": [
+      439
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ورؤي إبراهيمُ بن أدهم نائماً في بستان وعنده حَيَّةٌ في فمها طاقةُ نَرجِس، فما زالت تذبُّ عنه حتَّى استيقظ.",
+         "en": "Ibrāhīm ibn Adham was seen asleep in a garden with a snake beside him holding a sprig of narcissus in its mouth, and it kept warding things off him until he woke."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c37",
+     "pages": [
+      439
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعكسُ هذا أنَّ من ضيع الله، ضيَّعهُ الله، فضاع بين خلقه حتى يدخلَ عليه الضررُ والأذى ممن كان يرجو نفعه من أهله وغيرهم، كما قال بعض السَّلف: إني لأعصي الله، فأعرِفُ ذلك في خُلُقِ خادمي ودابَّتي.",
+         "en": "The opposite of this is that whoever neglects Allah, Allah neglects him, and he is lost among His creation, until harm and injury reach him even from those he hoped would benefit him, his family and others. As one of the Salaf said: When I disobey Allah, I can see it in the behaviour of my servant and my riding animal."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c38",
+     "pages": [
+      439
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "النوع الثاني من الحفظ، وهو أشرف النوعين: حفظُ الله للعبد في دينه وإيمانه، فيحفظه في حياته من الشبهات المُضِلَّة، ومن الشهوات المحرَّمة، ويحفظ عليه دينَه عندَ موته، فيتوفَّاه على الإيمان، قال بعض السلَّف:",
+         "en": "The second kind of protection — and it is the nobler of the two — is Allah's protecting His servant in his religion and his faith. He protects him during his life from misleading doubts and unlawful desires, and protects his religion for him at his death, so that He takes him in a state of faith. One of the Salaf said:"
+        },
+        {
+         "ar": "إذا حضر الرجل الموت يقال للملك: شمَّ رأسه، قال: أجد في رأسه القرآن، قال: شمَّ قلبه، قال: أجد في قلبه الصيام، قال: شمَّ قدميه، قال: أجد في قدميه القيام، قال: حَفظَ نفسَه، فحفظه الله.",
+         "en": "When a man is at the point of death, the angel is told: Smell his head. It says: I find the Qurʾān in his head. It is told: Smell his heart. It says: I find fasting in his heart. It is told: Smell his feet. It says: I find standing in prayer in his feet. Then it is said: He guarded himself, so Allah has guarded him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c39",
+     "pages": [
+      439,
+      440
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن البراء بن عازب، عن النَّبيِّ صلى الله عليه وسلم: أنَّه أمره أنْ يقولَ عندَ منامه: إنْ قبضتَ نفسي فارحمها، وإنْ أرسلتَها فاحفظها بما تحفظُ به عبادَك الصالحين.",
+         "en": "In the two Ṣaḥīḥs, al-Barāʾ ibn ʿĀzib relates that the Prophet ﷺ told him to say on going to sleep: If You take my soul, have mercy on it; and if You release it, protect it with that by which You protect Your righteous servants."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c40",
+     "pages": [
+      440
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي حديث عمر: أنَّ النَّبيَّ صلى الله عليه وسلم علمه أنْ يقول: اللَّهُمَّ احفظني بالإسلام قائماً، واحفظني بالإسلام قاعداً، واحفظني بالإسلام راقداً، ولا تُطِعْ فيَّ عدواً ولا حاسداً.",
+         "en": "In the hadith of ʿUmar, the Prophet ﷺ taught him to say: O Allah, protect me through Islam when standing, protect me through Islam when sitting, protect me through Islam when lying down, and do not let any enemy or envier have their way with me."
+        },
+        {
+         "ar": "خرَّجه ابن حبان في \" صحيحه \".",
+         "en": "Ibn Ḥibbān recorded it in his Ṣaḥīḥ."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c41",
+     "pages": [
+      440
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكان النَّبيُّ صلى الله عليه وسلم يودِّع من أراد سفراً، فيقول: «استودعُ الله دينكَ وأمانتَكَ وخواتِيمَ عملك»، وكان يقول: «إنَّ الله إذا استُودعَ شيئاً حَفِظَهُ».",
+         "en": "When someone intended to travel, the Prophet ﷺ would bid him farewell, saying: “I entrust to Allah your religion, your trust and the final outcomes of your deeds.” And he used to say: “When something is entrusted to Allah, He protects it.”"
+        },
+        {
+         "ar": "خرَّجه النَّسائي وغيره.",
+         "en": "Al-Nasāʾī and others recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c42",
+     "pages": [
+      440
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي الجملة، فالله عز وجل يحفظُ على المؤمن الحافظ لحدود دينَه، ويحولُ بينَه وبين ما يُفسد عليه دينَه بأنواعٍ مِنَ الحفظ،",
+         "en": "In sum, Allah, the Mighty and Majestic, protects the religion of the believer who guards His limits, and comes between him and whatever would corrupt his religion through various kinds of protection,"
+        },
+        {
+         "ar": "وقد لا يشعرُ العبدُ ببعضها، وقد يكونُ كارهاً له، كما قال في حقِّ يوسُف عليه السلام: {كَذَلِكَ لِنَصْرِفَ عَنْهُ السُّوءَ وَالْفَحْشَاءَ إنَّهُ مِنْ عِبَادِنَا الْمُخْلَصِينَ}.",
+         "en": "some of which the servant may not even perceive, and some of which he may dislike. As He said concerning Yūsuf (peace be upon him): “Thus it was, so that We might avert from him evil and indecency; indeed, he was one of Our chosen servants” [Yūsuf 12:24]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c43",
+     "pages": [
+      440
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال ابن عباس في قوله تعالى: {أَنَّ اللهَ يَحُولُ بَيْنَ الْمَرْءِ وَقَلْبِهِ}، قال: يحول بين المؤمن وبين المعصية التي تجره إلى النار.",
+         "en": "Ibn ʿAbbās said concerning the words of the Exalted, “that Allah comes between a man and his heart” [al-Anfāl 8:24]: He comes between the believer and the sin that would drag him to the Fire."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c44",
+     "pages": [
+      441
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الحسن - وذكر أهل المعاصي -: هانوا عليه، فعَصَوْه، ولو عزُّوا عليه لعصمهم.",
+         "en": "Al-Ḥasan said, speaking of those who commit sins: They were worthless to Him, so they disobeyed Him; had they been dear to Him, He would have kept them from sin."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c45",
+     "pages": [
+      441
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال ابنُ مسعود: إنَّ العبد ليهمُّ بالأمرِ من التجارة والإمارة حتى يُيسر له، فينظر الله إليه فيقول للملائكة: اصرفوه عنه،",
+         "en": "Ibn Masʿūd said: A servant sets his heart on some matter of trade or authority until it is about to be made easy for him. Then Allah looks at him and says to the angels: Turn it away from him,"
+        },
+        {
+         "ar": "فإني إنْ يسرته له أدخلتُه النار، فيصرفه الله عنه، فيظلُّ يتطيَّرُ يقول: سبقني فلان، دهاني فلان، وما هو إلا فضل الله عز وجل.",
+         "en": "for if I make it easy for him I will admit him to the Fire. So Allah turns it away from him, and he goes on blaming his ill luck, saying: So-and-so beat me to it, so-and-so outwitted me — when it was nothing but the grace of Allah, the Mighty and Majestic."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c46",
+     "pages": [
+      441
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه الطبراني من حديث أنس، عن النَّبيِّ صلى الله عليه وسلم: «يقول الله عز وجل: إنَّ من عبادي من لا يُصلحُ إيمانَهُ إلاَّ الفقر،",
+         "en": "Al-Ṭabarānī recorded something of this, from the hadith of Anas, that the Prophet ﷺ said: “Allah, the Mighty and Majestic, says: Among My servants are some whose faith is set right only by poverty;"
+        },
+        {
+         "ar": "وإنْ بسطت عليه أفسده ذلك، وإنَّ من عبادي من لا يصلح إيمانَه إلا الغنى، ولو أفقرتُه، لأفسده ذلك،",
+         "en": "were I to give him plenty, that would corrupt him. Among My servants are some whose faith is set right only by wealth; were I to make him poor, that would corrupt him."
+        },
+        {
+         "ar": "وإنَّ من عبادي من لا يصلح إيمانه إلاَّ الصِّحَّة، ولو أسقمته، لأفسده ذلك، وإنَّ من عبادي من لا يصلح إيمانه إلا السقم، ولو أصححتُه،",
+         "en": "Among My servants are some whose faith is set right only by health; were I to make him ill, that would corrupt him. Among My servants are some whose faith is set right only by illness; were I to make him healthy,"
+        },
+        {
+         "ar": "لأفسده ذلك، وإنَّ مِنْ عبادي من يطلب باباً من العبادة، فأكُفُّه عنه، لكيلا يدخله العُجْبُ، إني أُدبِّر عبادي بعلمي بما في قلوبهم، إني عليمٌ خبير».",
+         "en": "that would corrupt him. Among My servants are some who seek a certain door of worship, and I hold him back from it so that self-admiration does not enter him. I direct the affairs of My servants by My knowledge of what is in their hearts; I am All-Knowing, All-Aware.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c47",
+     "pages": [
+      441
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله صلى الله عليه وسلم: «احفظ الله تجده تجاهك»، وفي رواية: «أمامك» معناه: أنَّ مَنْ حَفِظَ حُدودَ الله، وراعى حقوقه،",
+         "en": "His words ﷺ, “Be mindful of Allah and you will find Him before you” — in one narration, “in front of you” — mean that whoever guards the limits of Allah and observes His rights"
+        },
+        {
+         "ar": "وجد الله معه في كُلِّ أحواله حيث توجَّه يَحُوطُهُ وينصرهُ ويحفَظه ويوفِّقُه ويُسدده فـ {إِنَّ اللهَ مَعَ الَّذِينَ اتَّقَوْا وَالَّذِينَ هُمْ مُحْسِنُونَ} قال قتادة:",
+         "en": "will find Allah with him in all his states, wherever he turns, surrounding him, helping him, protecting him, granting him success and keeping him on the right course; for “Allah is with those who fear Him and those who do good” [al-Naḥl 16:128]. Qatādah said:"
+        },
+        {
+         "ar": "من يتق الله يكن معه، ومن يكن الله معه، فمعه الفئة التي لا تُغلب، والحارس الذي لا ينام، والهادي الذي لا يضل.",
+         "en": "Whoever fears Allah, Allah is with him; and whoever has Allah with him has with him the party that is never defeated, the guard who never sleeps, and the guide who never goes astray."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c48",
+     "pages": [
+      441
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "كتبَ بعضُ السَّلف إلى أخٍ له: أمَّا بعد، فإنْ كان الله معك فمن تخاف؟",
+         "en": "One of the Salaf wrote to a brother of his: To proceed: if Allah is with you, whom do you fear?"
+        },
+        {
+         "ar": "وإنْ كان عليك فمن ترجو؟",
+         "en": "And if He is against you, in whom do you hope?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c49",
+     "pages": [
+      441,
+      442
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذه المعيةُ الخاصة هي المذكورةُ في قوله تعالى لموسى وهارون: {لا تَخَافَا إِنَّنِي مَعَكُمَا أَسْمَعُ وَأَرَى}، وقول موسى: {إِنَّ مَعِيَ رَبِّي سَيَهْدِينِ}.",
+         "en": "This special companionship (maʿiyyah) is the one mentioned in the words of the Exalted to Mūsā and Hārūn: “Do not fear; I am with you both, hearing and seeing” [Ṭā Hā 20:46]; in the words of Mūsā: “Indeed, my Lord is with me; He will guide me” [al-Shuʿarāʾ 26:62];"
+        },
+        {
+         "ar": "وفي قول النَّبيِّ صلى الله عليه وسلم لأبي بكر وهما في الغار: «ما ظَنُّكَ باثنين الله ثالثهما؟",
+         "en": "and in the words of the Prophet ﷺ to Abū Bakr when the two of them were in the cave: “What do you think of two whose third is Allah?"
+        },
+        {
+         "ar": "لا تحزن إنَّ الله معنا».",
+         "en": "Do not grieve; Allah is with us.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c50",
+     "pages": [
+      442
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فهذه المعيةُ الخاصةُ تقتضي النَّصر والتَّأييدَ، والحفظ والإعانة بخلاف المعية العامة المذكورة في قوله تعالى:",
+         "en": "This special companionship entails help and support, protection and aid — unlike the general companionship mentioned in the words of the Exalted:"
+        },
+        {
+         "ar": "{مَا يَكُونُ مِنْ نَجْوَى ثَلاثَةٍ إِلاَّ هُوَ رَابِعُهُمْ وَلا خَمْسَةٍ إِلاَّ هُوَ سَادِسُهُمْ وَلا أَدْنَى مِنْ ذَلِكَ وَلا أَكْثَرَ إِلاَّ هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا}،",
+         "en": "“There is no private conversation of three but He is their fourth, nor of five but He is their sixth, nor of fewer than that or more but He is with them wherever they are” [al-Mujādilah 58:7];"
+        },
+        {
+         "ar": "وقوله: {وَلا يَسْتَخْفُونَ مِنَ اللهِ وَهُوَ مَعَهُمْ إِذْ يُبَيِّتُونَ مَا لا يَرْضَى مِنَ الْقَوْلِ}،",
+         "en": "and in His words: “They do not hide from Allah, and He is with them when they spend the night plotting words He does not approve” [al-Nisāʾ 4:108]."
+        },
+        {
+         "ar": "فإنَّ هذه المعية تقتضي علمَه واطِّلاعه ومراقبته لأعمالهم، فهي مقتضيةٌ لتخويف العباد منه، والمعية الأولى تقتضي حفظ العبد وحياطَتَه ونصرَه، فمن حفظ الله، وراعى حقوقه،",
+         "en": "This companionship entails His knowledge of their deeds, His seeing them and His watching over them, and so it calls for His servants to fear Him; whereas the first companionship entails protecting, guarding and helping the servant. So whoever is mindful of Allah and observes His rights"
+        },
+        {
+         "ar": "وجده أمامَه وتُجاهه على كُلِّ حالٍ، فاستأنس به، واستغنى به عن خلقه، كما في حديث: «أفضلُ الإيمان أنْ يعلمَ العبدُ أنَّ الله معه حيث كان» وقد سبق.",
+         "en": "will find Him before him and in front of him in every situation; he will find comfort in Him and, through Him, have no need of His creation — as in the hadith, “The best faith is that the servant knows that Allah is with him wherever he is,” which has already been cited."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c51",
+     "pages": [
+      442
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ورُويَ عن بُنان الحمَّال: أنَّه دخل البريَّةَ وحدَه على طريق تبوك، فاستوحش، فهتف به هاتف: لِمَ تستوحش؟",
+         "en": "It is narrated of Bunān al-Ḥammāl that he went into the desert alone on the road to Tabūk and felt lonely, and a voice called out to him: Why do you feel lonely?"
+        },
+        {
+         "ar": "أليس حبيبُك معك؟",
+         "en": "Is your Beloved not with you?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c52",
+     "pages": [
+      442
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقيل لبعضهم: ألا تستوحشُ وحدَك؟",
+         "en": "Someone was asked: Do you not feel lonely on your own?"
+        },
+        {
+         "ar": "فقال: كيف أستوحش، وهو يقول:",
+         "en": "He said: How could I feel lonely when He says:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c53",
+     "pages": [
+      442
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«أنا جليسُ مَنْ ذكرني»، وقيل لآخر: نراكَ وحدكَ؟",
+         "en": "“I sit with whoever remembers Me”? Another was told: We see you alone."
+        },
+        {
+         "ar": "فقال: من يكن الله معه، كيف يكونُ وحده؟، وقيل لآخر: أما مَعَكَ مؤنسٌ؟",
+         "en": "He said: How can someone who has Allah with him be alone? Another was asked: Have you no companion to keep you company?"
+        },
+        {
+         "ar": "قال: بلى، قيل له: أين هو؟",
+         "en": "He said: Yes. He was asked: Where is he?"
+        },
+        {
+         "ar": "قال: أمامي، وخلفي، وعن يميني، وعن شمالي، وفوقي.",
+         "en": "He said: In front of me, behind me, on my right, on my left and above me."
+        },
+        {
+         "ar": "وكان الشبلي ينشد:",
+         "en": "Al-Shiblī used to recite:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c54",
+     "pages": [
+      443
+     ],
+     "paragraphs": [
+      {
+       "kind": "verse",
+       "segments": [
+        {
+         "ar": "إذا نَحْنُ أدلَجْنَا وأنت أمامَنا … كَفَى لِمَطايَانا بذِكرك هاديا",
+         "en": "When we travel by night with You before us, / the remembrance of You is guide enough for our mounts."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c55",
+     "pages": [
+      443
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قوله صلى الله عليه وسلم: «تعرَّف إلى الله في الرَّخاء، يعرفكَ في الشِّدَّةِ» يعني: أنَّ العبدَ إذا اتَّقى الله، وحَفِظَ حدودَه، وراعى حقوقه في حال رخائه، فقد تعرَّف بذلك إلى الله،",
+         "en": "His words ﷺ, “Make yourself known to Allah in times of ease and He will know you in times of hardship,” mean that when the servant fears Allah, guards His limits and observes His rights in his time of ease, he has thereby made himself known to Allah,"
+        },
+        {
+         "ar": "وصار بينه وبينَ ربه معرفةٌ خاصة، فعرفه ربَّه في الشدَّة، ورعى له تَعَرُّفَهُ إليه في الرَّخاء، فنجَّاه من الشدائد بهذه المعرفة، وهذه معرفة خاصة تقتضي قربَ العبدِ من ربِّه، ومحبته له، وإجابته لدعائه.",
+         "en": "and a special acquaintance has formed between him and his Lord. So his Lord knows him in hardship and honours for him the way he made himself known to Him in ease, and rescues him from hardships through this acquaintance. This is a special knowing that entails the servant's nearness to his Lord, His love for him and His answering his supplication."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c56",
+     "pages": [
+      443
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فمعرفة العبد لربه نوعان:",
+         "en": "The servant's knowledge of his Lord is of two kinds."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c57",
+     "pages": [
+      443
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدُهما: المعرفةُ العامة، وهي معرفةُ الإقرار به والتَّصديق والإيمان، وهذه عامةٌ للمؤمنين.",
+         "en": "The first is general knowledge: the knowledge of acknowledging Him, affirming His truth and believing in Him. This is shared by all believers."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c58",
+     "pages": [
+      443
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثاني: معرفة خاصة تقتضي ميلَ القلب إلى الله بالكلية، والانقطاع إليه، والأُنس به، والطمأنينة بذكره، والحياء منه، والهيبة له،",
+         "en": "The second is a special knowledge that entails the heart's turning wholly towards Allah, devoting itself to Him alone, finding intimacy with Him, being at rest in His remembrance, feeling shy before Him and holding Him in awe."
+        },
+        {
+         "ar": "وهذه المعرفة الخاصة هي التي يدور حولها العارفون، كما قال بعضهم: مساكينُ أهلُ الدُّنيا، خرجوا منها وما ذاقوا أطيبَ ما فيها، قيل له: وما هو؟",
+         "en": "It is around this special knowledge that the knowers of Allah revolve, as one of them said: Poor are the people of this world! They left it without tasting the sweetest thing in it. He was asked: And what is that?"
+        },
+        {
+         "ar": "قال: معرفةُ الله عز وجل.",
+         "en": "He said: Knowing Allah, the Mighty and Majestic."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c59",
+     "pages": [
+      443
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أحمدُ بنُ عاصم الأنطاكيُّ: أحبُّ أنْ لا أموتَ حتّى أعرفَ مولاي، وليس معرفتُه الإقرار به، ولكن المعرفة التي إذا عرفته استحييت منه.",
+         "en": "Aḥmad ibn ʿĀṣim al-Anṭākī said: I would like not to die until I know my Master — and knowing Him is not merely acknowledging Him, but the knowledge that, once you know Him, makes you shy before Him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c60",
+     "pages": [
+      443
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومعرفة الله أيضاً لعبده نوعان:",
+         "en": "Allah's knowledge of His servant is likewise of two kinds."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c61",
+     "pages": [
+      443
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "معرفة عامة وهي علمه سبحانه بعباده، واطِّلاعه على ما أسرُّوه وما أعلنوه، كما قال: {وَلَقَدْ خَلَقْنَا الإنْسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ نَفْسُهُ}، وقال: {هُوَ أَعْلَمُ بِكُمْ إِذْ أَنْشَأَكُمْ مِنَ الأَرْضِ وَإِذْ أَنْتُمْ أَجِنَّةٌ فِي بُطُونِ أُمَّهَاتِكُمْ}.",
+         "en": "General knowledge, which is His knowledge, Glorified is He, of His servants, and His awareness of what they conceal and what they disclose, as He said: “We created man, and We know what his soul whispers to him” [Qāf 50:16]; and: “He knows you best, since He produced you from the earth and since you were foetuses in your mothers' wombs” [al-Najm 53:32]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c62",
+     "pages": [
+      443,
+      444
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثاني: معرفة خاصة: وهي تقتضي محبته لعبده وتقريبَه إليه، وإجابةَ دعائه، وإنجاءه من الشدائد، وهي المشار إليها بقوله صلى الله عليه وسلم فيما يحكى عن ربِّه: «ولا يزالُ عبدي يتقرَّبُ إليَّ بالنَّوافِل حتَّى أُحِبَّه،",
+         "en": "The second is special knowledge, which entails His love for His servant, drawing him near, answering his supplication and rescuing him from hardships. This is what the Prophet ﷺ pointed to in what he relates from his Lord: “My servant keeps drawing near to Me with voluntary deeds until I love him;"
+        },
+        {
+         "ar": "فإذا أحببتُه، كنتُ سمعه الذي يسمع به، وبصرَه الذي يُبصرُ به، ويدَه التي يبطِشُ بها، ورجلَه التي يمشي بها، فلئن سألني، لأُعطِيَنَّهُ، ولئن استعاذني لأعيذنَّه»، وفي رواية: «ولئن دعاني لأجيبنّه».",
+         "en": "and when I love him, I am his hearing with which he hears, his sight with which he sees, his hand with which he strikes and his foot with which he walks. If he asks Me, I will surely give him; and if he seeks refuge with Me, I will surely grant him refuge.” In one narration: “And if he calls on Me, I will surely answer him.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c63",
+     "pages": [
+      444
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولما هرب الحسنُ من الحجاج دخلَ إلى بيت حبيب أبي محمد، فقال له حبيب:",
+         "en": "When al-Ḥasan fled from al-Ḥajjāj, he went into the house of Ḥabīb Abū Muḥammad, and Ḥabīb said to him:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c64",
+     "pages": [
+      444
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "يا أبا سعيد، أليس بينك وبينَ ربِّك ما تدعوه به فيَستركَ مِنْ هؤلاء؟",
+         "en": "Abū Saʿīd, is there not something between you and your Lord by which you can call on Him, so that He hides you from these people?"
+        },
+        {
+         "ar": "ادخل البيتَ، فدخل، ودخل الشُّرَطُ على أثره، فلم يرَوْهُ، فذُكِرَ ذلك للحجاج، فقال: بل كان في البيت، إلا أنَّ الله طَمَسَ أعينهم فلم يروه.",
+         "en": "Go into the house. He went in, and the guards came in after him but did not see him. When this was mentioned to al-Ḥajjāj, he said: No, he was in the house, but Allah blotted out their sight so that they did not see him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c65",
+     "pages": [
+      444
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "واجتمع الفضيلُ بنُ عياض بشعوانة العابدة، فسألها الدُّعاءَ، فقالت: يا فضيلُ، وما بينَك وبينَه، ما إنْ دعوته أجابك، فغُشِيَ على الفضيل.",
+         "en": "Al-Fuḍayl ibn ʿIyāḍ met Shaʿwānah, the devout worshipper, and asked her to pray for him. She said: Fuḍayl, is there nothing between you and Him such that, if you called on Him, He would answer you? And al-Fuḍayl fainted."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c66",
+     "pages": [
+      444
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقيل لمعروف: ما الذي هيَّجك إلى الانقطاع والعبادة - وذكر له الموت والبرزخ والجنَّة والنار -؟",
+         "en": "Maʿrūf was asked what had stirred him to devote himself wholly to worship — the questioner mentioning death, the barzakh, Paradise and the Fire."
+        },
+        {
+         "ar": "فقال معروف: إنَّ ملكاً هذا كله بيده إنْ كانت بينك وبينه معرفةٌ كفاك جميع هذا.",
+         "en": "Maʿrūf said: A King in whose hand all this lies — if there is acquaintance between you and Him, He will suffice you against all of it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c67",
+     "pages": [
+      444
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي الجملة: فمن عامل الله بالتقوى والطاعة في حال رخائه، عامله الله باللطف والإعانة في حال شدَّته.",
+         "en": "In sum, whoever deals with Allah through taqwā and obedience in his time of ease, Allah will deal with him through gentleness and help in his time of hardship."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c68",
+     "pages": [
+      444
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الترمذيُّ من حديث أبي هريرة، عن النَّبيِّ صلى الله عليه وسلم قال: «من سرَّه أنْ يستجيب الله له عندَ الشَّدائد، فليُكثرِ الدُّعاءَ في الرَّخاء».",
+         "en": "Al-Tirmidhī recorded, from the hadith of Abū Hurayrah, that the Prophet ﷺ said: “Whoever would be glad for Allah to answer him in times of hardship, let him supplicate much in times of ease.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c69",
+     "pages": [
+      444,
+      445
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج ابنُ أبي حاتم وغيرهُ من رواية يزيد الرقاشي، عن أنس يرفعه: أنَّ يونس - عليه السلام لمَّا دعا في بطن الحوت،",
+         "en": "Ibn Abī Ḥātim and others recorded, through the narration of Yazīd al-Raqāshī from Anas, tracing it back to the Prophet ﷺ, that when Yūnus (peace be upon him) supplicated in the belly of the whale,"
+        },
+        {
+         "ar": "قالت الملائكة: يا ربِّ، هذا صوتٌ معروفٌ من بلادٍ غريبة، فقال الله عز وجل: أما تعرفون ذلك؟",
+         "en": "the angels said: Lord, this is a familiar voice from a strange land. Allah, the Mighty and Majestic, said: Do you not recognise it?"
+        },
+        {
+         "ar": "قالوا: ومَنْ هوَ؟",
+         "en": "They said: Who is it?"
+        },
+        {
+         "ar": "قال: عبدي يونس، قالوا: عبدُك يونس الذي لم يزل يُرفَعُ له عمل متقبل ودعوةٌ مستجابة؟",
+         "en": "He said: My servant Yūnus. They said: Your servant Yūnus, for whom accepted deeds and answered supplications never ceased to be raised up?"
+        },
+        {
+         "ar": "قال: نعم، قالوا: يا ربِّ، أفلا ترحم ما كان يصنع في الرخاء فتنجيَه من البلاء؟",
+         "en": "He said: Yes. They said: Lord, will You not have mercy on him for what he used to do in times of ease, and rescue him from this affliction?"
+        },
+        {
+         "ar": "قال: بلى، قال:",
+         "en": "He said: Certainly. The narrator said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c70",
+     "pages": [
+      445
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فأمر الله الحوتَ فطرحه بالعراء.",
+         "en": "So Allah commanded the whale, and it cast him out onto the bare shore."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c71",
+     "pages": [
+      445
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الضحاك بن قيس: اذكروا الله في الرَّخاء، يذكركُم في الشِّدَّة، وإنَّ يونس عليه السلام كان يذكُرُ الله تعالى، فلمَّا وقعَ في بطن الحوت، قال الله عز وجل:",
+         "en": "Al-Ḍaḥḥāk ibn Qays said: Remember Allah in times of ease and He will remember you in times of hardship. Yūnus (peace be upon him) used to remember Allah the Exalted, and when he fell into the belly of the whale, Allah, the Mighty and Majestic, said:"
+        },
+        {
+         "ar": "{فَلَوْلا أَنَّهُ كَانَ مِنَ الْمُسَبِّحِينَ لَلَبِثَ فِي بَطْنِهِ إِلَى يَوْمِ يُبْعَثُونَ}، وإنَّ فرعون كان طاغياً ناسياً لذكر الله، فلما أدركه الغرق، قال: آمنت، فقال الله تعالى: {آلآنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنْتَ مِنَ الْمُفْسِدِينَ}.",
+         "en": "“Had he not been of those who glorify [Allah], he would have remained in its belly until the Day they are resurrected” [al-Ṣāffāt 37:143–144]. Pharaoh, by contrast, was a tyrant, forgetful of the remembrance of Allah; when drowning overtook him, he said: I believe. And Allah the Exalted said: “Now? When you disobeyed before and were among the corrupters!” [Yūnus 10:91]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c72",
+     "pages": [
+      445
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال سلمان الفارسي: إذا كان الرجلُ دَعَّاءً في السرَّاء، فنزلت به ضرَّاءُ، فدعا الله تعالى، قالت الملائكة: صوتٌ معروف فشفعوا له،",
+         "en": "Salmān al-Fārisī said: When a man is one who supplicates much in good times, and then adversity befalls him and he calls on Allah the Exalted, the angels say: A familiar voice — and they intercede for him."
+        },
+        {
+         "ar": "وإذا كان ليس بدَعَّاءٍ في السَّرَّاء، فنَزلت به ضرَّاءُ، فدعا الله تعالى قالت الملائكة: صوتٌ ليس بمعروف، فلا يشفعون له.",
+         "en": "But when he is not one who supplicates much in good times, and adversity befalls him and he calls on Allah the Exalted, the angels say: An unfamiliar voice — and they do not intercede for him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c73",
+     "pages": [
+      445
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال رجل لأبي الدرداء: أوصني، فقال: اذكر الله في السرَّاء يذكرك الله عز وجل في الضَّرَّاء.",
+         "en": "A man said to Abū al-Dardāʾ: Give me some counsel. He said: Remember Allah in good times, and Allah, the Mighty and Majestic, will remember you in adversity."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c74",
+     "pages": [
+      445
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعنه أنَّه قال: ادعُ الله في يوم سرَّائك لعله أنْ يستجيب لك في يوم ضرَّائك.",
+         "en": "It is also related from him that he said: Call on Allah on the day of your good fortune; perhaps He will answer you on the day of your adversity."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c75",
+     "pages": [
+      445,
+      446
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأعظمُ الشدائد التي تنْزل بالعبد في الدنيا الموتُ، وما بَعده أشدُّ منه إنْ لم يكن مصيرُ العبد إلى خيرٍ، فالواجبُ على المؤمن الاستعدادُ للموت وما بعده في حال الصحة بالتقوى والأعمال الصالحة،",
+         "en": "The greatest hardship to befall the servant in this world is death, and what comes after it is harder still, unless the servant's destination is a good one. So the believer must prepare for death and what follows it, while he is in health, through taqwā and righteous deeds."
+        },
+        {
+         "ar": "قال الله عز وجل: {يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللهَ وَلْتَنْظُرْ نَفْسٌ مَا قَدَّمَتْ لِغَدٍ وَاتَّقُوا اللهَ إِنَّ اللهَ خَبِيرٌ بِمَا تَعْمَلُونَ وَلا تَكُونُوا كَالَّذِينَ نَسُوا اللهَ فَأَنْسَاهُمْ أَنْفُسَهُمْ أُولَئِكَ هُمُ الْفَاسِقُونَ}.",
+         "en": "Allah, the Mighty and Majestic, said: “O you who believe, fear Allah, and let every soul look to what it has sent forward for tomorrow; and fear Allah — indeed, Allah is aware of what you do. And do not be like those who forgot Allah, so He made them forget themselves; it is they who are the defiantly disobedient” [al-Ḥashr 59:18–19]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c76",
+     "pages": [
+      446
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فمن ذكر الله في حال صحته ورخائه، واستعدَّ حينئذٍ للقاء الله بالموت وما بعده، ذكره الله عندَ هذه الشدائد، فكان معه فيها، ولَطَفَ به،",
+         "en": "Whoever remembers Allah in his health and ease, and prepares then to meet Allah through death and what lies after it, Allah will remember him in these hardships: He will be with him in them, be gentle with him,"
+        },
+        {
+         "ar": "وأعانه، وتولاَّه، وثبته على التوحيد، فلقيه وهو عنه راضٍ، ومن نسيَ الله في حال صحته ورخائه، ولم يستعدَّ حينئذٍ للقائه، نسيه الله في هذه الشدائد،",
+         "en": "help him, take charge of him and keep him firm upon tawḥīd, so that he meets Him while He is pleased with him. And whoever forgets Allah in his health and ease, and does not then prepare to meet Him, Allah will forget him in these hardships,"
+        },
+        {
+         "ar": "بمعنى أنَّه أعرض عنه، وأهمله، فإذا نزل الموتُ بالمؤمنِ المستعدِّ له، أحسن الظنَّ بربه، وجاءته البُشرى مِنَ اللهِ، فأحبَّ لقاءَ الله، وأحبَّ الله لقاءه،",
+         "en": "meaning that He will turn away from him and leave him to himself. When death comes to the believer who has prepared for it, he thinks well of his Lord, glad tidings come to him from Allah, and he loves to meet Allah, and Allah loves to meet him."
+        },
+        {
+         "ar": "والفاجرُ بعكس ذلك، وحينئذٍ يفرحُ المؤمنُ، ويستبشر بما قدمه مما هو قادمٌ عليه، ويَنْدَمُ المفرطُ، ويقول: {يَا حَسْرَتَى عَلَى مَا فَرَّطْتُ فِي جَنْبِ اللهِ}.",
+         "en": "The wicked man is the reverse of this. At that point the believer rejoices and is glad at what he has sent ahead, to which he is now going, while the negligent one is filled with regret and says: “Alas for me, for what I neglected in regard to Allah!” [al-Zumar 39:56]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c77",
+     "pages": [
+      446
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال أبو عبد الرحمان السُّلمي قبلَ موته: كيف لا أرجو ربي وقد صُمْتُ له ثمانين رمضان.",
+         "en": "Abū ʿAbd al-Raḥmān al-Sulamī said before his death: How could I not have hope in my Lord, when I have fasted eighty Ramaḍāns for Him?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c78",
+     "pages": [
+      446
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أبو بكر بنُ عيّاش لابنه عندَ موته: أترى الله يُضيِّعُ لأبيك أربعين سنة يَختِمُ القرآن كُلَّ ليلةٍ؟",
+         "en": "Abū Bakr ibn ʿAyyāsh said to his son at his death: Do you think Allah will let go to waste forty years in which your father completed the Qurʾān every night?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c79",
+     "pages": [
+      446
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وختم آدمُ بن أبي إياس القرآن وهو مسجَّى للموت، ثم قال: بحُبِّي لك، إلا رفقتَ بي في هذا المصرع؟",
+         "en": "Ādam ibn Abī Iyās completed the Qurʾān while lying covered for death, and then said: By my love for You, will You not be gentle with me as I lie dying?"
+        },
+        {
+         "ar": "كنت أؤمِّلُك لهذا اليوم، كنتُ أرجوكَ لا إله إلاَّ الله، ثم قضى.",
+         "en": "I was hoping in You for this day; I used to hope in You. There is no god but Allah. Then he passed away."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c80",
+     "pages": [
+      446
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولما احتُضِرَ زكريا بنُ عديٍّ، رفع يديه، وقال: اللهمَّ إنِّي إليك لمشتاقٌ.",
+         "en": "When Zakariyyā ibn ʿAdī was dying, he raised his hands and said: O Allah, I long for You."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c81",
+     "pages": [
+      447
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال عبدُ الصمد الزاهد عند موته: سيدي لهذه الساعة خبَّأتك، ولهذا اليوم اقتنيتُك، حقِّق حُسْنَ ظنِّي بك.",
+         "en": "ʿAbd al-Ṣamad the ascetic said at his death: My Master, for this hour I stored You up, and for this day I kept You. Make my good opinion of You come true."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c82",
+     "pages": [
+      447
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال قتادة في قول الله عز وجل: {وَمَنْ يَتَّقِ اللهَ يَجْعَلْ لَهُ مَخْرَجاً} قال: من الكرب عندَ الموت.",
+         "en": "Qatādah said concerning the words of Allah, the Mighty and Majestic, “And whoever fears Allah, He will make a way out for him” [al-Ṭalāq 65:2]: Out of the distress of death."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c83",
+     "pages": [
+      447
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال عليُّ بن أبي طلحَة، عن ابن عباس في هذه الآية: يُنجيه من كُلِّ كَربٍ في الدنيا والآخرة.",
+         "en": "ʿAlī ibn Abī Ṭalḥah reported from Ibn ʿAbbās concerning this verse: He will rescue him from every distress in this world and the Hereafter."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c84",
+     "pages": [
+      447
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال زيدُ بن أسلم في قوله عز وجل: {إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللهُ ثُمَّ اسْتَقَامُوا تَتَنَزَّلُ عَلَيْهِمُ الْمَلائِكَةُ أَلاَّ تَخَافُوا وَلا تَحْزَنُوا} الآية.",
+         "en": "Zayd ibn Aslam said concerning the words of the Mighty and Majestic, “Indeed, those who said, ‘Our Lord is Allah,’ and then remained steadfast — the angels descend upon them, [saying,] ‘Do not fear and do not grieve’” [Fuṣṣilat 41:30], to the end of the verse:"
+        },
+        {
+         "ar": "قال: يُبشر بذلك عند موته، وفي قبره، ويوم يُبعث، فإنَّه لفي الجنة، وما ذهبت فرحة البِشارة من قلبه.",
+         "en": "He is given these glad tidings at his death, in his grave and on the day he is resurrected, so that he is in Paradise while the joy of the glad tidings has still not left his heart."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c85",
+     "pages": [
+      447
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال ثابت البناني في هذه الآية: بلغنا أنَّ المؤمنَ حيث يبعثه الله من قبره، يتلقاه مَلَكاه اللَّذانِ كانا معه في الدنيا، فيقولان له: لا تخف ولا تحزن،",
+         "en": "Thābit al-Bunānī said concerning this verse: It has reached us that when Allah raises the believer from his grave, the two angels who were with him in this world meet him and say to him: Do not fear and do not grieve."
+        },
+        {
+         "ar": "فيؤمِّنُ الله خوفَه، ويُقِرُّ الله عينَه، فما مِنْ عظيمة تَغشى الناس يومَ القيامة إلاَّ هي للمؤمن قرَّةُ عينٍ لما هداه الله، ولما كان يعملُ في الدُّنيا.",
+         "en": "So Allah calms his fear and makes his eye cool with delight. There is no terror that overwhelms people on the Day of Resurrection but it is, for the believer, a delight to the eye, because Allah guided him and because of what he used to do in this world."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c86",
+     "pages": [
+      447
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله صلى الله عليه وسلم: «إذا سألت فاسأل الله، وإذا استعنت، فاستعن بالله» هذا مُنْتَزَعٌ من قوله تعالى: {إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ}، فإنَّ السؤال لله هو دعاؤُه والرغبةُ إليه، والدُّعاء هو العبادة،",
+         "en": "His words ﷺ, “When you ask, ask Allah; and when you seek help, seek help from Allah,” are drawn from the words of the Exalted: “You alone we worship, and You alone we ask for help” [al-Fātiḥah 1:5]. Asking of Allah is calling on Him and turning to Him in desire, and supplication is worship;"
+        },
+        {
+         "ar": "كذا روي عن النَّبيِّ صلى الله عليه وسلم من حديث النعمان بن بشير، وتلا قوله تعالى: {وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ} خرَّجه الإمامُ أحمد، وأبو داود، والترمذي، والنسائي، وابن ماجه.",
+         "en": "so it is narrated from the Prophet ﷺ in the hadith of al-Nuʿmān ibn Bashīr, after which he recited the words of the Exalted: “And your Lord said: Call on Me; I will answer you” [Ghāfir 40:60]. Imam Aḥmad, Abū Dāwūd, al-Tirmidhī, al-Nasāʾī and Ibn Mājah recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c87",
+     "pages": [
+      448
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الترمذي من حديث أنس بن مالك، عن النَّبيِّ صلى الله عليه وسلم: «الدُّعاءُ مُخُّ العبادة»، فتضمن هذا الكلام أنْ يُسأل الله عز وجل، ولا يُسأل غيره، وأنْ يُستعان بالله دونَ غيره.",
+         "en": "Al-Tirmidhī recorded, from the hadith of Anas ibn Mālik, that the Prophet ﷺ said: “Supplication is the marrow of worship.” These words, then, include asking Allah, the Mighty and Majestic, and not asking anyone else, and seeking help from Allah to the exclusion of anyone else."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c88",
+     "pages": [
+      448
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما السؤال، فقد أمر الله بمسألته، فقال: {وَاسْأَلُوا اللهَ مِنْ فَضْلِهِ}.",
+         "en": "As for asking: Allah has commanded us to ask Him, saying: “And ask Allah of His bounty” [al-Nisāʾ 4:32]."
+        },
+        {
+         "ar": "وفي \" الترمذي \" عن ابن مسعود مرفوعاً:",
+         "en": "Al-Tirmidhī's collection has, from Ibn Masʿūd, as marfūʿ:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c89",
+     "pages": [
+      448
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«سَلُوا الله مِنْ فَضلِه، فإنَّ الله يُحِبُّ أنْ يُسأل».",
+         "en": "“Ask Allah of His bounty, for Allah loves to be asked.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c90",
+     "pages": [
+      448
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفيه أيضاً عن أبي هريرة مرفوعاً: «من لا يسألِ الله يغْضَبْ عليه».",
+         "en": "It also has, from Abū Hurayrah, as marfūʿ: “Whoever does not ask Allah, He is angry with him.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c91",
+     "pages": [
+      448
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي حديثٍ آخرَ: «ليسألْ أحدُكم ربَّه حاجَتَه كلَّها حتَّى يسأله شِسْعَ نعلِه إذا انقطع».",
+         "en": "In another hadith: “Let each of you ask his Lord for all his needs — even for the strap of his sandal when it breaks.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c92",
+     "pages": [
+      448
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي النَّهي عن مسألة المخلوقين أحاديثُ كثيرة صحيحة، وقد بايع النبيُّ صلى الله عليه وسلم جماعةً من أصحابه على أنْ لا يسألوا النَّاسَ شيئاً،",
+         "en": "There are many authentic hadiths forbidding asking created beings. The Prophet ﷺ took the pledge of a number of his Companions that they would not ask people for anything,"
+        },
+        {
+         "ar": "منهم: أبو بكر الصدِّيق، وأبو ذر، وثوبان، وكان أحدهم يسقط سوطُه أو خِطام ناقته، فلا يسأل أحداً أنْ يُناوله إياه.",
+         "en": "among them Abū Bakr al-Ṣiddīq, Abū Dharr and Thawbān. If one of them dropped his whip or his camel's halter, he would not ask anyone to hand it to him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c93",
+     "pages": [
+      449
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج ابنُ أبي الدنيا من حديث أبي عبيدة بن عبد الله بن مسعود: أنَّ رجلاً جاء إلى النَّبيِّ صلى الله عليه وسلم فقال: يا رسول الله، إنَّ بني فُلان أغاروا عليّ فذهبوا بابني وإبلي،",
+         "en": "Ibn Abī al-Dunyā recorded, from the hadith of Abū ʿUbaydah ibn ʿAbdillāh ibn Masʿūd, that a man came to the Prophet ﷺ and said: Messenger of Allah, the clan of So-and-so raided me and took my son and my camels."
+        },
+        {
+         "ar": "فقال له النَّبيُّ صلى الله عليه وسلم: «إن آل محمَّدٍ كذا وكذا أهل بيت، مالهم مدٌّ من طعامٍ أو صاع، فاسأل الله عز وجل» فرجع إلى امرأته، فقالت: ما قالَ لك؟",
+         "en": "The Prophet ﷺ said to him: “The family of Muḥammad are such-and-such a number of households, and they have not a mudd or a ṣāʿ of food between them. So ask Allah, the Mighty and Majestic.” He went back to his wife, who said: What did he say to you?"
+        },
+        {
+         "ar": "فأخبرها، فقالت: نِعْمَ ما ردَّ عليك، فما لبث أنْ ردَّ الله عليه ابنَه وإبله أوفرَ ما كانت، فأتى النَّبيَّ صلى الله عليه وسلم فأخبره،",
+         "en": "He told her, and she said: What an excellent reply he gave you! Before long Allah returned his son and his camels to him, more plentiful than they had been. He came to the Prophet ﷺ and told him,"
+        },
+        {
+         "ar": "فصعد المنبر فحَمِدَ الله وأثنى عليه، وأمر الناس بمسألة الله عز وجل والرغبة إليه، وقرأ: {وَمَنْ يَتَّقِ اللهَ يَجْعَلْ لَهُ مَخْرَجاً وَيَرْزُقْهُ مِنْ حَيْثُ لا يَحْتَسِبُ}.",
+         "en": "and the Prophet ascended the minbar, praised and extolled Allah, commanded the people to ask of Allah, the Mighty and Majestic, and to turn to Him in desire, and recited: “And whoever fears Allah, He will make a way out for him and provide for him from where he does not expect” [al-Ṭalāq 65:2–3]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c94",
+     "pages": [
+      449
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد ثبت في \"الصحيحين\" عن النَّبيِّ صلى الله عليه وسلم: أنَّ الله عز وجل يقولُ: «هل من دَاعٍ، فأستجيبَ له؟",
+         "en": "It is established in the two Ṣaḥīḥs that the Prophet ﷺ said that Allah, the Mighty and Majestic, says: “Is there anyone calling on Me, that I may answer him?"
+        },
+        {
+         "ar": "هل من سائل فأُعْطِيَه؟",
+         "en": "Is there anyone asking of Me, that I may give him?"
+        },
+        {
+         "ar": "هل من مُستغفرٍ فأغْفِرَ له؟».",
+         "en": "Is there anyone seeking My forgiveness, that I may forgive him?”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c95",
+     "pages": [
+      449
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج المحاملي وغيره من حديث أبي هريرة، عن النَّبيِّ صلى الله عليه وسلم، قال: «قال الله تعالى: من ذا الذي دعاني فلم أُجبه؟",
+         "en": "Al-Maḥāmilī and others recorded, from the hadith of Abū Hurayrah, that the Prophet ﷺ said: “Allah the Exalted said: Who is it that called on Me and I did not answer him,"
+        },
+        {
+         "ar": "وسألني فلم أُعطه؟",
+         "en": "asked of Me and I did not give him,"
+        },
+        {
+         "ar": "واستغفرني فلم أغفر له؟",
+         "en": "sought My forgiveness and I did not forgive him,"
+        },
+        {
+         "ar": "وأنا أرحمُ الراحمين».",
+         "en": "when I am the Most Merciful of those who show mercy?”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c96",
+     "pages": [
+      450
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "واعلم أنَّ سؤالَ اللهِ تعالى دونَ خلقه هوَ المتعين؛",
+         "en": "Know that asking Allah the Exalted, and not His creation, is what is required;"
+        },
+        {
+         "ar": "لأنَّ السؤال فيهِ إظهار الذلِّ من السائل والمسكنة والحاجة والافتقار، وفيه الاعترافُ بقدرةِ المسؤول على دفع هذا الضَّرر، ونيل المطلوب، وجلبِ المنافع، ودرء المضارِّ، ولا يصلح الذلُّ والافتقار إلاَّ لله وحدَه؛",
+         "en": "for asking involves the asker displaying his abasement, his lowliness, his need and his want, and acknowledging that the one asked is able to remove this harm, grant what is sought, bring benefit and ward off injury. Abasement and want befit none but Allah alone,"
+        },
+        {
+         "ar": "لأنَّه حقيقة العبادة، وكان الإمامُ أحمد يدعو ويقول: اللهمَّ كما صُنتَ وجهي عَنِ السُّجود لغيرك فصُنْه عن المسألة لغيرك، ولا يقدر على كشف الضرِّ وجلب النفع سواه.",
+         "en": "because they are the very reality of worship. Imam Aḥmad used to supplicate, saying: O Allah, as You have kept my face from prostrating to anyone but You, keep it from asking anyone but You. And none but He is able to remove harm and bring benefit,"
+        },
+        {
+         "ar": "كما قال: {وَإِنْ يَمْسَسْكَ اللهُ بِضُرٍّ فَلا كَاشِفَ لَهُ إِلاَّ هُوَ وَإِنْ يُرِدْكَ بِخَيْرٍ فَلا رَادَّ لِفَضْلِهِ}، وقال: {مَا يَفْتَحِ اللهُ لِلنَّاسِ مِنْ رَحْمَةٍ فَلا مُمْسِكَ لَهَا وَمَا يُمْسِكْ فَلا مُرْسِلَ لَهُ مِنْ بَعْدِهِ}.",
+         "en": "as He said: “And if Allah touches you with harm, there is none who can remove it but He; and if He intends good for you, there is none who can repel His bounty” [Yūnus 10:107]; and: “Whatever mercy Allah opens to people, none can withhold it; and whatever He withholds, none can release it after Him” [Fāṭir 35:2]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c97",
+     "pages": [
+      450
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والله سبحانه يحبّ أنْ يُسأل ويُرْغَبَ إليه في الحوائج، ويُلَحَّ في سؤاله ودُعائه، ويَغْضَبُ على من لا يسأله، ويستدعي مِنْ عباده سؤاله،",
+         "en": "Allah, Glorified is He, loves to be asked, to have people turn to Him in desire for their needs, and to be implored insistently in asking and supplication. He is angry with whoever does not ask Him, and He calls on His servants to ask Him."
+        },
+        {
+         "ar": "وهو قادر على إعطاء خلقه كُلِّهم سُؤْلَهم من غير أنْ يَنْقُصَ من ملكه شيء، والمخلوق بخلاف ذلك كله: يكره أنْ يُسأل، ويُحبُّ أنْ لا يُسألَ، لعجزه وفقره وحاجته.",
+         "en": "He is able to give all His creation what they ask without anything being diminished from His dominion. The created being is the opposite in all of this: he dislikes being asked and would rather not be asked, because of his incapacity, his poverty and his need."
+        },
+        {
+         "ar": "ولهذا قال وهب بن منبه لرجل كان يأتي الملوك: ويحك، تأتي من يُغلِقُ عنك بابَه، ويُظهِرُ لك فقرَه، ويواري عنك غناه، وتدع من يفتحُ لك بابه بنصف الليل ونصف النهار، ويظهر لك غناه، ويقول: ادعني أستجب لك؟!",
+         "en": "This is why Wahb ibn Munabbih said to a man who used to frequent kings: Woe to you! You go to one who shuts his door on you, shows you his poverty and hides his riches from you, and you leave the One who opens His door to you in the middle of the night and the middle of the day, shows you His riches, and says: Call on Me and I will answer you?!"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c98",
+     "pages": [
+      450
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال طاووس لعطاء: إياك أنْ تطلب حوائجك إلى من أغلق دونك بابه ويجعل دونها حجابه، وعليك بمن بابه مفتوح إلى يوم القيامة، أمرك أنْ تسأله، ووعدك أنْ يُجيبك.",
+         "en": "Ṭāwūs said to ʿAṭāʾ: Beware of seeking your needs from one who has shut his door against you and set his chamberlain in front of them. Keep to the One whose door is open until the Day of Resurrection, who has commanded you to ask Him and promised to answer you."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c99",
+     "pages": [
+      450
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما الاستعانة بالله عز وجل دونَ غيره من الخلق؛",
+         "en": "As for seeking help from Allah, the Mighty and Majestic, rather than from any other created being:"
+        },
+        {
+         "ar": "فلأنَّ العبدَ عاجزٌ عن الاستقلال بجلب مصالحه، ودفع مضارّه، ولا معين له على مصالح دينه ودنياه إلا الله عز وجل، فمن أعانه الله، فهو المُعانُ، ومن خذله فهو المخذولُ، وهذا تحقيقُ معنى قول:",
+         "en": "that is because the servant cannot, by himself alone, secure his interests and ward off what harms him, and he has no helper in the interests of his religion and his worldly life except Allah, the Mighty and Majestic. Whoever Allah helps is truly helped, and whoever He forsakes is truly forsaken. This is the true meaning of the words:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c100",
+     "pages": [
+      451
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«لا حول ولا قُوَّةَ إلا بالله»، فإنَّ المعنى: لا تَحوُّلَ للعبد مِنْ حال إلى حال، ولا قُوَّة له على ذلك إلا بالله، وهذه كلمةٌ عظيمةٌ، وهي كنز من كنوز الجنة، فالعبدُ محتاجٌ إلى الاستعانة بالله في فعل المأمورات،",
+         "en": "“There is no might and no power except through Allah” (lā ḥawla wa-lā quwwata illā billāh). Its meaning is: the servant has no turning from one state to another, and no power to do so, except through Allah. It is a mighty phrase, one of the treasures of Paradise. The servant needs to seek Allah's help in doing what is commanded,"
+        },
+        {
+         "ar": "وترك المحظورات، والصبر على المقدورات كلِّها في الدنيا وعندَ الموت وبعده من أهوال البرزخ ويوم القيامة، ولا يقدر على الإعانة على ذلك إلا الله عز وجل، فمن حقق الاستعانة عليه في ذلك كله أعانه.",
+         "en": "leaving what is forbidden, and patiently bearing all that is decreed, in this world, at death and after it, through the terrors of the barzakh and the Day of Resurrection; and none can help him in that except Allah, the Mighty and Majestic. Whoever truly seeks His help in all of that, He will help him."
+        },
+        {
+         "ar": "وفي الحديث الصحيح عَنِ النَّبيِّ صلى الله عليه وسلم قال:",
+         "en": "In the authentic hadith, the Prophet ﷺ said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c101",
+     "pages": [
+      451
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«احرصْ على ما ينفعُكَ واستعن بالله ولا تعجزْ».",
+         "en": "“Be keen on what benefits you, seek help from Allah, and do not give up.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c102",
+     "pages": [
+      451
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن ترك الاستعانة بالله، واستعان بغيرِه، وكَلَهُ الله إلى من استعان به فصار مخذولاً.",
+         "en": "Whoever abandons seeking help from Allah and seeks help from another, Allah leaves him to the one whose help he sought, and he ends up forsaken."
+        },
+        {
+         "ar": "كتب الحسنُ إلى عُمَرَ بنِ العزيز: لا تستعِنْ بغيرِ الله، فيكِلَكَ الله إليه.",
+         "en": "Al-Ḥasan wrote to ʿUmar ibn ʿAbd al-ʿAzīz: Do not seek help from anyone but Allah, or Allah will leave you to him."
+        },
+        {
+         "ar": "ومن كلام بعضِ السَّلف: يا ربِّ عَجبت لمن يعرفُك كيف يرجو غيرك، عجبتُ لمن يعرفك كيف يستعينُ بغيرك.",
+         "en": "Among the sayings of one of the Salaf: My Lord, I marvel at one who knows You — how can he hope in anyone else? I marvel at one who knows You — how can he seek help from anyone else?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c103",
+     "pages": [
+      451
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قوله صلى الله عليه وسلم: «جفَّ القلمُ بما هو كائنٌ» وفي روايةٍ أخرى: «رُفِعت الأقلام، وجفَّت الصحف» هو كنايةٌ عن تقدُّم كتابة المقادير كلِّها، والفراغ منها من أمدٍ بعيد، فإنَّ الكتابَ إذا فُرِغَ من كتابته،",
+         "en": "His words ﷺ, “The pen has dried with all that is to be” — and in another narration, “The pens have been lifted and the pages have dried” — are a figure of speech for the writing of all the decrees having been done beforehand and finished long ago. For when the writing of a book has been completed,"
+        },
+        {
+         "ar": "ورفعت الأقلامُ عنه، وطال عهده، فقد رُفعت عنه الأقلام، وجفتِ الأقلام التي كتب بها مِنْ مدادها، وجفت الصَّحيفة التي كتب فيها بالمداد المكتوب به فيها، وهذا من أحسن الكنايات وأبلغِها.",
+         "en": "the pens have been lifted from it and a long time has passed, then the pens have indeed been lifted from it, the pens it was written with have dried of their ink, and the page it was written on has dried of the ink written on it. This is one of the finest and most eloquent of figures."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c104",
+     "pages": [
+      451
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد دلَّ الكتابُ والسننُ الصحيحة الكثيرة على مثل هذا المعنى، قال الله تعالى:",
+         "en": "The Book and many authentic hadiths point to the same meaning. Allah the Exalted said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c105",
+     "pages": [
+      451
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "{مَا أَصَابَ مِنْ مُصِيبَةٍ فِي الأَرْضِ وَلا فِي أَنْفُسِكُمْ إِلاَّ فِي كِتَابٍ مِنْ قَبْلِ أَنْ نَبْرَأَهَا إِنَّ ذَلِكَ عَلَى اللهِ يَسِيرٌ}.",
+         "en": "“No calamity befalls on the earth or in yourselves but it is in a record before We bring it into being; indeed, that is easy for Allah” [al-Ḥadīd 57:22]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c106",
+     "pages": [
+      451,
+      452
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح مسلم \" عن عبد الله بن عمرو، عن النَّبيِّ صلى الله عليه وسلم، قال: «إنَّ الله كتبَ مقاديرَ الخلائق قبل أنْ يخلُقَ السَّماوات والأرض بخمسين ألفَ سنة».",
+         "en": "In Ṣaḥīḥ Muslim, from ʿAbdullāh ibn ʿAmr, the Prophet ﷺ said: “Allah wrote down the decrees of all creatures fifty thousand years before He created the heavens and the earth.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c107",
+     "pages": [
+      452
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفيه أيضاً عن جابر: أنَّ رجلاً قال: يا رسول الله، فيمَ العمل اليوم؟",
+         "en": "It also has, from Jābir, that a man said: Messenger of Allah, what do our deeds today rest upon?"
+        },
+        {
+         "ar": "أفيما جفَّت به الأقلامُ، وجرت به المقادير، أم فيما يستقبل؟",
+         "en": "Upon what the pens have dried with and the decrees have run with, or upon something still to come?"
+        },
+        {
+         "ar": "قال: «لا، بل فيما جفت به الأقلام وجرت به المقادير»، قال: ففيم العملُ؟",
+         "en": "He said: “No — upon what the pens have dried with and the decrees have run with.” The man said: Then what are deeds for?"
+        },
+        {
+         "ar": "قال: «اعملوا فكلٌّ ميسَّر لما خلق له».",
+         "en": "He said: “Act, for everyone is eased towards what he was created for.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c108",
+     "pages": [
+      452
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد، وأبو داود، والترمذي من حديث عبادة بن الصامت، عن النَّبيِّ صلى الله عليه وسلم قال: «إنَّ أوَّل ما خلق الله القلم، ثم قال: اكتب، فجرى في تلك الساعة بما هو كائن إلى يوم القيامة».",
+         "en": "Imam Aḥmad, Abū Dāwūd and al-Tirmidhī recorded, from the hadith of ʿUbādah ibn al-Ṣāmit, that the Prophet ﷺ said: “The first thing Allah created was the pen. Then He said: Write. And in that very hour it ran with all that is to be until the Day of Resurrection.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c109",
+     "pages": [
+      452
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والأحاديث في هذا المعنى كثيرةٌ جداً يطول ذكرها.",
+         "en": "The hadiths with this meaning are very many; it would take too long to mention them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c110",
+     "pages": [
+      452
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قوله صلى الله عليه وسلم: «فلو أنَّ الخلق جميعاً أرادوا أنْ ينفعوك بشيء لم يقضِهِ الله، لم يقدِرُوا عليه، وإنْ أرادوا أنْ يضرُّوك بشيءٍ لم يكتبه الله عليك، لم يقدروا عليه».",
+         "en": "His words ﷺ: “Were all creation together to want to benefit you with something Allah has not decreed, they would not be able to do it; and were they to want to harm you with something Allah has not written against you, they would not be able to do it.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c111",
+     "pages": [
+      452
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "هذه رواية الإمام أحمد، ورواية الترمذي بهذا المعنى أيضاً، والمراد: إنَّ ما يُصيب العبدَ في دنياه مما يضرُّه أو ينفعه،",
+         "en": "This is the narration of Imam Aḥmad, and al-Tirmidhī's narration has the same meaning. What is meant is that whatever befalls the servant in his worldly life, harmful or beneficial,"
+        },
+        {
+         "ar": "فكلُّه مقدَّرٌ عليه، ولا يصيبُ العبدَ إلا ما كُتِبَ له من ذلك في الكتاب السابق، ولو اجتهد على ذلك الخلق كلهم جميعاً.",
+         "en": "has all been decreed for him, and nothing befalls the servant except what was written for him of it in the prior record, even if all creation together strove [to make it otherwise]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c112",
+     "pages": [
+      452,
+      453
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد دلَّ القرآنُ على مثل هذا في قوله عز وجل: {قُلْ لَنْ يُصِيبَنَا إِلاَّ مَا كَتَبَ اللهُ لَنَا}، وقوله:",
+         "en": "The Qurʾān points to the like of this in His words, Mighty and Majestic is He: “Say: Nothing will befall us except what Allah has written for us” [al-Tawbah 9:51]; and His words:"
+        },
+        {
+         "ar": "{مَا أَصَابَ مِنْ مُصِيبَةٍ فِي الأَرْضِ وَلا فِي أَنْفُسِكُمْ إِلاَّ فِي كِتَابٍ مِنْ قَبْلِ أَنْ نَبْرَأَهَا}، وقوله: {قُلْ لَوْ كُنْتُمْ فِي بُيُوتِكُمْ لَبَرَزَ الَّذِينَ كُتِبَ عَلَيْهِمُ الْقَتْلُ إِلَى مَضَاجِعِهِمْ}.",
+         "en": "“No calamity befalls on the earth or in yourselves but it is in a record before We bring it into being” [al-Ḥadīd 57:22]; and His words: “Say: Even if you had been in your houses, those for whom killing was written would have gone out to the places where they were to lie” [Āl ʿImrān 3:154]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c113",
+     "pages": [
+      453
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد من حديث أبي الدرداء، عن النَّبيِّ صلى الله عليه وسلم قال: «إنَّ لكلِّ شيء حقيقةً، وما بلغ عبدٌ حقيقةَ الإيمان حتى يعلمَ أنَّ ما أصابه لم يكُنْ ليخطئَهُ، وأنَّ ما أخطأه لم يكن ليصيبَه».",
+         "en": "Imam Aḥmad recorded, from the hadith of Abū al-Dardāʾ, that the Prophet ﷺ said: “Everything has a reality, and no servant attains the reality of faith until he knows that what befell him was never going to miss him, and what missed him was never going to befall him.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c114",
+     "pages": [
+      453
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرّج أبو داود وابنُ ماجه من حديث زيد بن ثابت، عن النَّبيِّ صلى الله عليه وسلم معنى ذلك أيضاً.",
+         "en": "Abū Dāwūd and Ibn Mājah recorded the same meaning from the hadith of Zayd ibn Thābit, from the Prophet ﷺ."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c115",
+     "pages": [
+      453,
+      454
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "واعلم أنَّ مدارَ جميع هذه الوصية على هذا الأصل، وما ذُكِر قبلَه وبعدَه، فهو متفرِّعٌ عليه، وراجعٌ إليه،",
+         "en": "Know that this whole counsel revolves around this principle; whatever is mentioned before it and after it branches off from it and goes back to it."
+        },
+        {
+         "ar": "فإنَّ العبد إذا علم أنَّه لن يُصيبَه إلا ما كتبَ الله له مِنْ خير وشرٍّ، ونفعٍ وضرٍّ، وأنَّ اجتهادَ الخلق كلِّهم على خلاف المقدور غيرُ مفيد البتة،",
+         "en": "For when the servant knows that nothing will befall him except what Allah has written for him — good or evil, benefit or harm — and that all creation striving against what has been decreed is of no use whatsoever,"
+        },
+        {
+         "ar": "علم حينئذٍ أنَّ الله وحده هو الضَّارُّ النَّافعُ، المعطي المانع، فأوجبَ ذلك للعبدِ توحيدَ ربِّه عز وجل، وإفرادَه بالطاعة، وحفظَ حدوده، فإنَّ المعبود إنَّما يقصد بعبادته جلبَ المنافع ودفع المضار،",
+         "en": "he then knows that Allah alone is the One who harms and benefits, who gives and withholds. That obliges the servant to affirm the oneness of his Lord, the Mighty and Majestic, to single Him out with obedience and to guard His limits; for what is sought in worshipping anything is only to bring benefit and ward off harm."
+        },
+        {
+         "ar": "ولهذا ذمَّ الله من يعبدُ من لا ينفعُ ولا يضرُّ، ولا يُغني عن عابدِهِ شيئاً، فمن علم أنَّه لا ينفعُ ولا يضرُّ،",
+         "en": "That is why Allah condemned those who worship what neither benefits nor harms and avails its worshipper nothing. Whoever knows that none benefits or harms,"
+        },
+        {
+         "ar": "ولا يُعطي ولا يمنعُ غيرُ الله، أوجبَ له ذلك إفراده بالخوف والرجاء والمحبة والسؤال والتضرُّع والدعاء، وتقديم طاعته على طاعةِ الخلق جميعاً،",
+         "en": "gives or withholds, except Allah, is obliged by that to single Him out with fear, hope, love, asking, humble entreaty and supplication; to put obedience to Him before obedience to all creation;"
+        },
+        {
+         "ar": "وأنْ يتّقي سخطه، ولو كان فيه سخطُ الخلق جميعاً، وإفراده بالاستعانة به، والسؤال له، وإخلاص الدعاء له في حال الشدَّة وحال الرَّخاء،",
+         "en": "to guard against His displeasure even if it means the displeasure of all creation; to single Him out in seeking help and in asking; and to make supplication sincerely to Him in times of hardship and of ease —"
+        },
+        {
+         "ar": "بخلاف ما كان المشركون عليه من إخلاص الدعاء له عندَ الشدائد، ونسيانه في الرخاء، ودعاء من يرجون نفعَه مِنْ دُونِه، قال الله عز وجل:",
+         "en": "unlike the idolaters, who would call on Him sincerely in hardships, forget Him in ease, and call on those besides Him from whom they hoped for benefit. Allah, the Mighty and Majestic, said:"
+        },
+        {
+         "ar": "{قُلْ أَفَرَأَيْتُمْ مَا تَدْعُونَ مِنْ دُونِ اللهِ إِنْ أَرَادَنِيَ اللهُ بِضُرٍّ هَلْ هُنَّ كَاشِفَاتُ ضُرِّهِ أَوْ أَرَادَنِي بِرَحْمَةٍ هَلْ هُنَّ مُمْسِكَاتُ رَحْمَتِهِ قُلْ حَسْبِيَ اللهُ عَلَيْهِ يَتَوَكَّلُ الْمُتَوَكِّلُونَ}.",
+         "en": "“Say: Have you considered what you call on besides Allah? If Allah intended harm for me, could they remove His harm? Or if He intended mercy for me, could they withhold His mercy? Say: Allah is sufficient for me; upon Him let all who rely place their reliance” [al-Zumar 39:38]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c116",
+     "pages": [
+      454
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قوله صلى الله عليه وسلم: «واعلم أنَّ في الصَّبر على ما تكره خيراً كثيراً» يعني: أنَّ ما أصاب العبدَ مِنَ المصائب المؤلمةِ المكتوبة عليه إذا صبر عليها، كان له في الصبر خيرٌ كثير.",
+         "en": "His words ﷺ, “Know that there is much good in patiently enduring what you dislike,” mean that when the servant is patient with the painful calamities written for him that befall him, there is much good for him in that patience."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c117",
+     "pages": [
+      454
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي رواية عمر مولى غُفرة وغيره عن ابن عباس زيادة أخرى قبل هذا الكلام، وهي: «فإنِ استطعتَ أنْ تعمل لله بالرِّضا في اليقين فافعل، وإنْ لم تستطع، فإنَّ في الصَّبر على ما تكره خيراً كثيراً».",
+         "en": "In the narration of ʿUmar the freed slave of Ghufrah and others from Ibn ʿAbbās there is a further addition before these words: “If you are able to act for Allah with contentment in certainty, then do so; and if you are not able, then there is much good in patiently enduring what you dislike.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c118",
+     "pages": [
+      454
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي روايةٍ أخرى من روايةِ عليِّ بن عبد الله بن عباس، عن أبيه؛",
+         "en": "In another narration — that of ʿAlī ibn ʿAbdillāh ibn ʿAbbās from his father,"
+        },
+        {
+         "ar": "لكن إسنادها ضعيف، زيادة أخرى بعد هذا، وهي: قلتُ: يا رسول الله، كيف أصنع باليقين؟",
+         "en": "though its chain is weak — there is a further addition after this: I said: Messenger of Allah, how am I to attain certainty?"
+        },
+        {
+         "ar": "قال: «أنْ تعلم أنَّ ما أصابَك لم يكن ليخطئك، وأنَّ ما أخطأك لم يكن ليصيبك، فإذا أنتَ أحكمتَ باب اليقين».",
+         "en": "He said: “By knowing that what befell you was never going to miss you, and what missed you was never going to befall you; then you will have mastered the door of certainty.”"
+        },
+        {
+         "ar": "ومعنى هذا أنَّ حصول اليقين للقلب بالقضاء السابق والتقدير الماضي يُعين العبد على أنْ ترضى نفسُه بما أصابه،",
+         "en": "The meaning of this is that when the heart attains certainty about the prior decree and the destiny already settled, this helps the servant's soul to be content with what has befallen it."
+        },
+        {
+         "ar": "فمن استطاع أنْ يعمل في اليقين بالقضاء والقدر على الرضا بالمقدور فليفعل، فإنْ لم يستطع الرِّضا، فإنَّ في الصَّبر على المكروه خيراً كثيراً.",
+         "en": "So whoever is able, through certainty in the decree and destiny, to act with contentment at what has been decreed, let him do so; and if he is unable to be content, then there is much good in patiently enduring what is disliked."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c119",
+     "pages": [
+      454
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فهاتان درجتان للمؤمن بالقضاء والقدر في المصائب:",
+         "en": "These, then, are two degrees for the believer in the decree and destiny when calamities strike."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c120",
+     "pages": [
+      454
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "إحداهما: أنْ يرضى بذلك، وهذه درجةٌ عاليةٌ رفيعة جداً، قال الله عز وجل: {مَا أَصَابَ مِنْ مُصِيبَةٍ إِلاَّ بِإِذْنِ اللهِ وَمَنْ يُؤْمِنْ بِاللهِ يَهْدِ قَلْبَهُ}.",
+         "en": "The first is to be content with it, and this is a lofty degree, very high indeed. Allah, the Mighty and Majestic, said: “No calamity strikes except by Allah's permission, and whoever believes in Allah, He will guide his heart” [al-Taghābun 64:11]."
+        },
+        {
+         "ar": "قال علقمة: هي المصيبة تصيبُ الرَّجلَ، فيعلم أنَّها من عند الله، فيسلِّمُ لها ويرضى.",
+         "en": "ʿAlqamah said: It is the calamity that strikes a man, and he knows it is from Allah, so he submits to it and is content."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c121",
+     "pages": [
+      454,
+      455
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الترمذي من حديث أنس، عن النَّبيِّ صلى الله عليه وسلم قال: «إنَّ الله إذا أحبَّ قوماً ابتلاهم،",
+         "en": "Al-Tirmidhī recorded, from the hadith of Anas, that the Prophet ﷺ said: “When Allah loves a people, He tests them;"
+        },
+        {
+         "ar": "فمن رضي فله الرضا، ومن سخط فله السخط»، وكان النَّبيُّ صلى الله عليه وسلم يقول في دعائه: «أسأَلكَ الرِّضا بعد القضاء».",
+         "en": "whoever is content will have [His] good pleasure, and whoever is resentful will have [His] displeasure.” And the Prophet ﷺ used to say in his supplication: “I ask You for contentment after the decree.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c122",
+     "pages": [
+      455
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وممَّا يدعو المؤمن إلى الرِّضا بالقضاء تحقيقُ إيمانه بمعنى قول النَّبيِّ صلى الله عليه وسلم: «لا يقضي الله للمؤمن قضاءً إلا كان خيراً له:",
+         "en": "Among the things that lead the believer to contentment with the decree is realising in his faith the meaning of the Prophet's words ﷺ: “Allah decrees nothing for the believer but that it is good for him:"
+        },
+        {
+         "ar": "إنْ أصابته سرَّاء شكر، كان خيراً له، وإنْ أصابته ضرَّاء صبر، كان خيراً له، وليس ذلك إلا للمؤمن».",
+         "en": "if good fortune befalls him he gives thanks, and that is good for him; and if adversity befalls him he is patient, and that is good for him. And that is for none but the believer.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c123",
+     "pages": [
+      455
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وجاء رجلٌ إلى النَّبيِّ صلى الله عليه وسلم، فسأله أنْ يُوصيه وصيَّةً جامعةً موجَزةً، فقال: «لا تتَّهم الله في قضائه».",
+         "en": "A man came to the Prophet ﷺ and asked him for a comprehensive, concise piece of counsel, and he said: “Do not suspect Allah in His decree.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c124",
+     "pages": [
+      455,
+      456
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال أبو الدرداء: إنَّ الله إذا قضى قضاءً أحبَّ أنْ يُرضى به، وقال ابن مسعود: إنَّ الله بقسطه وعدله جعلَ الرَّوحَ والفرح في اليقين والرضا،",
+         "en": "Abū al-Dardāʾ said: When Allah decrees something, He loves that it be accepted with contentment. Ibn Masʿūd said: Allah, by His equity and justice, placed relief and joy in certainty and contentment,"
+        },
+        {
+         "ar": "وجعل الهم والحزن في الشكِّ والسخط، فالرَّاضي لا يتمنّى غيرَ ما هو عليه من شدَّةٍ ورخاء، كذا رُوِيَ عَنْ عمر وابنِ مسعود وغيرهما.",
+         "en": "and placed worry and grief in doubt and resentment. So the one who is content wishes for nothing other than the state he is in, whether hardship or ease. This has been narrated from ʿUmar, Ibn Masʿūd and others."
+        },
+        {
+         "ar": "وقال عمر بن عبد العزيز: أصبحت ومالي سرورٌ إلا في مواضع القضاء والقدر.",
+         "en": "ʿUmar ibn ʿAbd al-ʿAzīz said: I have come to have no joy except where the decree and destiny fall."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c125",
+     "pages": [
+      456
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فمن وصل إلى هذه الدرجة، كان عيشُه كلُّه في نعيمٍ وسرورٍ، قال الله تعالى:",
+         "en": "Whoever reaches this degree spends his whole life in bliss and joy. Allah the Exalted said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c126",
+     "pages": [
+      456
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "{مَنْ عَمِلَ صَالِحاً مِنْ ذَكَرٍ أَوْ أُنْثَى وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً} قال بعض السَّلف: الحياة الطيبة: هي الرضا والقناعة.",
+         "en": "“Whoever does righteous deeds, male or female, while being a believer — We will surely give him a good life” [al-Naḥl 16:97]. One of the Salaf said: The good life is contentment and being satisfied with little."
+        },
+        {
+         "ar": "وقال عبد الواحد بن زيد: الرضا باب الله الأعظم وجنة الدنيا ومستراح العابدين.",
+         "en": "ʿAbd al-Wāḥid ibn Zayd said: Contentment is Allah's greatest door, the paradise of this world, and the resting place of the worshippers."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c127",
+     "pages": [
+      456
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأهل الرضا تارةً يلاحظون حكمة المبتلي وخيرته لعبده في البلاء، وأنَّه غير متَّهم في قضائه، وتارةً يُلاحظون ثوابَ الرِّضا بالقضاء، فيُنسيهم ألم المقتضي به، وتارةً يُلاحظون عظمةَ المبتلي وجلالَه وكمالَه،",
+         "en": "The people of contentment sometimes keep in view the wisdom of the One who tests them and His choosing what is best for His servant in the trial, and that He is not to be suspected in His decree. Sometimes they keep in view the reward for contentment with the decree, and it makes them forget the pain of what was decreed. And sometimes they keep in view the greatness, majesty and perfection of the One who tests them,"
+        },
+        {
+         "ar": "فيستغرقون في مشاهدة ذلك، حتى لا يشعرون بالألم، وهذا يصلُ إليه خواصُّ أهل المعرفة والمحبَّةِ، حتى ربَّما تلذَّذوا بما أصابهم لملاحظتهم صدوره عن حبيبهم، كما قال بعضهم: أوجدهم في عذابه عُذوبة.",
+         "en": "and become so absorbed in contemplating that that they no longer feel the pain. This is attained by the elect among the people of knowledge [of Allah] and love, so that they may even take delight in what befalls them, because they see that it comes from their Beloved — as one of them said: He let them find sweetness (ʿudhūbah) in His torment (ʿadhāb)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c128",
+     "pages": [
+      456
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وسئل بعضُ التابعينَ عن حاله في مرضه، فقال: أحبُّه إليه أحبُّه إليَّ.",
+         "en": "One of the Successors was asked how he was during his illness, and he said: What is most beloved to Him is most beloved to me."
+        },
+        {
+         "ar": "وسُئلَ السريّ: هل يجد المحبُّ ألم البلاء؟ فقالَ: لا. وقال بعضهم:",
+         "en": "Al-Sarī was asked: Does the lover feel the pain of affliction? He said: No. And someone said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c129",
+     "pages": [
+      456
+     ],
+     "paragraphs": [
+      {
+       "kind": "verse",
+       "segments": [
+        {
+         "ar": "عذابُه فيكَ عَذْبُ … وبُعْدُهُ فيكَ قُرْبُ",
+         "en": "[Love's] torment for Your sake is sweet, / and its distance for Your sake is nearness."
+        },
+        {
+         "ar": "وأَنْتَ عِندي كرُوحي … بل أَنْتَ مِنها أَحَبُّ",
+         "en": "You are to me as my own soul — / no, You are dearer to me than it."
+        },
+        {
+         "ar": "حسْبي مِنَ الحُبِّ أنِّي … لِمَا تُحِبُّ أُحِبُّ",
+         "en": "It is enough for me of love / that I love whatever You love."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c130",
+     "pages": [
+      456,
+      457
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والدرجة الثانية: أنْ يصبرَ على البلاء، وهذه لمن لم يستطع الرِّضا بالقضاء، فالرِّضا فضلٌ مندوبٌ إليه مستحب، والصبرُ واجبٌ على المؤمن حتمٌ، وفي الصَّبر خيرٌ كثيرٌ، فإنَّ الله أمرَ به، ووعدَ عليه جزيلَ الأجر.",
+         "en": "The second degree is to be patient with the affliction, and this is for one who cannot attain contentment with the decree. Contentment is a virtue that is encouraged and recommended, whereas patience is binding on the believer, an obligation. There is much good in patience, for Allah has commanded it and promised an abundant reward for it."
+        },
+        {
+         "ar": "قال الله عز وجل: {إِنَّمَا يُوَفَّى الصَّابِرُونَ أَجْرَهُمْ بِغَيْرِ حِسَابٍ}، وقال: {وَبَشِّرِ الصَّابِرِينَ الَّذِينَ إِذَا أَصَابَتْهُمْ مُصِيبَةٌ قَالُوا إِنَّا للهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ أُولَئِكَ عَلَيْهِمْ صَلَوَاتٌ مِنْ رَبِّهِمْ وَرَحْمَةٌ وَأُولَئِكَ هُمُ الْمُهْتَدُونَ}.",
+         "en": "Allah, the Mighty and Majestic, said: “Only the patient will be given their reward in full, without measure” [al-Zumar 39:10]; and: “Give glad tidings to the patient, who, when a calamity strikes them, say: ‘We belong to Allah, and to Him we shall return.’ Upon them are blessings from their Lord and mercy, and it is they who are rightly guided” [al-Baqarah 2:155–157]."
+        },
+        {
+         "ar": "قال الحسن: الرِّضا عزيزٌ، ولكن الصبر معولُ المؤمن.",
+         "en": "Al-Ḥasan said: Contentment is rare, but patience is the believer's mainstay."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c131",
+     "pages": [
+      457
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والفرق بين الرضا والصبر: أنَّ الصَّبر: كفُّ النَّفس وحبسُها عن التسخط مع وجود الألم، وتمنِّي زوال ذلك، وكفُّ الجوارح عن العمل بمقتضى الجزع، والرضا: انشراح الصدر وسعته بالقضاء،",
+         "en": "The difference between contentment and patience is this. Patience is restraining and holding back the soul from resentment while the pain is felt and one wishes it gone, and restraining the limbs from acting as anguish would dictate. Contentment is the heart's openness and ease with the decree,"
+        },
+        {
+         "ar": "وترك تمنِّي زوال ذلك المؤلم، وإنْ وجدَ الإحساسُ بالألم، لكن الرضا يخفِّفُه لما يباشر القلبَ من رَوح اليقين والمعرفة، وإذا قوي الرِّضا، فقد يزيل الإحساس بالألم بالكلية كما سبق.",
+         "en": "and ceasing to wish that the painful thing be gone, even if the pain is still felt; contentment lightens it, because of the refreshment of certainty and knowledge that touches the heart. When contentment grows strong, it may take away the feeling of pain altogether, as has been mentioned."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c132",
+     "pages": [
+      457
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قوله صلى الله عليه وسلم: «واعلم أنَّ النَّصر مع الصَّبر» هذا موافق لقول الله عز وجل: {قَالَ الَّذِينَ يَظُنُّونَ أَنَّهُمْ مُلاقُو اللهِ كَمْ مِنْ فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةً بِإِذْنِ اللهِ وَاللهُ مَعَ الصَّابِرِينَ}،",
+         "en": "His words ﷺ, “Know that victory comes with patience,” agree with the words of Allah, the Mighty and Majestic: “Those who were certain that they would meet Allah said: How many a small company has overcome a large company by Allah's permission! And Allah is with the patient” [al-Baqarah 2:249];"
+        },
+        {
+         "ar": "وقوله تعالى: {فَإِنْ يَكُنْ مِنْكُمْ مِئَةٌ صَابِرَةٌ يَغْلِبُوا مِئَتَيْنِ وَإِنْ يَكُنْ مِنْكُمْ أَلْفٌ يَغْلِبُوا أَلْفَيْنِ بِإِذْنِ اللهِ وَاللهُ مَعَ الصَّابِرِينَ}.",
+         "en": "and His words, Exalted is He: “If there are among you a hundred who are patient, they will overcome two hundred; and if there are among you a thousand, they will overcome two thousand by Allah's permission; and Allah is with the patient” [al-Anfāl 8:66]."
+        },
+        {
+         "ar": "وقال عمرُ لأشياخ من بني عبس: بم قاتلتُمُ الناس؟",
+         "en": "ʿUmar said to some elders of Banū ʿAbs: With what did you fight people?"
+        },
+        {
+         "ar": "قالوا: بالصبر، لم نلق قوماً إلا صبرنا لهم كما صبروا لنا.",
+         "en": "They said: With patience. We never met a people but we held out against them as long as they held out against us."
+        },
+        {
+         "ar": "وقال بعض السَّلف: كلنا يكره الموت وألم الجراح، ولكن نتفاضل بالصَّبر. وقال البطَّال:",
+         "en": "One of the Salaf said: All of us dislike death and the pain of wounds, but we surpass one another in patience. And al-Baṭṭāl said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c133",
+     "pages": [
+      457
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "الشجاعةُ صبرُ ساعة.",
+         "en": "Courage is an hour's patience."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c134",
+     "pages": [
+      458
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذا في جهاد العدوِّ الظاهر، وهو جهادُ الكفار، وكذلك جهاد العدوِّ الباطن، وهو جهاد النَّفس والهَوى، فإنَّ جهادَهُما من أعظم الجهاد، كما قال النَّبيُّ صلى الله عليه وسلم:",
+         "en": "This is in fighting the outward enemy, that is, jihād against the disbelievers. It is the same in fighting the inward enemy, that is, the struggle against the self and its whims; for struggling against these is among the greatest forms of jihād, as the Prophet ﷺ said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c135",
+     "pages": [
+      458
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«المجاهدُ مَنْ جاهد نفسه في الله».",
+         "en": "“The mujāhid is the one who strives against his own self for the sake of Allah.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c136",
+     "pages": [
+      458
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال عبد الله بنُ عمر لمن سأله عن الجهاد: ابدأ بنفسك فجاهدها، وابدأ بنفسك فاغزُها.",
+         "en": "ʿAbdullāh ibn ʿUmar said to someone who asked him about jihād: Begin with yourself and strive against it; begin with yourself and wage war on it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c137",
+     "pages": [
+      458
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال بقيةُ بن الوليد: أخبرنا إبراهيمُ بن أدهم، قال: حدثنا الثقة، عن عليِّ بن أبي طالب، قال: أوَّلَ ما تُنكرون من جهادكم جهادكم أنفسكم.",
+         "en": "Baqiyyah ibn al-Walīd said: Ibrāhīm ibn Adham informed us, saying: A trustworthy narrator told us, from ʿAlī ibn Abī Ṭālib, who said: The first part of your jihād that you will come to disown is the struggle against your own selves."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c138",
+     "pages": [
+      458
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال إبراهيم بن أبي عبلة لقوم جاءوا من الغزو: قد جئتُم من الجهاد الأصغر، فما فعلتم في الجهاد الأكبر؟",
+         "en": "Ibrāhīm ibn Abī ʿAblah said to some people who had come back from a campaign: You have come from the lesser jihād; what have you done in the greater jihād?"
+        },
+        {
+         "ar": "قالوا: وما الجهاد الأكبر؟",
+         "en": "They said: What is the greater jihād?"
+        },
+        {
+         "ar": "قال: جهادُ القلب.",
+         "en": "He said: The jihād of the heart."
+        },
+        {
+         "ar": "ويُروى هذا مرفوعاً من حديث جابر بإسناد ضعيف، ولفظه: «قدمتم من الجهاد الأصغر إلى الجهاد الأكبر» قالوا: وما الجهاد الأكبر؟",
+         "en": "This is narrated as a marfūʿ hadith of Jābir, with a weak chain, in the wording: “You have come from the lesser jihād to the greater jihād.” They said: What is the greater jihād?"
+        },
+        {
+         "ar": "قال: «مجاهدةُ العبدِ لهواه».",
+         "en": "He said: “The servant's struggle against his own whims.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c139",
+     "pages": [
+      459
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويُروى من حديث سعد بن سنان، عن أنس، عن النَّبيِّ صلى الله عليه وسلم، قال:",
+         "en": "It is narrated, from the hadith of Saʿd ibn Sinān from Anas, that the Prophet ﷺ said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c140",
+     "pages": [
+      459
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«ليس عدوُّك الذي إذا قتلك أدخلك الجنة، وإذا قتلته كان لك نوراً، أعدى عدوِّك نفسك التي بين جنبيك».",
+         "en": "“Your enemy is not the one who, if he kills you, admits you to Paradise, and if you kill him, becomes a light for you. Your worst enemy is your own self, between your two sides.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c141",
+     "pages": [
+      459
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أبو بكر الصديق في وصيته لعمر رضي الله عنهما حين استخلفه: إنَّ أوَّل ما أحذِّرُكَ نفسك التي بين جنبيك.",
+         "en": "Abū Bakr al-Ṣiddīq said in his counsel to ʿUmar (may Allah be pleased with them both) when he appointed him as his successor: The first thing I warn you against is your own self, between your two sides."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c142",
+     "pages": [
+      459
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فهذا الجهاد يحتاجُ أيضاً إلى صبر، فمن صبر على مجاهدة نفسه وهواه وشيطانه غلبه، وحصل له النصر والظفر، وملَكَ نفسه،",
+         "en": "This jihād, too, requires patience. Whoever patiently struggles against his self, his whims and his devil overcomes them, gains victory and triumph, and becomes master of himself,"
+        },
+        {
+         "ar": "فصار عزيزاً ملكاً، ومن جَزِعَ ولم يَصبر على مجاهدة ذلك، غُلِب وقُهر وأُسر، وصار عبداً ذليلاً أسيراً في يدي شيطانه وهواه، كما قيل:",
+         "en": "and so he becomes mighty, a king. Whoever is impatient and does not patiently struggle against them is overcome, subdued and taken captive, and becomes a lowly slave, a prisoner in the hands of his devil and his whims. As it has been said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c143",
+     "pages": [
+      459
+     ],
+     "paragraphs": [
+      {
+       "kind": "verse",
+       "segments": [
+        {
+         "ar": "إذا المَرءُ لم يَغلِبْ هواهُ أقامه … بمنْزلةٍ فيها العَزيزُ ذَليلُ",
+         "en": "When a man does not overcome his desire, it sets him down / in a place where even the mighty is brought low."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c144",
+     "pages": [
+      459
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال ابن المبارك: من صبر، فما أقلَّ ما يصبر، ومن جزع، فما أقل ما يتمتع.",
+         "en": "Ibn al-Mubārak said: Whoever is patient — how short a time he has to be patient! And whoever gives way to anguish — how short a time he has to enjoy himself!"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c145",
+     "pages": [
+      459
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فقوله صلى الله عليه وسلم: «إنَّ النصر مع الصبر» يشمل النصرَ في الجهادين: جهادُ العدوِّ الظاهر، وجهادُ العدوِّ الباطن، فمن صبرَ فيهما، نُصِرَ وظفر بعدوِّه، ومن لم يصبر فيهما وجَزِعَ، قُهِرَ وصار أسيراً لعدوّه، أو قتيلاً له.",
+         "en": "So his words ﷺ, “Victory comes with patience,” include victory in both jihāds: the jihād against the outward enemy and the jihād against the inward enemy. Whoever is patient in both is given victory and triumphs over his enemy; whoever is not patient in them but gives way to anguish is subdued, and becomes his enemy's captive or is slain by him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c146",
+     "pages": [
+      459
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قوله صلى الله عليه وسلم: «وإنَّ الفرج مع الكرب» وهذا يشهد له قوله عز وجل: {وَهُوَ الَّذِي يُنَزِّلُ الْغَيْثَ مِنْ بَعْدِ مَا قَنَطُوا وَيَنْشُرُ رَحْمَتَهُ} وقول النَّبيِّ صلى الله عليه وسلم:",
+         "en": "His words ﷺ, “And relief comes with distress”: this is attested by the words of Allah, the Mighty and Majestic, “It is He who sends down the rain after they have despaired, and spreads His mercy” [al-Shūrā 42:28], and by the words of the Prophet ﷺ:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c147",
+     "pages": [
+      459,
+      460
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«ضَحكَ ربنا من قُنوط عباده وقُربِ غيرِهِ» خرَّجه الإمام أحمد، وخرَّجه ابنُه عبدُ الله في حديث طويل، وفيه: «علم الله يوم الغيث أنَّه ليشرف عليكم أزِلينَ قَنِطينَ، فيظلُّ يضحك قد علم أنَّ غيرَكُم إلى قُرب»،",
+         "en": "“Our Lord laughs at the despair of His servants while change is near.” Imam Aḥmad recorded it, and his son ʿAbdullāh recorded it within a long hadith, in which there is: “Allah knows the day of rain; He looks down on you, distressed and despairing, and keeps laughing, knowing that your change is near.”"
+        },
+        {
+         "ar": "والمعنى: أنَّه سبحانه يعجب من قنوط عباده عندَ احتباس القطر عنهم وقنوطهم ويأسهم من الرحمة، وقد اقترب وقتُ فرجه ورحمته لعباده، بإنزالِ الغيث عليهم، وتغيره لحالهم وهم لا يشعرون.",
+         "en": "The meaning is that He, Glorified is He, marvels at His servants' despair when rain is withheld from them, at their despondency and their giving up hope of mercy, when the time of His relief and mercy for His servants — sending down rain on them and changing their state — has drawn near without their realising it."
+        },
+        {
+         "ar": "وقال تعالى: {فَإِذَا أَصَابَ بِهِ مَنْ يَشَاءُ مِنْ عِبَادِهِ إِذَا هُمْ يَسْتَبْشِرُونَ وَإِنْ كَانُوا مِنْ قَبْلِ أَنْ يُنَزَّلَ عَلَيْهِمْ مِنْ قَبْلِهِ لَمُبْلِسِينَ}، وقال تعالى: {حَتَّى إِذَا اسْتَيْأَسَ الرُّسُلُ وَظَنُّوا أَنَّهُمْ قَدْ كُذِبُوا جَاءهُمْ نَصْرُنَا}، وقال تعالى:",
+         "en": "The Exalted said: “Then when He causes it to fall on whom He wills of His servants, at once they rejoice, though before it was sent down upon them they were in despair” [al-Rūm 30:48–49]. The Exalted said: “Until, when the messengers despaired and thought they had been denied, Our help came to them” [Yūsuf 12:110]. And the Exalted said:"
+        },
+        {
+         "ar": "{حَتَّى يَقُولَ الرَّسُولُ وَالَّذِينَ آمَنُوا مَعَهُ مَتَى نَصْرُ اللهِ أَلا إنَّ نَصْرَ اللَّهِ قَرِيبٌ}، وقال حاكياً عن يعقوب أنَّه قال لبنيه:",
+         "en": "“…until the Messenger and those who believed with him said: When will the help of Allah come? Truly, the help of Allah is near” [al-Baqarah 2:214]. And He said, relating that Yaʿqūb told his sons:"
+        },
+        {
+         "ar": "{يَا بَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِنْ يُوسُفَ وَأَخِيهِ وَلا تَيْأَسُوا مِنْ رَوْحِ اللهِ}، ثم قصَّ قصة اجتماعهم عَقيبَ ذلك.",
+         "en": "“My sons, go and seek news of Yūsuf and his brother, and do not despair of the relief of Allah” [Yūsuf 12:87]; and then He told the story of their reunion straight after that."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c148",
+     "pages": [
+      460
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكم قصَّ سبحانه من قصص تفريجِ كُرُباتِ أنبيائه عند تناهي الكَرْب كإنجاء نوح ومَنْ معه في الفلك، وإنجاء إبراهيم من النار، وفدائه لولده الذي أمر بذبحه، وإنجاء موسى وقومه من اليمِّ،",
+         "en": "How many stories has He, Glorified is He, told of relieving the distress of His prophets when the distress was at its height: saving Nūḥ and those with him in the Ark, saving Ibrāhīm from the fire, ransoming his son whom he had been commanded to sacrifice, saving Mūsā and his people from the sea"
+        },
+        {
+         "ar": "وإغراق عدوِّهم، وقصة أيوب ويونس، وقصص محمَّدٍ صلى الله عليه وسلم مع أعدائه، وإنجائه منهم، كقصته في الغار، ويوم بدر، ويوم أحد، ويوم الأحزاب، ويوم حنين، وغير ذلك.",
+         "en": "and drowning their enemy, the story of Ayyūb and of Yūnus, and the stories of Muḥammad ﷺ with his enemies and his deliverance from them, such as his story in the cave, and on the days of Badr, Uḥud, the Confederates (al-Aḥzāb), Ḥunayn and others."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c149",
+     "pages": [
+      460
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله صلى الله عليه وسلم: «فإنَّ مَعَ العسر يسراً» هو منتزع من قوله تعالى: {سَيَجْعَلُ اللهُ بَعْدَ عُسْرٍ يُسْراً}، وقوله عز وجل: {فَإِنَّ مَعَ الْعُسْرِ يُسْراً إِنَّ مَعَ الْعُسْرِ يُسْراً}.",
+         "en": "His words ﷺ, “And with hardship comes ease,” are drawn from the words of the Exalted, “Allah will bring ease after hardship” [al-Ṭalāq 65:7], and His words, Mighty and Majestic is He: “For indeed, with hardship comes ease; indeed, with hardship comes ease” [al-Sharḥ 94:5–6]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c150",
+     "pages": [
+      460,
+      461
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج البزار في \" مسنده \"، وابن أبي حاتم - واللفظ له - من حديث أنس، عن النَّبيِّ صلى الله عليه وسلم، قال:",
+         "en": "Al-Bazzār recorded in his Musnad, and Ibn Abī Ḥātim — the wording being his — from the hadith of Anas, that the Prophet ﷺ said:"
+        },
+        {
+         "ar": "«لو جاء العُسْرُ، فدخل هذا الجُحر، لجاء اليسر حتّى يدخل عليه فيخرجه»، فأنزل الله عز وجل {فَإِنَّ مَعَ الْعُسْرِ يُسْراً إِنَّ مَعَ الْعُسْرِ يُسْراً}.",
+         "en": "“If hardship came and entered this hole, ease would come and enter after it and drive it out.” And Allah, the Mighty and Majestic, revealed: “For indeed, with hardship comes ease; indeed, with hardship comes ease.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c151",
+     "pages": [
+      461
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى ابنُ جرير وغيره من حديث الحسن مرسلاً نحوه، وفي حديثه: فقال النَّبيُّ صلى الله عليه وسلم: «لن يَغْلِبَ عُسرٌ يُسرين».",
+         "en": "Ibn Jarīr and others narrated something similar from the hadith of al-Ḥasan in mursal form, and in his hadith the Prophet ﷺ said: “One hardship will never overcome two eases.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c152",
+     "pages": [
+      461
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى ابن أبي الدنيا بإسناده عن ابن مسعود قال: لو أنَّ العسر دخل في جُحر لجاء اليسر حتى يدخل معه، ثُمَّ قال: قال الله تعالى: {فَإِنَّ مَعَ الْعُسْرِ يُسْراً إِنَّ مَعَ الْعُسْرِ يُسْراً}.",
+         "en": "Ibn Abī al-Dunyā narrated with his chain from Ibn Masʿūd, who said: If hardship entered a hole, ease would come and enter with it. Then he said: Allah the Exalted said: “For indeed, with hardship comes ease; indeed, with hardship comes ease.”"
+        },
+        {
+         "ar": "وبإسناده أنَّ أبا عبيدة حُصِرَ فكتب إليه عمرُ يقول: مهما ينْزل بامرئٍ شدَّةٌ يجعل الله بعدها فرجاً، وإنَّه لن يَغلِبَ عسرٌ يُسرين، وإنَّه يقول:",
+         "en": "With his chain, too, he narrated that Abū ʿUbaydah was besieged, and ʿUmar wrote to him, saying: Whatever hardship befalls a man, Allah will bring relief after it; one hardship will never overcome two eases. And He says:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c153",
+     "pages": [
+      461
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "{اصْبِرُوا وَصَابِرُوا وَرَابِطُوا وَاتَّقُوا اللهَ لَعَلَّكُمْ تُفْلِحُونَ}.",
+         "en": "“Be patient, outdo [your enemies] in patience, stand guard, and fear Allah, that you may succeed” [Āl ʿImrān 3:200]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c154",
+     "pages": [
+      461
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن لطائف أسرار اقتران الفرج بالكرب واليُسر بالعسر: أنَّ الكربَ إذا اشتدَّ وعَظُمَ وتناهى، وحصل للعبد الإياسُ من كَشفه من جهة المخلوقين، وتعلق قلبُه بالله وحده،",
+         "en": "Among the subtle secrets of relief being joined to distress, and ease to hardship, is that when distress grows severe, becomes great and reaches its limit, the servant despairs of its being lifted by any created being, and his heart attaches itself to Allah alone."
+        },
+        {
+         "ar": "وهذا هو حقيقةُ التوكُّل على الله، وهو من أعظم الأسباب التي تُطلَبُ بها الحوائجُ، فإنَّ الله يكفي من توكَّل عليه، كما قال تعالى: {وَمَنْ يَتَوَكَّلْ عَلَى اللهِ فَهُوَ حَسْبُهُ}.",
+         "en": "This is the reality of reliance on Allah (tawakkul), and it is one of the greatest means by which needs are sought; for Allah suffices whoever relies on Him, as the Exalted said: “And whoever relies on Allah, He is sufficient for him” [al-Ṭalāq 65:3]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c155",
+     "pages": [
+      461,
+      462
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى آدمُ بن أبي إياس في \" تفسيره \" بإسناده عن محمد بن إسحاق قال: جاء مالكٌ الأشجعي إلى النَّبيِّ صلى الله عليه وسلم،",
+         "en": "Ādam ibn Abī Iyās narrated in his Tafsīr, with his chain, from Muḥammad ibn Isḥāq, who said: Mālik al-Ashjaʿī came to the Prophet ﷺ"
+        },
+        {
+         "ar": "فقال: أُسِرَ ابني عوفٌ، فقال له: أرسل إليه أنَّ رسول الله صلى الله عليه وسلم يأمُرُكَ أنْ تُكثِرَ من قول:",
+         "en": "and said: My son ʿAwf has been taken captive. He said to him: Send word to him that the Messenger of Allah ﷺ commands you to say often:"
+        },
+        {
+         "ar": "لا حول ولا قوَّةَ إلا بالله، فأتاه الرسول فأخبره، فأكبَّ عوفٌ يقول: لا حولَ ولا قوَّةَ إلاَّ بالله، وكانوا قد شدُّوه بالقِدِّ فسقط القِدُّ عنه،",
+         "en": "There is no might and no power except through Allah. The messenger came and told him, and ʿAwf set about saying: There is no might and no power except through Allah. They had bound him with rawhide thongs, and the thongs fell off him."
+        },
+        {
+         "ar": "فخرج فإذا هو بناقةٍ لهم فركبها، فأقبل فإذا هو بسَرحِ القوم الذين كانوا شدُّوه، فصاح بهم، فاتبع آخرُها أوَّلها،",
+         "en": "He went out and came upon a she-camel of theirs, and rode it. As he came along, he came upon the grazing herd of the people who had bound him, and he called out to them, and the last of them followed the first."
+        },
+        {
+         "ar": "فلم يفاجأ أبويه إلاّ وهو ينادي بالباب، فقال أبوه: عوفٌ وربِّ الكعبة، فقالت أمه: واسوأتاه، وعوف كئيب يألم ما فيه مِنَ القدِّ،",
+         "en": "His parents had no warning until he was calling at the door. His father said: ʿAwf, by the Lord of the Kaʿbah! His mother said: Alas — while ʿAwf lies miserable, suffering from the thongs he is bound with!"
+        },
+        {
+         "ar": "فاستبقَ الأبُ والخادمُ إليه، فإذا عوفٌ قد ملأ الفناء إبلاً، فقصَّ على أبيه أمرَه وأمرَ الإبل، فأتى أبوهُ رسولَ الله صلى الله عليه وسلم،",
+         "en": "The father and the servant raced to him, and there was ʿAwf, who had filled the courtyard with camels. He told his father what had happened to him and to the camels, and his father went to the Messenger of Allah ﷺ"
+        },
+        {
+         "ar": "فأخبره بخبرِ عوفٍ وخبرِ الإبل، فقال له رسول الله صلى الله عليه وسلم: «اصنع بها ما أحببتَ، وما كنت صانعاً بإبلك»،",
+         "en": "and told him the news of ʿAwf and of the camels. The Messenger of Allah ﷺ said to him: “Do with them as you like, as you would do with your own camels.”"
+        },
+        {
+         "ar": "ونزل: {وَمَنْ يَتَّقِ اللهَ يَجْعَلْ لَهُ مَخْرَجاً وَيَرْزُقْهُ مِنْ حَيْثُ لا يَحْتَسِبُ وَمَنْ يَتَوَكَّلْ عَلَى اللهِ فَهُوَ حَسْبُهُ} الآية.",
+         "en": "And there was revealed: “And whoever fears Allah, He will make a way out for him and provide for him from where he does not expect; and whoever relies on Allah, He is sufficient for him” [al-Ṭalāq 65:2–3], to the end of the verse."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c156",
+     "pages": [
+      462
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال الفضيل: والله لو يئستَ مِنَ الخلق حتَّى لا تريد منهم شيئاً، لأعطاك مولاك كُلَّ ما تُريد.",
+         "en": "Al-Fuḍayl said: By Allah, if you despaired of creation so completely that you wanted nothing from them, your Master would give you everything you want."
+        },
+        {
+         "ar": "وذكر إبراهيمُ بن أدهم عن بعضهم قال: ما سأل السائلون مسألةً هي ألحلفُ مِنْ أنْ يقولَ العبدُ: ما شاء الله، قال: يعني بذلك التَّفويض إلى الله عز وجل.",
+         "en": "Ibrāhīm ibn Adham mentioned that someone said: Those who ask have never asked with anything more importunate than the servant's saying, “Whatever Allah wills” (mā shāʾ Allāh). He said: By that he meant entrusting one's affairs wholly to Allah, the Mighty and Majestic."
+        },
+        {
+         "ar": "وقال سعيدُ بن سالم القداح: بلغني أنَّ موسى عليه السلام كانت له إلى الله حاجةٌ، فطلبها، فأبطأت عليه، فقال: ما شاء الله،",
+         "en": "Saʿīd ibn Sālim al-Qaddāḥ said: It has reached me that Mūsā (peace be upon him) had a need from Allah. He sought it, and it was slow in coming, so he said: Whatever Allah wills."
+        },
+        {
+         "ar": "فإذا حاجتُه بَيْنَ يديه، فعجب، فأوحى الله إليه: أما علمتَ أنَّ قولَك: ما شاء الله أنجحُ ما طُلِبَتْ به الحوائج.",
+         "en": "And there was his need, before him. He was amazed, and Allah revealed to him: Did you not know that your saying “Whatever Allah wills” is the most successful means by which needs are sought?"
+        }
+       ]
+      }
+     ],
+     "notes": [
+      {
+       "en": "The printed text reads ألحلف, an evident misprint; read ألحف (“more importunate”), as in other editions of the book."
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c157",
+     "pages": [
+      462
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأيضاً فإنَّ المؤمن إذا استبطأ الفرج، وأيس منه بعدَ كثرة دعائه وتضرُّعه، ولم يظهر عليه أثرُ الإجابة يرجع إلى نفسه باللائمة،",
+         "en": "Moreover, when the believer finds relief slow in coming and despairs of it after much supplication and humble entreaty, with no sign of an answer appearing, he turns on himself with blame,"
+        },
+        {
+         "ar": "وقال لها: إنَّما أُتيتُ من قِبَلِكَ، ولو كان فيك خيرٌ لأُجِبْتُ، وهذا اللومُ أحبُّ إلى الله من كثيرٍ من الطَّاعاتِ،",
+         "en": "saying to it: It is only because of you that this has come upon me; had there been any good in you, I would have been answered. This blame is more beloved to Allah than many acts of obedience,"
+        },
+        {
+         "ar": "فإنَّه يُوجبُ انكسار العبد لمولاه واعترافه له بأنَّه أهلٌ لما نزل به من البلاء، وأنَّه ليس بأهلٍ لإجابة الدعاء، فلذلك تُسرِعُ إليه حينئذٍ إجابةُ الدعاء وتفريجُ الكرب، فإنَّه تعالى عندَ المنكسرةِ قلوبهم من أجله.",
+         "en": "for it brings about the servant's brokenness before his Master and his admission that he deserves the affliction that has come upon him and does not deserve to have his supplication answered. That is why the answer to his supplication and the relief of his distress then come to him swiftly, for the Exalted is with those whose hearts are broken for His sake."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c158",
+     "pages": [
+      462,
+      463
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال وهب: تعبَّدَ رجل زماناً، ثم بدت له إلى الله حاجةٌ، فصام سبعين سبتاً، يأكلُ في كُلِّ سبتٍ إحدى عشرة تمرة، ثم سأل الله حاجته فلم يُعطَها، فرجع إلى نفسه فقال:",
+         "en": "Wahb said: A man worshipped for a long time, and then he had a need from Allah. He fasted seventy weeks, eating eleven dates each week, then asked Allah for his need, and it was not granted. He turned on himself and said:"
+        },
+        {
+         "ar": "منك أُتيتُ، لو كان فيك خيرٌ، أعطيت حاجتك، فنَزل إليه عند ذلك مَلَكٌ، فقال: يا ابنَ آدم ساعتُك هذه خيرٌ من عبادتك التي مضت، وقد قضى الله حاجتك.",
+         "en": "It is because of you that this has come upon me. Had there been any good in you, your need would have been granted. At that, an angel came down to him and said: Son of Ādam, this hour of yours is better than all your past worship, and Allah has fulfilled your need."
+        },
+        {
+         "ar": "خرَّجه ابن أبي الدنيا.",
+         "en": "Ibn Abī al-Dunyā recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c159",
+     "pages": [
+      463
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولبعضِ المتقدمينَ في هذا المعنى شعرٌ:",
+         "en": "One of the early poets has verses on this theme:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h19.c160",
+     "pages": [
+      463
+     ],
+     "paragraphs": [
+      {
+       "kind": "verse",
+       "segments": [
+        {
+         "ar": "عسى ما ترى أنْ لا يَدومَ وأنْ تَرَى … لهُ فَرجاً مِمَّا أَلحَّ به الدَّهرُ",
+         "en": "Perhaps what you see will not last, and you will see / relief from what fate has pressed upon you."
+        },
+        {
+         "ar": "عَسى فَرَجٌ يأتِي به الله إنَّه … لَهُ كُلَّ يَومٍ في خَليقتِهِ أَمْرُ",
+         "en": "Perhaps relief will come, brought by Allah, for He / has, every day, some new affair among His creation."
+        },
+        {
+         "ar": "إذا لاح عسرٌ فارجُ يُسراً فإنَّه … قَضَى الله أنَّ العُسرَ يَتبَعُهُ اليُسرُ",
+         "en": "When hardship appears, hope for ease, for / Allah has decreed that ease follows hardship."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}

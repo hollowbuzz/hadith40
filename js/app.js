@@ -23,7 +23,7 @@ import { recorderPanel } from './recorder.js';
 import { showIntro, showKnownPicker, hadithPicker } from './intro.js';
 import { mufradatView, mufradatCard } from './mufradat.js';
 
-const VERSION = '1.6.3';
+const VERSION = '1.7.0';
 const H = n => HADITH[n - 1];
 const view = () => $('#view');
 

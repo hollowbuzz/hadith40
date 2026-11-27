@@ -1,0 +1,1591 @@
+{
+ "id": "h33",
+ "number": 33,
+ "standard_number": 33,
+ "collection": "nawawi",
+ "heading": {
+  "ar": "الحديث الثالث والثلاثون",
+  "en": "Hadith 33"
+ },
+ "title": {
+  "ar": "البينة على المدعي",
+  "en": "The Burden of Proof"
+ },
+ "pages": {
+  "start": 684,
+  "end": 697
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.n1",
+     "pages": [
+      684
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنِ ابن عَبَّاسٍ رضي الله عنهما أنَّ رَسولَ الله صلى الله عليه وسلم قَالَ: «لَوْ يُعْطَى النَّاسُ بِدَعْواهُم، لادَّعى رِجالٌ أموالَ قَومٍ ودِماءهُم ولكن البَيِّنَةُ على المُدَّعي واليَمينُ على مَنْ أَنْكر».",
+         "en": "From Ibn ʿAbbās (may Allah be pleased with them both): The Messenger of Allah ﷺ said: “If people were given according to their claims, men would claim the wealth and the blood of others. But the burden of proof is on the claimant, and the oath is on the one who denies.”"
+        },
+        {
+         "ar": "حديثٌ حسنٌ، رواهُ البَيهقيُّ وغيرُهُ هكذا، وبَعضُهُ في \" الصحيحين \".",
+         "en": "A good (ḥasan) hadith, reported in this form by al-Bayhaqī and others; part of it is in the two Ṣaḥīḥs."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c1",
+     "pages": [
+      684
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أصلُ هذا الحديث خرَّجاه في \" الصحيحين \" من حديث ابن جريج، عن ابن أبي مُليكة، عن ابن عباس،",
+         "en": "The core of this hadith was recorded by al-Bukhārī and Muslim in the two Ṣaḥīḥs, from the hadith of Ibn Jurayj, from Ibn Abī Mulaykah, from Ibn ʿAbbās,"
+        },
+        {
+         "ar": "عن النَّبيِّ صلى الله عليه وسلم، قال: «لو يُعطى النَّاسُ بدعواهم، لادَّعى ناسٌ دماءَ رجالٍ وأموالهم، ولكن اليمين على المدَّعى عليه».",
+         "en": "from the Prophet ﷺ, who said: “If people were given according to their claims, people would claim the blood and the wealth of men; but the oath is on the defendant.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c2",
+     "pages": [
+      684
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجاه أيضاً من رواية نافع بنِ عمر الجمحي، عن ابن أبي مُليكة، عن ابن عباس: أنَّ النَّبيَّ صلى الله عليه وسلم قضى أنَّ اليمين على المدَّعى عليه.",
+         "en": "They also recorded it through the narration of Nāfiʿ ibn ʿUmar al-Jumaḥī, from Ibn Abī Mulaykah, from Ibn ʿAbbās, that the Prophet ﷺ decreed that the oath is on the defendant."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c3",
+     "pages": [
+      684
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "واللفظ الذي ساقه به الشيخ ساقه ابنُ الصَّلاح قبله في الأحاديث الكليات، وقال: رواه البيهقي بإسناد حسن.",
+         "en": "The wording in which the Shaykh gave it had been given before him by Ibn al-Ṣalāḥ in al-Aḥādīth al-Kulliyyah, who said: Al-Bayhaqī reported it with a good chain."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c4",
+     "pages": [
+      684
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه الإسماعيلي في \" صحيحه \" من رواية الوليد بن مسلم، حدثنا ابنُ جريج، عن ابن أبي مليكة، عن ابن عباس:",
+         "en": "Al-Ismāʿīlī recorded it in his Ṣaḥīḥ through the narration of al-Walīd ibn Muslim: Ibn Jurayj told us, from Ibn Abī Mulaykah, from Ibn ʿAbbās,"
+        },
+        {
+         "ar": "أنَّ النَّبيَّ صلى الله عليه وسلم، قال: «لو يُعطى الناسُ بدعواهم، لادَّعى رجالٌ دماءَ رجالٍ وأموالهم، ولكنَّ البيِّنةَ على الطَّالب، واليمين على المطلوب».",
+         "en": "that the Prophet ﷺ said: “If people were given according to their claims, men would claim the blood and the wealth of men; but the burden of proof is on the one who makes the demand, and the oath is on the one against whom it is made.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c5",
+     "pages": [
+      685
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى الشَّافعي: أخبرنا مسلم بن خالد، عن ابن جريج، عن ابن أبي مُليكة، عن ابن عباس:",
+         "en": "Al-Shāfiʿī reported: Muslim ibn Khālid informed us, from Ibn Jurayj, from Ibn Abī Mulaykah, from Ibn ʿAbbās,"
+        },
+        {
+         "ar": "أنَّ رسولَ الله صلى الله عليه وسلم قال: «البينة على المُدَّعي» قال الشافعي: وأحسبه - ولا أُثبته - أنَّه قال: «واليمين على المُدَّعى عليه».",
+         "en": "that the Messenger of Allah ﷺ said: “The burden of proof is on the claimant.” Al-Shāfiʿī said: And I think — though I do not affirm it — that he said: “and the oath is on the defendant.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c6",
+     "pages": [
+      685
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى محمد بن عمر بن لُبابة الفقيه الأندلسيُّ، عن عثمان بن أيوب الأندلسيِّ - ووصفه بالفضل -، عن غازي بن قيس، عن ابن أبي مُليكة، عن ابن عباس، عن النَّبيِّ صلى الله عليه وسلم فذكر هذا الحديث،",
+         "en": "Muḥammad ibn ʿUmar ibn Lubābah, the Andalusian jurist, reported from ʿUthmān ibn Ayyūb al-Andalusī — whom he described as a man of virtue — from Ghāzī ibn Qays, from Ibn Abī Mulaykah, from Ibn ʿAbbās, from the Prophet ﷺ, and he mentioned this hadith,"
+        },
+        {
+         "ar": "وقال: «لكن البينة على منِ ادَّعى، واليمين على من أنكر» وغازي بن قيس الأندلسي كبيرٌ صالح، سمع من مالكٍ وابن جريج وطبقتِهما، وسقط من هذا الإسناد ابنُ جريج، والله أعلم.",
+         "en": "saying: “But the burden of proof is on whoever makes a claim, and the oath is on whoever denies.” Ghāzī ibn Qays al-Andalusī was a senior and righteous man who heard from Mālik, Ibn Jurayj and their generation. Ibn Jurayj has dropped out of this chain. And Allah knows best."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c7",
+     "pages": [
+      685
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد استدلَّ الإمام أحمد وأبو عبيد بأنّ النَّبيَّ صلى الله عليه وسلم قال: «البيِّنة على المدعي واليمين على من أنكر»، وهذا يدلُّ على أنَّ اللفظ عندهما صحيحٌ محتجٌّ به، وفي المعنى أحاديث كثيرة،",
+         "en": "Imam Aḥmad and Abū ʿUbayd cited as evidence that the Prophet ﷺ said: “The burden of proof is on the claimant, and the oath is on the one who denies.” This shows that in their view the wording is authentic and may be used as proof. There are many hadiths with this meaning."
+        },
+        {
+         "ar": "ففي \" الصحيحين \" عن الأشعث بن قيس، قال: كان بيني وبين رجلٍ خصومةٌ في بئرٍ، فاختصمنا إلى رسولِ الله صلى الله عليه وسلم، فقال رسولُ الله صلى الله عليه وسلم:",
+         "en": "In the two Ṣaḥīḥs, from al-Ashʿath ibn Qays, who said: I had a dispute with a man over a well, and we took our dispute to the Messenger of Allah ﷺ. The Messenger of Allah ﷺ said:"
+        },
+        {
+         "ar": "«شاهداك أو يمينه»، قلت: إذاً يحلِفُ ولا يُبالي، فقال رسولُ الله صلى الله عليه وسلم: «من حلف على يمينٍ يستحقُّ بها مالاً هو فيها فاجرٌ، لَقِي الله وهو عليه غضبان»،",
+         "en": "“Your two witnesses, or his oath.” I said: Then he will swear and not care. The Messenger of Allah ﷺ said: “Whoever swears an oath by which he gains wealth, lying in it, will meet Allah while He is angry with him.”"
+        },
+        {
+         "ar": "فأنزل الله تصديقَ ذلك، ثم اقترأ هذه الآية: {إِنَّ الَّذِينَ يَشْتَرُونَ بِعَهْدِ اللهِ وَأَيْمَانِهِمْ ثَمَناً قَلِيلاً} وفي رواية لمسلم بعد قوله: «إذاً يحلفُ» قال: «ليس لك إلاّ ذلك».",
+         "en": "Then Allah sent down confirmation of that, and he recited this verse: “Those who sell the covenant of Allah and their oaths for a small price…” [Āl ʿImrān 3:77]. In a narration of Muslim's, after his words, “Then he will swear,” he said: “You have nothing but that.”"
+        },
+        {
+         "ar": "وخرَّجه أيضاً مسلم بمعناه من حديث وائلِ بنِ حجر عن النَّبيِّ صلى الله عليه وسلم.",
+         "en": "Muslim also recorded something with its meaning from the hadith of Wāʾil ibn Ḥujr, from the Prophet ﷺ."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c8",
+     "pages": [
+      685,
+      686
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الترمذي من حديث العَرْزَمي عن عمرو بن شعيب، عن أبيه، عن جَدِّهِ، أنَّ النَّبيَّ صلى الله عليه وسلم،",
+         "en": "Al-Tirmidhī recorded, from the hadith of al-ʿArzamī, from ʿAmr ibn Shuʿayb, from his father, from his grandfather, that the Prophet ﷺ"
+        },
+        {
+         "ar": "قال في خطبته: «البيِّنةُ على المدَّعي، واليمينُ على المُدَّعى عليه»، وقال: في إسناده مقال، والعَرْزَميُّ يضعف في الحديث من قبل حفظه.",
+         "en": "said in his sermon: “The burden of proof is on the claimant, and the oath is on the defendant.” He said: Its chain has been criticised, and al-ʿArzamī is considered weak in hadith because of his memory."
+        },
+        {
+         "ar": "وخرَّج الدارقطني من رواية مسلم بن خالد الزنجي - وفيه ضعف -، عن ابن جريج، عن عمرو بن شعيب،",
+         "en": "Al-Dāraquṭnī recorded it through the narration of Muslim ibn Khālid al-Zanjī — who has some weakness — from Ibn Jurayj, from ʿAmr ibn Shuʿayb,"
+        },
+        {
+         "ar": "عن أبيه، عن جدِّه، عن النَّبيِّ صلى الله عليه وسلم، قال: «البيِّنة على المدَّعي، واليمين على من أنكر، إلاَّ في القسامة».",
+         "en": "from his father, from his grandfather, from the Prophet ﷺ, who said: “The burden of proof is on the claimant, and the oath is on the one who denies, except in the qasāmah [the fifty oaths sworn over a slain man].”"
+        },
+        {
+         "ar": "ورواه الحفاظ عن ابن جريج، عن عمرو مرسلاً.",
+         "en": "The ḥuffāẓ reported it from Ibn Jurayj, from ʿAmr, in mursal form."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c9",
+     "pages": [
+      686
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه أيضاً من رواية مجاهد عن ابن عمر، عن النَّبيِّ صلى الله عليه وسلم أنَّه قال في خطبته يومَ الفتح:",
+         "en": "He also recorded it through the narration of Mujāhid, from Ibn ʿUmar, that the Prophet ﷺ said in his sermon on the day of the Conquest:"
+        },
+        {
+         "ar": "«المُدَّعى عليه أولى باليمين إلا أن تقومَ بيِّنة»، وخرَّجه الطبراني، وعنده عن عبد الله بن عمرو بن العاص، وفي إسناده كلام.",
+         "en": "“The defendant has the better right to the oath, unless proof is established.” Al-Ṭabarānī recorded it too, in his version from ʿAbdullāh ibn ʿAmr ibn al-ʿĀṣ, and its chain has been criticised."
+        },
+        {
+         "ar": "وخرَّج الدارقطني هذا المعنى من وجوه متعددة ضعيفة.",
+         "en": "Al-Dāraquṭnī recorded this meaning by several weak routes."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c10",
+     "pages": [
+      686
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى حجاج الصَّوَّافُ، عن حميد بن هلال، عن زيد بن ثابت، قال: قضى رسول الله صلى الله عليه وسلم: «أيُّما رَجُلٍ طلبَ عندَ رجل طلبة، فإنَّ المطلوب هو أولى باليمين».",
+         "en": "Ḥajjāj al-Ṣawwāf reported from Ḥumayd ibn Hilāl, from Zayd ibn Thābit, who said: The Messenger of Allah ﷺ decreed: “Whenever a man makes a demand against another man, the one against whom it is made has the better right to the oath.”"
+        },
+        {
+         "ar": "خرَّجه أبو عبيد والبيهقي، وإسناده ثقات، إلا أنَّ حميدَ بنَ هلال ما أظنُّه لقيَ زيدَ بن ثابتٍ، وخرَّجه الدارقطني، وزاد فيه «بغير شهداء».",
+         "en": "Abū ʿUbayd and al-Bayhaqī recorded it, and its narrators are trustworthy, except that I do not think Ḥumayd ibn Hilāl met Zayd ibn Thābit. Al-Dāraquṭnī recorded it with the addition: “without witnesses.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c11",
+     "pages": [
+      686
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرّج النسائي من حديث ابن عباس، قال: جاء خصمان إلى النَّبيِّ صلى الله عليه وسلم، فادّعى أحدُهما على الآخر حقاً، فقال النَّبيُّ صلى الله عليه وسلم للمدَّعي:",
+         "en": "Al-Nasāʾī recorded, from the hadith of Ibn ʿAbbās, who said: Two disputants came to the Prophet ﷺ, and one of them claimed a right against the other. The Prophet ﷺ said to the claimant:"
+        },
+        {
+         "ar": "«أقم بيِّنَتَك»، فقال: يا رسول الله، ما لي بينة، فقال للآخر: «احلِف بالله الذي لا إله إلا هو: ما له عَلَيكَ أو عِندَكَ شيء».",
+         "en": "“Bring your proof.” He said: Messenger of Allah, I have no proof. So he said to the other: “Swear by Allah, besides whom there is no god, that he has nothing owed by you or held by you.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c12",
+     "pages": [
+      687
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد رُوي عن عمر أنَّه كتب إلى أبي موسى: أن البيِّنة على المدَّعي، واليمين على من أنكر.",
+         "en": "It has been narrated that ʿUmar wrote to Abū Mūsā: The burden of proof is on the claimant, and the oath is on the one who denies."
+        },
+        {
+         "ar": "وقضى بذلك زيد بن ثابت على عمر لأبيِّ بنِ كعب ولم ينكراه.",
+         "en": "Zayd ibn Thābit judged by this against ʿUmar in favour of Ubayy ibn Kaʿb, and neither of them objected."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c13",
+     "pages": [
+      687
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال قتادة: فصلُ الخطاب الذي أوتيه داود عليه السلام: هو أنَّ البيِّنة على المدَّعي، واليمين على من أنكر.",
+         "en": "Qatādah said: The decisive judgement (faṣl al-khiṭāb) given to Dāwūd (peace be upon him) is that the burden of proof is on the claimant, and the oath is on the one who denies."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c14",
+     "pages": [
+      687
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال ابنُ المنذر: أجمع أهلُ العلم على أن البيِّنَةَ على المدعي، واليمين على المدعى عليه، قال: ومعنى قوله: «البيِّنة على المدَّعِي» يعني: يستحقُّ بها ما ادَّعى،",
+         "en": "Ibn al-Mundhir said: The people of knowledge are agreed that the burden of proof is on the claimant and the oath is on the defendant. He said: The meaning of his words, “The burden of proof is on the claimant,” is that by it he becomes entitled to what he claimed,"
+        },
+        {
+         "ar": "لأنَّها واجبةٌ عليه يؤخذ بها، ومعنى قوله: «اليمين على المدَّعى عليه» أي: يبرأُ بها، لأنَّها واجبةٌ عليه، يؤخَذُ بها على كلِّ حالٍ. انتهى.",
+         "en": "since it is incumbent on him and he is held to it; and the meaning of his words, “The oath is on the defendant,” is that by it he is cleared, since it is incumbent on him and he is held to it in every case. End of quotation."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c15",
+     "pages": [
+      687
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد اختلف الفقهاءُ من أصحابنا والشَّافعية في تفسير المدَّعي والمدَّعى عليه.",
+         "en": "The jurists of our [Ḥanbalī] school and the Shāfiʿīs have differed over how to define the claimant and the defendant."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c16",
+     "pages": [
+      687
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فمنهم من قال: المدَّعي: هو الذي يُخلَّى وسكوته من الخصمين، والمدَّعى عليه: من لا يُخلى وسكوته منهما.",
+         "en": "Some said: The claimant is the one of the two disputants who is left alone if he keeps silent, and the defendant is the one of them who is not left alone if he keeps silent."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c17",
+     "pages": [
+      687
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنهم من قال: المدَّعِي: من يطلبُ أمراً خفيّاً على خلاف الأصل أو الظاهر، والمدَّعى عليها بخلافه.",
+         "en": "Others said: The claimant is the one who asserts something hidden, contrary to the original state of things or to what is apparent, and the defendant is the reverse."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c18",
+     "pages": [
+      687,
+      688
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وبَنَوا على ذلك مسألةً، وهي: إذا أسلمَ الزَّوجانِ الكافران قبلَ الدُّخول، ثم اختلفا، فقال الزوج: أسلمنا معاً، فنكاحُنا باقٍ، وقالت الزوجةُ:",
+         "en": "On this they built a question. If a disbelieving husband and wife become Muslim before consummation and then disagree, the husband saying, We became Muslim together, so our marriage stands, and the wife saying,"
+        },
+        {
+         "ar": "بل سبَق أحدُنا إلى الإسلام، فالنِّكاح مُنفسخٌ، فإن قلنا: المدعي من يُخلى وسكوته، فالمرأةُ هي المدَّعي، فيكون القولُ قولَ الزوج، لأنه مدَّعى عليه؛",
+         "en": "No, one of us became Muslim first, so the marriage is dissolved: if we say that the claimant is the one left alone when he keeps silent, the woman is the claimant, and the husband's word is accepted, because he is the defendant,"
+        },
+        {
+         "ar": "إذ لا يخلَّى وسكوته، وإن قلنا: المدعي من يدعي أمراً خفياً، فالمدعي هنا هو الزوج، إذ التقارن في الإسلام خلاف الظاهر، فالقولُ قولُ المرأة؛",
+         "en": "since he is not left alone if he keeps silent. But if we say that the claimant is the one who asserts something hidden, the claimant here is the husband, since becoming Muslim at the same moment is contrary to what is apparent; so the woman's word is accepted,"
+        },
+        {
+         "ar": "لأن الظَّاهر معها.",
+         "en": "because the apparent is on her side."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c19",
+     "pages": [
+      688
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما الأمينُ إذا ادعى التَّلف، كالمودَع إذا ادَّعى تلفَ الوديعة، فقد قيل: إنَّه مدَّعٍ؛",
+         "en": "As for a trustee who claims that the thing in his keeping was destroyed — such as a depositary who claims that the deposit was destroyed — some said that he is a claimant,"
+        },
+        {
+         "ar": "لأنَّ الأصلَ يُخالِفُ ما ادَّعاه، وإنَّما لم يحتج إلى بينةٍ، لأنَّ المودعَ ائتمنه، والائتمان يقتضي قَبُولَ قوله.",
+         "en": "because the original state of things is contrary to what he claims; and he does not need proof only because the depositor entrusted him, and entrusting him entails accepting his word."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c20",
+     "pages": [
+      688
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقيل: إنَّ المدعي الذي يحتاج إلى بيّنة هو المدعي، ليُعطى بدعواه مالَ قوم أو دماءهم، كما ذكر ذلك في الحديث، فأمَّا الأمينُ، فلا يدعي ليُعطى شيئاً، وقيل: بل هو مدَّعى عليه؛",
+         "en": "Others said: The claimant who needs proof is the one who claims in order to be given, by his claim, the wealth or the blood of others, as the hadith mentions; a trustee does not make a claim in order to be given anything. Others said: Rather, he is a defendant,"
+        },
+        {
+         "ar": "لأنَّه إذا سكت، لم يترك، بل لابدَّ له من ردِّ الجواب، والمودع مدَّعٍ؛",
+         "en": "because if he keeps silent he is not left alone but must give an answer; and the depositor is the claimant,"
+        },
+        {
+         "ar": "لأنَّه إذا سكت ترك؛",
+         "en": "because if he keeps silent he is left alone."
+        },
+        {
+         "ar": "ولو ادَّعى الأمينُ ردَّ الأمانة إلى من ائتمنه؛",
+         "en": "If the trustee claims to have returned the trust to the one who entrusted him with it,"
+        },
+        {
+         "ar": "فالأكثرون على أنَّ قوله مقبولٌ أيضاً كدعوى التَّلف.",
+         "en": "most hold that his word is accepted in this too, as with a claim of destruction."
+        },
+        {
+         "ar": "وقال الأوزاعي: لا يُقبل قوله، لأنَّه مدَّعٍ.",
+         "en": "Al-Awzāʿī said: His word is not accepted, because he is a claimant."
+        },
+        {
+         "ar": "وقال مالكٌ وأحمدُ في رواية: إنْ ثبت قبضُه للأمانة ببيِّنةٍ، لم يقبل قولُه في الرَّدِّ بدون البينة، ووَجَّهَ بعضُ أصحابنا ذلك بأنَّ الإشهادَ على دفع الحقوق الثابتة بالبيِّنةِ واجبٌ،",
+         "en": "Mālik, and Aḥmad in one reported position, said: If his receipt of the trust is established by proof, his word that he returned it is not accepted without proof. Some of the scholars of our school explained this on the grounds that calling witnesses to the handing over of rights established by proof is obligatory,"
+        },
+        {
+         "ar": "فيكونُ تركُه تفريطاً، فيجب به الضَّمانُ، وكذلك قال طائفةٌ منهم في دفع مال اليتيم إليه: لابدَّ له من بيِّنةٍ؛",
+         "en": "so that failing to do so is negligence, which makes him liable. A group of them likewise said of handing over an orphan's property to him: the guardian must have proof,"
+        },
+        {
+         "ar": "لأنَّ الله تعالى أمر بالإشهاد عليه فيكون واجباً.",
+         "en": "because Allah the Exalted commanded that witnesses be called to it, so it is obligatory."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c21",
+     "pages": [
+      688
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد اختلف الفقهاءُ في هذا الباب على قولين:",
+         "en": "The jurists have differed on this subject in two views."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c22",
+     "pages": [
+      688
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدهما: أنَّ البيِّنَة على المدَّعِي أبداً.",
+         "en": "One is that the burden of proof is always on the claimant"
+        },
+        {
+         "ar": "واليمين على المدَّعى عليه أبداً، وهو قولُ أبي حنيفة، ووافقه طائفةٌ مِنَ الفُقهاء والمحدِّثين كالبخاري، وطرَّدوا ذلك في كلِّ دعوى، حتى في القسامة، وقالوا: لا يحلِفُ إلاَّ المدَّعى عليه، ورأَوْا أنْ لا يُقضى بشاهد ويمين؛",
+         "en": "and the oath always on the defendant. This is the view of Abū Ḥanīfah, and a group of jurists and hadith scholars, such as al-Bukhārī, agreed with him. They applied it consistently to every claim, even to the qasāmah, saying that none but the defendant swears. They held that judgement is not to be given on one witness and an oath,"
+        },
+        {
+         "ar": "لأنَّ اليمينَ لا تكونُ على المدَّعي، ورأوا أنَّ اليمينَ لا تُرد على المدعي؛",
+         "en": "because the oath is never on the claimant; and they held that the oath is not to be turned back on the claimant,"
+        },
+        {
+         "ar": "لأنَّها لا تكونُ إلاَّ في جانب المُنكِر المدعى عليه.",
+         "en": "because it lies only on the side of the one who denies, the defendant."
+        },
+        {
+         "ar": "واستدلُّوا في مسألة القسامةِ بما رَوى سعيدُ بن عبيد، حدثنا بُشيرُ بن يسارٍ الأنصاريُّ، عن سهل بن أبي حثمة: أنَّه أخبرَه أنَّ نفراً منهمُ انطلقوا إلى خيبر، فتفرَّقوا فيها، فوجدوا أحدَهم قتيلاً، فذكر الحديثَ، وفيه:",
+         "en": "On the question of the qasāmah they cited what Saʿīd ibn ʿUbayd reported: Bushayr ibn Yasār al-Anṣārī told us, from Sahl ibn Abī Ḥathmah, that he told him that a party of their people set out for Khaybar and split up there, and they found one of them slain. He mentioned the hadith, which includes:"
+        },
+        {
+         "ar": "فقال النَّبيُّ صلى الله عليه وسلم: «تأتوني بالبيِّنةِ على من قتله»، قالوا: ما لنا بيِّنةٌ، قال: «فيحلفون»، قالوا: لا نرضى بأيمان اليهود، فكره النَّبيُّ صلى الله عليه وسلم أنْ يُطَلَّ دمُهُ، فوداه مئةً من إبل الصدقة. خرَّجه البخاري،",
+         "en": "The Prophet ﷺ said: “Bring me proof against whoever killed him.” They said: We have no proof. He said: “Then they will swear.” They said: We will not accept the oaths of the Jews. The Prophet ﷺ was loath to let his blood go unrequited, so he paid his blood money with a hundred of the camels of zakāh. Al-Bukhārī recorded it,"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c23",
+     "pages": [
+      689
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه مسلم مختصراً ولم يتمَّه، ولكن هذه الرواية تُعارِض رواية يحيى بن سعيد الأنصاري، عن بشير بن يسار، عن سهل بن أبي حثمة فذكر قصة القتيلِ، وقال فيه:",
+         "en": "and Muslim recorded it in abridged form without giving it in full. But this narration conflicts with the narration of Yaḥyā ibn Saʿīd al-Anṣārī, from Bushayr ibn Yasār, from Sahl ibn Abī Ḥathmah, who told the story of the slain man and said in it:"
+        },
+        {
+         "ar": "فذكروا لرسول الله صلى الله عليه وسلم مقتل عبد الله بن سهل، فقال رسول الله صلى الله عليه وسلم:",
+         "en": "They told the Messenger of Allah ﷺ of the killing of ʿAbdullāh ibn Sahl, and the Messenger of Allah ﷺ said:"
+        },
+        {
+         "ar": "«يُقسِمُ خمسون منكم على رجلٍ منهم، فيدفع برُمته»، وهذه هي الرواية المشهورة الثابتة المخرَّجة بلفظها بكمالها في \" الصحيحين \".",
+         "en": "“Let fifty of you swear against a man of them, and he will be handed over to you by his rope.” This is the well-known, established narration, recorded in full and in its own wording in the two Ṣaḥīḥs."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c24",
+     "pages": [
+      689
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد ذكر الأئمَّة الحُفَّاظُ أنّ رواية يحيى بن سعيدٍ أصحُّ من رواية سعيد بن عُبيدٍ الطَّائي، فإنَّه أجلُّ وأعلم وأحفظ، وهو من أهل المدينة، وهو أعلمُ بحديثهم من الكوفيِّين.",
+         "en": "The imams among the ḥuffāẓ have stated that the narration of Yaḥyā ibn Saʿīd is more authentic than that of Saʿīd ibn ʿUbayd al-Ṭāʾī, for he is greater, more learned and of better memory; he is one of the people of Madīnah, and knows their hadith better than the Kūfans do."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c25",
+     "pages": [
+      689
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد ذَكَر الإمام أحمد مخالفة سعيد بن عبيد ليحيي بن سعيد في هذا الحديث، فنفض يده، وقال: ذاك ليس بشيءٍ، رواه على ما يقول الكوفيون، وقال: أذْهَبُ إلى حديث المدنيين يحيى بن سعيد.",
+         "en": "Imam Aḥmad mentioned how Saʿīd ibn ʿUbayd differed from Yaḥyā ibn Saʿīd in this hadith, and waved his hand dismissively, saying: That is nothing; he narrated it in line with what the Kūfans say. And he said: I follow the hadith of the Madinans, Yaḥyā ibn Saʿīd."
+        },
+        {
+         "ar": "وقال النَّسائيُّ: لا نعلم أحداً تابعَ سعيد بن عُبيدٍ على روايته عن بشير بن يسار، وقال مسلم في كتاب \" التمييز \": لم يحفظه سعيدُ بنُ عُبيدٍ على وجهه؛",
+         "en": "Al-Nasāʾī said: We know of no one who corroborated Saʿīd ibn ʿUbayd in his narration from Bushayr ibn Yasār. Muslim said in his book al-Tamyīz: Saʿīd ibn ʿUbayd did not preserve it accurately,"
+        },
+        {
+         "ar": "لأنَّ جميع الأخبار فيها سؤال النَّبيِّ صلى الله عليه وسلم إيَّاهم قسامة خمسين يميناً،",
+         "en": "because in all the reports the Prophet ﷺ asks them for a qasāmah of fifty oaths,"
+        },
+        {
+         "ar": "وليس في شيء من أخبارهم أنَّ النَّبيَّ صلى الله عليه وسلم سألهم البيِّنَةَ، وترك سعيد القسامة، وتواطُؤُ الأخبارِ بخلافه يقضي عليه بالغلط، وقد خالفه يحيى بن سعيد.",
+         "en": "and in none of their reports does the Prophet ﷺ ask them for proof. Saʿīd left out the qasāmah, and the reports' agreement against him decides that he erred; and Yaḥyā ibn Saʿīd contradicted him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c26",
+     "pages": [
+      689
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال ابن عبد البرّ في رواية سعيد بن عبيد: هذه روايةُ أهل العراق عن بُشير بن يسار، وروايةُ أهل المدينة عنه أثبتُ، وهم به أقعدُ، ونقلُهم أصحُّ عند أهل العلم.",
+         "en": "Ibn ʿAbd al-Barr said of the narration of Saʿīd ibn ʿUbayd: This is the narration of the people of Iraq from Bushayr ibn Yasār. The narration of the people of Madīnah from him is more firmly established; they knew him more closely, and their transmission is more authentic in the view of the people of knowledge."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c27",
+     "pages": [
+      689,
+      690
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قلت: وسعيد بن عُبيد اختصر قصَّة القسامة، وهي محفوظةٌ في الحديث، وقد خرَّج النَّسائيُّ من حديث عمرو بن شعيب، عن أبيه،",
+         "en": "I say: Saʿīd ibn ʿUbayd abridged the story of the qasāmah, which is preserved in the hadith. Al-Nasāʾī recorded, from the hadith of ʿAmr ibn Shuʿayb, from his father,"
+        },
+        {
+         "ar": "عن جدّه: أنَّ النَّبيَّ - صلى الله عليه وسلم - طلب من ولي القتيل شاهِدين على من قتله، فقال: ومن أين أُصيبُ شاهدين؟",
+         "en": "from his grandfather, that the Prophet ﷺ asked the next of kin of the slain man for two witnesses against whoever had killed him. He said: And where am I to find two witnesses?"
+        },
+        {
+         "ar": "قال: «فتحلِفُ خمسين قسامةً»، قال: كيف أحلِفُ على ما لم أعلم؟ قال:",
+         "en": "He said: “Then swear fifty oaths of qasāmah.” He said: How can I swear to what I do not know? He said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c28",
+     "pages": [
+      690
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«فتستحلفُ منهم خمسين قسامة» فهذا الحديث يَجمَعُ به بين روايتي سعيد بن عُبيد، ويحيى بن سعيد، ويكونُ كلٌّ منهما تركَ بعض القصَّة، فترك سعيدٌ ذِكرَ قسامة المدَّعين، وترك يحيى ذكر البيِّنة قبل طلب القسامة، والله أعلم.",
+         "en": "“Then have fifty of them swear oaths of qasāmah.” This hadith reconciles the two narrations of Saʿīd ibn ʿUbayd and Yaḥyā ibn Saʿīd: each of them left out part of the story. Saʿīd left out the claimants' qasāmah, and Yaḥyā left out the request for proof before the qasāmah was asked for. And Allah knows best."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c29",
+     "pages": [
+      690
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما مسألة الشَّاهد مع اليمين، فاستدلَّ من أنكر الحكم بالشَّاهد واليمين بحديث: «شَاهِداك أو يمينه» وقوله صلى الله عليه وسلم: «ليس لك إلاَّ ذلك»،",
+         "en": "As for the question of one witness with an oath, those who reject judging by one witness and an oath cited the hadith, “Your two witnesses, or his oath,” and his words ﷺ, “You have nothing but that.”"
+        },
+        {
+         "ar": "وقد تكلم القاضي إسماعيل المالكي في هذه اللفظة، وقال: تفرَّد بها منصورٌ عن أبي وائل، وخالفه سائرُ الرُّواة، وقالوا: إنَّه سأله: «ألك بيِّنَةٌ أم لا؟»",
+         "en": "Al-Qāḍī Ismāʿīl the Mālikī criticised this wording, saying: Manṣūr alone narrated it from Abū Wāʾil, and all the other narrators contradicted him, saying that he asked him: “Do you have proof or not?”"
+        },
+        {
+         "ar": "والبيِّنَةُ لا تقف على الشَّاهدين فقط.",
+         "en": "And proof is not confined to two witnesses"
+        },
+        {
+         "ar": "بل تعمُّ سائر ما يُبيِّنُ الحقَّ.",
+         "en": "but covers everything that makes the truth clear."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c30",
+     "pages": [
+      690
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال غيرُه: يحتمل أنْ يريدَ بشاهديه كلَّ نوعين يشهدان للمدَّعي بصحَّة دعواه يتبيَّن بهما الحقّ، فيدخُلُ في ذلك شهادةُ الرجلين، وشهادةُ الرَّجُل مع المرأتين، وشهادةُ الواحد مع اليمين، وقد أقام الله سبحانه أيمانَ المدَّعي مقامَ الشُّهود في اللعان.",
+         "en": "Someone else said: By “your two witnesses” he may have meant any two kinds of evidence that testify for the claimant to the soundness of his claim and by which the truth becomes clear. That includes the testimony of two men, the testimony of a man with two women, and the testimony of one witness with an oath. Allah, Glorified is He, has made the claimant's oaths take the place of witnesses in liʿān, the mutual cursing of spouses."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c31",
+     "pages": [
+      690
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله في تمام الحديث: «ليس لك إلاّ ذلك»: لم يُرِد به النَّفيَ العامَّ، بل النَّفي الخاصَّ، وهو الذي أراده المدَّعي، وهو أنْ يكونَ القولُ قولَه بغير بيِّنةٍ،",
+         "en": "His words at the end of the hadith, “You have nothing but that,” were not meant as a general negation but as a specific one, negating what the claimant wanted: that his word be accepted without proof."
+        },
+        {
+         "ar": "فمنعه من ذلك، وأبى ذلك عليه، وكذلك قولُه في الحديث الآخر: «ولكن اليمين على المدَّعى عليه» إنَّما أريد بها اليمينُ المجردة عن الشهادة،",
+         "en": "So he denied him that and refused it to him. Likewise his words in the other hadith, “but the oath is on the defendant,” mean only the oath unaccompanied by testimony,"
+        },
+        {
+         "ar": "وأوَّلُ الحديث يدلُّ على ذلك، وهو قوله: «لو يُعطى النَّاسُ بدعواهم لادَّعى رجالٌ دماءَ رجال وأموالهم» فدلَّ على أن قولَه:",
+         "en": "as the beginning of the hadith shows, namely his words: “If people were given according to their claims, men would claim the blood and the wealth of men.” This shows that his words,"
+        },
+        {
+         "ar": "«اليمين على المُدَّعَى عليه» إنَّما هي اليمينُ القاطعة للمنازَعَةِ مع عدم البينة، وأما اليمينُ المثبتة للحقِّ، مع وجود الشهادة، فهذا نوعٌ آخر، وقد ثبت بسنَّةٍ أخرى.",
+         "en": "“The oath is on the defendant,” refer only to the oath that ends the dispute when there is no proof. The oath that establishes a right alongside testimony is another kind, and it is established by another sunnah."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c32",
+     "pages": [
+      691
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأمَّا ردُّ اليمين على المدَّعي، فالمشهورُ عن أحمد موافقةُ أبي حنيفة، وأنَّها لا تُرَدُّ، واستدلَّ أحمدُ بحديثِ: «اليمين على المدَّعى عليه»، وقال في رواية أبي طالب عنه: ما هو ببعيدٍ أن يقال له:",
+         "en": "As for turning the oath back on the claimant, the well-known position of Aḥmad agrees with Abū Ḥanīfah's: it is not turned back. Aḥmad cited the hadith, “The oath is on the defendant.” In the narration of Abū Ṭālib from him, he said: It is not far-fetched that he should be told:"
+        },
+        {
+         "ar": "تحلف وتستحقُّ، واختار ذلك طائفةٌ مِنْ متأخِّري الأصحاب، وهو قولُ مالك والشافعي وأبي عُبيد، ورُوي عن طائفة مِنَ الصَّحابة، وقد ورد فيه حديثٌ مرفوعٌ خرَّجه الدارقطني وفي إسناده نظر.",
+         "en": "Swear and be entitled. A group of the later scholars of our school chose this, and it is the view of Mālik, al-Shāfiʿī and Abū ʿUbayd. It is narrated from a group of the Companions, and there is a hadith on it as marfūʿ (attributed to the Prophet ﷺ) which al-Dāraquṭnī recorded, though its chain is open to question."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c33",
+     "pages": [
+      691
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال أبو عبيد: ليس هذا إزالةً لليمين عن موضعها، فإنَّ الإزالة أنْ لا يقضي باليمين على المطلوب،",
+         "en": "Abū ʿUbayd said: This is not removing the oath from its proper place, for removing it would mean not giving judgement by the oath against the defendant at all."
+        },
+        {
+         "ar": "فأمَّا إذا قُضِيَ بها عليه، فرضي بيمين صاحبه، كان هو الحاكم على نفسه بذلك، لأنَّه لو شاء، لحلف وبريء، وبطلَت عنه الدَّعوى.",
+         "en": "But when it is adjudged against him and he is content with the oath of the other party, he has passed judgement on himself; for had he wished, he would have sworn, been cleared, and had the claim against him dismissed."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c34",
+     "pages": [
+      691
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والقول الثاني في المسألة: أنَّه يُرجَّحُ جانبُ أقوى المتداعيين، وتجعل اليمينُ في جانبه، هذا مذهب مالكٍ، وكذا ذكر القاضي أبو يعلى في خلافه أنَّه مذهبُ أحمد، وعلى هذا تتوجَّهُ المسائلُ التي تقدَّم ذكرُها مِن الحكم بالقسامة والشَّاهِد واليمين،",
+         "en": "The second view on the question is that the side of the stronger of the two disputants is preferred, and the oath is placed on his side. This is the position of Mālik, and al-Qāḍī Abū Yaʿlā likewise stated in his Khilāf that it is the position of Aḥmad. On this basis the questions mentioned above — judging by the qasāmah and by one witness with an oath — are accounted for:"
+        },
+        {
+         "ar": "فإنَّ جانبَ المدعي في القسامة لمَّا قوي باللوث جُعِلَتْ اليمينُ في جانبه، وحُكِمَ له بها، وكذلك المدَّعي إذا أقام شاهداً، فإنه قوي جانبه، فحلف معه، وقُضي له.",
+         "en": "when the claimant's side in the qasāmah is strengthened by lawth (circumstantial evidence against the accused), the oath is placed on his side and judgement is given for him by it; and likewise when the claimant produces one witness, his side is strengthened, so he swears along with the witness and judgement is given for him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c35",
+     "pages": [
+      691
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهؤلاء لهم في الجواب عن قوله: «البينة على المدعي» طريقان: أحدهما: أنَّ هذا خُصَّ من هذا العموم بدليل.",
+         "en": "These scholars have two ways of answering the hadith, “The burden of proof is on the claimant.” One is that these cases are excepted from its general sense by evidence."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c36",
+     "pages": [
+      691
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثاني: أنَّ قوله: «البينة على المدعي» ليس بعامٍّ؛",
+         "en": "The second is that his words, “The burden of proof is on the claimant,” are not general,"
+        },
+        {
+         "ar": "لأنَّ المرادَ: على المدعي المعهود، وهو من لا حُجَّةَ له سوى الدَّعوى كما في قوله: «لو يُعطى الناسُ بدعواهم، لادَّعى رجالٌ دماءَ قومٍ وأموالهم»، فأمَّا المدَّعي الذي معه حجةٌ تقوِّي دعواه، فليس داخلاً في هذا الحديث.",
+         "en": "because what is meant is the familiar sort of claimant, one who has no argument but his claim, as in his words: “If people were given according to their claims, men would claim the blood and the wealth of others.” A claimant who has some argument strengthening his claim is not included in this hadith."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c37",
+     "pages": [
+      692
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وطريق ثالث وهو أنَّ البينة: كُلُّ ما بيَّن صحَّة دعوى المدَّعي، وشهِدَ بصدقِه، فاللوثُ مع القسامة بيِّنةٌ، والشَّاهد مع اليمين بيِّنةٌ.",
+         "en": "A third way is that proof is anything that makes clear the soundness of the claimant's claim and testifies to his truthfulness; so lawth with the qasāmah is proof, and one witness with an oath is proof."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c38",
+     "pages": [
+      692
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وطريق رابع سلكه بعضُهم، وهو الطَّعنُ في صحَّةِ هذه اللفظة، أعني قولَه:",
+         "en": "A fourth way, which some have taken, is to challenge the authenticity of this wording, I mean his words,"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c39",
+     "pages": [
+      692
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«البينة على المدَّعي»، وقالوا: إنَّما الثَّابتُ هو قوله: «اليمينُ على المدَّعى عليه».",
+         "en": "“The burden of proof is on the claimant,” and to say that what is established is only his words, “The oath is on the defendant.”"
+        },
+        {
+         "ar": "وقوله: «لو يُعطى الناسُ بدعواهم، لادَّعى قومٌ دماءَ قومٍ وأموالهم»، يدلُ على أنَّ مدَّعي الدَّمِ والمالِ لابدَّ له مِنْ بيِّنةٍ تدلُّ على ما ادَّعاه، ويدخل في عموم ذلك أنّ مَنِ ادَّعى على رجلٍ أنَّه قتل موروثَه،",
+         "en": "His words, “If people were given according to their claims, people would claim the blood and the wealth of others,” show that one who claims blood or wealth must have proof pointing to what he claims. Included in the general sense of this is that if someone claims that a man killed the person he inherits from,"
+        },
+        {
+         "ar": "وليس معه إلاّ قولُ المقتولِ عند موته: جرحني فلان، أنَّه لا يُكتفى بذلك، ولا يكونُ بمجرَّده لوثاً، وهذا قولُ الجمهور، خلافاً للمالكيَّة، وأنَّهم جعلوه لوثاً يقسم معه الأولياءُ، ويستحقُّون الدَّم.",
+         "en": "and he has nothing but the slain man's words at his death, “So-and-so wounded me,” that is not sufficient, and by itself it does not count as lawth. This is the view of the majority, contrary to the Mālikīs, who counted it as lawth with which the next of kin swear the qasāmah and become entitled to the blood."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c40",
+     "pages": [
+      692
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويدخل في عمومه أيضاً من قذف زوجته ولاعَنَها، فإنَّه لا يُباحُ دمُها بمجرَّدِ لعانها، وهو قولُ الأكثرين خلافاً للشافعي، واختار قولَه الجوزجانيُّ، لظاهر قوله عز وجل:",
+         "en": "Also included in its general sense is a man who accuses his wife of adultery and performs liʿān against her: her blood does not become lawful merely through the liʿān. This is the view of most, contrary to al-Shāfiʿī, and al-Jūzajānī chose his view because of the apparent sense of His words, Mighty and Majestic is He:"
+        },
+        {
+         "ar": "{وَيَدْرَأُ عَنْهَا الْعَذَابَ أَنْ تَشْهَدَ أَرْبَعَ شَهَادَاتٍ بِاللهِ}، والأوَّلون منهم من حمل العذابَ على الحبس، وقالوا: إنْ لم تلاعِن، حُبِست حتى تُقرَّ أو تُلاعِن، وفيه نظر.",
+         "en": "“And it will avert the punishment from her if she testifies four times by Allah…” [al-Nūr 24:8]. Some of the former group understood the punishment as imprisonment, saying: If she does not perform liʿān, she is imprisoned until she confesses or performs it. But this is open to question."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c41",
+     "pages": [
+      692
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولو ادَّعت امرأةٌ على رجل أنَّه استكرهها على الزِّنى، فالجمهورُ أنَّه لا يثبتُ بدعواها عليه شيء.",
+         "en": "If a woman claims that a man forced her into fornication, the majority hold that nothing is established against him by her claim."
+        },
+        {
+         "ar": "وقال أشهب من المالكية: لها الصداقُ بيمينها، وقال غيرُه منهم: لها الصَّداقُ بغيرِ يمين، هذا كلُّه إذا كانت ذاتَ قدر،",
+         "en": "Ashhab, of the Mālikīs, said: She is owed the dower on her oath; another of them said: She is owed the dower without an oath. All this applies when she is a woman of standing"
+        },
+        {
+         "ar": "وادَّعت ذلك على متَّهم تليقُ به الدَّعوى، وإنْ كان المرميُّ بذلك مِنَ أهل الصَّلاح، ففي حدِّها للقذف عن مالك روايتان.",
+         "en": "and makes the claim against a suspect of whom such a claim is plausible. If the man accused of it is one of the righteous, there are two reported positions of Mālik on whether she receives the prescribed punishment for slander."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c42",
+     "pages": [
+      692
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد كان شُريح وإياس بن معاوية يحكمان في الأموال المتنازع فيها بمجرَّد القرائن الدَّالَّةِ على صدق أحد المتداعيين، وقضى شُريحٌ في أولاد هرَّةٍ تداعاها امرأتان،",
+         "en": "Shurayḥ and Iyās ibn Muʿāwiyah used to judge disputed property merely by circumstantial signs pointing to the truthfulness of one of the two disputants. Shurayḥ judged the case of a cat's kitten claimed by two women,"
+        },
+        {
+         "ar": "كلٌّ منهما تقولُ هي ولد هِرَّتي، قال شريحُ: ألقِها مع هذه، فإن هي قرَّت ودرَّت واسبطرَّتْ فهي لها، وإن هي فرت وهرَّت وازبأرت، فليس لها.",
+         "en": "each saying: It is my cat's kitten. Shurayḥ said: Put it with this one. If she settles, lets her milk flow and stretches out, it is hers; but if she runs off, hisses and bristles, it is not hers."
+        },
+        {
+         "ar": "قال ابن قتيبة:",
+         "en": "Ibn Qutaybah said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c43",
+     "pages": [
+      693
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قوله: اسبطرّت، يريد: امتدَّت للإرضاع، وإزبأرت: اقشعرَّت وتنفَّشت.",
+         "en": "By isbaṭarrat he means that she stretched out to suckle it, and izbaʾarrat means that she bristled and fluffed up her fur."
+        },
+        {
+         "ar": "وكان يقضي بنحو ذلك أبو بكر الشامي من الشَّافعية، ورجح قولَه ابنُ عقيل مِنْ أصحابنا.",
+         "en": "Abū Bakr al-Shāmī, of the Shāfiʿīs, used to judge in a similar way, and Ibn ʿAqīl, of our school, preferred his view."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c44",
+     "pages": [
+      693
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد رُوي عن الشافعي وأحمد استحسان قولِ القافة في سرقة الأموال، والأخذ بذلك، ونقل ابنُ منصور عن أحمد: إذا قال صاحبُ الزَّرع:",
+         "en": "It is narrated from al-Shāfiʿī and Aḥmad that they approved of the word of trackers (qāfah) in cases of stolen property and acted on it. Ibn Manṣūr transmitted from Aḥmad: If the owner of the crops says,"
+        },
+        {
+         "ar": "أفسدت غنمُك زرعي باللَّيل، يُنظَرُ في الأثر، فإنْ لم يكن أثرُ غنمِه في الزَّرع، لابدَّ لصاحب الزَّرع من أنْ يجيء بالبيِّنَةِ.",
+         "en": "Your sheep spoiled my crops at night, the tracks are examined; if there are no tracks of his sheep in the crops, the owner of the crops must bring proof."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c45",
+     "pages": [
+      693
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال إسحاق بن راهويه كما قال أحمد؛",
+         "en": "Isḥāq ibn Rāhawayh said as Aḥmad said,"
+        },
+        {
+         "ar": "لأنَّه مدَّع، وهذا يدلُّ على اتِّفاقهما على الاكتفاء برؤية أثرِ الغنم، وأنَّ البيِّنَةَ إنَّما تُطلب عندَ عدم الأثر.",
+         "en": "because he is a claimant. This shows that they both agreed that seeing the sheep's tracks is enough, and that proof is required only when there are no tracks."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c46",
+     "pages": [
+      693
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله: «واليمين على المُدَّعى عليه» يدلُّ على أنَّ كلَّ مَنِ ادَّعى عليه دعوى، فأنكر، فإنَّ عليه اليمينَ، وهذا قولُ أكثرِ الفقهاء،",
+         "en": "His words, “and the oath is on the defendant,” show that anyone against whom a claim is made and who denies it must take the oath. This is the view of most jurists."
+        },
+        {
+         "ar": "وقال مالك: إنَّما تجبُ اليمينُ على المنكر إذا كان بين المتداعيين نوعُ مخالطة، خوفاً من أن يتبذَّل السُّفهاءُ الرؤساء بطلب أيمانهم.",
+         "en": "Mālik said: The oath is binding on the one who denies only if there has been some kind of dealing between the two disputants, for fear that foolish people would humiliate men of rank by demanding their oaths."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c47",
+     "pages": [
+      693
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعنده: لو ادَّعى على رجلٍ أنَّه غصبه، أو سرقَ منه، ولم يكن المدَّعى عليه متَّهماً بذلك، لم يُستَحلَف المدَّعى عليه، وحكي أيضاً عن القاسم بن محمد،",
+         "en": "In his view, if someone claims that a man seized his property or stole from him, and the defendant is not suspected of such things, the defendant is not made to swear. This is also related from al-Qāsim ibn Muḥammad"
+        },
+        {
+         "ar": "وحميد بن عبد الرحمان، وحكاه بعضُهم عن فقهاءِ المدينة السَّبعَةِ، فإن كان من أهل الفضل، وممَّن لا يُشارُ إليه بذلك، أُدِّبَ المدعي عندَ مالكٍ، ويُستدلُّ بقوله:",
+         "en": "and Ḥumayd ibn ʿAbd al-Raḥmān, and some related it from the Seven Jurists of Madīnah. If he is a man of virtue, one to whom no such thing would be imputed, the claimant is to be disciplined, in Mālik's view. From his words,"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c48",
+     "pages": [
+      693
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«اليمينُ على المدَّعى عليه» على أنَّ المدَّعي لا يمينَ عليه، وإنَّما عليه البيِّنَة، وهو قول الأكثرين.",
+         "en": "“The oath is on the defendant,” it is inferred that the claimant owes no oath, only proof. This is the view of most."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c49",
+     "pages": [
+      693
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروي عن عليٍّ أنَّه أحلَفَ المدَّعي مع بيِّنته أنَّ شهودَه شهِدُوا بحقٍ، وفعله أيضاً شُريح،",
+         "en": "It is narrated from ʿAlī that he made the claimant swear, along with his proof, that his witnesses had testified truly. Shurayḥ also did this,"
+        },
+        {
+         "ar": "وعبدُ الله بن عتبة وابن مسعود وابن أبي ليلى، وسوَّار العنبري وعُبيد الله بن الحسن، ومحمد بن عبد الله الأنصاري، وروي عن النَّخعي أيضاً.",
+         "en": "as did ʿAbdullāh ibn ʿUtbah, Ibn Masʿūd, Ibn Abī Laylā, Sawwār al-ʿAnbarī, ʿUbaydullāh ibn al-Ḥasan and Muḥammad ibn ʿAbdullāh al-Anṣārī; it is also narrated from al-Nakhaʿī."
+        },
+        {
+         "ar": "وقال إسحاق: إذا استرابَ الحاكمُ، وجب ذلك.",
+         "en": "Isḥāq said: If the judge has doubts, it becomes obligatory."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c50",
+     "pages": [
+      693,
+      694
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وسأل مهنا الإمام أحمد عن هذه المسألة، فقال أحمد: قد فعله عليٌ، فقال له: أيستقيمُ هذا؟",
+         "en": "Muhannā asked Imam Aḥmad about this question, and Aḥmad said: ʿAlī did it. He said to him: Is this right?"
+        },
+        {
+         "ar": "فقال: قد فعله عليٌّ، فأثبت القاضي هذا روايةً عن أحمد، لكنه حملَها على الدَّعوى على الغائب والصَّبيِّ، وهذا لا يصحُّ؛",
+         "en": "He said: ʿAlī did it. Al-Qāḍī [Abū Yaʿlā] therefore recorded this as a reported position of Aḥmad, but he restricted it to a claim against someone absent or against a child. That is not correct,"
+        },
+        {
+         "ar": "لأنَّ عليّاً إنَّما حلَّف المدَّعي مع بيِّنته على الحاضر معه، وهؤلاء يقولون: هذه اليمينُ لتقوية الدَّعوى إذا ضَعُفَتْ باسترابة الشُّهود كاليمين مع الشَّاهد الواحد.",
+         "en": "because ʿAlī made the claimant swear along with his proof against someone who was present with him. These scholars say: This oath is to strengthen the claim when it has been weakened by doubts about the witnesses, like the oath with a single witness."
+        },
+        {
+         "ar": "وكان بعضُ المتقدمين يُحلِّفُ الشُّهود إذا استرابهم أيضاً، ومنهم سوَّارٌ العنبريُّ قاضي البصرة، وجوَّز ذلك القاضي أبو يعلى من أصحابنا لوالي المظالم دونَ القضاة.",
+         "en": "Some early scholars also used to make the witnesses swear when they had doubts about them, among them Sawwār al-ʿAnbarī, judge of al-Baṣrah. Al-Qāḍī Abū Yaʿlā, of our school, allowed this to the official who hears complaints of injustice (wālī al-maẓālim), though not to judges."
+        },
+        {
+         "ar": "وقد قال ابنُ عباس في المرأة الشَّاهدة على الرَّضاع: إنَّها تُستحلَفُ، وأخذ به الإمام أحمد.",
+         "en": "Ibn ʿAbbās said of a woman who testifies about breastfeeding: She is made to swear. Imam Aḥmad adopted this."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c51",
+     "pages": [
+      694
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد دلَّ القرآن على استحلاف الشهودِ عند الارتياب بشهادتهم في الوصيَّة في السفر في قوله تعالى: {يَا أَيُّهَا الَّذِينَ آمَنُوا شَهَادَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ حِينَ الْوَصِيَّةِ اثْنَانِ ذَوَا عَدْلٍ مِنْكُمْ أَوْ آخَرَانِ مِنْ غَيْرِكُمْ} إلى قوله:",
+         "en": "The Qurʾān indicates that witnesses are to be made to swear when there is doubt about their testimony, in the case of a bequest made on a journey, in His words, Exalted is He: “O you who believe, the testimony between you, when death approaches one of you at the time of making a bequest, [shall be that of] two just men from among you, or two others from outside you…” up to His words:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c52",
+     "pages": [
+      694
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "{فَيُقْسِمَانِ بِاللهِ إِنِ ارْتَبْتُمْ لا نَشْتَرِي بِهِ ثَمَناً وَلَوْ كَانَ ذَا قُرْبَى وَلا نَكْتُمُ شَهَادَةَ اللهِ}، وهذه الآية لم يُنسخ العملُ بها عندَ جمهور السَّلف، وقد عملَ بها أبو موسى،",
+         "en": "“…and let them both swear by Allah, if you are in doubt: ‘We will not sell it for any price, even if he be a relative, nor will we conceal the testimony of Allah’” [al-Māʾidah 5:106]. In the view of most of the Salaf, acting on this verse has not been abrogated. Abū Mūsā acted on it,"
+        },
+        {
+         "ar": "وابن مسعود، وأفتى بها عليٌّ، وابن عباس، وهو مذهبُ شريح والنَّخعيّ وابن أبي ليلى، وسفيان والأوزاعي وأحمد وأبي عبيد وغيرهم، قالوا: تُقبل شهادة الكفَّار في وصيَّة المسلمين في السَّفر، ويُستحلَفان مع شهادتهما.",
+         "en": "as did Ibn Masʿūd, and ʿAlī and Ibn ʿAbbās gave fatwas by it. It is the position of Shurayḥ, al-Nakhaʿī, Ibn Abī Laylā, Sufyān, al-Awzāʿī, Aḥmad, Abū ʿUbayd and others. They said: The testimony of disbelievers is accepted concerning the bequests of Muslims made on a journey, and the two of them are made to swear along with their testimony."
+        },
+        {
+         "ar": "وهل يمينهما من باب تكميل الشهادة، فلا يُحكم بشهادتهما بدون يمين، أم من باب الاستظهار عند الريبة؟",
+         "en": "Is their oath part of completing the testimony, so that judgement is not given on their testimony without an oath, or is it a precaution taken when there is doubt?"
+        },
+        {
+         "ar": "وهذا محتمل، وأصحابنا جعلوها شرطاً، وهو ظاهرُ ما روي عن أبي موسى وغيره.",
+         "en": "Either is possible. The scholars of our school made it a condition, and that is the apparent sense of what is narrated from Abū Mūsā and others."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c53",
+     "pages": [
+      694
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد ذهب طائفة من السَّلف إلى أنَّ اليمين مع الشاهد الواحد هو من باب الاستظهار، فإن رأى الحاكمُ الاكتفاءَ بالشَّاهد الواحدِ، لبُروزِ عدالته، وظُهور صِدْقِه، اكتفى بشهادته بدون يمين الطالب.",
+         "en": "A group of the Salaf held that the oath with a single witness is a precaution: if the judge sees fit to be satisfied with the single witness, because his probity is evident and his truthfulness plain, he accepts his testimony without the claimant's oath."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c54",
+     "pages": [
+      694
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله: {فَإِنْ عُثِرَ عَلَى أَنَّهُمَا اسْتَحَقَّا إِثْماً فَآخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ الَّذِينَ اسْتَحَقَّ عَلَيْهِمُ الأَوْلَيَانِ فَيُقْسِمَانِ بِاللهِ لَشَهَادَتُنَا أَحَقُّ مِنْ شَهَادَتِهِمَا} يدلُّ على أنَّه إذا ظهر خللٌ في شهادة الكفّار،",
+         "en": "His words, “But if it is discovered that the two were guilty of sin, then let two others stand in their place, from those who have a claim against them, the two nearest of kin, and let them swear by Allah: ‘Our testimony is truer than their testimony’” [al-Māʾidah 5:107], show that if a flaw appears in the testimony of the disbelievers,"
+        },
+        {
+         "ar": "حلف أولياء الميت على خيانتهما وكذبهما، واستحقُّوا ما حلَفُوا عليه، وهذا قولُ مجاهدٍ وغيره من السَّلف.",
+         "en": "the heirs of the deceased swear to their treachery and lying, and become entitled to what they swore to. This is the view of Mujāhid and others among the Salaf."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c55",
+     "pages": [
+      695
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ووجه ذلك أنَّ اليمين في جانبِ أقوى المتداعيين، وقد قَوِيَتْ هاهنا دعوى الورثةِ بظهور كذب الشُّهود الكفَّار، فتردُّ اليمينُ على المدَّعين،",
+         "en": "The reasoning is that the oath lies on the side of the stronger of the two disputants. Here the heirs' claim has been strengthened by the disbelieving witnesses' lie coming to light, so the oath is turned back on the claimants:"
+        },
+        {
+         "ar": "ويحلفون مع اللوث، ويستحقُّون ما ادَّعوهُ، كما يحلفُ الأولياءُ في القسامة مع اللوث، ويستحقون بذلك الدِّيَةَ والدَّم أيضاً عندَ مالكٍ وأحمد وغيرهما.",
+         "en": "they swear along with the lawth and become entitled to what they claimed, just as the next of kin swear in the qasāmah along with lawth and thereby become entitled to the blood money — and to the blood as well, in the view of Mālik, Aḥmad and others."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c56",
+     "pages": [
+      695
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقضى ابنُ مسعود في رجل مسلم حضره الموت، فأوصى إلى رجلين مسلمين معه، وسلَّمهما ما معه مِنَ المال، وأشهدَ على وصيَّته كفّاراً، ثم قدم الوصيّان، فدفعا بعض المال إلى الورثة،",
+         "en": "Ibn Masʿūd judged the case of a Muslim man whom death overtook. He appointed two Muslim men who were with him as executors, handed over to them the property he had with him, and called disbelievers to witness his will. Then the two executors arrived and handed part of the property over to the heirs,"
+        },
+        {
+         "ar": "وكتما بعضَه، ثمَّ قدم الكفّارُ، فشهدوا عليهم بما كتموه منَ المال، فدعا الوصيَّينِ المسلِمَين، فاستحلفهما: ما دفع إليهما أكثرَ ممَّا دفعاه، ثم دعا الكفَّارَ، فشهدُوا وحلفوا على شهادتهم،",
+         "en": "concealing part of it. Then the disbelievers arrived and testified against them about the property they had concealed. So he summoned the two Muslim executors and made them swear that no more had been handed to them than they had handed over. Then he summoned the disbelievers, who testified and swore to their testimony."
+        },
+        {
+         "ar": "ثم أمر أولياءَ الميت أن يحلِفوا أنَّ ما شهدت به اليهودُ والنَّصارى حقٌّ، فحلَفُوا، فقضى على الوصِيَّين بما حلفوا عليه، وكان ذلك في خلافة عثمان، وتأوَّل ابنُ مسعود الآية على ذلك،",
+         "en": "Then he ordered the heirs of the deceased to swear that what the Jews and Christians had testified to was true. They swore, and he gave judgement against the two executors for what the heirs had sworn to. This was during the caliphate of ʿUthmān, and Ibn Masʿūd interpreted the verse in this way."
+        },
+        {
+         "ar": "فكأنَّه قابلَ بين يمين الأوصياء والشُّهود الكفار فأسقطهما، وبقي مع الورثة شهادة الكفَّار، فحلفُوا معها، واستحقُّوا، لأنَّ جانبَهم ترجَّح بشهادة الكفَّار لهم، فجعل اليمينَ مع أقوى المتداعيين، وقضى بها.",
+         "en": "It is as though he set the executors' oath against that of the disbelieving witnesses so that the two cancelled each other out. The heirs were left with the disbelievers' testimony, so they swore along with it and became entitled, because their side had been tipped in their favour by the disbelievers' testimony. So he placed the oath with the stronger of the two disputants and gave judgement by it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c57",
+     "pages": [
+      695
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "واختلف الفقهاء: هل يُستحلف في جميع حقوق الآدميين كقول الشافعي ورواية عن أحمد أو لا يستحلف إلاَّ فيما يقضي فيه بالنُّكول كرواية عن أحمد؟",
+         "en": "The jurists differed over whether an oath may be required in all the rights of human beings, as al-Shāfiʿī holds and as in one reported position of Aḥmad; or only in matters where judgement is given on refusal to swear, as in another reported position of Aḥmad;"
+        },
+        {
+         "ar": "أو لا يستحلف إلا فيما يصحّ بذله كما هوَ المشهور عن أحمد؟",
+         "en": "or only in what may validly be given up freely, as is the well-known position of Aḥmad;"
+        },
+        {
+         "ar": "أو لا يستحلف إلاَّ في كلِّ دعوى لا تحتاجُ إلى شاهدين كما حُكي عن مالك؟",
+         "en": "or only in every claim that does not need two witnesses, as is related from Mālik."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c58",
+     "pages": [
+      695,
+      696
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما حقوقُ الله عز وجل، فمن العلماءِ من قالَ: لا يُستحلفُ فيها بحالٍ، وهو قولُ أصحابنا وغيرهم، ونصَّ عليهِ أحمدُ في الزَّكاة، وبه قالَ طاووسٌ،",
+         "en": "As for the rights of Allah, the Mighty and Majestic, some scholars said that no oath may be required in them in any case. This is the view of the scholars of our school and others; Aḥmad stated it explicitly concerning zakāh, and Ṭāwūs held it,"
+        },
+        {
+         "ar": "والثوريُّ والحسن بن صالحٍ وغيرهم، وقال أبو حنيفة ومالكٌ واللَّيثُ والشافعيُّ: إذا اتُّهمَ، فإنَّه يُستحلَفُ، وكذا حُكي عن الشَّافعي فيمن تزوَّجَ مَنْ لا تحلُّ لهُ،",
+         "en": "as did al-Thawrī, al-Ḥasan ibn Ṣāliḥ and others. Abū Ḥanīfah, Mālik, al-Layth and al-Shāfiʿī said: If he is suspected, he is made to swear. The same is related from al-Shāfiʿī concerning someone who marries a woman unlawful for him"
+        },
+        {
+         "ar": "ثمَّ ادعى الجهلَ: أنَّه يُحلَّفُ على دعواه، وكذا قالَ إسحاق في طلاق السَّكران: يحلف أنَّه ما كان يعقل، وفي طلاق النَّاسي: يحلف على نسيانه،",
+         "en": "and then claims ignorance: he is made to swear to his claim. Isḥāq likewise said of a divorce pronounced while drunk: he swears that he was not in his right mind; and of a divorce pronounced in forgetfulness: he swears that he forgot."
+        },
+        {
+         "ar": "وكذا قال القاسمُ بن محمَّد وسالم بن عبد الله في رجل قال لامرأته: أنت طالقٌ: يحلفُ أنَّه ما أرادَ به الثَّلاثَ، وتردُّ إليه.",
+         "en": "Al-Qāsim ibn Muḥammad and Sālim ibn ʿAbdullāh likewise said of a man who says to his wife, You are divorced, that he swears he did not mean a triple divorce by it, and she is returned to him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c59",
+     "pages": [
+      696
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الطبراني من رواية أبي هارون العبدي، عن أبي سعيد الخدري قال: كان أُناسٌ مِنَ الأعراب يأتونَ بلحمٍ، فكان في أنفسنا منه شيءٌ،",
+         "en": "Al-Ṭabarānī recorded, through the narration of Abū Hārūn al-ʿAbdī, from Abū Saʿīd al-Khudrī, who said: Some Bedouins used to bring meat, and we had some misgivings about it."
+        },
+        {
+         "ar": "فذكرنا ذلك لرسول الله صلى الله عليه وسلم، فقال: «اجْهَدُوا أيمانَهم أنَّهم ذبحوها، ثمَّ اذكُروا اسمَ اللهِ وكلُوا» وأبو هارون ضعيف جداً.",
+         "en": "We mentioned this to the Messenger of Allah ﷺ, and he said: “Make them swear their most solemn oaths that they slaughtered it, then mention the name of Allah and eat.” Abū Hārūn is very weak."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c60",
+     "pages": [
+      696
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما المؤتمن في حُقوق الآدميِّينَ حيث قُبِلَ قولُه، فهل عليه يمين أم لا؟",
+         "en": "As for someone entrusted with the rights of human beings, in cases where his word is accepted, does he owe an oath or not?"
+        },
+        {
+         "ar": "فيه ثلاثةُ أقوال للعلماء: أحدها: لا يمينَ عليه؛",
+         "en": "Scholars have three views on this. The first is that he owes no oath,"
+        },
+        {
+         "ar": "لأنَّه صدَّقه بائتمانِه، ولا يمين مع التَّصديقِ، وبالقياسِ على الحاكم، وهذا قولُ الحارث العُكلي.",
+         "en": "because the owner declared him truthful by entrusting him, and no oath is required where he has been believed; also by analogy with the judge. This is the view of al-Ḥārith al-ʿUklī."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c61",
+     "pages": [
+      696
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثاني: عليه اليمينُ، لأنَّه منكر، فيدخل في عموم قوله: «واليمين على من أنكر»، وهو قولُ شريحٍ وأبي حنيفة والشَّافعيّ ومالكٍ في رواية، وأكثر أصحابنا.",
+         "en": "The second is that he owes the oath, because he is one who denies and so falls under the general sense of his words, “and the oath is on the one who denies.” This is the view of Shurayḥ, Abū Ḥanīfah, al-Shāfiʿī, Mālik in one reported position, and most of the scholars of our school."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c62",
+     "pages": [
+      696
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثالث: لا يمين عليه إلاّ أنْ يُتَّهَمَ وهو نصُّ أحمد، وقول مالك في رواية لما تقدم مِنَ ائتمانه.",
+         "en": "The third is that he owes no oath unless he is suspected. This is Aḥmad's explicit position, and the view of Mālik in one reported position, because he was entrusted, as mentioned above."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c63",
+     "pages": [
+      696
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأمَّا إذا قامت قرينةٌ تُنافي حالَ الائتمان، فقد اختلَّ معنى الائتمان.",
+         "en": "But when some sign appears that is at odds with a state of trust, the very meaning of trust has been undermined."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c64",
+     "pages": [
+      696
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله: «البينة على المدعي، واليمين على من أنكر» إنَّما أُريد به إذا ادَّعى على رجلٍ ما يدَّعيه لنفسه، وينكر أنَّه لمن ادَّعاه عليه، ولهذا قال في أوَّل الحديث: «لو يُعطى الناسُ بدعواهم، لادّعى رجالٌ دماء قومٍ وأموالهم»،",
+         "en": "His words, “The burden of proof is on the claimant, and the oath is on the one who denies,” refer only to the case where someone claims against a man something which that man claims for himself, denying that it belongs to the one claiming it against him. That is why he said at the start of the hadith: “If people were given according to their claims, men would claim the blood and the wealth of others.”"
+        },
+        {
+         "ar": "فأما من ادّعى ما ليس له مدَّعٍ لنفسه، منكر لدعواه، فهذا أسهلُ مِنَ الأوَّلِ، ولابدَّ للمدَّعي هنا من بيِّنةٍ، ولكن يُكتفى مِنَ البيِّنةِ هنا بما لا يُكتفى بها في الدَّعوى على المدَّعي لنفسه المنكر.",
+         "en": "Where, however, someone claims something with no one claiming it for himself and denying the claim, that is easier than the first case. The claimant here must still have proof, but less is accepted as proof here than in a claim against someone who claims the thing for himself and denies it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c65",
+     "pages": [
+      697
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويشهد لذلك مسائل:",
+         "en": "Several questions bear this out."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c66",
+     "pages": [
+      697
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "منها: اللقطة إذا جاء من وصفها، فإنَّها تُدفَعُ إليه بغير بيِّنَةٍ بالاتفاق، لكن منهم من يقول: يجوزُ الدَّفْعُ إذا غلب على الظَّنِّ صِدقُهُ،",
+         "en": "One is lost property: if someone comes and describes it, it is handed over to him without proof, by agreement. Some, however, say that it may be handed over if his truthfulness seems most likely,"
+        },
+        {
+         "ar": "ولا يجبُ، كقول الشافعي وأبي حنيفة، ومنهم من يقول: يجب دفعُها بذكرِ الوصف المطابق، كقول مالك وأحمد.",
+         "en": "but that this is not obligatory, as al-Shāfiʿī and Abū Ḥanīfah hold; and some say that it must be handed over once a matching description is given, as Mālik and Aḥmad hold."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c67",
+     "pages": [
+      697
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها: الغنيمة إذا جاء من يدَّعي منها شيئاً، وأنَّه كان له، واستولى عليه الكفّار، وأقام على ذلك ما يُبيِّنُ أنَّه له اكتُفي به، وسُئِلَ عن ذلك أحمد وقيل له: فيريد على ذلك بينة؟",
+         "en": "Another is spoils of war: if someone comes claiming that something among them was his and that the disbelievers had seized it, and he produces something that shows it is his, that is sufficient. Aḥmad was asked about this and was told: Does he need proof besides that?"
+        },
+        {
+         "ar": "قالَ: لابدَّ مِنْ بيانٍ يدلُّ على أنَّه لهُ، وإنْ علم ذَلِكَ، دفعه إليه الأمير.",
+         "en": "He said: There must be some evidence showing that it is his; and if that is known, the commander hands it over to him."
+        },
+        {
+         "ar": "وروى الخلال بإسناده عن الرُّكين بن الربيع، عن أبيه قالَ: جشر لأخي فرس بعين التمر، فرآه في مربط سعدٍ، فقالَ: فرسي، فقالَ سعد: ألك بينة؟",
+         "en": "Al-Khallāl reported, with his chain of narration, from al-Rukayn ibn al-Rabīʿ, from his father, who said: A horse of my brother's strayed at ʿAyn al-Tamr, and he saw it among Saʿd's tethered horses. He said: That is my horse. Saʿd said: Do you have proof?"
+        },
+        {
+         "ar": "قال: لا، ولكن أَدْعُوه، فَيُحَمْمِمُ، فدعاه فحمحم، فأعطاه إيّاه، وهذا يحتمل أنه كان لحق بالعدوِّ، ثم ظهر عليه المسلمون، ويحتمل أنَّه عرف أنه ضالٌّ، فوضع بين الدواب الضالة، فيكون كاللقطة.",
+         "en": "He said: No, but I will call it and it will whinny. He called it and it whinnied, so he gave it to him. This may be because it had gone over to the enemy and the Muslims then captured it; or it may be that he knew it was a stray and it had been put among the stray animals, so that it is like lost property."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h33.c68",
+     "pages": [
+      697
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها الغصوب إذا علم ظلم الولاة، وطلب ردَّها من بيت المال، قال أبو الزناد:",
+         "en": "Another is property seized by force, when the injustice of the governors is known and the owner asks for it to be returned from the treasury. Abū al-Zinād said:"
+        },
+        {
+         "ar": "كان عمرُ بنُ عبد العزيز يردُّ المظالم إلى أهلها بغير البينة القاطعة، كان يكتفي باليسير، إذا عرف وجه مَظْلمةِ الرَّجُلِ ردَّها عليه، ولم يكلِّفْهُ تحقيقَ البيِّنةِ،",
+         "en": "ʿUmar ibn ʿAbd al-ʿAzīz used to return wrongfully taken property to its owners without conclusive proof. He was satisfied with little: if he recognised how a man had been wronged, he gave it back to him without requiring him to establish proof,"
+        },
+        {
+         "ar": "لما يعرف مِنْ غشم الوُلاة قبله على الناس، ولقد انفد بيت مال العراق في ردِّ المظالم حتى حُمِلَ إليها مِنَ الشَّامِ،",
+         "en": "because he knew how the governors before him had oppressed the people. He exhausted the treasury of Iraq in returning wrongfully taken property, until money had to be carried there from al-Shām."
+        },
+        {
+         "ar": "وذكر أصحابُنا أنَّ الأموالَ المغصوبةَ مع قُطَّاعِ الطَّريق واللصوص يُكتفى مِن مدَّعيها بالصِّفَة كاللقطة، ذكره القاضي في خلافه، وأنَّه ظاهرُ كلام أحمد.",
+         "en": "The scholars of our school have stated that, for property seized and found with highway robbers and thieves, a description from the one who claims it is sufficient, as with lost property. Al-Qāḍī mentioned this in his Khilāf, saying that it is the apparent sense of Aḥmad's words."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}

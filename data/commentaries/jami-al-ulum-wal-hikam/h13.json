@@ -1,0 +1,822 @@
+{
+ "id": "h13",
+ "number": 13,
+ "standard_number": 13,
+ "collection": "nawawi",
+ "heading": {
+  "ar": "الحديث الثالث عشر",
+  "en": "Hadith 13"
+ },
+ "title": {
+  "ar": "يحب لأخيه ما يحب لنفسه",
+  "en": "Love for Your Brother What You Love for Yourself"
+ },
+ "pages": {
+  "start": 282,
+  "end": 290
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.n1",
+     "pages": [
+      282
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنْ أنسِ بنِ مالكٍ رضي الله عنه عَنِ النَّبيِّ صلى الله عليه وسلم قالَ: «لا يُؤْمِنُ أَحَدُكُمْ حتَّى يُحِبَّ لأَخيهِ ما يُحِبُّ لِنَفسه».",
+         "en": "Anas ibn Mālik (may Allah be pleased with him) reported that the Prophet ﷺ said: “None of you truly believes until he loves for his brother what he loves for himself.”"
+        },
+        {
+         "ar": "رواهُ البُخاريُّ ومُسلِمٌ.",
+         "en": "Al-Bukhārī and Muslim reported it."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c1",
+     "pages": [
+      282
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "هذا الحديث خرَّجاه في \" الصحيحين \" من حديث قتادة، عن أنسٍ، ولفظُ مسلم: «حَتَّى يُحِبَّ لجاره أو لأخيه» بالشَّكِّ.",
+         "en": "This hadith is recorded in the two Ṣaḥīḥs from the hadith of Qatādah, from Anas. Muslim's wording is “until he loves for his neighbour — or for his brother —”, with the narrator unsure which he said."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c2",
+     "pages": [
+      282
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه الإمام أحمد، ولفظه: «لا يبلغُ عبدٌ حقيقةَ الإيمان حتَّى يحبَّ للناس ما يُحِبُّ لنفسه من الخِير».",
+         "en": "Imam Aḥmad recorded it with the wording: “A servant does not attain the reality of faith until he loves for people the good that he loves for himself.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c3",
+     "pages": [
+      282,
+      283
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذه الرواية تبيِّنُ معنى الرِّواية المخرجة في \" الصحيحين \"، وأنَّ المرادَ بنفي الإيمان نفيُّ بلوغِ حقيقته ونهايته، فإنَّ الإيمانَ كثيراً ما يُنفى لانتفاءِ بعض أركانِهِ وواجباته، كقوله صلى الله عليه وسلم:",
+         "en": "This narration explains the meaning of the one recorded in the two Ṣaḥīḥs: what is denied is that he has reached the reality and the full extent of faith. Faith is often denied of someone when some of its pillars and obligations are missing, as in his words ﷺ:"
+        },
+        {
+         "ar": "«لا يزني الزَّاني حِينَ يَزني وهو مؤمن، ولا يسرقُ السارقُ حين يسرقُ وهو مؤمنٌ، ولا يشربُ الخمرَ حين يشربها وهو مؤمنٌ»، وقوله: «لا يُؤْمِنُ مَنْ لا يَأْمَنُ جَارُهُ بوائِقَه».",
+         "en": "“The fornicator is not a believer at the moment he fornicates, the thief is not a believer at the moment he steals, and the drinker is not a believer at the moment he drinks wine,” and his words: “He does not believe whose neighbour is not safe from his harm.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c4",
+     "pages": [
+      283
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد اختلف العلماءُ في مرتكب الكبائر: هل يُسمَّى مؤمناً ناقصَ الإيمان، أم لا يُسمى مؤمناً؟",
+         "en": "Scholars have differed over whoever commits major sins: is he to be called a believer whose faith is deficient, or is he not to be called a believer at all,"
+        },
+        {
+         "ar": "وإنَّما يُقالُ: هو مسلم، وليس بمؤمنٍ على قولين، وهما روايتان عن الإمام أحمد.",
+         "en": "so that one says only, “He is a Muslim, not a believer”? There are two views on this, and they are two reported positions of Imam Aḥmad."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c5",
+     "pages": [
+      283
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فأمَّا من ارتكبَ الصَّغائرَ، فلا يزول عنه اسم الإيمان بالكلية، بل هو مؤمنٌ ناقصُ الإيمان، ينقص من إيمانه بحسب ما ارتكبَ من ذلك.",
+         "en": "As for whoever commits minor sins, the name of faith does not leave him altogether. He is a believer whose faith is deficient, and his faith decreases in proportion to what he has committed."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c6",
+     "pages": [
+      283
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والقولُ بأنَّ مرتكب الكبائر يقال له: مؤمنٌ ناقصُ الإيمانِ مرويٌّ عن جابرِ بنِ عبد الله، وهو قولُ ابنِ المبارك وإسحاق وأبي عُبيد وغيرهم،",
+         "en": "The view that one who commits major sins is called a believer whose faith is deficient is narrated from Jābir ibn ʿAbdullāh, and it is the view of Ibn al-Mubārak, Isḥāq, Abū ʿUbayd and others."
+        },
+        {
+         "ar": "والقول بأنَّه مسلمٌ، ليس بمؤمنٍ مرويٌّ عن أبي جعفر محمد بن علي، وذكر بعضُهم أنَّه المختارُ عندَ أهلِ السُّنَّةِ.",
+         "en": "The view that he is a Muslim and not a believer is narrated from Abū Jaʿfar Muḥammad ibn ʿAlī, and some have stated that it is the preferred view among Ahl al-Sunnah."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c7",
+     "pages": [
+      284
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال ابنُ عباس: الزاني يُنزَعُ منه نورُ الإيمان.",
+         "en": "Ibn ʿAbbās said: The light of faith is stripped from the fornicator."
+        },
+        {
+         "ar": "وقال أبو هريرة: يُنْزَعُ منه الإيمانُ، فيكون فوقَه كالظُّلَّةِ، فإذا تابَ عاد إليه.",
+         "en": "Abū Hurayrah said: Faith is stripped from him and stays above him like a canopy; when he repents, it returns to him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c8",
+     "pages": [
+      284
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال عبدُ الله بن رواحة وأبو الدرداء: الإيمانُ كالقميصِ، يَلبَسُه الإنسانُ تارةً، ويخلعه أخرى، وكذا قال الإمام أحمد رحمه الله وغيره، والمعنى:",
+         "en": "ʿAbdullāh ibn Rawāḥah and Abū al-Dardāʾ said: Faith is like a shirt, which a person puts on at one time and takes off at another. Imam Aḥmad (may Allah have mercy on him) and others said the same. The meaning is"
+        },
+        {
+         "ar": "أنَّه إذا كمَّل خصالَ الإيمان لبسه، فإذا نقصَ منها شيئاً نزعه، وكلُّ هذا إشارةٌ إلى الإيمان الكامل التَّام الذي لا يَنْقُصُ من واجباته شيء.",
+         "en": "that when he completes the traits of faith he puts it on, and when he falls short in any of them he takes it off. All of this refers to complete and perfect faith, from whose obligations nothing is missing."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c9",
+     "pages": [
+      284
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والمقصودُ أنَّ مِن جملة خِصال الإيمانِ الواجبةِ أنْ يُحِبَّ المرءُ لأخيه المؤمن ما يحبُّ لنفسه، ويكره له ما يكرهه لنفسه، فإذا زالَ ذلك عنه، فقد نَقَصَ إيمانُهُ بذلك.",
+         "en": "The point is that among the obligatory traits of faith is that a person love for his believing brother what he loves for himself, and dislike for him what he dislikes for himself. If that leaves him, his faith is diminished by it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c10",
+     "pages": [
+      284
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد رُوِيَ أنَّ النَّبيَّ صلى الله عليه وسلم قال لأبي هريرة: «أَحِبَّ للنَّاسِ ما تُحبُّ لنفسِك تكن مسلماً» خرَّجه الترمذي وابن ماجه.",
+         "en": "It has been narrated that the Prophet ﷺ said to Abū Hurayrah: “Love for people what you love for yourself, and you will be a Muslim.” Al-Tirmidhī and Ibn Mājah recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c11",
+     "pages": [
+      284
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد من حديث معاذٍ: أنَّه سألَ النَّبيَّ صلى الله عليه وسلم عن أفضلِ الإيمان، قال: «أفضلُ الإيمانِ أنْ تُحِبَّ للهِ وتُبغِضَ للهِ، وتُعْمِلَ لسانَك في ذكر الله»، قال: وماذا يا رسول الله؟",
+         "en": "Imam Aḥmad recorded, from the hadith of Muʿādh, that he asked the Prophet ﷺ about the best of faith, and he said: “The best of faith is that you love for Allah's sake and hate for Allah's sake, and keep your tongue busy with the remembrance of Allah.” He asked: And what else, O Messenger of Allah?"
+        },
+        {
+         "ar": "قال: «أنْ تُحِبَّ للنَّاس ما تُحبُّ لنفسك، وتكرَه لهم ما تكرهُ لنفسك، وأنْ تقول خيراً أو تَصْمُت».",
+         "en": "He said: “That you love for people what you love for yourself, dislike for them what you dislike for yourself, and say what is good or keep silent.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c12",
+     "pages": [
+      284
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد رتَّب النَّبيُّ صلى الله عليه وسلم دخولَ الجنَّة على هذه الخَصْلَةِ؛",
+         "en": "The Prophet ﷺ made entry into Paradise depend on this trait."
+        },
+        {
+         "ar": "ففي \" مسند الإمام أحمد \" رحمه الله عن يزيد بن أسدٍ القَسْري، قال: قال لي رسول الله صلى الله عليه وسلم: «أتحبُّ الجنَّةَ» قلت: نعم، قال: «فأحبَّ لأخيكَ ما تُحبُّ لنفسك».",
+         "en": "In the Musnad of Imam Aḥmad (may Allah have mercy on him), Yazīd ibn Asad al-Qasrī said: The Messenger of Allah ﷺ said to me: “Do you love Paradise?” I said: Yes. He said: “Then love for your brother what you love for yourself.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c13",
+     "pages": [
+      285
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح مسلم \" من حديث عبد الله بن عمرو بن العاص، عن النَّبيِّ صلى الله عليه وسلم قال:",
+         "en": "In Ṣaḥīḥ Muslim, from the hadith of ʿAbdullāh ibn ʿAmr ibn al-ʿĀṣ, the Prophet ﷺ said:"
+        },
+        {
+         "ar": "«مَنْ أحبَّ أنْ يُزَحْزَحَ عن النَّارِ ويُدخَلَ الجنة فلتدركه منيَّتُه وهو يؤمنُ باللهِ واليومِ الآخرِ، ويأتي إلى الناسِ الذي يحبُّ أنْ يُؤْتَى إليه».",
+         "en": "“Whoever would love to be kept away from the Fire and admitted into Paradise, let his death come to him while he believes in Allah and the Last Day, and let him treat people as he would love to be treated.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c14",
+     "pages": [
+      285
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفيه أيضاً عن أبي ذرٍّ، قال: قال لي رسول الله صلى الله عليه وسلم: «يا أبا ذرٍّ، إني أراكَ ضعيفاً، وإني أحبُّ لك ما أُحبُّ لنفسي، لا تَأَمَّرَنَّ على اثنين، ولا تولَّينَّ مالَ يتيم».",
+         "en": "Also in it, Abū Dharr said: The Messenger of Allah ﷺ said to me: “Abū Dharr, I see that you are weak, and I love for you what I love for myself. Do not take command over even two people, and do not take charge of an orphan's property.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c15",
+     "pages": [
+      285
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وإنَّما نهاه عن ذلك، لما رأى من ضعفه، وهو صلى الله عليه وسلم يحبُّ هذا لكلِّ ضعيفٍ، وإنَّما كان يتولَّى أمورَ النَّاسِ؛",
+         "en": "He forbade him this only because of the weakness he saw in him, and he ﷺ would want the same for every weak person. He himself took charge of people's affairs only"
+        },
+        {
+         "ar": "لأنَّ الله قوَّاه على ذلك، وأمره بدعاء الخَلْقِ كلِّهم إلى طاعته، وأنْ يتولَّى سياسةَ دينهم ودنياهم.",
+         "en": "because Allah had given him the strength for it and commanded him to call all creation to His obedience and to take charge of governing their religion and their worldly affairs."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c16",
+     "pages": [
+      285
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد رُوِيَ عن عليٍّ قال: قال لي النَّبيُّ صلى الله عليه وسلم: «إنِّي أرضى لك ما أرضى لِنفسي، وأكره لك ما أكرهُ لنفسي، لا تقرأ القرآن وأنتَ جنبٌ، ولا وأنتَ راكعٌ، ولا وأنت ساجد».",
+         "en": "It has been narrated that ʿAlī said: The Prophet ﷺ said to me: “I am pleased for you with what I am pleased with for myself, and I dislike for you what I dislike for myself. Do not recite the Qurʾān while you are in a state of major ritual impurity (janābah), nor while bowing, nor while prostrating.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c17",
+     "pages": [
+      286
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكان محمَّدُ بنُ واسعٍ يبيع حماراً له، فقال له رجل: أترضاه لي؟",
+         "en": "Muḥammad ibn Wāsiʿ was once selling a donkey of his, and a man asked him: Would you be happy with it for me?"
+        },
+        {
+         "ar": "قال: لو رضيته لم أبعه، وهذه إشارةٌ منه إلى أنَّه لا يرضى لأخيه إلاَّ ما يرضى لنفسه، وهذا كلُّه من جملة النصيحة لعامة المسلمين التي هي مِنْ جملة الدين كما سبق تفسيرُ ذلك في موضعه.",
+         "en": "He said: If I were happy with it, I would not be selling it. By this he indicated that he would be happy for his brother only with what he would be happy with for himself. All of this is part of the sincere counsel (naṣīḥah) owed to the generality of Muslims, which is itself part of the religion, as was explained in its place."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c18",
+     "pages": [
+      286
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد ذكرنا فيما تقدَّم حديثَ النعمان بنِ بشير، عن النَّبيِّ صلى الله عليه وسلم، قال: «مَثَلُ المؤمنينَ في توادِّهم وتعاطفهم وتراحمهم مثلُ الجسدِ، إذا اشتكى منه عُضوٌ،",
+         "en": "We have already cited the hadith of al-Nuʿmān ibn Bashīr, from the Prophet ﷺ: “The likeness of the believers in their mutual love, affection and mercy is that of a single body: when one part of it is in pain,"
+        },
+        {
+         "ar": "تداعى له سائرُ الجسدِ بالحُمى والسَّهر» خرَّجاه في \" الصحيحين \"، وهذا يدلُّ على أنَّ المؤمنَ يسوؤه ما يسوءُ أخاه المؤمن، ويُحزِنُه ما يُحزنه.",
+         "en": "the rest of the body shares its fever and sleeplessness.” It is recorded in the two Ṣaḥīḥs. This shows that the believer is troubled by what troubles his believing brother and grieved by what grieves him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c19",
+     "pages": [
+      286
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وحديثُ أنس الذي نتكلَّمُ الآن فيه يدلُّ على أنَّ المؤمن يَسُرُّهُ ما يَسرُّ أخاه المؤمن، ويُريد لأخيه المؤمن ما يُريده لنفسه من الخير،",
+         "en": "The hadith of Anas that we are now discussing shows that the believer is gladdened by what gladdens his believing brother, and wants for his believing brother the good that he wants for himself."
+        },
+        {
+         "ar": "وهذا كُلُّه إنَّما يأتي من كمالِ سلامةِ الصدر من الغلِّ والغشِّ والحسدِ، فإنَّ الحسدَ يقتضي أنْ يكره الحاسدُ أنْ يَفوقَه أحدٌ في خير، أو يُساوَيه فيه؛",
+         "en": "All of this comes only from a heart that is wholly free of rancour, deceit and envy. Envy makes the envier hate that anyone should surpass him in some good, or even equal him in it,"
+        },
+        {
+         "ar": "لأنَّه يُحبُّ أنْ يمتازَ على الناسِ بفضائله، وينفرِدَ بها عنهم، والإيمانُ يقتضي خلافَ ذلك، وهو أنْ يَشْرَكَه المؤمنون كُلُّهم فيما أعطاه الله من الخير من غير أنْ ينقص عليه منه شيء.",
+         "en": "because he loves to stand out from people by his merits and to keep them to himself. Faith requires the opposite: that all the believers should share with him in the good Allah has given him, without any of it being lessened for him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c20",
+     "pages": [
+      286
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد مدح الله تعالى في كتابه من لا يُريد العلوَّ في الأرض ولا الفساد، فقال:",
+         "en": "Allah the Exalted has praised in His Book those who desire neither exaltation in the land nor corruption. He said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c21",
+     "pages": [
+      286
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "{تلْكَ الدَّارُ الآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لا يُرِيدُونَ عُلُوّاً فِي الأَرْضِ وَلا فَسَاداً}.",
+         "en": "“That is the Home of the Hereafter: We grant it to those who desire neither exaltation in the land nor corruption” [al-Qaṣaṣ 28:83]."
+        },
+        {
+         "ar": "وروى ابنُ جريرٍ بإسنادٍ فيه نظرٌ عن عليٍّ رضي الله عنه، قال:",
+         "en": "Ibn Jarīr narrated, with a chain that is open to question, that ʿAlī (may Allah be pleased with him) said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c22",
+     "pages": [
+      286
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "إنَّ الرَّجُلَ ليُعْجِبهُ مِن شِراكِ نعله أنْ يكونَ أجود من شراكِ صاحبه فَيدْخُلُ في قوله: {تِلْكَ الدَّارُ الآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لا يُرِيدُونَ عُلُوّاً فِي الأَرْضِ وَلا فَسَاداً وَالْعَاقِبَةُ لِلْمُتَّقِينَ}.",
+         "en": "A man may be delighted that the strap of his sandal is finer than his companion's, and so he comes under His words: “That is the Home of the Hereafter: We grant it to those who desire neither exaltation in the land nor corruption, and the [good] outcome belongs to the God-fearing” [al-Qaṣaṣ 28:83]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c23",
+     "pages": [
+      287
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكذا رُوي عن الفضيل بنِ عياض في هذه الآية، قال: لا يُحِبُّ أنْ يكونَ نعلُه أجودَ من نعل غيره، ولا شِراكُهُ أجودَ مِنْ شراك غيره.",
+         "en": "Something similar is narrated from al-Fuḍayl ibn ʿIyāḍ on this verse. He said: [Such a person] does not love for his sandals to be finer than anyone else's, nor his sandal straps finer than anyone else's."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c24",
+     "pages": [
+      287
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد قيل: إنَّ هذا محمولٌ على أنَّه إذا أراد الفخر على غيره لا مجرَّد التجمل، قال عكرمةُ وغيرُه من المفسرين في هذه الآية: العلوُّ في الأرض: التكبُّر، وطلبُ الشرف والمنْزلة عند ذي سلطانها، والفساد: العمل بالمعاصي.",
+         "en": "It has been said that this applies when he wants to boast over others, not when he merely wishes to look well. ʿIkrimah and other exegetes said about this verse: Exaltation in the land is arrogance and seeking honour and standing with whoever holds power in it; corruption is acting in disobedience."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c25",
+     "pages": [
+      287
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد ورد ما يَدُلُّ على أنَّه لا يأثم مَنْ كره أنْ يفوقَه من الناسِ أحدٌ في الجمال، فخرَّج الإمامُ أحمدُ رحمه الله والحاكم في \" صحيحه \" من حديث ابن مسعود رضي الله عنه، قال:",
+         "en": "There are reports indicating that one who dislikes being surpassed by anyone in good looks is not sinning. Imam Aḥmad (may Allah have mercy on him) and al-Ḥākim in his Ṣaḥīḥ recorded, from the hadith of Ibn Masʿūd (may Allah be pleased with him), that he said:"
+        },
+        {
+         "ar": "أتيتُ النَّبيَّ صلى الله عليه وسلم وعنده مالكُ بن مرارةَ الرَّهَاوِيُّ، فأدركتُه وهو يقول: يَا رسولَ الله، قد قُسِمَ لي من الجمال ما ترى، فما أحبُّ أحداً من النَّاس فضلني بشِراكَيْن فما فوقهما، أليس ذلك هو من البَغي؟",
+         "en": "I came to the Prophet ﷺ while Mālik ibn Murārah al-Rahāwī was with him, and I arrived as he was saying: O Messenger of Allah, I have been given the share of good looks that you see, and I would not like anyone at all to outdo me by so much as a pair of sandal straps or more. Is that not wrongful pride (baghy)?"
+        },
+        {
+         "ar": "فقال: «لا، ليس ذلك بالبغي، ولكن البغي من بَطِرَ - أو قال: سفه - الحقَّ وغَمط الناس».",
+         "en": "He said: “No, that is not wrongful pride. Wrongful pride is to spurn — or he said: to scorn — the truth and to look down on people.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c26",
+     "pages": [
+      287
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج أبو داود من حديث أبي هريرة رضي الله عنه، عن النَّبيِّ صلى الله عليه وسلم معناه، وفي حديثه: «الكبر» بدل: «البغي».",
+         "en": "Abū Dāwūd recorded something with the same meaning from the hadith of Abū Hurayrah (may Allah be pleased with him), from the Prophet ﷺ; in his hadith it has “arrogance” in place of “wrongful pride”."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c27",
+     "pages": [
+      288
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فنفى أنْ تكونَ كراهتُه؛",
+         "en": "So the Prophet ﷺ denied that the man's dislike"
+        },
+        {
+         "ar": "لأنْ يَفوقَهُ أحدٌ في الجمال بغياً أو كبراً، وفسَّر الكبر والبغي ببطر الحقِّ وغمط الناس، وهو التكبُّر عليه، والامتناع مِن قبوله كِبراً إذا خالف هواه.",
+         "en": "of being surpassed by anyone in good looks was wrongful pride or arrogance, and he explained arrogance and wrongful pride as spurning the truth and looking down on people. Spurning the truth means holding oneself above it and refusing, out of arrogance, to accept it when it goes against one's desires."
+        },
+        {
+         "ar": "ومن هنا قال بعض السَّلف: التَّواضُعُ أنْ تَقْبَلَ الحقَّ مِن كلِّ من جاء به، وإنْ كان صغيراً، فمن قَبِلَ الحقَّ ممَّن جاء به،",
+         "en": "That is why one of the Salaf said: Humility is to accept the truth from whoever brings it, even someone young. Whoever accepts the truth from the one who brings it,"
+        },
+        {
+         "ar": "سواء كان صغيراً أو كبيراً، وسواء كان يحبُّه أو لا يحبه، فهو متواضع، ومن أبى قَبُولَ الحقِّ تعاظُماً عليه، فهو متكبِّرٌ.",
+         "en": "whether young or old, and whether he likes him or not, is humble; and whoever refuses to accept the truth because he holds himself above it is arrogant."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c28",
+     "pages": [
+      288
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وغمط الناس: هو احتقارُهم وازدراؤهم، وذلك يحصُل مِنَ النَّظرِ إلى النَّفس بعينِ الكمالِ، وإلى غيره بعينِ النَّقص.",
+         "en": "Looking down on people means despising and belittling them, and it comes from looking at oneself with the eye of perfection and at others with the eye of deficiency."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c29",
+     "pages": [
+      288
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي الجملة: فينبغي للمؤمن أنْ يُحِبَّ للمؤمنينَ ما يُحبُّ لنفسه، ويكره لهم ما يكره لِنفسه، فإنْ رأى في أخيه المسلم نقصاً في دينه اجتهدَ في إصلاحه.",
+         "en": "In short, the believer ought to love for the believers what he loves for himself and dislike for them what he dislikes for himself. If he sees some deficiency in his Muslim brother's religion, he strives to set it right."
+        },
+        {
+         "ar": "قال بعضُ الصالحين مِن السَّلف: أهلُ المحبة لله نظروا بنور الله، وعطَفُوا على أهلِ معاصي الله، مَقَتُوا أعمالهم، وعطفوا عليهم ليزيلوهُم بالمواعظ عن فِعالهم، وأشفقوا على أبدانِهم من النار،",
+         "en": "One of the righteous among the Salaf said: Those who love Allah looked by the light of Allah and were tender towards those who disobey Allah. They hated their deeds yet were tender towards them, so as to draw them away from what they did by admonishing them, and they feared for their bodies from the Fire."
+        },
+        {
+         "ar": "لا يكون المؤمنُ مؤمناً حقاً حتى يرضى للناسِ ما يرضاه لنفسه، وإنْ رأى في غيره فضيلةً فاق بها عليه فيتمنى لنفسه مثلها،",
+         "en": "The believer is not truly a believer until he is pleased for people with what he is pleased with for himself. If he sees in someone else a merit by which that person surpasses him, he wishes for the like of it himself;"
+        },
+        {
+         "ar": "فإنْ كانت تلك الفضيلةُ دينية، كان حسناً، وقد تمنى النَّبيُّ صلى الله عليه وسلم لنفسه منْزلةَ الشَّهادة.",
+         "en": "and if that merit belongs to the religion, this is good. The Prophet ﷺ wished for himself the rank of martyrdom."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c30",
+     "pages": [
+      288
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال صلى الله عليه وسلم: «لا حسدَ إلاَّ في اثنتين: رجل آتاهُ الله مالاً، فهو يُنفقهُ آناءَ الليلِ وآناءَ النَّهارِ، ورجُلٌ آتاهُ الله القرآن، فهو يقرؤهُ آناءَ الليل وآناءَ النهار».",
+         "en": "He ﷺ also said: “There is no envy except in two cases: a man to whom Allah has given wealth and who spends it through the hours of the night and the day, and a man to whom Allah has given the Qurʾān and who recites it through the hours of the night and the day.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c31",
+     "pages": [
+      288,
+      289
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال في الذي رأى مَنْ ينفق مالَه في طاعة الله، فقال: «لو أنَّ لي مالاً، لفعلتُ فيه كما فعل، فهما في الأجر سواءٌ» وإنْ كانت دنيويةً، فلا خيرَ في تمنيها، كما قال تعالى:",
+         "en": "Of the man who saw someone spending his wealth in obedience to Allah and said, “If I had wealth, I would do with it as he has done,” he said: “The two of them are equal in reward.” If, however, the merit is a worldly one, there is no good in wishing for it, as the Exalted said:"
+        },
+        {
+         "ar": "{فَخَرَجَ عَلَى قَوْمِهِ فِي زِينَتِهِ قَالَ الَّذِينَ يُرِيدُونَ الْحَيَاةَ الدُّنْيَا يَا لَيْتَ لَنَا مِثْلَ مَا أُوتِيَ قَارُونُ إِنَّهُ لَذُو حَظٍّ عَظِيمٍ وَقَالَ الَّذِينَ أُوتُوا الْعِلْمَ وَيْلَكُمْ ثَوَابُ اللهِ خَيْرٌ لِمَنْ آمَنَ وَعَمِلَ صَالِحاً}.",
+         "en": "“So he went out before his people in his finery. Those who desired the life of this world said, ‘If only we had the like of what Qārūn has been given! He is indeed the owner of a great fortune.’ But those who had been given knowledge said, ‘Woe to you! The reward of Allah is better for whoever believes and does righteous deeds’” [al-Qaṣaṣ 28:79–80]."
+        },
+        {
+         "ar": "وأما قول الله عز وجل : {وَلا تَتَمَنَّوْا مَا فَضَّلَ اللهُ بِهِ بَعْضَكُمْ عَلَى بَعْضٍ}، فقد فُسِّرَ ذلك بالحسد، وهو تمنِّي الرجل نفس ما أُعطي أخوه من أهلٍ ومال، وأنْ ينتقل ذلك إليه،",
+         "en": "As for the words of Allah, the Mighty and Majestic, “Do not covet that by which Allah has favoured some of you over others” [al-Nisāʾ 4:32], this has been explained as envy: a man's wishing for the very family and wealth his brother has been given, and that they should pass to him."
+        },
+        {
+         "ar": "وفُسِّرَ بتمني ما هو ممتنع شرعاً أو قدراً، كتمني النِّساءِ أنْ يكنَّ رجالاً، أو يكون لهن مثلُ ما للرجالِ من الفضائلِ الدينية كالجهاد، والدنيوية كالميراثِ والعقلِ والشهادةِ ونحو ذلك، وقيل: إنَّ الآية تشمل ذلك كُلَّه.",
+         "en": "It has also been explained as wishing for what is ruled out by the Sharīʿah or by divine decree, such as women wishing to be men, or to have the merits men have, whether religious, such as jihād, or worldly, such as inheritance, blood money (ʿaql), testimony and the like. It has also been said that the verse covers all of this."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c32",
+     "pages": [
+      289
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومع هذا كُلِّه، فينبغي للمؤمن أنْ يحزنَ لفواتِ الفضائل الدينية، ولهذا أُمِرَ أنْ ينظر في الدين إلى مَنْ فوقَه، وأنْ يُنافِسَ في طلب ذلك جهده وطاقته، كما قال تعالى:",
+         "en": "For all that, the believer ought to grieve over religious merits he has missed. That is why he has been commanded to look, in matters of religion, to those above him, and to compete for that with all his effort and ability, as the Exalted said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c33",
+     "pages": [
+      289
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "{وَفِي ذَلِكَ فَلْيَتَنَافَسِ الْمتَنَافِسُونَ} ولا يكره أنَّ أحداً يُشارِكُه في ذلك، بل يُحِبُّ للناس كُلِّهم المنافسةَ فيه، ويحثُّهم على ذلك، وهو من تمام أداءِ النَّصيحة للإخوان.",
+         "en": "“For that let the competitors compete” [al-Muṭaffifīn 83:26]. He does not dislike that anyone should share in it with him; rather, he loves for all people to compete in it and urges them to do so, and this belongs to the complete fulfilment of sincere counsel towards one's brothers."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c34",
+     "pages": [
+      289,
+      290
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال الفضيلُ: إنْ كُنتَ تحبُّ أنْ يكونَ الناسُ مثلَك، فما أديتَ النَّصيحة لأخيك، كيف وأنت تحبُّ أنْ يكونوا دونك؟!",
+         "en": "Al-Fuḍayl said: If you love for people to be like you, you have not fulfilled sincere counsel towards your brother — so how is it when you love for them to be beneath you?!"
+        },
+        {
+         "ar": "يشير إلى أنَّ أداء النَّصيحة لهم أنْ يُحبَّ أنْ يكونوا فوقَه، وهذه منزلةٌ عالية، ودرجةٌ رفيعةٌ في النُّصح، وليس ذَلِكَ بواجبٍ، وإنَّما المأمورُ به في الشرع أنْ يُحبَّ أنْ يكونوا مثلَه،",
+         "en": "He means that fulfilling sincere counsel towards them is to love for them to be above oneself. This is a lofty station and a high degree of sincere counsel, but it is not obligatory; what the Sharīʿah commands is only that he love for them to be like him."
+        },
+        {
+         "ar": "ومع هذا فإذا فاقه أحدٌ في فضيلة دينية اجتهد على لَحاقه، وحزن على تقصير نفسه، وتخلُّفِهِ عن لحاق السابقين،",
+         "en": "Even so, when someone surpasses him in a religious merit, he strives to catch up with him and grieves over his own shortcoming and his failure to keep pace with those who have gone ahead —"
+        },
+        {
+         "ar": "لا حسداً لهم على ما آتاهُم الله من فضله عز وجل، بل منافسةً لهم، وغبطةً وحزناً على النَّفس بتقصيرها وتخلُّفها عن درجات السابقين.",
+         "en": "not out of envy of them for the bounty Allah, the Mighty and Majestic, has given them, but out of competing with them, with emulation (ghibṭah), and with grief at his own soul for falling short and lagging behind the ranks of those who went ahead."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c35",
+     "pages": [
+      290
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وينبغي للمؤمن أنْ لا يزال يرى نفسَه مقصِّراً عن الدَّرجات العالية، فيستفيد بذلك أمرين نفيسين: الاجتهاد في طلب الفضائل، والازدياد منها، والنظر إلى نفسه بعينِ النَّقص، وينشأ مِنْ هذا أنْ يُحِبَّ للمؤمنين أنْ يكونوا خيراً منه؛",
+         "en": "The believer ought always to see himself as falling short of the high ranks. He gains two precious things from this: he strives to seek merits and to increase in them, and he looks at himself with the eye of deficiency. From this it follows that he loves for the believers to be better than him,"
+        },
+        {
+         "ar": "لأنَّه لا يرضى لَهم أنْ يكونوا على مثلِ حاله، كما أنَّه لا يرضى لنفسه بما هي عليه، بل يجتهد في إصلاحها، وقد قالَ محمدُ بنُ واسع لابنه: أمَّا أبوكَ، فلا كثَّرَ الله في المسلمين مثلَه.",
+         "en": "because he is not content for them to be in a state like his, just as he is not content with his own soul as it is, but strives to set it right. Muḥammad ibn Wāsiʿ said to his son: As for your father, may Allah not multiply his like among the Muslims."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c36",
+     "pages": [
+      290
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فمن كان لا يرضى عن نفسه، فكيف يُحبُّ للمسلمين أنْ يكونوا مثلَه مع نصحه لهم؟",
+         "en": "How could someone who is not pleased with himself love for the Muslims to be like him, when he wishes them well?"
+        },
+        {
+         "ar": "بل هو يحبُّ للمسلمين أنْ يكونوا خيراً منه، ويحبُّ لنفسه أنْ يكونَ خيراً ممَّا هو عليه.",
+         "en": "Rather, he loves for the Muslims to be better than him, and he loves for himself to be better than he is."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h13.c37",
+     "pages": [
+      290
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وإنْ عَلِمَ المرءُ أنَّ الله قد خصَّه على غيره بفضل، فأخبر به لمصلحة دينية، وكان إخباره على وجه التحدُّث بالنِّعمِ، ويرى نفسه مقصراً في الشُّكر،",
+         "en": "If a person knows that Allah has favoured him over others with some merit, and he tells of it for a religious benefit, as a way of speaking of Allah's blessings and while seeing himself as falling short in gratitude,"
+        },
+        {
+         "ar": "كان جائزاً، فقد قال ابنُ مسعود: ما أعلم أحداً أعلمَ بكتاب الله مني، ولا يمنع هذا أنْ يُحِبَّ للنَّاسِ أنْ يُشاركوه فيما خصَّهُ الله به،",
+         "en": "that is permissible. Ibn Masʿūd said: I know of no one more knowledgeable of the Book of Allah than I am. Nor does this prevent him from loving for people to share with him in what Allah has singled him out with."
+        },
+        {
+         "ar": "فقد قال ابنُ عبَّاسٍ: إني لأمرُّ على الآية من كِتاب الله، فأودُّ أنَّ النَّاسَ كُلَّهم يعلمُون منها ما أعلم، وقال الشافعيُّ: وددتُ أنَّ النَّاسَ تعلَّموا هذا العلمَ،",
+         "en": "Ibn ʿAbbās said: I pass by a verse of the Book of Allah and wish that all people knew of it what I know. Al-Shāfiʿī said: I wish that people would learn this knowledge"
+        },
+        {
+         "ar": "ولم يُنْسَبْ إليَّ منه شيء، وكان عتبةُ الغلامُ إذا أراد أنْ يُفطر يقول لبعض إخوانه المطَّلِعين على أعماله: أَخرِج إليَّ ماءً أو تمراتٍ أُفطر عليها؛",
+         "en": "without any of it being attributed to me. And ʿUtbah al-Ghulām, when he wanted to break his fast, would say to one of his brothers who knew of his devotions: Bring me out some water or a few dates to break my fast with,"
+        },
+        {
+         "ar": "ليكونَ لك مثلُ أجري.",
+         "en": "so that you may have a reward like mine."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}

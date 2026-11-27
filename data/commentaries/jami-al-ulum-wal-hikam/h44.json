@@ -1,0 +1,686 @@
+{
+ "id": "h44",
+ "number": 44,
+ "standard_number": 44,
+ "collection": "ibn-rajab",
+ "heading": {
+  "ar": "الحديث الرابع والأربعون",
+  "en": "Hadith 44"
+ },
+ "title": {
+  "ar": "الرضاعة تحرم ما تحرم الولادة",
+  "en": "Nursing Prohibits What Birth Prohibits"
+ },
+ "pages": {
+  "start": 864,
+  "end": 870
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.n1",
+     "pages": [
+      864
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنْ عَائِشَةَ رضي الله عنها عَنِ النَّبيِّ صلى الله عليه وسلم قالَ: «الرَّضَاعَةُ تُحَرِّمُ ما تحرِّمُ الولادةُ» خرَّجه البُخاريُّ ومُسلمٌ.",
+         "en": "From ʿĀʾishah (may Allah be pleased with her), from the Prophet ﷺ, who said: “Nursing makes unlawful what birth makes unlawful.” Al-Bukhārī and Muslim recorded it."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c1",
+     "pages": [
+      864
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "هذا الحديث خرَّجاه في «الصحيحين» من رواية عمرة عن عائشة، وخرّج مسلم أيضاً من رِواية عروة، عن عائشة، عن النَّبيِّ صلى الله عليه وسلم، قال:",
+         "en": "The two of them recorded this hadith in the two Ṣaḥīḥs through the narration of ʿAmrah, from ʿĀʾishah. Muslim also recorded, through the narration of ʿUrwah, from ʿĀʾishah, that the Prophet ﷺ said:"
+        },
+        {
+         "ar": "«يَحرُمُ مِنَ الرَّضاعَةِ ما يَحرُمُ مِنَ النَّسبِ»، وخرَّجاه أيضاً من رواية عروة عن عائشة من قولها، وخرَّجاه من حديث ابنِ عباس عن النَّبيِّ صلى الله عليه وسلم،",
+         "en": "“What is unlawful through lineage is unlawful through nursing.” They also recorded it through the narration of ʿUrwah from ʿĀʾishah as her own words, and recorded it from the hadith of Ibn ʿAbbās, from the Prophet ﷺ;"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c2",
+     "pages": [
+      864
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه الترمذي من حديث عليٍّ عن النَّبيِّ صلى الله عليه وسلم.",
+         "en": "and al-Tirmidhī recorded it from the hadith of ʿAlī, from the Prophet ﷺ."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c3",
+     "pages": [
+      864
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد أجمع العلماء على العمل بهذه الأحاديث في الجملة، وإنَّ الرضاع يُحرِّمُ ما يُحرِّمه النَّسب، ولنذكرِ المحرَّماتِ مِنَ النَّسب كلهن حتّى يعلم بذلك ما يحرم من الرضاع، فنقول: الولادة والنَّسب قد يؤثِّران التحريمَ في النكاح، وهو على قسمين:",
+         "en": "The scholars are agreed on acting on these hadiths in general, and on the principle that nursing makes unlawful what lineage makes unlawful. Let us mention all the women made unlawful by lineage, so that what nursing makes unlawful may be known from it. We say: birth and lineage may make marriage unlawful, and this is of two categories."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c4",
+     "pages": [
+      864
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدُهما: تحريمٌ مؤبَّدٌ على الانفراد، وهو نوعان:",
+         "en": "The first is permanent unlawfulness of marrying a woman on her own, and it is of two kinds."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c5",
+     "pages": [
+      864,
+      865
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدهما: ما يحرم بمجرَّد النَّسب، فيحرم على الرجل أصولُه وإنْ عَلَون، وفروعه وإنْ سَفَلْنَ، وفروعُ أصله الأدنى وإنْ سفَلْن،",
+         "en": "The first kind is what is unlawful by lineage alone. Unlawful to a man are his ascendants, however high; his descendants, however low; the descendants of his nearest ascendants, however low;"
+        },
+        {
+         "ar": "وفروع أصوله البعيدة دون فروعهن، فيدخل في أصوله أمهاتُه وإنْ عَلَوْنَ من جهة أبيه وأمه، وفي فروعه بناتُه وبناتُ أولاده وإنْ سَفَلْنَ،",
+         "en": "and the immediate offspring of his more distant ascendants, but not their offspring. Included in his ascendants are his mothers, however high, on his father's side and his mother's; in his descendants, his daughters and his children's daughters, however low;"
+        },
+        {
+         "ar": "وفي فروع أصله الأدنى أخواتُه من الأبوين، أو من أحدهما، وبناتهن وبنات الإخوة وأولادهم وإنْ سَفَلْنَ، ودخل في فروع أصوله البعيدة العماتُ والخالاتُ وعماتُ الأبوين وخالاتهما وإنْ عَلَوْنَ،",
+         "en": "in the descendants of his nearest ascendants, his sisters, whether full or through one parent, their daughters, and the daughters of his brothers and of their children, however low; and in the offspring of his more distant ascendants, his paternal and maternal aunts and the paternal and maternal aunts of his parents, however high."
+        },
+        {
+         "ar": "فلم يبق من الأقارب حلالاً للرجل سوي فروع أصوله البعيدة، وهُنَّ بناتُ العم وبناتُ العمات، وبنات الخال، وبناتُ الخالات.",
+         "en": "So of his female relatives none remain lawful to a man but the further descendants of his more distant ascendants, namely the daughters of his paternal uncles and paternal aunts and the daughters of his maternal uncles and maternal aunts."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c6",
+     "pages": [
+      865
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والنوع الثاني: ما يحْرُمُ بالنسب مع سبب آخر، وهو المصاهرة؛",
+         "en": "The second kind is what is unlawful by lineage together with another cause, namely relationship by marriage (muṣāharah)."
+        },
+        {
+         "ar": "فيحرم على الرجل حلائل آبائه، وحلائلُ أبنائه، وأمهات نسائه، وبناتُ نسائه المدخول بهنَّ؛",
+         "en": "Unlawful to a man are the wives of his fathers, the wives of his sons, the mothers of his wives, and the daughters of those wives with whom he has consummated marriage."
+        },
+        {
+         "ar": "فيحرم على الرجل أمُّ امرأته وأمهاتُها من جهة الأم والأب وإنْ عَلَونَ، ويحرُم عليه بناتُ امرأته، وهنَّ الرَّبائب وبناتهن وإنْ سفلن، وكذلك بناتُ بني زوجته وهن بناتُ الربائب نصَّ عليه الشافعي وأحمد، ولا يُعلم فيه خلافٌ.",
+         "en": "Thus unlawful to a man are his wife's mother and her mothers on the mother's and the father's side, however high; unlawful to him are his wife's daughters — the stepdaughters (rabāʾib) — and their daughters, however low; and likewise the daughters of his wife's sons, who count as the daughters of the stepchildren. Al-Shāfiʿī and Aḥmad stated this explicitly, and no disagreement on it is known."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c7",
+     "pages": [
+      865
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويحرم عليه أنْ يتزوَّج بامرأة أبيه، وإنْ علا، وامرأة ابنه وإن سَفَلَ، ودخول هؤلاء في التحريم بالنسب ظاهرٌ؛",
+         "en": "It is unlawful for him to marry his father's wife, however high the father, or his son's wife, however low the son. That these come under unlawfulness by lineage is evident,"
+        },
+        {
+         "ar": "لأنَّ تحريمَهُنَّ من جهة نسبِ الرجل مع سبب المصاهرة.",
+         "en": "since their unlawfulness arises from the man's own lineage together with the cause of marriage relationship."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c8",
+     "pages": [
+      865
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما أمهات نسائه وبناتهن، فتحريمهن مع المصاهرة بسبب نسبِ المرأة، فلم يخرجِ التحريمُ بذلك عن أنْ يكونَ بالنَّسبِ مع انضمامه إلى سبب المصاهرة، فإنَّ التحريم بالنَّسب المجرد، والنَّسب المضاف إلى المصاهرة يشترك فيه الرجال والنساءُ؛",
+         "en": "As for the mothers of his wives and their daughters, their unlawfulness, together with marriage relationship, is due to the woman's lineage, so in their case too the unlawfulness does not cease to be by lineage joined to the cause of marriage relationship. Unlawfulness by lineage alone, and by lineage added to marriage relationship, applies to men and women alike."
+        },
+        {
+         "ar": "فيحرمُ على المرأة أنْ تتزوَّج أصولها وإنْ علَوا، وفروعها وإنْ سفَلُوا، وفروعَ أصلها الأدنى وإنْ سفَلُوا من أخوتها، وأولادِ الإخوة وإنْ سفلوا، وفروعَ أصولها البعيدة وهم الأعمامُ والأخوالُ وإنْ عَلوا دونَ أبنائهم، فهذا كله بالنَّسب المجرَّد.",
+         "en": "It is unlawful for a woman to marry her ascendants, however high; her descendants, however low; the descendants of her nearest ascendants, however low — her brothers and her brothers' children, however low; and the offspring of her more distant ascendants — the paternal and maternal uncles, however high — but not their sons. All this is by lineage alone."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c9",
+     "pages": [
+      866
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما بالنَّسب المضاف إلى المصاهرة، فيحرم عليها نكاحُ أبي زوجها وإنْ علا، ونكاحُ ابنه وإنْ سَفَل بمجرّد العقد، ويحرم عليها زوجُ ابنتها وإنْ سَفَلَتْ بالعقد، وزوجُ أمها وإنْ علت، لكن بشرط الدخول بها.",
+         "en": "As for lineage added to marriage relationship: it is unlawful for her to marry her husband's father, however high, and his son, however low, by the mere contract; and unlawful to her are her daughter's husband, however low the daughter, by the contract, and her mother's husband, however high the mother, but on condition that he has consummated marriage with the mother."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c10",
+     "pages": [
+      866
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والقسم الثاني: التحريم المؤبَّد على الاجتماع دونَ الانفراد، وتحريمُه يختصُّ الرجال لاستحالة إباحةِ جمع المرأة بينَ زوجين،",
+         "en": "The second category is permanent unlawfulness of combining two women, not of marrying either one alone. This unlawfulness is specific to men, since a woman can never be permitted to have two husbands at once."
+        },
+        {
+         "ar": "فكلُّ امرأتين بينهما رَحِمٌ محرم يحرِّم الجمع بينهما بحيث لو كانت إحداهما ذكراً لم يجز له التزوُّج بالأخرى، فإنَّه يحرم الجمعُ بينهما بعقد النكاح.",
+         "en": "Any two women between whom there is a prohibiting tie of kinship — such that, if one of them were male, he could not marry the other — may not be combined in marriage."
+        },
+        {
+         "ar": "قال الشعبي: كان أصحابُ محمد صلى الله عليه وسلم يقولون: لا يجمعُ الرجلُ بين امرأتين لو كانت إحداهما رجلاً لم يصلح له أنْ يتزوَّجها.",
+         "en": "Al-Shaʿbī said: The Companions of Muḥammad ﷺ used to say: A man may not combine two women such that, if one of them were a man, it would not be right for him to marry her."
+        },
+        {
+         "ar": "وهذا إذا كان التحريم لأجل النَّسب، وبذلك فسَّره سفيان الثوري وأكثرُ العلماء، فلو كان لغير النسب مثل أنْ يجمع بينَ زوجة رجل وابنته من غيرها، فإنَّه يُباحُ عند الأكثرين، وكرهه بعضُ السَّلف.",
+         "en": "This is when the unlawfulness arises from lineage, and that is how Sufyān al-Thawrī and most scholars explained it. If it arises from something other than lineage — for example, combining a man's wife and his daughter by another woman — that is permissible according to most scholars, though some of the Salaf disliked it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c11",
+     "pages": [
+      866
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فإذا علم ما يحرم من النَّسب، فكلّ ما يحرم منه، فإنَّه يحرم من الرضاع نظيرُه، فيحرم على الرجل أنْ يتزوَّج أمهاتِه من الرضاعة وإنْ عَلَونَ،",
+         "en": "Once what lineage makes unlawful is known, then for everything it makes unlawful, its counterpart through nursing is unlawful too. It is unlawful for a man to marry his foster mothers, however high,"
+        },
+        {
+         "ar": "وبناته من الرضاعة وإنْ سَفَلن، وأخواته من الرضاعة، وبنات أخواته من الرضاعة وعماته وخالاته من الرضاعة، وإنْ علون دون بناتهن.",
+         "en": "his foster daughters, however low, his foster sisters, the daughters of his foster sisters, and his foster paternal and maternal aunts, however high, but not their daughters."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c12",
+     "pages": [
+      866,
+      867
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومعنى هذا أنَّ المرأة إذا أرضعت طفلاً الرَّضاع المعتبرَ في المدَّة المعتبرة، صارت أمّاً له بنصِّ كتاب الله،",
+         "en": "This means that when a woman nurses a child with a nursing that counts, within the period that counts, she becomes his mother by the text of the Book of Allah,"
+        },
+        {
+         "ar": "فتحرمُ عليه هي وأمَّهاتُها، وإنْ علون من نسبٍ أو رضاعٍ، وتصيرُ بناتُها كلُّهن أخواتٍ له من الرضاعة، فيحرمن عليه بنصِّ القرآن؛",
+         "en": "so she and her mothers, however high, whether by lineage or by nursing, become unlawful to him; and all her daughters become his foster sisters, and so are unlawful to him by the text of the Qurʾān."
+        },
+        {
+         "ar": "وبقيةُ التحريم من الرضاعة استفيدَ مِن السُّنَّةِ، كما استفيدَ من السُّنَّة أنَّ تحريم الجمع لا يختصُّ بالأختين، بل المرأةُ وعمَّتها، والمرأة وخالتها كذلك، وإذا كانَ أولادُ المرضعة من نسب أو رضاعٍ إخوةً للمرتضع،",
+         "en": "The rest of what nursing makes unlawful was learned from the Sunnah, just as it was learned from the Sunnah that the unlawfulness of combining is not confined to two sisters, but applies equally to a woman and her paternal aunt and to a woman and her maternal aunt. Since the children of the nursing woman, by lineage or by nursing, are siblings of the nursed child,"
+        },
+        {
+         "ar": "فيحرُم عليهِ بناتُ إخوته أيضاً، وقدِ امتنع النَّبيُّ صلى الله عليه وسلم من تزويج ابنة حمزة وابنة أبي سلمة، وعلل بأنَّ أبويهما كانا أخوين له من الرَّضاعة.",
+         "en": "the daughters of his siblings are also unlawful to him. The Prophet ﷺ declined to marry the daughter of Ḥamzah and the daughter of Abū Salamah, giving as his reason that their fathers were his foster brothers."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c13",
+     "pages": [
+      867
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويحرمُ عليه أيضاً أخواتُ المرضعة؛",
+         "en": "Also unlawful to him are the sisters of the nursing woman,"
+        },
+        {
+         "ar": "لأنهنَّ خالاتُه، ويَنتشِرُ التحريمُ أيضاً إلى الفحل صاحب اللبن الذي ارتضع منه الطفلُ، فيصيرُ صاحبُ اللبن أباً للطِّفلِ، وتصيرُ أولاده كلُّهم من المرضعة،",
+         "en": "since they are his maternal aunts. The unlawfulness also extends to the man (faḥl) whose milk it is, from whom the child was nursed: he becomes the child's father, and all his children, whether by the nursing woman"
+        },
+        {
+         "ar": "أو من غيرها من نسبٍ أو رضاع إخوة للمرتضع ويصير إخوته أعماماً للطفل المرتضع، وهذا قولُ جمهور العلماء من السَّلف، وأجمع عليه الأئمة الأربعة ومن بعدهم.",
+         "en": "or by another, by lineage or by nursing, become siblings of the nursed child, and his brothers become the nursed child's paternal uncles. This is the view of the majority of scholars among the Salaf, and the four imams and those after them were agreed on it."
+        },
+        {
+         "ar": "وقد دلَّ على ذلك من السنَّة ما روت عائشة أنَّ أفلحَ أخا أبي القُعَيسِ استأذنَ عليها بعدَ ما أُنزل الحجابُ، قالت عائشةُ: فقلتُ:",
+         "en": "This is shown from the Sunnah by what ʿĀʾishah narrated: Aflaḥ, the brother of Abū al-Quʿays, asked permission to come in to see her after the verse of the veil had been revealed. ʿĀʾishah said: I said:"
+        },
+        {
+         "ar": "والله لا آذنُ له حتّى أستأذنَ رسول الله صلى الله عليه وسلم فإنَّ أبا القُعيس ليس هو أرضعني، ولكن أرضعتني امرأته، قالت: فلما دخلَ رسول الله صلى الله عليه وسلم، ذكرتُ ذلك له، فقال: «ائذني له؛",
+         "en": "By Allah, I will not give him permission until I have asked the Messenger of Allah ﷺ, for it was not Abū al-Quʿays who nursed me; it was his wife who nursed me. She said: When the Messenger of Allah ﷺ came in, I mentioned that to him, and he said: “Give him permission,"
+        },
+        {
+         "ar": "فإنَّه عَمُّك تَرِبَت يمينُك»، وكان أبو القعيس زوجَ المرأة التي أرضعت عائشة.",
+         "en": "for he is your uncle — may your right hand be covered in dust!” Abū al-Quʿays was the husband of the woman who had nursed ʿĀʾishah."
+        },
+        {
+         "ar": "خرَّجاه في \" الصحيحين \" بمعناه.",
+         "en": "The two of them recorded it in the two Ṣaḥīḥs with this meaning."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c14",
+     "pages": [
+      867
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وسئل ابن عباس عن رجل له جاريتان، أرضعت إحداهما جاريةً والأُخرى غلاماً أيحلُّ للغلام أنْ يتزوَّج الجارية، فقال: لا، اللقاحُ واحد.",
+         "en": "Ibn ʿAbbās was asked about a man who had two slave women, one of whom nursed a girl and the other a boy: may the boy marry the girl? He said: No; the milk comes from one and the same man."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c15",
+     "pages": [
+      867,
+      868
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولو كان اللبن الذي ارتضع به الطفلُ قد ثاب للمرأة من غير وطءِ فَحلٍ بأنْ تكون امرأة لا زوجَ لها قد ثاب لها لبن أو هي بكرٌ أو آيسةٌ،",
+         "en": "If the milk by which the child was nursed came to the woman without intercourse with a man — for example, a woman with no husband who has come to have milk, or one who is a virgin or past menopause —"
+        },
+        {
+         "ar": "فأكثرُ العلماء على أنّه يحرم الرضاعُ به، وتصيرُ المرضعةُ أُمّاً للطفل، وقد حكاه ابن المنذر إجماعاً عمن يُحفظ عنه من أهل العلم، وهو قولُ أبي حنيفة ومالك والشافعي وإسحاق وغيرهم.",
+         "en": "most scholars hold that nursing with it creates unlawfulness, and the nursing woman becomes the child's mother. Ibn al-Mundhir related this as the consensus of those people of knowledge whose views are recorded; it is the view of Abū Ḥanīfah, Mālik, al-Shāfiʿī, Isḥāq and others."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c16",
+     "pages": [
+      868
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وذهب الإمامُ أحمد في المشهور المنصوص عنه إلى أنَّه لا ينتشِرُ التَّحريمُ به بحالٍ حتى يكونَ له فحلٌ يدرُّ اللبن من رضاعه.",
+         "en": "Imam Aḥmad, in the well-known position explicitly reported from him, held that it creates no unlawfulness at all unless there is a man through whom the milk flows."
+        },
+        {
+         "ar": "وحُكي للشَّافعيِّ قولٌ مثله.",
+         "en": "A view like this has been related from al-Shāfiʿī."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c17",
+     "pages": [
+      868
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولو انقطع نسبه من جهة صاحبِ اللبن، كولد الزِّنى، فهل تَنْتَشر الحرمة إلى الزاني صاحب اللبن؟",
+         "en": "If the child's lineage from the man whose milk it is has been cut off — as with a child born of fornication — does the unlawfulness extend to the fornicator whose milk it is?"
+        },
+        {
+         "ar": "هذا ينبني على أنَّ البنتَ من الزنى هل تحرم على الزَّاني؟",
+         "en": "This rests on whether a daughter born of fornication is unlawful to the fornicator."
+        },
+        {
+         "ar": "ومذهبُ أبي حنيفة وأحمد ومالك في رواية عنه تحريمها عليه خلافاً للشافعي، وبالغ الإمام أحمد في الإنكار على من خالف في ذلك، فعلى قولهم: هل ينتشر التَّحريمُ إلى الزاني صاحب اللبن، فيكون أباً للمرتضع أم لا؟",
+         "en": "The school of Abū Ḥanīfah and Aḥmad, and of Mālik in one reported position, is that she is unlawful to him, contrary to al-Shāfiʿī; and Imam Aḥmad was very severe in condemning those who disagreed on this. On their view, does the unlawfulness extend to the fornicator whose milk it is, so that he becomes the father of the nursed child, or not?"
+        },
+        {
+         "ar": "فيه قولان هما وجهان لأصحابنا، واختار ابنُ حامد أنَّ التحريمَ لا ينتشرُ إليه، واختار أبو بكر،",
+         "en": "There are two views on this, which are two views within our school. Ibn Ḥāmid chose that the unlawfulness does not extend to him, while Abū Bakr"
+        },
+        {
+         "ar": "والقاضي أبو يعلى أنَّ التَّحريم ينتشر إلى الزاني، وهو نصُّ أحمد، وحكاه عن ابنِ عباس، وهو قول إسحاق بن راهويه، نقله عنه حرب.",
+         "en": "and al-Qāḍī Abū Yaʿlā chose that it does extend to the fornicator. This is Aḥmad's explicit statement, which he related from Ibn ʿAbbās; and it is the view of Isḥāq ibn Rāhawayh, which Ḥarb transmitted from him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c18",
+     "pages": [
+      868
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وينتشرُ التحريمُ بالرضاع إلى ما حَرُمَ بالنَّسب مع الصهر: إمّا من جهة نسب الرجل، كامرأة أبية وابنه، أو من جهة نسب الزوجة، كأمها وابنتها، وإلى ما حرم جمعه لأجل نسب المرأة أيضاً،",
+         "en": "Unlawfulness through nursing extends to what is unlawful through lineage together with marriage relationship — whether through the man's lineage, such as his father's wife and his son's wife, or through the wife's lineage, such as her mother and her daughter — and also to the combining that is unlawful because of the women's lineage,"
+        },
+        {
+         "ar": "كالجمع بين الأختين والمرأة وعمتها أو خالتها، فيحرم ذلك كلُّه من الرضاع كما يحرم من النَّسب، لدخوله في قوله صلى الله عليه وسلم: «يَحرُمُ مِن الرضاع ما يَحرُمُ من النَّسب».",
+         "en": "such as combining two sisters, or a woman and her paternal or maternal aunt. All of this is unlawful through nursing as it is through lineage, since it falls under his words ﷺ: “What is unlawful through lineage is unlawful through nursing.”"
+        },
+        {
+         "ar": "وتحريم هذا كلِّه للنسب، فبعضه لنسب الزوج، وبعضه لنسب الزوجة، وقد نصَّ على ذلك أئمة السَّلف، ولا يُعلم بينهم فيه اختلافٌ، ونصَّ عليه الإمام أحمد، واستدلَّ بعموم قوله:",
+         "en": "All of this is unlawful because of lineage — some of it because of the husband's lineage and some because of the wife's. The imams of the Salaf stated this explicitly, and no disagreement among them on it is known. Imam Aḥmad stated it explicitly, arguing from the general sense of his words:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c19",
+     "pages": [
+      868
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«يَحرُمُ من الرضاعِ ما يَحرمُ مِن النَّسب».",
+         "en": "“What is unlawful through lineage is unlawful through nursing.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c20",
+     "pages": [
+      869
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما قوله عز وجل: {وَحَلائِلُ أَبْنَائِكُمُ الَّذِينَ مِنْ أَصْلابِكُمْ}، فقالوا: لم يُردْ بذلك أنّه لا يحرم حلائل الأبناء من الرضاع، إنَّما أراد إخراجَ حلائل الذين تُبُنُّوا،",
+         "en": "As for His words, Mighty and Majestic is He, “and the wives of your sons who are from your own loins” [al-Nisāʾ 4:23], they said: He did not mean by this that the wives of foster sons are not unlawful; He meant only to exclude the wives of those who had been adopted as sons"
+        },
+        {
+         "ar": "ولم يكونوا أبناءً من النَّسب كما تزوَّج النَّبيُّ صلى الله عليه وسلم زوجةَ زيد بن حارثة بعد أنْ كان قد تبنّاه.",
+         "en": "without being sons by lineage, as the Prophet ﷺ married the wife of Zayd ibn Ḥārithah after having adopted him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c21",
+     "pages": [
+      869
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذا التحريمُ بالرضاع يختصُّ بالمرتضع نفسه، وينتشر إلى أولاده، ولا ينتشر تحريمه إلى من في درجة المرتضع من إخوته وأخواته،",
+         "en": "This unlawfulness through nursing is specific to the nursed child himself and extends to his children. It does not extend to those on the nursed child's level, his brothers and sisters,"
+        },
+        {
+         "ar": "ولا إلى من هو أعلى منه من آبائه وأمهاته وأعمامه وعماته وأخواله وخالاته، فتُباحُ المرضعة نفسها لأبي المرتضع مِنَ النَّسب ولأخيه، وتباح أمُّ المرتضع من النَّسب وأخته منه لأبي المرتضع من الرضاع ولأخيه.",
+         "en": "nor to those above him, his fathers, mothers, paternal uncles and aunts and maternal uncles and aunts. So the nursing woman herself is lawful to the nursed child's father by lineage and to his brother by lineage; and the nursed child's mother by lineage, and his sister by lineage, are lawful to his foster father and to his foster brother."
+        },
+        {
+         "ar": "هذا قولُ جمهور العلماء، وقالوا: يُباح أنْ يتزوَّج أختَ أخيه من الرَّضاعة، وأخت ابنته من الرضاعة، حتى قال الشعبي: هي أحلُّ من ماء قَدَس، وصرَّح بإباحتها حبيبُ بن أبي ثابت وأحمد.",
+         "en": "This is the view of the majority of scholars. They said: A man may marry the sister of his foster brother, and the sister of his foster daughter — so much so that al-Shaʿbī said: She is more lawful than the water of Qadas. Ḥabīb ibn Abī Thābit and Aḥmad stated explicitly that she is lawful."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c22",
+     "pages": [
+      869
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى أشعث عن الحسن أنَّه كره أنْ يتزوَّج الرجل بنتَ ظِئر ابنه، ويقول: أخت ابنه، ولم ير بأساً أنْ يتزوّج أمها، يعني: ظئر ابنه، وروى سليمان التيمي عن الحسن:",
+         "en": "Ashʿath narrated from al-Ḥasan that he disliked a man's marrying the daughter of his son's wet nurse, saying: She is his son's sister; yet he saw no harm in his marrying her mother, meaning his son's wet nurse. Sulaymān al-Taymī narrated from al-Ḥasan"
+        },
+        {
+         "ar": "أنَّه سئل عن الرجل يتزوج أخت أخيه من الرضاعة، فلم يقل فيه شيئاً، وهذا يقتضي توقُّفَه فيه، ولعلَّ الحسن إنَّما كان يكره ذلك تنْزيهاً، لا تحريماً، لمشابهته للمحرم بالنَّسب في الاسم، وهذا بمجرَّده لا يُوجِبُ تحريماً.",
+         "en": "that he was asked about a man marrying the sister of his foster brother and said nothing on it, which implies that he withheld judgement. Perhaps al-Ḥasan disliked it only as something mildly disapproved, not as unlawful, because it resembles in name what is unlawful by lineage; and that alone does not make anything unlawful."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c23",
+     "pages": [
+      869
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد استثنى كثيرٌ من الفقهاء من أصحابنا وغيرهم مما يحرم من النسب صورتين، فقالوا: لا يحرم نظيرُهما مِنَ الرَّضاع:",
+         "en": "Many jurists of our school and others have excepted two cases from among those unlawful by lineage, saying that their counterparts through nursing are not unlawful."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c24",
+     "pages": [
+      869
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "إحداهما: أمُّ الأخت، فتحرم مِنَ النَّسب، ولا تحرم من الرضاع.",
+         "en": "The first is the sister's mother: she is unlawful by lineage but not through nursing."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c25",
+     "pages": [
+      870
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثانية: أخت الابن، فتحرم من النَّسب دونَ الرضاع، ولا حاجة إلى استثناء هذين، ولا أحدهما.",
+         "en": "The second is the son's sister: she is unlawful by lineage but not through nursing. But there is no need to except these two, or either of them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c26",
+     "pages": [
+      870
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أما أمُّ الأخت فإنَّما تحرم من النسب، لكونها أماً أو زوجةَ أب، لا لمجرَّد كونها أم أخت،",
+         "en": "As for the sister's mother, she is unlawful by lineage only because she is one's mother or one's father's wife, not merely because she is a sister's mother;"
+        },
+        {
+         "ar": "فلا يُعلق التحريم بما لم يُعلقه الله به، وحينئذ، فيوجد في الرضاع من هي أم أخت ليست أماً ولا زوجة أب، فلا تحرم؛",
+         "en": "and unlawfulness is not to be attached to what Allah has not attached it to. Through nursing, then, there may be a woman who is a sister's mother without being one's mother or one's father's wife, and she is not unlawful,"
+        },
+        {
+         "ar": "لأنَّها ليست نظيراً لذاتِ النسب، وأما أخت الابن، فإنَّ الله تعالى إنَّما حرَّم الربيبة المدخول بأمها، فتحرم لكونها ربيبة دُخِلَ بأمها، لا لكونها أخت ابنه، والدخول في الرضاع منتفٍ فلا يحرم به أولادُ المرضعة.",
+         "en": "because she is not the counterpart of the woman related by lineage. As for the son's sister, Allah the Exalted made unlawful only the stepdaughter whose mother one has consummated marriage with: she is unlawful because she is such a stepdaughter, not because she is one's son's sister. In nursing there is no consummation, so the children of the nursing woman are not made unlawful by it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c27",
+     "pages": [
+      870
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومما قد يدخُلُ في عموم قوله: «يحرُم من الرضاع ما يحرمُ من النَّسب»: لو ظَاهَرَ مِن امرأته فشبَّهها بمحرمة من الرَّضاع، فقال لها: أنت عليَّ كأمي من الرضاع، فهل يثبتُ بذلك تحريمُ الظِّهار أم لا؟ فيهِ قولان:",
+         "en": "Among what may fall under the general sense of his words, “What is unlawful through lineage is unlawful through nursing,” is this: if a man makes ẓihār against his wife — likening her to a woman forbidden to him — and likens her to a woman unlawful to him through nursing, saying, “You are to me like my foster mother,” is the unlawfulness of ẓihār established by that or not? There are two views:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c28",
+     "pages": [
+      870
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدُهما: أنَّه يثبت به تحريم الظهار، وهو قول الجمهور، منهم مالك، والثوري، وأبو حنيفة، والأوزاعي، والحسن بن صالح، وعثمان البتِّي، وهو المشهور عن أحمد.",
+         "en": "The first is that the unlawfulness of ẓihār is established by it. This is the view of the majority, among them Mālik, al-Thawrī, Abū Ḥanīfah, al-Awzāʿī, al-Ḥasan ibn Ṣāliḥ and ʿUthmān al-Battī, and it is the well-known position of Aḥmad."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h44.c29",
+     "pages": [
+      870
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثاني: لا يثبت به التَّحريمُ، وهو قول الشافعيِّ، وتوقف أحمد فيهِ في رواية ابن منصور.",
+         "en": "The second is that the unlawfulness is not established by it. This is the view of al-Shāfiʿī, and Aḥmad withheld judgement on it in the narration of Ibn Manṣūr."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}

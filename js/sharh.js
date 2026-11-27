@@ -3,7 +3,7 @@
 // Data: data/commentaries/<file>.json (schema "arbaeen.commentary" 2.x), fetched on demand.
 import { state, setSetting } from './store.js';
 import { h, clear, svgIcon } from './ui.js';
-import { t, L, num } from './i18n.js';
+import { t, L, num, isAr } from './i18n.js';
 import { ar } from './render.js';
 
 // `numbers`: which block field carries a number the author printed
@@ -27,6 +27,13 @@ export const BOOKS = [
     name: { ar: 'الشرح الموجز المفيد', en: 'al-Sharḥ al-Mūjaz al-Mufīd' }, short: { ar: 'الموجز', en: 'al-Mūjaz' },
     author: { ar: 'عبد الله المحسن', en: 'ʿAbdullāh al-Muḥsin' }, by: { ar: 'المحسن', en: 'al-Muḥsin' },
   },
+  {
+    // the long one: split per chapter (index.json + hNN.json), English added in batches
+    key: 'jami', file: 'jami-al-ulum-wal-hikam', split: true, tone: 'gold', numbers: 'number', shamela: 949,
+    pub: { ar: 'دار ابن كثير، ط1، 1429هـ، تحقيق ماهر الفحل', en: 'Dār Ibn Kathīr, 1st ed., 1429 AH, ed. Māhir al-Faḥl' },
+    name: { ar: 'جامع العلوم والحكم', en: 'Jāmiʿ al-ʿUlūm wa-l-Ḥikam' }, short: { ar: 'جامع العلوم', en: 'Jāmiʿ al-ʿUlūm' },
+    author: { ar: 'ابن رجب الحنبلي', en: 'Ibn Rajab al-Ḥanbalī' }, by: { ar: 'ابن رجب', en: 'Ibn Rajab' },
+  },
 ];
 export const MODES = ['ar', 'en', 'both'];
 
@@ -37,17 +44,30 @@ export const currentMode = () => (MODES.includes(state.settings.sharhMode) ? sta
 
 // ---------------------------------------------------------------- loading
 const loaded = new Map();
+const getJSON = url => fetch(url).then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); });
+/** The whole book — or, for a split book, its index (book, translation, front/back matter, chapter list). */
 export function loadBook(key) {
   let p = loaded.get(key);
   if (!p) {
-    p = fetch(`data/commentaries/${bookInfo(key).file}.json`).then(r => {
-      if (!r.ok) throw new Error('HTTP ' + r.status);
-      return r.json();
-    });
+    const b = bookInfo(key);
+    p = getJSON(b.split ? `data/commentaries/${b.file}/index.json` : `data/commentaries/${b.file}.json`);
     p.catch(() => loaded.delete(key)); // let a retry fetch again
     loaded.set(key, p);
   }
   return p;
+}
+/** One chapter (by the app's hadith number), with its sections. */
+export async function loadChapter(key, n) {
+  const data = await loadBook(key);
+  const meta = data.hadiths.find(x => x.standard_number === n);
+  if (!meta || !bookInfo(key).split) return meta || null;
+  const ck = `${key}:${meta.id}`;
+  if (!loaded.has(ck)) {
+    const p = getJSON(`data/commentaries/${bookInfo(key).file}/${meta.id}.json`);
+    p.catch(() => loaded.delete(ck));
+    loaded.set(ck, p);
+  }
+  return loaded.get(ck);
 }
 
 // ---------------------------------------------------------------- rendering
@@ -76,19 +96,24 @@ const bayt = (seg, lng, attrs = {}) =>
 
 function renderPara(p, key, mode, vocab) {
   const k = si => `${key}:${si}`;
+  // A segment not yet translated (en: null) shows its Arabic in English mode, and no English line in both.
+  const untr = s => s.en == null;
+  if (mode === 'en' && p.segments.every(untr)) mode = 'ar';
   if (mode !== 'both') {
     const lng = mode;
-    if (p.kind === 'verse') return h('div.cm-verse', langAttrs(lng), p.segments.map((s, si) => bayt(s, lng, { 'data-k': k(si) })));
-    if (p.kind === 'label') return h('p.cm-label', langAttrs(lng), txt(p.segments.map(s => s[lng]).join(' '), lng));
-    return h('p.cm-p', langAttrs(lng), p.segments.map((s, si) => [si ? ' ' : '', h('span.cm-s', { 'data-k': k(si) }, words(s, lng, vocab))]));
+    if (p.kind === 'verse') return h('div.cm-verse', langAttrs(lng), p.segments.map((s, si) => bayt(s, untr(s) ? 'ar' : lng, { 'data-k': k(si) })));
+    if (p.kind === 'label') return h('p.cm-label', langAttrs(lng), txt(p.segments.map(s => s[lng] ?? s.ar).join(' '), lng));
+    return h('p.cm-p', langAttrs(lng), p.segments.map((s, si) => [si ? ' ' : '', lng === 'en' && untr(s)
+      ? h('span.cm-s.cm-untr', { 'data-k': k(si), dir: 'rtl', lang: 'ar' }, ar(s.ar))
+      : h('span.cm-s', { 'data-k': k(si) }, words(s, lng, vocab))]));
   }
   // Arabic + English: each segment is a pair, the English directly beneath its Arabic.
   return h('div.cm-pairs' + (p.kind === 'prose' ? '' : '.' + p.kind), p.segments.map((s, si) => {
-    if (p.kind === 'verse') return h('div.cm-pair', { 'data-k': k(si) }, bayt(s, 'ar'), h('div.cm-en', langAttrs('en'), bayt(s, 'en')));
+    if (p.kind === 'verse') return h('div.cm-pair', { 'data-k': k(si) }, bayt(s, 'ar'), untr(s) ? null : h('div.cm-en', langAttrs('en'), bayt(s, 'en')));
     const cls = p.kind === 'label' ? '.cm-label' : '';
     return h('div.cm-pair', { 'data-k': k(si) },
       h('p.cm-ar' + cls, langAttrs('ar'), words(s, 'ar', vocab)),
-      h('p.cm-en' + cls, langAttrs('en'), words(s, 'en', vocab)));
+      untr(s) ? null : h('p.cm-en' + cls, langAttrs('en'), words(s, 'en', vocab)));
   }));
 }
 
@@ -119,7 +144,10 @@ function renderSection(sec, book, mode) {
 
 /** One hadith's chapter from a commentary. */
 export function renderChapter(bh, book, mode) {
+  const done = bh.translated ?? 1; // share of segments with English (books translated in batches)
+  if (done === 0 && mode !== 'ar') mode = 'ar';
   const art = h('article.cm.cm-mode-' + mode, { dir: mode === 'en' ? 'ltr' : 'rtl' }, headingEl(bh.heading, mode, 'h2'));
+  if (done < 1) art.append(h('p.note.cm-progress', { dir: isAr() ? 'rtl' : 'ltr' }, done === 0 ? t('sh.enSoon') : t('sh.enPartial', { p: Math.round(done * 100) })));
   for (const sec of bh.sections) {
     art.append(renderSection(sec, book, mode));
     if (sec.type === 'hadith' && bh.notes) art.append(...noteEls(bh.notes));
@@ -225,12 +253,11 @@ export function sharhTab(n) {
     chapter = null;
     clear(info);
     clear(content).append(loadingEl());
-    try { data = await loadBook(book.key); } catch {
+    try { data = await loadBook(book.key); chapter = await loadChapter(book.key, n); } catch {
       if (book === currentBook()) clear(content).append(errorEl(load));
       return;
     }
     if (book !== currentBook()) return; // the reader picked another book meanwhile
-    chapter = data.hadiths.find(x => x.standard_number === n);
     if (!chapter) { clear(content).append(h('p.cm-loading.muted', t('sh.missing'))); return; }
     info.append(...[
       h('span', L(book.name), ' · ', pagesText(chapter.pages)),
@@ -273,7 +300,8 @@ export function bookView(el, key) {
     const toc = h('div.toc', data.hadiths.map(x => h('a.toc-row', { href: `#/h/${x.standard_number}/sharh/${book.key}` },
       h('span.toc-num' + (x.collection === 'ibn-rajab' ? '.ir' : ''), num(x.number)),
       h('span.toc-body', h('strong', L(x.title)), h('small.ar', { dir: 'rtl', lang: 'ar' }, x.heading.ar)),
-      h('small.muted.toc-pg', pagesText(x.pages)))));
+      h('small.muted.toc-pg', pagesText(x.pages), x.translated != null && x.translated < 1
+        ? h('span.toc-en', x.translated === 0 ? t('sh.arOnly') : num(Math.round(x.translated * 100)) + '% EN') : null))));
     scope.append(
       more(t('sh.intro'), intro),
       h('h2.toc-title', t('sh.contents')), toc,

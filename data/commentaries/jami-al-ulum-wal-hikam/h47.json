@@ -1,0 +1,1310 @@
+{
+ "id": "h47",
+ "number": 47,
+ "standard_number": 47,
+ "collection": "ibn-rajab",
+ "heading": {
+  "ar": "الحديث السابع والأربعون",
+  "en": "Hadith 47"
+ },
+ "title": {
+  "ar": "ما ملأ آدمي وعاء شرًّا من بطن",
+  "en": "Moderation in Eating"
+ },
+ "pages": {
+  "start": 891,
+  "end": 900
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.n1",
+     "pages": [
+      891
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنِ المِقدامِ بنِ مَعدِ يكرِبَ قالَ: سَمِعْتُ رَسولَ اللهِ صلى الله عليه وسلم يَقولُ: «ما مَلأ آدميٌّ وِعاءً شَرّاً مِنْ بَطْنٍ،",
+         "en": "From al-Miqdām ibn Maʿdīkarib, who said: I heard the Messenger of Allah ﷺ say: “No human being fills a vessel worse than a stomach."
+        },
+        {
+         "ar": "بِحَسْبِ ابنِ آدمَ أَكَلاتٌ يُقِمْنَ صُلْبَهُ، فإنْ كَانَ لا مَحالَةَ، فَثُلُثٌ لِطعامِهِ، وثُلُثٌ لِشَرابِهِ، وثُلُثٌ لِنَفسه» رواهُ الإمامُ أحمَدُ والتِّرمِذيُّ والنَّسائيُّ وابنُ ماجَهْ، وقَالَ التِّرمِذيُّ: حَدِيثٌ حَسَنٌ.",
+         "en": "A few mouthfuls are enough for the son of Ādam to keep his back upright. If he must [eat more], then a third for his food, a third for his drink and a third for his breath.” Imam Aḥmad, al-Tirmidhī, al-Nasāʾī and Ibn Mājah reported it, and al-Tirmidhī said: A good (ḥasan) hadith."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c1",
+     "pages": [
+      891
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "هذا الحديثُ خرَّجه الإمام أحمد والترمذيُّ من حديث يحيى بن جابر الطائي عن المقدام،",
+         "en": "Imam Aḥmad and al-Tirmidhī recorded this hadith from the hadith of Yaḥyā ibn Jābir al-Ṭāʾī, from al-Miqdām."
+        },
+        {
+         "ar": "وخرَّجه النَّسائي من هذا الوجه ومن وجه آخر من رواية صالح بن يحيى بن المقدام عن جدّه، وخرّجه ابنُ ماجه من وجه آخر عنه وله طرق أخرى.",
+         "en": "Al-Nasāʾī recorded it by this route and by another, in the narration of Ṣāliḥ ibn Yaḥyā ibn al-Miqdām from his grandfather; Ibn Mājah recorded it from him by another route; and it has other routes as well."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c2",
+     "pages": [
+      891
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد رُوي هذا الحديث مع ذكر سببه، فروى أبو القاسم البغوي في \" معجمه \" من حديث عبد الرحمان بن المُرَقَّع، قال:",
+         "en": "This hadith has also been narrated together with what occasioned it. Abū al-Qāsim al-Baghawī narrated in his Muʿjam, from the hadith of ʿAbd al-Raḥmān ibn al-Muraqqaʿ, who said:"
+        },
+        {
+         "ar": "فتح رسولُ الله صلى الله عليه وسلم خيبر وهي مخضرةٌ من الفواكة، فواقع الناسُ الفاكهةَ، فمغثتهمُ الحُمَّى، فشَكَوْا إلى رسولِ الله صلى الله عليه وسلم،",
+         "en": "The Messenger of Allah ﷺ conquered Khaybar when it was green with fruit. The people fell upon the fruit and were struck down with fever, and they complained of it to the Messenger of Allah ﷺ."
+        },
+        {
+         "ar": "فقال رسولُ الله صلى الله عليه وسلم: «إنّما الحمى رائدُ الموت وسجنُ الله في الأرض، وهي قطعةٌ من النار،",
+         "en": "The Messenger of Allah ﷺ said: “Fever is the forerunner of death and Allah's prison on earth, and it is a piece of the Fire."
+        },
+        {
+         "ar": "فإذا أخذتكم فبرِّدوا الماء في الشِّنان، فصبُّوها عليكم بين الصَّلاتين» يعني المغرب والعشاء، قال: ففعلوا ذلك، فذهبت عنهم، فقال رسولُ الله صلى الله عليه وسلم:",
+         "en": "When it seizes you, cool water in old waterskins and pour it over yourselves between the two prayers” — meaning Maghrib and ʿIshāʾ. He said: They did that, and it left them. Then the Messenger of Allah ﷺ said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c3",
+     "pages": [
+      891
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«لم يخلُقِ الله وعاءً إذا مُلِئَ شرّاً من بطن، فإن كان لابدَّ، فاجعلوا ثُلُثاً للطَّعام، وثُلثاً للشَّراب، وثُلثاً للرِّيح».",
+         "en": "“Allah has not created a vessel worse, when it is filled, than a stomach. If it must be, then make a third for food, a third for drink and a third for air.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c4",
+     "pages": [
+      892
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذا الحديثُ أصلٌ جامعٌ لأصول الطب كُلِّها.",
+         "en": "This hadith is a comprehensive foundation for all the principles of medicine."
+        },
+        {
+         "ar": "وقد رُوي أنَّ ابنَ أبي ماسويه الطبيبَ لمَّا قرأ هذا الحديث في كتاب أبي خيثمة، قال: لو استعملَ الناسُ هذه الكلمات، سَلِموا مِنَ الأمراض والأسقام، ولتعطَّلت المارستانات ودكاكين الصيادلة، وإنَّما قال هذا؛",
+         "en": "It is narrated that when the physician Ibn Abī Māsawayh read this hadith in the book of Abū Khaythamah, he said: If people put these words into practice, they would be safe from diseases and ailments, and the hospitals and the druggists' shops would stand idle. He said this only"
+        },
+        {
+         "ar": "لأنَّ أصل كلِّ داء التُّخَم، كما قال بعضهم: أصلُ كُلِّ داء البردةُ، وروي مرفوعاً ولا يصحُّ رفعه.",
+         "en": "because the root of every illness is surfeit (tukhamah) — as someone said: The root of every illness is indigestion (baradah). This has been narrated as marfūʿ (attributed to the Prophet ﷺ), but its attribution to him is not authentic."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c5",
+     "pages": [
+      892
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الحارث بن كَلَدَة طبيبُ العرب: الحِمية رأسُ الدواء، والبِطنةُ رأسُ الداء، ورفعه بعضهم ولا يصحُّ أيضاً.",
+         "en": "Al-Ḥārith ibn Kaladah, the physician of the Arabs, said: Abstinence is the chief of remedies, and gluttony the chief of diseases. Some narrated this as marfūʿ, and that is not authentic either."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c6",
+     "pages": [
+      892
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الحارث أيضاً: الذي قتل البرية، وأهلك السباعَ في البرية، إدخالُ الطعام على الطعام قبل الانهضام.",
+         "en": "Al-Ḥārith also said: What has killed creation (al-bariyyah) and destroyed the beasts of the wilderness (al-barriyyah) is putting food on top of food before it has been digested."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c7",
+     "pages": [
+      892
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال غيره: لو قيل لأهل القبور: ما كان سببُ آجالكم؟ قالوا: التُّخَمُ.",
+         "en": "Someone else said: If the people of the graves were asked what had brought on their deaths, they would say: Surfeit."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c8",
+     "pages": [
+      892
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فهذا بعض منافع تقليلِ الغذاء، وتركِ التَّمَلِّي من الطَّعام بالنسبة إلى صلاح البدن وصحته.",
+         "en": "These, then, are some of the benefits of eating little and not filling oneself with food, as regards the soundness and health of the body."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c9",
+     "pages": [
+      892
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما منافِعُه بالنسبة إلى القلب وصلاحه، فإنَّ قلةَ الغذاء توجب رِقَّة القلب، وقوَّة الفهم، وانكسارَ النفس، وضعفَ الهوى والغضب، وكثرةُ الغذاء توجب ضدَّ ذلك.",
+         "en": "As for its benefits for the heart and its soundness, eating little brings tenderness of heart, strength of understanding, humility of the self, and weakness of passion and anger, while eating much brings the opposite."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c10",
+     "pages": [
+      893
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال الحسن: يا ابنَ آدم كُلْ في ثلث بطنك، واشرب في ثلثٍ، ودع ثُلُثَ بطنك يتنفَّس لتتفكر.",
+         "en": "Al-Ḥasan said: Son of Ādam, eat in a third of your stomach, drink in a third, and leave a third of your stomach to breathe, so that you may reflect."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c11",
+     "pages": [
+      893
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال المروذي: جعل أبو عبد الله: يعني: أحمدَ يُعظِّمُ أمر الجوع والفقر، فقلت له: يُؤجر الرجل في ترك الشهوات، فقال: وكيف لا يؤجر، وابنُ عمر يقول: ما شبعت منذ أربعة أشهر؟",
+         "en": "Al-Marrūdhī said: Abū ʿAbdillāh — meaning Aḥmad — began to speak of hunger and poverty as a great matter. I said to him: Is a man rewarded for giving up his appetites? He said: How could he not be rewarded, when Ibn ʿUmar says: I have not eaten my fill for four months?"
+        },
+        {
+         "ar": "قلت لأبي عبد الله: يجد الرجلُ مِنْ قلبه رقَّة وهو يشبع؟",
+         "en": "I said to Abū ʿAbdillāh: Does a man find tenderness in his heart while he eats his fill?"
+        },
+        {
+         "ar": "قال: ما أرى.",
+         "en": "He said: I do not think so."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c12",
+     "pages": [
+      893
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى المروذي عن أبي عبد الله قول ابن عمر هذا من وجوه، فروى بإسناده عن ابن سيرين، قال: قال رجل لابن عمر: ألا أجيئك بجوارش؟",
+         "en": "Al-Marrūdhī narrated this saying of Ibn ʿUmar from Abū ʿAbdillāh by several routes. With his chain, he narrated from Ibn Sīrīn, who said: A man said to Ibn ʿUmar: Shall I bring you some jawārish?"
+        },
+        {
+         "ar": "قال: وأيُّ شيء هو؟",
+         "en": "He said: What is that?"
+        },
+        {
+         "ar": "قال: شيءٌ يَهضِمُ الطعامَ إذا أكلته، قال: ما شبعتُ منذ أربعةِ أشهر، وليس ذاك أني لا أقدر عليه، ولكن أدركت أقواماً يجوعون أكثرَ مما يشبعون.",
+         "en": "He said: Something that digests your food after you have eaten. He said: I have not eaten my fill for four months, and not because I cannot; but I have known people who were hungry more often than they were full."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c13",
+     "pages": [
+      893
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وبإسناده عن نافع، قال: جاء رجل بجوارش إلى ابن عمر، فقال: ما هذا؟",
+         "en": "With his chain, from Nāfiʿ, who said: A man brought some jawārish to Ibn ʿUmar, and he said: What is this?"
+        },
+        {
+         "ar": "قال: جوارش: شيءٌ يُهضَمُ به الطعامُ، قال: ما أصنع به؟",
+         "en": "He said: Jawārish — something that helps food to digest. He said: What would I do with it?"
+        },
+        {
+         "ar": "إنِّي ليأتي عليَّ الشهرُ ما أشبع فيه من الطعام.",
+         "en": "A whole month passes over me in which I do not eat my fill of food."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c14",
+     "pages": [
+      893
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وبإسناده عن رجلٍ قال: قلتُ لابنِ عمر: يا أبا عبد الرحمان رَقَّتْ مضغتك، وكَبِرَ سِنُّكَ، وجلساؤك لا يعرفون لك حَقَّك ولا شَرَفَك، فلو أمرتَ أهلك أنْ يجعلوا لك شيئاً يلطفونك إذا رجعتَ إليهم،",
+         "en": "With his chain, from a man who said: I said to Ibn ʿUmar: Abū ʿAbd al-Raḥmān, your chewing has grown weak and you have grown old, and those who sit with you do not recognise your due or your standing. If only you would tell your family to prepare something for you, to coax you with when you go back to them."
+        },
+        {
+         "ar": "قال: وَيْحَكَ، واللهِ ما شبعتُ منذ إحدى عشرة سنة، ولا اثنتي عشرة سنة، ولا ثلاث عشرة سنة، ولا أربع عشرة سنة مرَّة واحدة، فكيف بي وإنَّما بقي مني كظِمْءِ الحمار.",
+         "en": "He said: Woe to you! By Allah, I have not eaten my fill even once for eleven years, nor twelve years, nor thirteen years, nor fourteen years. How could I, when all that is left of me is like a donkey's thirst [a brief span]?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c15",
+     "pages": [
+      893
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وبإسناده عن عمرو بن الأسود العنسي أنَّه كان يدعُ كثيراً من الشبع مخافة الأشر.",
+         "en": "With his chain, from ʿAmr ibn al-Aswad al-ʿAnsī: He used to stop well short of being full, for fear of growing insolent."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c16",
+     "pages": [
+      894
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى ابن أبي الدنيا في كتاب \" الجوع \" بإسناده عن نافع، عن ابنِ عمر، قال: ما شبعتُ منذُ أسلمت.",
+         "en": "Ibn Abī al-Dunyā narrated in his book al-Jūʿ (“Hunger”), with his chain, from Nāfiʿ, from Ibn ʿUmar, who said: I have not eaten my fill since I became Muslim."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c17",
+     "pages": [
+      894
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى بإسناده عن محمد بن واسع، قال: مَنْ قلَّ طُعْمُه فهم، وأفهم، وصفا، ورقَّ، وإنَّ كَثرةَ الطَّعام ليُثقل صاحبه عن كثير مما يُريد.",
+         "en": "He narrated with his chain from Muḥammad ibn Wāsiʿ, who said: Whoever eats little understands, makes others understand, and becomes pure and tender. Eating much weighs a person down from much of what he wants to do."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c18",
+     "pages": [
+      894
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن أبي عبيدة الخَوَّاص، قال: حَتْفُكَ في شبعك، وحَظُّك في جوعك، إذا أنت شبعتَ ثقلتَ، فنِمْتَ، استمكن منك العدوُّ، فجثم عليك، وإذا أنت تجوَّعت كنت للعدو بمرصد.",
+         "en": "From Abū ʿUbaydah al-Khawwāṣ, who said: Your ruin lies in your being full, and your good fortune in your hunger. When you are full, you grow heavy and fall asleep, and the enemy gets a hold on you and sits on top of you; but when you keep yourself hungry, you lie in wait for the enemy."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c19",
+     "pages": [
+      894
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن عمرو بن قيس، قال: إيَّاكُمْ والبِطنة فإنَّها تُقسِّي القلب.",
+         "en": "From ʿAmr ibn Qays, who said: Beware of a full belly, for it hardens the heart."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c20",
+     "pages": [
+      894
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن سلمة بنِ سعيد قال: إنْ كان الرجلُ لَيُعيَّر بالبِطنة كما يُعير بالذنب يَعمَلُهُ.",
+         "en": "From Salamah ibn Saʿīd, who said: A man used to be reproached for a full belly just as he would be reproached for a sin he had committed."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c21",
+     "pages": [
+      894
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن بعض العلماء قال: إذا كنت بطيناً، فاعدد نفسك زمناً حتى تخمص.",
+         "en": "From one of the scholars, who said: If you are big-bellied, count yourself as crippled until your belly is lean."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c22",
+     "pages": [
+      894
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن ابن الأعرابي قال: كانت العربُ تقول: ما بات رجلٌ بطيناً فتمَّ عزمُه.",
+         "en": "From Ibn al-Aʿrābī, who said: The Arabs used to say: No man ever spent the night with a full belly and saw his resolve through."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c23",
+     "pages": [
+      894
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن أبي سليمان الداراني قال: إذا أردتَ حاجةً من حَوائجِ الدُّنيا والآخرة، فلا تأكل حتَّى تقضيها، فإنَّ الأكلَ يُغير العقل.",
+         "en": "From Abū Sulaymān al-Dārānī, who said: When you want to accomplish some need of this world or the Hereafter, do not eat until you have accomplished it, for eating alters the mind."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c24",
+     "pages": [
+      894
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن مالك بن دينار قال: ما ينبغي للمؤمن أنْ يكونَ بطنه أكبرَ همه، وأنْ تكونَ شهوته هي الغالبة عليه.",
+         "en": "From Mālik ibn Dīnār, who said: It is not fitting for the believer that his stomach be his greatest concern, or that his appetite be what overpowers him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c25",
+     "pages": [
+      894
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال: وحدثني الحسنُ بن عبد الرحمان، قال: قال الحسن أو غيره: كانت بلية أبيكم آدم عليه السلام أكلةً، وهي بليتُكم إلى يوم القيامة.",
+         "en": "He said: Al-Ḥasan ibn ʿAbd al-Raḥmān told me: Al-Ḥasan, or someone else, said: The trial of your father Ādam (peace be upon him) was a meal, and it is your trial until the Day of Resurrection."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c26",
+     "pages": [
+      895
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال: وكان يُقال: من ملك بطنه، ملك الأعمالَ الصالحة كلها، وكان يُقال: لا تَسكُنُ الحِكمةُ معدة ملأى.",
+         "en": "He said: It used to be said: Whoever masters his stomach masters all righteous deeds. And it used to be said: Wisdom does not dwell in a full stomach."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c27",
+     "pages": [
+      895
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن عبد العزيز بن أبي رواد قال: كان يُقال: قِلة الطعام عونٌ على التسرُّع إلى الخيرات.",
+         "en": "From ʿAbd al-ʿAzīz ibn Abī Rawwād, who said: It used to be said: Eating little helps one to hasten towards good deeds."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c28",
+     "pages": [
+      895
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن قثم العابد قال: كان يُقال: ما قلَّ طعمُ امرئٍ قطُّ إلا رقَّ قلبه، ونديت عيناه.",
+         "en": "From Qutham the worshipper, who said: It used to be said: No one ever ate little without his heart growing tender and his eyes moist."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c29",
+     "pages": [
+      895
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن عبد الله بن مرزوق قال: لم نَرَ للأشر مثل دوام الجوع، فقال له أبو عبد الرحمان العمري الزاهد: وما دوامه عندك؟",
+         "en": "From ʿAbdullāh ibn Marzūq, who said: We have seen nothing to match constant hunger against insolence. Abū ʿAbd al-Raḥmān al-ʿUmarī the ascetic said to him: And what, in your view, is keeping it constant?"
+        },
+        {
+         "ar": "قالَ: دوامُه أنْ لا تشبع أبداً.",
+         "en": "He said: Keeping it constant is never eating your fill."
+        },
+        {
+         "ar": "قالَ: وكيف يقدر من كانَ في الدنيا على هذا؟",
+         "en": "He said: And how can anyone in this world manage that?"
+        },
+        {
+         "ar": "قال: ما أيسرَ ذلك يا أبا عبد الرحمان على أهل ولايته ومن وفَّقه لطاعته، لا يأكل إلا دونَ الشبع هو دوامُ الجوع.",
+         "en": "He said: How easy that is, Abū ʿAbd al-Raḥmān, for those whom He has taken as His friends and granted success in obeying Him! Eating only short of one's fill — that is constant hunger."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c30",
+     "pages": [
+      895
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويشبه هذا قول الحسن لما عرض الطعامَ على بعض أصحابه، فقال له: أكلتُ حتى لا أستطيع أنْ آكل، فقال الحسن: سبحان الله ويأكل المسلم حتى لا يستطيع أن يأكل؟!.",
+         "en": "Similar to this is what al-Ḥasan said when he offered food to one of his companions and the man said to him: I have eaten until I cannot eat any more. Al-Ḥasan said: Glory be to Allah! Does a Muslim eat until he cannot eat any more?!"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c31",
+     "pages": [
+      895
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى أيضاً بإسناده عن أبي عمران الجوني، قال: كان يقال: من أحبّ أن يُنوَّرَ لهُ قلبُه، فليُقِلَّ طُعمَه.",
+         "en": "He also narrated with his chain from Abū ʿImrān al-Jawnī, who said: It used to be said: Whoever would like his heart to be illuminated, let him eat little."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c32",
+     "pages": [
+      895
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن عثمان بن زائدة قال: كتب إليَّ سفيان الثوري: إنْ أردت أنْ يصحَّ جسمك، ويَقِلَّ نومك، فأقلَّ من الأكل.",
+         "en": "From ʿUthmān ibn Zāʾidah, who said: Sufyān al-Thawrī wrote to me: If you want your body to be healthy and your sleep to be little, eat less."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c33",
+     "pages": [
+      895
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن ابن السَّماك قال: خلا رجل بأخيه، فقال: أي أخي، نحن أهونُ على الله من أنْ يُجيعنا، إنَّما يُجيع أولياءه.",
+         "en": "From Ibn al-Sammāk, who said: A man was alone with his brother and said: My brother, we are too insignificant to Allah for Him to make us go hungry; it is only His friends that He makes go hungry."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c34",
+     "pages": [
+      895
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن عبد الله بن الفرج قال: قلت لأبي سعيد التميمي: الخائف يشبعُ؟",
+         "en": "From ʿAbdullāh ibn al-Faraj, who said: I said to Abū Saʿīd al-Tamīmī: Does the one who fears [Allah] eat his fill?"
+        },
+        {
+         "ar": "قالَ: لا، قلت: المشتاق يشبع؟ قالَ: لا.",
+         "en": "He said: No. I said: Does the one who yearns [for Him] eat his fill? He said: No."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c35",
+     "pages": [
+      896
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن رياح القيسي أنه قُرِّبَ إليه طعامٌ، فأكل منه، فقيل لهُ: ازدد فما أراك شبعتَ، فصاح صيحة وقال: كيف أَشبَعُ أيام الدنيا وشجرةُ الزقوم طعامُ الأثيم بين يدي؟",
+         "en": "It is related of Riyāḥ al-Qaysī that food was set before him and he ate some of it. He was told: Have more, for I do not think you have eaten your fill. He let out a cry and said: How can I eat my fill in the days of this world, when the tree of Zaqqūm, the food of the sinner, lies before me?"
+        },
+        {
+         "ar": "فرفع الرجلُ الطعام من بين يديه، وقال: أنت في شيء ونحن في شيء.",
+         "en": "The man took the food away from in front of him and said: You are in one state, and we are in another."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c36",
+     "pages": [
+      896
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال المروذي: قال لي رجل: كيف ذاك المتنعمُ؟",
+         "en": "Al-Marrūdhī said: A man said to me: How is that man of ease?"
+        },
+        {
+         "ar": "يعني: أحمد، قلتُ له: وكيف هو متنعم؟",
+         "en": "— meaning Aḥmad. I said to him: And how is he a man of ease?"
+        },
+        {
+         "ar": "قال: أليس يجد خبزاً يأكل، وله امرأة يسكن إليه ويطؤها، فذكرتُ ذلك لأبي عبد الله، فقال: صدق، وجعل يسترجِعُ، وقال: إنا لنشبع.",
+         "en": "He said: Does he not find bread to eat, and have a wife in whom he finds repose and with whom he lies? I mentioned this to Abū ʿAbdillāh, and he said: He is right. He began to say, “To Allah we belong and to Him we return,” and said: We do eat our fill."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c37",
+     "pages": [
+      896
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال بشر بنُ الحارث: ما شبعت منذ خمسينَ سنة، وقال: ما ينبغي للرجل أنْ يشبع اليوم من الحلال؛",
+         "en": "Bishr ibn al-Ḥārith said: I have not eaten my fill for fifty years. He also said: It is not fitting for a man today to eat his fill even of what is lawful,"
+        },
+        {
+         "ar": "لأنَّه إذا شبع من الحلال، دعته نفسُه إلى الحرام، فكيف من هذه الأقذار؟",
+         "en": "because when he eats his fill of what is lawful, his self calls him to what is unlawful. So what of these filthy things?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c38",
+     "pages": [
+      896
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن إبراهيم بن أدهم قال: من ضبط بطنه، ضبط دينَه، ومن ملك جُوعَه، ملك الأخلاق الصالحة، وإنَّ معصية الله بعيدةٌ من الجائع، قريبةٌ من الشبعان، والشبعُ يميت القلبَ، ومنه يكونُ الفرحُ والمرح والضحك.",
+         "en": "From Ibrāhīm ibn Adham, who said: Whoever controls his stomach controls his religion, and whoever masters his hunger masters good character. Disobedience to Allah is far from the hungry and near to the full. Being full deadens the heart, and from it come exultation, frivolity and laughter."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c39",
+     "pages": [
+      896
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال ثابت البناني: بلغنا أنَّ إبليس ظهر ليحيى بن زكريا عليهما السّلام، فرأى عليه معاليق من كلِّ شيءٍ، فقال له يحيى: يا إبليس، ما هذه المعاليقُ التي أرى عليك؟",
+         "en": "Thābit al-Bunānī said: It has reached us that Iblīs appeared to Yaḥyā ibn Zakariyyā (peace be upon them both), and he saw things of every kind hanging on him. Yaḥyā said to him: Iblīs, what are these things I see hanging on you?"
+        },
+        {
+         "ar": "قال: هذه الشهواتُ التي أُصيبُ من بني آدم، قال: فهل لي فيها شيءٌ؟",
+         "en": "He said: These are the appetites with which I catch the children of Ādam. He said: Is there anything of mine among them?"
+        },
+        {
+         "ar": "قال: ربما شبعت، فثقَّلناك عن الصَّلاة وعنِ الذِّكر، قال: فهل غيرُ هذا؟ قال:",
+         "en": "He said: Sometimes you eat your fill, and we make you too heavy for prayer and remembrance. He said: Is there anything else? He said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c40",
+     "pages": [
+      896
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "لا، قال: لله عليَّ أنْ لا أملأ بطني من طعام أبداً، قال: فقال إبليس: ولله عليَّ أنْ لا أنصحَ مسلماً أبداً.",
+         "en": "No. He said: I vow to Allah never again to fill my stomach with food. Iblīs said: And I vow to Allah never again to give sincere counsel to a Muslim."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c41",
+     "pages": [
+      896,
+      897
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أبو سليمان الداراني: إنَّ النفس إذا جاعت وعطشت، صفا القلب ورقَّ، وإذا شبعت ورويت، عمي القلبُ، وقال: مفتاحُ الدنيا الشبع، ومفتاح الآخرة الجوع،",
+         "en": "Abū Sulaymān al-Dārānī said: When the self is hungry and thirsty, the heart becomes pure and tender; when it is full and has drunk its fill, the heart becomes blind. He also said: The key to this world is being full, and the key to the Hereafter is hunger."
+        },
+        {
+         "ar": "وأصلُ كلِّ خير في الدنيا والآخرة الخوف من الله عز وجل، وإنَّ الله ليُعطي الدنيا من يُحبُّ ومن لا يُحبُّ، وإنَّ الجوع عنده في خزائن مُدَّخَرة، فلا يُعطي إلا من أحبَّ خاصة؛",
+         "en": "The root of all good in this world and the Hereafter is fear of Allah, the Mighty and Majestic. Allah gives this world to those He loves and those He does not love, but hunger He keeps in treasuries stored up with Him, and He gives it only to those He loves in particular."
+        },
+        {
+         "ar": "ولأنْ أدعَ من عشائي لقمةً أحبُّ إليَّ من أن آكلها ثم أقوم من أوَّل الليل إلى آخره.",
+         "en": "To leave a morsel of my supper is dearer to me than to eat it and then stand [in prayer] from the beginning of the night to its end."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c42",
+     "pages": [
+      897
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الحسن بن يحيى الخشني: من أراد أن تَغْزُرَ دموعه، ويرِقَّ قلبه، فليأكل، وليشرب في نصف بطنه، قال أحمد بن أبي الحواري:",
+         "en": "Al-Ḥasan ibn Yaḥyā al-Khushanī said: Whoever wants his tears to flow freely and his heart to be tender, let him eat and drink in half his stomach. Aḥmad ibn Abī al-Ḥawārī said:"
+        },
+        {
+         "ar": "فحدثت بهذا أبا سليمان، فقال: إنَّما جاء الحديث: «ثلثٌ طعام وثلثٌ شراب»، وأرى هؤلاء قد حاسبوا أنفسَهم، فربحوا سدساً.",
+         "en": "I told Abū Sulaymān this, and he said: The hadith only says, “A third for food and a third for drink.” I see that these people have taken themselves to account and gained a sixth."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c43",
+     "pages": [
+      897
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال محمد بن النضر الحارثي: الجوعُ يبعث على البرِّ كما تبعثُ البِطنة على الأشر.",
+         "en": "Muḥammad ibn al-Naḍr al-Ḥārithī said: Hunger spurs one to righteousness just as a full belly spurs one to insolence."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c44",
+     "pages": [
+      897
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن الشافعي، قال: ما شبعتُ منذ ستَّ عشرةَ سنة إلا شبعة اطرحتها؛",
+         "en": "From al-Shāfiʿī, who said: I have not eaten my fill for sixteen years, except once, and that I threw up;"
+        },
+        {
+         "ar": "لأنَّ الشبع يُثقِلُ البدن، ويُزيل الفطنة، ويجلب النوم، ويضعف صاحبه عن العبادة.",
+         "en": "for being full weighs the body down, takes away sharpness of mind, brings on sleep and weakens a person for worship."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c45",
+     "pages": [
+      897
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد ندب النَّبيُّ صلى الله عليه وسلم إلى التقلل من الأكل في حديث المقدام، وقال: «حسبُ ابن آدم لقيمات يُقمن صلبه».",
+         "en": "The Prophet ﷺ encouraged eating little in the hadith of al-Miqdām, saying: “A few mouthfuls are enough for the son of Ādam to keep his back upright.”"
+        },
+        {
+         "ar": "وفي \" الصحيحين \" عنه صلى الله عليه وسلم أنَّه قال:",
+         "en": "In the two Ṣaḥīḥs it is reported from him ﷺ that he said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c46",
+     "pages": [
+      897
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«المؤمنُ يأكل في مِعًى واحدٍ، والكافرُ يأكل في سبعة أمعاء» والمراد أنَّ المؤمن يأكلُ بأدبِ الشَّرع، فيأكل في مِعًى واحدٍ، والكافر يأكل بمقتضى الشَّهوة والشَّرَهِ والنَّهم، فيأكلُ في سبعة أمعاء.",
+         "en": "“The believer eats in one intestine, and the disbeliever eats in seven intestines.” What is meant is that the believer eats with the manners of the Sharīʿah, and so eats in one intestine, while the disbeliever eats as appetite, greed and voracity dictate, and so eats in seven intestines."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c47",
+     "pages": [
+      897,
+      898
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وندب صلى الله عليه وسلم مع التقلُّل منَ الأكل والاكتفاء ببعض الطعام إلى الإيثار بالباقي منه، فقال: «طعامُ الواحدِ يكفي الاثنين، وطعامُ الاثنين يكفي الثَّلاثة، وطعامُ الثلاثة يكفي الأربعة».",
+         "en": "Besides eating little and making do with part of the food, he ﷺ encouraged giving the rest of it to others, saying: “The food of one is enough for two, the food of two is enough for three, and the food of three is enough for four.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c48",
+     "pages": [
+      898
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فأحسنُ ما أكل المؤمن في ثُلُثِ بطنه، وشرِبَ في ثلث، وترك للنَّفَسِ ثُلثاً، كما ذكره النَّبيُّ صلى الله عليه وسلم في حديث المقدام، فإنَّ كثرة الشرب تجلِبُ النوم، وتفسد الطعام.",
+         "en": "The best way for the believer to eat, then, is to eat in a third of his stomach, drink in a third and leave a third for breath, as the Prophet ﷺ mentioned in the hadith of al-Miqdām; for drinking much brings on sleep and spoils the food."
+        },
+        {
+         "ar": "قال سفيان: كُلْ ما شئتَ ولا تشرب، فإذا لم تشرب، لم يجئك النوم.",
+         "en": "Sufyān said: Eat what you like, but do not drink; if you do not drink, sleep will not come to you."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c49",
+     "pages": [
+      898
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال بعض السَّلف: كان شبابٌ يتعبَّدون في بني إسرائيل، فإذا كان عند فطرهم، قام عليهم قائم فقال: لا تأكلوا كثيراً، فتشربوا كثيراً، فتناموا كثيراً، فتخسروا كثيراً.",
+         "en": "One of the Salaf said: There were young men among the Children of Israel who devoted themselves to worship. When it was time for them to break their fast, someone would stand over them and say: Do not eat much, or you will drink much, then sleep much, then lose much."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c50",
+     "pages": [
+      898
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد كان النَّبيُّ صلى الله عليه وسلم وأصحابه يجوعون كثيراً، ويتقلَّلون من أكل الشَّهوات، وإنْ كان ذلك لِعدم وجود الطَّعام، إلاَّ أنَّ الله لا يختارُ لرسوله إلا أكملَ الأحوال وأفضلها.",
+         "en": "The Prophet ﷺ and his Companions often went hungry and ate little of the foods people crave. Even if that was because food was not to be had, Allah chooses for His Messenger only the most perfect and best of states."
+        },
+        {
+         "ar": "ولهذا كان ابنُ عمر يتشبه بهم في ذلك، مع قدرته على الطَّعام، وكذلك كان أبوه من قبله.",
+         "en": "That is why Ibn ʿUmar imitated them in this, though he was able to obtain food, as his father had done before him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c51",
+     "pages": [
+      898
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ففي \" الصحيحين \" عن عائشة، قالت: ما شبع آلُ محمدٍ صلى الله عليه وسلم منذ قَدِمَ المدينة من خبز بُرٍّ ثلاث ليال تباعاً حتى قُبض،",
+         "en": "In the two Ṣaḥīḥs, from ʿĀʾishah, who said: From the time he came to Madīnah until he was taken, the family of Muḥammad ﷺ never ate their fill of wheat bread for three nights in a row."
+        },
+        {
+         "ar": "ولمسلم: قالت: ما شبع رسول الله صلى الله عليه وسلم من خبز شعير يومين متتابعين حتى قبض.",
+         "en": "In Muslim's version she said: The Messenger of Allah ﷺ never ate his fill of barley bread two days in succession until he was taken."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c52",
+     "pages": [
+      898
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج البخاري عن أبي هريرة قال: ما شَبِعَ رسول الله صلى الله عليه وسلم من طعام ثلاثة أيام حتى قُبض.",
+         "en": "Al-Bukhārī recorded from Abū Hurayrah, who said: The Messenger of Allah ﷺ never ate his fill of food for three days until he was taken."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c53",
+     "pages": [
+      898
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعنه قال: خرج رسول الله صلى الله عليه وسلم من الدنيا ولم يشبع من خبز الشعير.",
+         "en": "Also from him, he said: The Messenger of Allah ﷺ left this world without having eaten his fill of barley bread."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c54",
+     "pages": [
+      899
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح مسلم \" عن عمر أنَّه خطب، فذكر ما أصابَ الناسُ من الدنيا، فقال: لقد رأيتُ رسول الله صلى الله عليه وسلم يظلُّ اليوم يلتوي ما يجد دَقَلاً يملأ به بطنه.",
+         "en": "In Ṣaḥīḥ Muslim, from ʿUmar: He gave a sermon and mentioned the worldly gains that people had acquired, and said: I saw the Messenger of Allah ﷺ spend the whole day doubled over [with hunger], unable to find even poor dates (daqal) to fill his stomach."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c55",
+     "pages": [
+      899
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الترمذي، وابن ماجه من حديث أنس عن النَّبيِّ صلى الله عليه وسلم، قال: «لقد أوذيت في الله وما يُؤذى أحد،",
+         "en": "Al-Tirmidhī and Ibn Mājah recorded, from the hadith of Anas, that the Prophet ﷺ said: “I have been harmed for the sake of Allah when no one else was being harmed,"
+        },
+        {
+         "ar": "ولقد أُخِفْتُ في الله وما يخاف أحد، ولقد أتت عليَّ ثلاث مِنْ بين يومٍ وليلةٍ وما لي طعامٌ إلا ما واراه إبط بلال».",
+         "en": "and I have been made to fear for the sake of Allah when no one else was made to fear. Three days and nights have passed over me when I had no food except what Bilāl's armpit could hide.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c56",
+     "pages": [
+      899
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج ابنُ ماجه بإسناده عن سليمان بن صُرَد، قال: أتانا رسولُ الله صلى الله عليه وسلم، فمكثنا ثلاث ليالٍ لا نَقدِرُ - أو لا يقدر - على طعام.",
+         "en": "Ibn Mājah recorded with his chain from Sulaymān ibn Ṣurad, who said: The Messenger of Allah ﷺ came to us, and we stayed three nights unable — or: he was unable — to find any food."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c57",
+     "pages": [
+      899
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وبإسناده عن أبي هريرة، قال: أُتي رسول الله صلى الله عليه وسلم بطعامٍ سُخْن، فأكل، فلما فرغ، قال: «الحمدُ لله، ما دخل بطني طعامٌ سخن منذ كذا وكذا».",
+         "en": "Also with his chain, from Abū Hurayrah, who said: Hot food was brought to the Messenger of Allah ﷺ and he ate. When he had finished, he said: “Praise be to Allah! No hot food has entered my stomach since such-and-such a time.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c58",
+     "pages": [
+      899
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد ذم الله ورسوله من اتَّبع الشهواتِ، قال تعالى: {فَخَلَفَ مِنْ بَعْدِهِمْ خَلْفٌ أَضَاعُوا الصَّلاةَ وَاتَّبَعُوا الشَّهَوَاتِ فَسَوْفَ يَلْقَوْنَ غَيّاً إِلاَّ مَنْ تَابَ}.",
+         "en": "Allah and His Messenger have censured those who follow their appetites. The Exalted said: “Then there came after them successors who neglected the prayer and followed their appetites; they will meet perdition — except those who repent” [Maryam 19:59–60]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c59",
+     "pages": [
+      899
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وصحَّ عن النَّبيِّ صلى الله عليه وسلم أنَّه قال: «خيرُ القرون قرني، ثم الذين يلونهم، ثم الذين يلونهم، ثم يأتي قوم يشهدون ولا يُستشهدون، ويَنذِرُون ولا يُوفون، ويظهر فيهم السِّمَنُ».",
+         "en": "It is authentically reported that the Prophet ﷺ said: “The best generation is my generation, then those who follow them, then those who follow them. Then will come people who bear witness without being asked to bear witness, who make vows and do not fulfil them, and among whom fatness appears.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c60",
+     "pages": [
+      899
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" المسند \" أنَّ النَّبيَّ صلى الله عليه وسلم رأى رجلاً سميناً، فجعل يومئُ بيده إلى بطنه ويقول: «لو كان هذا في غير هذا، لكان خيراً لك».",
+         "en": "In the Musnad: The Prophet ﷺ saw a fat man and began pointing with his hand at his belly, saying: “If this were somewhere other than here, it would be better for you.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c61",
+     "pages": [
+      900
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" المسند \" عن أبي برزة، عن النَّبيِّ صلى الله عليه وسلم، قال: «إنَّ أخوفَ ما أخافُ عليكم شهواتُ الغي في بطونكم وفروجكم، ومُضلات الهوى».",
+         "en": "In the Musnad, from Abū Barzah, the Prophet ﷺ said: “What I fear most for you is the appetites of error in your stomachs and your private parts, and the whims that lead astray.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c62",
+     "pages": [
+      900
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" مسند البزار \" وغيره عن فاطمة، عن النَّبيِّ صلى الله عليه وسلم، قال: «شرارُ أمتي الذين غذوا بالنَّعيم يأكلون ألوان الطعام، ويلبسون ألوان الثياب، ويتشدّقون في الكلام».",
+         "en": "In the Musnad of al-Bazzār and elsewhere, from Fāṭimah, the Prophet ﷺ said: “The worst of my nation are those who are nourished on luxury, who eat every kind of food, wear every kind of clothing and speak with affected eloquence.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c63",
+     "pages": [
+      900
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الترمذي وابن ماجه من حديث ابن عمر، قال: تجشأ رجلٌ عند النَّبيِّ صلى الله عليه وسلم، فقال: «كفّ عنا جُشاءك، فإنَّ أكثرهم شبعاً في الدنيا أطولُهم جوعاً يوم القيامة».",
+         "en": "Al-Tirmidhī and Ibn Mājah recorded, from the hadith of Ibn ʿUmar, who said: A man belched in the presence of the Prophet ﷺ, and he said: “Keep your belching away from us, for those who eat their fill most in this world will be hungry longest on the Day of Resurrection.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c64",
+     "pages": [
+      900
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه ابنُ ماجه من حديث سلمان أيضاً بنحوه،",
+         "en": "Ibn Mājah also recorded something similar from the hadith of Salmān,"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c65",
+     "pages": [
+      900
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه الحاكم من حديث أبي جُحيفة وفي أسانيدها كلِّها مقال.",
+         "en": "and al-Ḥākim recorded it from the hadith of Abū Juḥayfah; all their chains are open to criticism."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h47.c66",
+     "pages": [
+      900
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى يحيى بنُ منده في كتاب \" مناقب الإمام أحمد \" بإسنادٍ له عن الإمامِ أحمد أنَّه سئل عن قولِ النَّبيِّ صلى الله عليه وسلم:",
+         "en": "Yaḥyā ibn Mandah narrated in his book Manāqib al-Imām Aḥmad (“The Virtues of Imam Aḥmad”), with a chain of his own, that Imam Aḥmad was asked about the words of the Prophet ﷺ:"
+        },
+        {
+         "ar": "«ثُلث للطَّعام، وثُلثٌ للشراب، وثلث للنفس» فقال: ثلث للطعام: هو القُوتُ، وثلث للشراب: هو القوى، وثلث للنفس: هو الروح، والله أعلم.",
+         "en": "“A third for food, a third for drink and a third for breath.” He said: The third for food is sustenance; the third for drink is strength; and the third for breath is the spirit. And Allah knows best."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}

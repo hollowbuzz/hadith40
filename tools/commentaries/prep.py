@@ -11,8 +11,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import htm as htmparse
 
-TR = sys.argv[1]
-WORK = os.path.join(TR, 'work')
+# Run directly: python3 -I prep.py <scratch_dir>. Imported (e.g. by jami.py), only the helpers are used.
+TR = sys.argv[1] if __name__ == '__main__' else None
+WORK = os.path.join(TR, 'work') if TR else None
 HOME = os.path.expanduser('~')
 INPUTS = {
     'fath': ('Downloads/fath_al_qawi_al_matin_ar_en_complete.json',
@@ -22,12 +23,13 @@ INPUTS = {
     'mujaz': ('Downloads/al_sharh_al_mujaz_al_mufid_ar_en.json',
               'Desktop/تصدير من الشاملة/الأحاديث الأربعين النووية مع ما زاد عليها ابن رجب وعليها الشرح الموجز المفيد.htm'),
 }
-for name, (j, h) in INPUTS.items():
-    if not os.path.exists(os.path.join(TR, name + '.json')):
-        os.makedirs(TR, exist_ok=True)
-        shutil.copy(os.path.join(HOME, j), os.path.join(TR, name + '.json'))
-    if not os.path.exists(os.path.join(TR, name + '_src.json')):
-        json.dump(htmparse.parse(os.path.join(HOME, h)), open(os.path.join(TR, name + '_src.json'), 'w'), ensure_ascii=False)
+def setup_inputs():
+    for name, (j, h) in INPUTS.items():
+        if not os.path.exists(os.path.join(TR, name + '.json')):
+            os.makedirs(TR, exist_ok=True)
+            shutil.copy(os.path.join(HOME, j), os.path.join(TR, name + '.json'))
+        if not os.path.exists(os.path.join(TR, name + '_src.json')):
+            json.dump(htmparse.parse(os.path.join(HOME, h)), open(os.path.join(TR, name + '_src.json'), 'w'), ensure_ascii=False)
 APP = json.load(open(os.path.join(HERE, '..', 'meta.json')))['hadith']
 
 END = '.؟!?؛'
@@ -383,6 +385,7 @@ def worksheet(chunk_title, sections):
     return '\n'.join(L) + '\n'
 
 def main():
+    setup_inputs()
     os.makedirs(WORK, exist_ok=True)
     for name, fn in (('fath', build_fath), ('tuhfah', build_tuhfah), ('mujaz', build_mujaz)):
         sk = fn()
@@ -407,4 +410,5 @@ def main():
                         nseg += len(p['segs'])
         print(name, 'segments (hadith part):', nseg)
 
-main()
+if __name__ == '__main__':
+    main()

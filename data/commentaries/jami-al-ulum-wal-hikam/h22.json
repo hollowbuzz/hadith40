@@ -1,0 +1,1096 @@
+{
+ "id": "h22",
+ "number": 22,
+ "standard_number": 22,
+ "collection": "nawawi",
+ "heading": {
+  "ar": "الحديث الثاني والعشرون",
+  "en": "Hadith 22"
+ },
+ "title": {
+  "ar": "الاقتصار على الفرائض",
+  "en": "Will I Enter Paradise?"
+ },
+ "pages": {
+  "start": 477,
+  "end": 488
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.n1",
+     "pages": [
+      477
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنْ جَابِر بنِ عبدِ الله رضي الله عنهما: أنَّ رَجُلاً سَأَلَ رَسولَ اللهِ صلى الله عليه وسلم فَقَالَ:",
+         "en": "From Jābir ibn ʿAbdillāh (may Allah be pleased with them both): A man asked the Messenger of Allah ﷺ, saying:"
+        },
+        {
+         "ar": "أرأيتَ إذا صَلَّيتُ المَكتُوبَاتِ، وصُمْتُ رَمَضانَ، وأَحْلَلْتُ الحَلالَ، وحَرَّمْتُ الحَرامَ، ولم أزِدْ على ذلك شيئاً، أأدخُلِ الجنَّةَ؟ قالَ: «نَعَمْ». رواهُ مسلم.",
+         "en": "Tell me: if I pray the obligatory prayers, fast Ramaḍān, treat the lawful as lawful and the unlawful as unlawful, and add nothing to that, will I enter Paradise? He said: “Yes.” Muslim reported it."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c1",
+     "pages": [
+      477
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "هذا الحديثُ خرَّجه مسلم من رواية أبي الزبير، عن جابر، وزاد في آخره: قالَ: والله لا أزيدُ على ذَلِكَ شيئاً.",
+         "en": "Muslim recorded this hadith through the narration of Abū al-Zubayr from Jābir, adding at its end: He said: By Allah, I will add nothing to that."
+        },
+        {
+         "ar": "وخرَّجه أيضاً من رواية الأعمش، عن أبي صالح، وأبي سفيان، عن جابر قالَ: قالَ النعمان بنُ قوقل: يا رسولَ الله، أرأيت إذا صليتُ المكتوبةَ، وحرمتُ الحرامَ، وأحللتُ الحلالَ ولم أزِدْ على ذَلِكَ شيئاً أَأَدخُلُ الجَنَّةَ؟",
+         "en": "He also recorded it through the narration of al-Aʿmash, from Abū Ṣāliḥ and Abū Sufyān, from Jābir, who said: Al-Nuʿmān ibn Qawqal said: Messenger of Allah, tell me: if I pray the obligatory prayer, treat the unlawful as unlawful and the lawful as lawful, and add nothing to that, will I enter Paradise?"
+        },
+        {
+         "ar": "قال النَّبيُّ صلى الله عليه وسلم: «نعم».",
+         "en": "The Prophet ﷺ said: “Yes.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c2",
+     "pages": [
+      477
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد فسَّر بعضُهم تحليلَ الحلالِ باعتقادِ حلِّه، وتحريمَ الحرامِ باعتقاد حُرمته مع اجتنابه، ويُحتمل أنْ يراد بتحليل الحلال إتيانُه، ويكون الحلالُ هاهنا عبارةً عمَّا ليسَ بحرامٍ،",
+         "en": "Some have explained “treating the lawful as lawful” as believing it to be lawful, and “treating the unlawful as unlawful” as believing it to be unlawful while avoiding it. It may also be that “treating the lawful as lawful” means doing it, “the lawful” here referring to whatever is not unlawful,"
+        },
+        {
+         "ar": "فيدخل فيه الواجبُ والمستحبُّ والمباحُ، ويكونُ المعنى أنَّه يفعل ما ليس بمحرَّم عليه، ولا يتعدَّى ما أُبيحَ له إلى غيره، ويجتنب المحرَّمات.",
+         "en": "so that it takes in what is obligatory, recommended and permissible. The meaning would then be that he does what is not forbidden to him, does not go beyond what has been permitted to him to something else, and avoids what is unlawful."
+        },
+        {
+         "ar": "وقد روي عن طائفةٍ من السَّلفِ، منهم: ابنُ مسعود وابن عباس في قوله عز وجل: {الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَتْلُونَهُ حَقَّ تِلاوَتِهِ أُولَئِكَ يُؤْمِنُونَ بِهِ}، قالوا: يُحلُّون حلاله ويحرِّمون حرامَه، ولا يُحرِّفونه عن مواضِعه.",
+         "en": "It has been narrated from a number of the Salaf, among them Ibn Masʿūd and Ibn ʿAbbās, that they said concerning the words of the Mighty and Majestic, “Those to whom We have given the Book recite it as it should be recited; it is they who believe in it” [al-Baqarah 2:121]: They treat what it makes lawful as lawful and what it makes unlawful as unlawful, and do not distort it from its proper places."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c3",
+     "pages": [
+      478
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والمرادُ بالتحليل والتحريم: فعلُ الحلال واجتنابُ الحرام كما ذُكر في هذا الحديث.",
+         "en": "What is meant by treating as lawful and as unlawful is doing what is lawful and avoiding what is unlawful, as mentioned in this hadith."
+        },
+        {
+         "ar": "وقد قال الله تعالى في حقِّ الكفار الذين كانوا يُغيرون تحريمَ الشُّهور الحُرُم: {إِنَّمَا النَّسِيءُ زِيَادَةٌ فِي الْكُفْرِ يُضَلُّ بِهِ الَّذِينَ كَفَرُوا يُحِلُّونَهُ عَاماً وَيُحَرِّمُونَهُ عَاماً لِيُوَاطِئُوا عِدَّةَ مَا حَرَّمَ اللهُ فَيُحِلُّوا مَا حَرَّمَ اللهُ}،",
+         "en": "Allah the Exalted said concerning the disbelievers who used to alter the sanctity of the sacred months: “Postponing [a sacred month] is only an increase in disbelief, by which those who disbelieve are led astray. They make it lawful one year and unlawful another year, to match the number that Allah has made sacred, and so make lawful what Allah has made unlawful” [al-Tawbah 9:37]."
+        },
+        {
+         "ar": "والمراد: أنَّهم كانوا يُقاتلون في الشهر الحرام عاماً، فيُحلونه بذلك، ويمتنعون من القتال فيه عاماً، فيحرِّمونَهُ بذلك.",
+         "en": "What is meant is that one year they would fight in the sacred month, thereby treating it as lawful, and another year they would refrain from fighting in it, thereby treating it as sacred."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c4",
+     "pages": [
+      478
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الله عز وجل: {يَا أَيُّهَا الَّذِينَ آمَنُوا لا تُحَرِّمُوا طَيِّبَاتِ مَا أَحَلَّ اللهُ لَكُمْ وَلا تَعْتَدُوا إِنَّ اللهَ لا يُحِبُّ الْمُعْتَدِينَ وَكُلُوا مِمَّا رَزَقَكُمُ اللهُ حَلالاً طَيِّباً} وهذه الآية نزلت بسبب قوم امتنعوا من تناول بعض الطيبات زهداً في الدنيا وتقشفاً،",
+         "en": "Allah, the Mighty and Majestic, said: “O you who believe, do not make unlawful the good things Allah has made lawful for you, and do not transgress; indeed, Allah does not love the transgressors. And eat of what Allah has provided for you, lawful and good” [al-Māʾidah 5:87–88]. This verse was revealed because of some people who refrained from partaking of certain good things out of detachment from the world and austerity."
+        },
+        {
+         "ar": "وبعضهم حرَّم ذلك عن نفسه، إمَّا بيمينٍ حَلَفَ بها، أو بتحريمه على نفسه، وذلك كُلُّه لا يوجبُ تحريمه في نفس الأمر،",
+         "en": "Some of them had made that unlawful for themselves, either by an oath they swore or by declaring it unlawful for themselves — none of which makes it unlawful in reality —"
+        },
+        {
+         "ar": "وبعضُهم امتنع منه من غير يمينٍ ولا تحريمٍ، فسمَّى الجميع تحريماً، حيث قصد الامتناعَ منه إضراراً بالنفس، وكفاً لها عن شهواتها.",
+         "en": "and some of them refrained from it without any oath or declaration. Allah called all of this “making unlawful”, since they meant by refraining from it to inflict hardship on themselves and hold their souls back from their desires."
+        },
+        {
+         "ar": "ويقال في الأمثال: فلانٌ لا يحلِّلُ ولا يحرِّمُ، إذا كان لا يمتنع من فعل حرام، ولا يقفُ عندَ ما أُبيح له،",
+         "en": "It is said proverbially: So-and-so neither treats things as lawful nor as unlawful — meaning that he does not refrain from doing what is unlawful and does not stop at what has been permitted to him,"
+        },
+        {
+         "ar": "وإنْ كان يعتقدُ تحريمَ الحرام، فيجعلون من فَعَلَ الحرامَ ولا يتحاشى منه مُحلِّلاً له، وإنْ كان لا يعتقد حلّه.",
+         "en": "even if he believes the unlawful to be unlawful. Thus people regard whoever does what is unlawful and does not shrink from it as treating it as lawful, even if he does not believe it to be lawful."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c5",
+     "pages": [
+      478
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وبكلِّ حالٍ، فهذا الحديثُ يدلُّ على أنَّ من قام بالواجبات، وانتهى عن المحرَّمات، دخلَ الجنة، وقد تواترتِ الأحاديثُ عَنِ النبيِّ صلى الله عليه وسلم بهذا المعنى، أو ما هو قريبٌ منه، كما خرَّجهُ النَّسائي، وابنُ حبان،",
+         "en": "In any case, this hadith shows that whoever fulfils the obligations and refrains from what is forbidden will enter Paradise. Hadiths with this meaning, or something close to it, have come from the Prophet ﷺ in great numbers. Thus al-Nasāʾī, Ibn Ḥibbān"
+        },
+        {
+         "ar": "والحاكم من حديث أبي هريرة وأبي سعيد عن النبيِّ صلى الله عليه وسلم قال: «ما مِنْ عبدٍ يُصلِّي الصلواتِ الخمس، ويصومُ رمضان، ويُخرجُ الزَّكاة،",
+         "en": "and al-Ḥākim recorded, from the hadith of Abū Hurayrah and Abū Saʿīd, that the Prophet ﷺ said: “There is no servant who prays the five prayers, fasts Ramaḍān, pays the zakāh"
+        },
+        {
+         "ar": "ويجتنبُ الكبائر السَّبعَ، إلاَّ فُتِحَتْ له أبوابُ الجنة، يدخُلُ من أيِّها شاء»، ثم تلا: {إِنْ تَجْتَنِبُوا كَبَائِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنْكُمْ سَيِّئَاتِكُمْ}.",
+         "en": "and avoids the seven major sins, but the gates of Paradise are opened for him, and he may enter by whichever he wishes.” Then he recited: “If you avoid the major sins you are forbidden, We will expiate your misdeeds for you” [al-Nisāʾ 4:31]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c6",
+     "pages": [
+      479
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد والنسائي من حديث أبي أيوب الأنصاري، عن النَّبيِّ صلى الله عليه وسلم، قال: «مَنْ عَبدَ الله، لا يُشركُ به، وأقامَ الصَّلاةَ، وآتى الزَّكاة، وصامَ رمضان، واجتنبَ الكبائرَ، فله الجنةُ، أو دخل الجنة».",
+         "en": "Imam Aḥmad and al-Nasāʾī recorded, from the hadith of Abū Ayyūb al-Anṣārī, that the Prophet ﷺ said: “Whoever worships Allah without associating anything with Him, establishes the prayer, pays the zakāh, fasts Ramaḍān and avoids the major sins will have Paradise” — or: “will enter Paradise.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c7",
+     "pages": [
+      479
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" المسند \" عن ابنِ عباس: أنَّ ضِمَامَ بنَ ثعلبةَ وفَدَ على النَّبيِّ صلى الله عليه وسلم، فذكر له الصَّلوات الخمس، والصيام، والزكاة، والحج، وشرائع الإسلام كلها، فلمَّا فرغ، قال:",
+         "en": "In the Musnad, from Ibn ʿAbbās: Ḍimām ibn Thaʿlabah came as a delegate to the Prophet ﷺ, and he mentioned to him the five prayers, fasting, zakāh, Ḥajj and all the laws of Islam. When he had finished, Ḍimām said:"
+        },
+        {
+         "ar": "أشهد أنْ لا إله إلا الله، وأنَّ محمداً رسول الله، وسأؤدِّي هذه الفرائض، وأجتنبُ ما نهيتني عنه، لا أزيدُ ولا أنقُصُ، فقال رسولُ الله صلى الله عليه وسلم: «إنْ صدقَ دخلَ الجنَّة».",
+         "en": "I bear witness that there is no god but Allah and that Muḥammad is the Messenger of Allah. I will fulfil these obligations and avoid what you have forbidden me, neither adding nor taking away. The Messenger of Allah ﷺ said: “If he is truthful, he will enter Paradise.”"
+        },
+        {
+         "ar": "وخرَّجه الطبراني مِنْ وجهٍ آخرَ، وفي حديثه قال: والخامسة لا أَرَبَ لي فيها، يعني: الفواحش، ثم قال: لأعملنَّ بها، ومن أطاعني، فقال رسولُ الله صلى الله عليه وسلم: «لئن صدقَ، ليدخلنَّ الجنَّة».",
+         "en": "Al-Ṭabarānī recorded it by another route, and in his narration Ḍimām said: As for the fifth, I have no desire for it — meaning indecent acts. Then he said: I will certainly act on them, I and whoever obeys me. The Messenger of Allah ﷺ said: “If he is truthful, he will surely enter Paradise.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c8",
+     "pages": [
+      479
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح البخاري \" عن أبي أيوب: أنَّ رجلاً قال للنَّبيِّ صلى الله عليه وسلم: أخبرني بعمل يُدخلني الجنَّة، قال: «تعبدُ الله لا تُشركُ به شيئاً، وتقيمُ الصَّلاة، وتُؤْتِي الزكاةَ، وتَصِلُ الرَّحم».",
+         "en": "In Ṣaḥīḥ al-Bukhārī, from Abū Ayyūb: A man said to the Prophet ﷺ: Tell me of a deed that will admit me to Paradise. He said: “Worship Allah without associating anything with Him, establish the prayer, pay the zakāh and maintain ties of kinship.”"
+        },
+        {
+         "ar": "وخرّجه مسلم إلاَّ أنَّ عنده أنَّه قال: أخبرني بعملٍ يُدنيني من الجنَّةِ ويُباعدُني من النَّارِ.",
+         "en": "Muslim recorded it too, except that in his version the man said: Tell me of a deed that will bring me near to Paradise and keep me far from the Fire."
+        },
+        {
+         "ar": "وعنده في رواية: فلما أدبرَ قال رسول الله صلى الله عليه وسلم: «إنْ تمسَّك بما أُمِرَ به، دخلَ الجنَّة».",
+         "en": "In one of his narrations: When the man turned away, the Messenger of Allah ﷺ said: “If he holds to what he has been commanded, he will enter Paradise.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c9",
+     "pages": [
+      479,
+      480
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن أبي هريرة: أنَّ أعرابياً قال: يا رسول الله، دُلَّني على عملٍ إذا عملتُه دخلتُ الجنَّة، قال: «تعبدُ الله لا تُشركُ به شيئاً، وتقيمُ الصَّلاةَ المكتوبة، وتؤدِّي الزكاةَ المفروضة،",
+         "en": "In the two Ṣaḥīḥs, from Abū Hurayrah: A Bedouin said: Messenger of Allah, direct me to a deed by which, if I do it, I will enter Paradise. He said: “Worship Allah without associating anything with Him, establish the obligatory prayer, pay the obligatory zakāh"
+        },
+        {
+         "ar": "وتصومُ رمضانَ»، قال: والذي بعثك بالحقِّ، لا أزيدُ على هذا شيئاً أبداً ولا أَنْقُصُ منه، فلمَّا ولَّى، قال النَّبيُّ صلى الله عليه وسلم: «مَن سرَّه أنْ ينظرَ إلى رجلٍ من أهلِ الجنَّة، فلينظر إلى هذا».",
+         "en": "and fast Ramaḍān.” The man said: By the One who sent you with the truth, I will never add anything to this, nor take anything from it. When he turned away, the Prophet ﷺ said: “Whoever would be glad to look at a man of the people of Paradise, let him look at this man.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c10",
+     "pages": [
+      480
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن طلحة بنِ عُبَيد الله: أنَّ أعرابياً جاء إلى رسولِ الله صلى الله عليه وسلم ثائرَ الرأس، فقال: يا رسولَ الله، أخبرني ماذا فرض الله عليَّ من الصَّلاةِ؟",
+         "en": "In the two Ṣaḥīḥs, from Ṭalḥah ibn ʿUbaydillāh: A Bedouin with dishevelled hair came to the Messenger of Allah ﷺ and said: Messenger of Allah, tell me what prayer Allah has made obligatory on me."
+        },
+        {
+         "ar": "فقالَ: «الصلوات الخمس، إلا أنْ تَطوَّع شيئاً»، فقالَ: أخبرني بما فرض الله عليَّ منَ الصِّيامِ؟",
+         "en": "He said: “The five prayers — unless you do something voluntarily.” He said: Tell me what fasting Allah has made obligatory on me."
+        },
+        {
+         "ar": "فقال: «شهر رمضان، إلا أنْ تطوَّع شيئاً» فقال: أخبرني بما فرض الله عليَّ منَ الزَّكاة؟",
+         "en": "He said: “The month of Ramaḍān — unless you do something voluntarily.” He said: Tell me what zakāh Allah has made obligatory on me."
+        },
+        {
+         "ar": "فأخبره رسول الله صلى الله عليه وسلم بشرائع الإسلام، فقال: والذي أكرمك بالحقِّ، لا أتطوَّعُ شيئاً ولا أنقصُ ممَّا فرضَ الله عليَّ شيئاً،",
+         "en": "The Messenger of Allah ﷺ told him the laws of Islam, and he said: By the One who has honoured you with the truth, I will do nothing voluntary, and I will not fall short in anything Allah has made obligatory on me."
+        },
+        {
+         "ar": "فقال رسول الله صلى الله عليه وسلم: «أفلحَ إنْ صدق، أو دخل الجنَّة إنْ صدق» ولفظه للبخاري.",
+         "en": "The Messenger of Allah ﷺ said: “He has succeeded, if he is truthful” — or: “He will enter Paradise, if he is truthful.” The wording is al-Bukhārī's."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c11",
+     "pages": [
+      480
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح مسلم \" عن أنس: أنَّ أعرابياً سألَ النَّبيَّ صلى الله عليه وسلم فذكره بمعناه، وزاد فيه:",
+         "en": "In Ṣaḥīḥ Muslim, from Anas: A Bedouin asked the Prophet ﷺ — and he mentioned it with the same meaning, adding:"
+        },
+        {
+         "ar": "«حجّ البيت من استطاع إليه سبيلاً» فقال: والذي بعثك بالحقِّ لا أزيد عليهن ولا أنقُصُ منهن، فقال النَّبيُّ صلى الله عليه وسلم: «لئنْ صدَقَ ليَدْخُلَنَّ الجنَّة».",
+         "en": "“Pilgrimage to the House for whoever is able to find a way to it.” The man said: By the One who sent you with the truth, I will not add to them nor take from them. The Prophet ﷺ said: “If he is truthful, he will surely enter Paradise.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c12",
+     "pages": [
+      480
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومراد الأعرابي أنَّه لا يزيدُ على الصلاة المكتوبة، والزكاة المفروضة، وصيام رمضان، وحجِّ البيت شيئاً من التطوُّع، ليس مرادُه أنَّه لا يعمل بشيءٍ من شرائعٍ الإسلام وواجباته غير ذلك، وهذه الأحاديثُ لم يذكر فيها اجتناب المحرَّمات؛",
+         "en": "What the Bedouin meant was that he would add nothing voluntary to the obligatory prayer, the obligatory zakāh, the fast of Ramaḍān and the pilgrimage to the House; he did not mean that he would not act on any other of the laws and obligations of Islam. These hadiths do not mention avoiding what is forbidden,"
+        },
+        {
+         "ar": "لأنَّ السائل إنَّما سأله عَنِ الأعمال التي يدخل بها عامِلُها الجنَّة.",
+         "en": "because the questioner was asking only about the deeds by which the one who does them enters Paradise."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c13",
+     "pages": [
+      480,
+      481
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الترمذي من حديث أبي أُمامة قال: سمعتُ رسول الله صلى الله عليه وسلم يَخطُبُ في حجَّةِ الوداع يقول: «أيُّها النَّاس، اتَّقوا الله، وصلُّوا خمسَكم،",
+         "en": "Al-Tirmidhī recorded, from the hadith of Abū Umāmah, who said: I heard the Messenger of Allah ﷺ delivering a sermon during the Farewell Pilgrimage, saying: “O people, fear Allah, pray your five,"
+        },
+        {
+         "ar": "وصُوموا شهركم، وأدُّوا زكاةَ أموالكم، وأطيعوا ذا أمركم، تدخلوا جنَّة ربكم» وقال: حسن صحيح، وخرَّجه الإمام أحمد، وعنده: «اعبدوا ربكم» بدل قوله : «اتقوا الله».",
+         "en": "fast your month, pay the zakāh on your wealth and obey those in authority over you, and you will enter the Paradise of your Lord.” He said: ḥasan ṣaḥīḥ. Imam Aḥmad recorded it with “Worship your Lord” in place of “Fear Allah”."
+        },
+        {
+         "ar": "وخرَّجه بقي بن مخلد في \" مسنده \" من وجه آخر، ولفظ حديثه: «صلُّوا خمسَكم، وصوموا شهرَكم، وحُجُّوا بيتكم، وأدُّوا زكاة أموالكم، طيِّبةً بها أنفسكم، تدخلوا جنَّة ربِّكم».",
+         "en": "Baqī ibn Makhlad recorded it in his Musnad by another route, the wording of his narration being: “Pray your five, fast your month, make pilgrimage to your House, and pay the zakāh on your wealth willingly, and you will enter the Paradise of your Lord.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c14",
+     "pages": [
+      481
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد بإسناده عن ابنِ المنتفق، قال: أتيتُ النَّبيَّ صلى الله عليه وسلم وهو بعرفات، فقلت: ثنتان أسألُك عنهما: ما يُنجيني من النار، وما يُدخلني الجنَّة؟",
+         "en": "Imam Aḥmad recorded, with his chain, from Ibn al-Muntafiq, who said: I came to the Prophet ﷺ while he was at ʿArafāt, and said: There are two things I want to ask you about: what will save me from the Fire, and what will admit me to Paradise?"
+        },
+        {
+         "ar": "قالَ: «لئن كنتَ أوجزتَ في المسألة لقد أعظمتَ وأطولت، فاعقل عني إذن: اعبد الله لا تشرك به شيئاً وأقم الصَّلاة المكتوبةَ،",
+         "en": "He said: “Though you have put your question briefly, you have asked about something great and far-reaching. So understand from me: worship Allah without associating anything with Him, establish the obligatory prayer,"
+        },
+        {
+         "ar": "وأدِّ الزَّكاةَ المفروضةَ، وصُمْ رمضان، وما تُحِبُّ أنْ يفعله بكَ النَّاسُ، فافعله بهم، وما تكره أنْ يأتي إليك الناس، فذرِ الناس منه».",
+         "en": "pay the obligatory zakāh and fast Ramaḍān. Whatever you would like people to do to you, do it to them; and whatever you would hate people to bring upon you, spare people from it.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c15",
+     "pages": [
+      481
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي روايةٍ له أيضاً قال: «اتَّقِ الله، لا تشركْ به شيئاً، وتُقيم الصَّلاة، وتُؤتِي الزَّكاة، وتحجّ البيت، وتصوم رمضان، ولم تَزِدْ على ذلك» وقيل: إنَّ هذا الصحابي هو وافد بني المنتفق، واسمه لقيط.",
+         "en": "In another narration of his he said: “Fear Allah, do not associate anything with Him, establish the prayer, pay the zakāh, make pilgrimage to the House and fast Ramaḍān, without adding anything to that.” It has been said that this Companion was the delegate of Banū al-Muntafiq, and that his name was Laqīṭ."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c16",
+     "pages": [
+      481
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فهذه الأعمال أسبابٌ مقتضية لدخول الجنَّة، وقد يكونُ ارتكابُ المحرَّمات موانع، ويدلُّ على هذا ما خرَّجه الإمام أحمد من حديث عمرو بن مرَّة الجهني،",
+         "en": "These deeds, then, are causes that bring about entry into Paradise, while committing forbidden acts may act as impediments. This is shown by what Imam Aḥmad recorded from the hadith of ʿAmr ibn Murrah al-Juhanī,"
+        },
+        {
+         "ar": "قال: جاء رجلٌ إلى النَّبيِّ صلى الله عليه وسلم، فقال: يا رسولَ الله، شهدتُ أنْ لا إله إلاَّ الله،",
+         "en": "who said: A man came to the Prophet ﷺ and said: Messenger of Allah, I have testified that there is no god but Allah"
+        },
+        {
+         "ar": "وأنَّك رسولُ الله، وصلَّيتُ الخمس، وأدَّيتُ زكاةَ مالي، وصُمْتُ شهرَ رمضانَ، فقال رسولُ الله صلى الله عليه وسلم: «من مات على هذا، كان مع النبيِّين والصدِّيقينَ والشهداءِ يومَ القيامة هكذا - ونَصَبَ أصبعيه - ما لم يَعُقَّ والديه».",
+         "en": "and that you are the Messenger of Allah; I have prayed the five, paid the zakāh on my wealth and fasted the month of Ramaḍān. The Messenger of Allah ﷺ said: “Whoever dies upon this will be with the prophets, the truthful and the martyrs on the Day of Resurrection, like this” — and he held up his two fingers — “so long as he is not undutiful to his parents.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c17",
+     "pages": [
+      482
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد ورد ترتُّب دخولِ الجنة على فعلِ بعض هذه الأعمال كالصَّلاةِ، ففي الحديث المشهور: «من صلَّى الصلواتِ لوقتِها، كان له عندَ الله عهدٌ أنْ يُدخِلَهُ الجنّة».",
+         "en": "Entry into Paradise has also been made consequent on doing some of these deeds, such as prayer. In the well-known hadith: “Whoever prays the prayers at their times has a covenant with Allah that He will admit him to Paradise.”"
+        },
+        {
+         "ar": "وفي الحديث الصحيح: «من صَلَّى البَرْدَينِ دخل الجنة»، وهذا كلُّه من ذكر السبب المقتضي الذي لا يعمل عمله إلاَّ باستجماع شروطه، وانتفاء موانعه؛",
+         "en": "In the authentic hadith: “Whoever prays the two cool prayers [Fajr and ʿAṣr] will enter Paradise.” All this is a matter of mentioning the cause that brings something about, which has its effect only when all its conditions are met and its impediments are absent."
+        },
+        {
+         "ar": "ويدلُّ على هذا ما خرَّجه الإمام أحمد عن بشير بنِ الخَصاصِيةِ، قالَ: أتيتُ النَّبيَّ صلى الله عليه وسلم لأبايِعَه، فشرط عليَّ شهادة أنْ لا إله إلاَّ الله، وأنَّ محمداً عبده ورسوله، وأنْ أُقيمَ الصَّلاةَ، وأنْ أُوتي الزكاة،",
+         "en": "This is shown by what Imam Aḥmad recorded from Bashīr ibn al-Khaṣāṣiyah, who said: I came to the Prophet ﷺ to pledge allegiance to him, and he made it a condition for me that I testify that there is no god but Allah and that Muḥammad is His servant and Messenger, that I establish the prayer, pay the zakāh,"
+        },
+        {
+         "ar": "وأنْ أحجَّ حجة الإسلام، وأنْ أصومَ رمضان، وأنْ أُجاهِد في سبيل الله، فقلتُ: يا رسول الله أما اثنتان فوالله ما أُطيقُهُما: الجهاد والصَّدقةُ، فقبضَ رسولُ الله صلى الله عليه وسلم يدَهُ، ثمَّ حَرَّكَها، وقال: «فلا جهادَ ولا صدقةَ؟",
+         "en": "perform the Ḥajj of Islam, fast Ramaḍān and fight in the path of Allah. I said: Messenger of Allah, as for two of them, by Allah I cannot manage them: jihād and charity. The Messenger of Allah ﷺ closed his hand, then shook it, and said: “No jihād and no charity?"
+        },
+        {
+         "ar": "فبِمَ تدخلُ الجنَّة إذاً؟»",
+         "en": "Then by what will you enter Paradise?”"
+        },
+        {
+         "ar": "قلتُ: يا رسول الله أنا أُبايعُك، فبايعتُه عليهنَّ كُلَّهنَّ.",
+         "en": "I said: Messenger of Allah, I will pledge allegiance to you. And I pledged allegiance to him on all of them."
+        },
+        {
+         "ar": "ففي هذا الحديث أنَّه لا يكفي في دخول الجنَّة هذه الخصالُ بدون الزكاة والجهاد.",
+         "en": "This hadith shows that these qualities are not enough to enter Paradise without zakāh and jihād."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c18",
+     "pages": [
+      482
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد ثبت في الأحاديث الصحيحة أنَّ ارتكاب بعضِ الكبائر يمنع دخولَ الجنَّة، كقوله: «لا يدخل الجَنَّةَ قاطع»، وقوله: «لا يدخل الجنة من في قلبه مثقال ذرَّةٍ من كِبْر»، وقوله: «لا تدخلوا الجنة حتَّى تُؤمِنوا،",
+         "en": "It is established in authentic hadiths that committing certain major sins prevents entry into Paradise, such as his words: “One who severs ties of kinship will not enter Paradise”; “No one will enter Paradise who has an atom's weight of arrogance in his heart”; and “You will not enter Paradise until you believe,"
+        },
+        {
+         "ar": "ولا تُؤْمِنوا حتَّى تحابُّوا» والأحاديث التي جاءت في منع دخول الجنَّة بالدَّينِ حتى يُقضى، وفي الصَّحيح : «أنَّ المؤمنين إذا جازوا الصِّراطَ، حُبِسُوا على قنطرة يقتصُّ منهم مظالمُ كانت بينهم في الدنيا».",
+         "en": "and you will not believe until you love one another.” So too the hadiths that have come about debt barring entry into Paradise until it is repaid; and in the Ṣaḥīḥ: “When the believers have crossed the Bridge, they will be detained on a span (qanṭarah), where they will be made to settle the wrongs that were between them in this world.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c19",
+     "pages": [
+      483
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال بعض السَّلف: إنَّ الرجل ليُحبَسُ على باب الجنَّةِ مئة عام بالذنب كان يعملُه في الدنيا.",
+         "en": "One of the Salaf said: A man may be held at the gate of Paradise for a hundred years because of a sin he used to commit in this world."
+        },
+        {
+         "ar": "فهذه كُلُّها موانع.",
+         "en": "All of these are impediments."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c20",
+     "pages": [
+      483
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن هنا يظهرُ معنى الأحاديث التي جاءت في ترتيب دخول الجنَّة على مجرَّد التوحيد، ففي \" الصحيحين \" عن أبي ذرٍّ،",
+         "en": "From this the meaning of the hadiths that make entry into Paradise consequent on tawḥīd alone becomes clear. In the two Ṣaḥīḥs, from Abū Dharr,"
+        },
+        {
+         "ar": "عن النَّبيِّ صلى الله عليه وسلم، قال: «ما مِنْ عبدٍ قال: لا إله إلاَّ الله، ثمَّ مات على ذلك إلاَّ دخل الجنَّة»، قلت: وإنْ زنى وإنْ سرق؟!",
+         "en": "the Prophet ﷺ said: “There is no servant who says, ‘There is no god but Allah,’ and then dies upon that, but he will enter Paradise.” I said: Even if he commits adultery and steals?!"
+        },
+        {
+         "ar": "قالَ: «وإنْ زنى وإنْ سرق»، قالها ثلاثاً، ثم قال في الرابعة: «على رغم أنف أبي ذرٍّ»، فخرج أبو ذرٍّ، وهو يقول: وإنْ رغم أنفُ أبي ذرٍّ.",
+         "en": "He said: “Even if he commits adultery and steals.” He said it three times, and then said on the fourth: “Even if Abū Dharr's nose be rubbed in the dust.” Abū Dharr went out saying: Even if Abū Dharr's nose be rubbed in the dust."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c21",
+     "pages": [
+      483
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفيهما عن عُبادة بنِ الصامت، عن النَّبيِّ صلى الله عليه وسلم قال: «مَنْ شهد أنْ لا إله إلا الله وحدَهُ لا شَريكَ له، وأنَّ محمداً عبده ورسولُه،",
+         "en": "Both also have, from ʿUbādah ibn al-Ṣāmit, that the Prophet ﷺ said: “Whoever testifies that there is no god but Allah alone, without partner, and that Muḥammad is His servant and Messenger,"
+        },
+        {
+         "ar": "وأنَّ عيسى عبدُ الله ورسوله وكلمتُه ألقاها إلى مريم وروحٌ منه، وأنَّ الجنَّةَ حقٌّ، والنَّارَ حقٌّ، أدخله الله الجنَّة على ما كان من عملٍ».",
+         "en": "and that ʿĪsā is the servant of Allah and His Messenger, His word which He cast to Maryam and a spirit from Him, and that Paradise is true and the Fire is true, Allah will admit him to Paradise, whatever his deeds may have been.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c22",
+     "pages": [
+      483
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح مسلم \" عن أبي هريرة، أو أبي سعيد - بالشَّكِّ -، عن النَّبيِّ صلى الله عليه وسلم أنَّه قال:",
+         "en": "In Ṣaḥīḥ Muslim, from Abū Hurayrah or Abū Saʿīd — the narrator being unsure which — the Prophet ﷺ said:"
+        },
+        {
+         "ar": "«أشهد أنْ لا إله إلا الله وأنِّي رسول الله، لا يلقى الله بهما عَبْدٌ غيرَ شاك، فيُحْجَبُ عن الجنَّة».",
+         "en": "“I bear witness that there is no god but Allah and that I am the Messenger of Allah. No servant meets Allah with these two, free of doubt, and is then barred from Paradise.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c23",
+     "pages": [
+      483
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفيه عن أبي هُريرة: أنَّ النَّبيَّ صلى الله عليه وسلم قال له يوماً: «مَنْ لَقِيتَ يشهد أنْ لا إله إلا الله مستيقناً بها قلبُه، فبشِّره بالجنَّة» وفي المعنى أحاديث كثيرة جداً.",
+         "en": "It also has, from Abū Hurayrah, that the Prophet ﷺ said to him one day: “Whomever you meet who testifies that there is no god but Allah, his heart certain of it, give him glad tidings of Paradise.” There are very many hadiths with this meaning."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c24",
+     "pages": [
+      483
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن أنس: أنَّ النَّبيَّ صلى الله عليه وسلم قال يوماً لمعاذ: «ما مِنْ عبدٍ يشهدُ أنْ لا إله إلا الله، وأنَّ محمداً عبدُه ورسوله إلاَّ حرَّمه الله على النار».",
+         "en": "In the two Ṣaḥīḥs, from Anas, the Prophet ﷺ said one day to Muʿādh: “There is no servant who testifies that there is no god but Allah and that Muḥammad is His servant and Messenger but Allah makes him forbidden to the Fire.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c25",
+     "pages": [
+      483
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفيهما عن عِتبان بن مالك، عن النَّبيِّ صلى الله عليه وسلم قال: «إنَّ الله قد حرَّم على النَّارِ مَنْ قال: لا إله إلا الله، يبتغي بها وجه اللهِ».",
+         "en": "Both also have, from ʿItbān ibn Mālik, that the Prophet ﷺ said: “Allah has made forbidden to the Fire whoever says ‘There is no god but Allah’, seeking by it the Face of Allah.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c26",
+     "pages": [
+      484
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فقال طائفةٌ من العلماء: إنَّ كلمة التوحيد سببٌ مقتضٍ لدخول الجنَّة وللنجاة مِنَ النَّارِ، لكن له شروطٌ، وهي الإتيانُ بالفرائضِ، وموانعُ وهي إتيانُ الكبائر.",
+         "en": "A group of scholars said: The word of tawḥīd is a cause that brings about entry into Paradise and salvation from the Fire, but it has conditions, which are fulfilling the obligations, and impediments, which are committing major sins."
+        },
+        {
+         "ar": "قال الحسن للفرزدق: إنَّ لـ «لا إله إلا الله» شروطاً، فإيَّاكَ وقذفَ المحصنة.",
+         "en": "Al-Ḥasan said to al-Farazdaq: “There is no god but Allah” has conditions, so beware of slandering a chaste woman."
+        },
+        {
+         "ar": "ورُوي عنه أنَّه قال: هذا العمودُ، فأين الطُّنُبُ، يعني: أنَّ كلمةَ التوحيد عمودُ الفسطاط، ولكن لا يثبتُ الفسطاطُ بدون أطنابه، وهي فعلُ الواجبات، وتركُ المحرَّمات.",
+         "en": "It is related that he also said: This is the pole — so where are the tent-ropes? That is, the word of tawḥīd is the tent's central pole, but the tent will not stand without its ropes, which are doing the obligations and leaving what is forbidden."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c27",
+     "pages": [
+      484
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقيل للحسن: إنَّ ناساً يقولون: من قال: لا إله إلا الله، دخل الجنَّة، فقال: من قال: لا إله إلا الله، فأدَّى حقَّها وفرضها، دخلَ الجنَّةَ.",
+         "en": "Al-Ḥasan was told: Some people say that whoever says “There is no god but Allah” will enter Paradise. He said: Whoever says “There is no god but Allah” and fulfils its right and its obligation will enter Paradise."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c28",
+     "pages": [
+      484
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقيل لوهب بنِ مُنبِّه: أليس لا إله إلا الله مفتاح الجنَّة؟ قال: بلى؛",
+         "en": "Wahb ibn Munabbih was asked: Is not “There is no god but Allah” the key to Paradise? He said: Certainly;"
+        },
+        {
+         "ar": "ولكن ما من مفتاحٍ إلا وله أسنان، فإنْ جئتَ بمفتاحٍ له أسنانٌ فتح لك، وإلاَّ لم يفتح لك.",
+         "en": "but every key has teeth. If you bring a key that has teeth, it will open for you; otherwise it will not open for you."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c29",
+     "pages": [
+      484
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويشبه هذا ما رُوِيَ عن ابنِ عمر: أنَّه سُئِلَ عن لا إله إلا الله: هل يضرُّ معها عملٌ، كما لا ينفع مع تركها عملٌ؟",
+         "en": "Similar to this is what is narrated from Ibn ʿUmar: he was asked whether, with “There is no god but Allah”, any deed could do harm, just as no deed benefits when it is abandoned."
+        },
+        {
+         "ar": "فقالَ ابن عمر: عش ولا تغتر.",
+         "en": "Ibn ʿUmar said: Live, and do not be deceived."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c30",
+     "pages": [
+      484
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقالت طائفةٌ - منهم: الضحاكُ والزهري -: كانَ هذا قبلَ الفرائض والحدود، فمِنْ هؤلاء مَنْ أَشار إلى أنَّها نُسِخَتْ، ومنهم من قالَ: بل ضُمَّ إليها شروطٌ زيدت عليها، وزيادة الشرط هل هي نسخ أم لا؟",
+         "en": "Another group, among them al-Ḍaḥḥāk and al-Zuhrī, said: This was before the obligations and the prescribed punishments were laid down. Some of them indicated that it was abrogated; others said that conditions were joined to it and added. Whether adding a condition counts as abrogation or not"
+        },
+        {
+         "ar": "فيه خلاف مشهور بين الأصوليين، وفي هذا كلِّه نظرٌ، فإنَّ كثيراً مِنْ هذه الأحاديث متأخر بعدَ الفرائض والحدود.",
+         "en": "is a well-known point of disagreement among the scholars of legal theory. All of this is open to question, for many of these hadiths came late, after the obligations and the prescribed punishments."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c31",
+     "pages": [
+      484,
+      485
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الثوري: نسختها الفرائضُ والحدودُ، فيحتمل أنْ يكونَ مرادُه ما أراده هؤلاء، ويحتمل أنْ يكون مرادُه أنَّ وجوبَ الفرائض والحدود تبين بها أنَّ عقوبات الدنيا لا تسقُطُ بمجرَّدِ الشهادتين،",
+         "en": "Al-Thawrī said: The obligations and the prescribed punishments abrogated them. He may have meant what those others meant; or he may have meant that the obligations and prescribed punishments, once made binding, made it clear that worldly punishments are not cancelled merely by the two testimonies of faith,"
+        },
+        {
+         "ar": "فكذلك عقوباتُ الآخرة، ومثل هذا البيان وإزالة الإيهام كان السَّلفُ يُسَمُّونه نسخاً، وليس هو بنسخ في الاصطلاح المشهور.",
+         "en": "and so neither are the punishments of the Hereafter. The Salaf used to call this kind of clarification and removal of a false impression “abrogation” (naskh), though it is not abrogation in the well-known technical sense."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c32",
+     "pages": [
+      485
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقالت طائفة: هذه النصوص المطلقة جاءت مقيدة بأنْ يقولها بصدقٍ وإخلاصٍ، وإخلاصُها وصدقُها يمنع الإصرارَ معها على معصية.",
+         "en": "Another group said: These unqualified texts have come qualified elsewhere by the condition that one says it truthfully and sincerely, and saying it sincerely and truthfully rules out persisting in sin alongside it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c33",
+     "pages": [
+      485
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وجاء من مراسيل الحسن، عن النَّبيِّ صلى الله عليه وسلم: «من قال: لا إله إلا الله مخلصاً دخل الجنَّة» قيل: وما إخلاصها؟",
+         "en": "Among the mursal reports of al-Ḥasan, the Prophet ﷺ said: “Whoever says ‘There is no god but Allah’ sincerely will enter Paradise.” He was asked: What is its sincerity?"
+        },
+        {
+         "ar": "قال: «أنْ تحجُزَكَ عمَّا حرَّم الله».",
+         "en": "He said: “That it holds you back from what Allah has forbidden.”"
+        },
+        {
+         "ar": "وروي ذلك مسنداً من وجوه أخرَ ضعيفة.",
+         "en": "This has also been narrated with a connected chain by other routes, which are weak."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c34",
+     "pages": [
+      485,
+      486
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولعل الحسن أشار بكلامه الذي حكيناه عنه من قبلُ إلى هذا فإنَّ تحقق القلب بمعنى «لا إله إلا الله» وصدقه فيها، وإخلاصه بها يقتضي أنْ يرسخَ فيه تألُّهُ الله وحده، إجلالاً،",
+         "en": "Perhaps al-Ḥasan was pointing to this in the words of his that we related earlier. For when the heart truly realises the meaning of “There is no god but Allah”, and is truthful and sincere in it, this requires that devotion to Allah alone as God become firmly rooted in it — in reverence,"
+        },
+        {
+         "ar": "وهيبةً، ومخافةً، ومحبَّةً، ورجاءً، وتعظيماً، وتوكُّلاً، ويمتلئَ بذلك، وينتفيَ عنه تألُّه ما سواه من المخلوقين، ومتى كان كذلك، لم يبقَ فيه محبَّةٌ، ولا إرادةٌ، ولا طلبٌ لغير ما يُريدُهُ الله ويحبُّه ويطلبه،",
+         "en": "awe, fear, love, hope, veneration and reliance — and fill it, and that devotion to any created thing besides Him as a god be banished from it. When that is so, there remains in it no love, no will and no seeking of anything other than what Allah wills, loves and seeks;"
+        },
+        {
+         "ar": "وينتفي بذلك مِنَ القلب جميعُ أهواءِ النُّفوس وإراداتها، ووسواس الشيطان، فمن أحب شيئاً وأطاعه، وأحبَّ عليه وأبغض عليه، فهو إلههُ، فمن كان لا يحبُّ ولا يبغضُ إلا لله، ولا يُوالي ولا يُعادي إلا له،",
+         "en": "and thereby all the whims and wishes of the soul, and the whisperings of Satan, are banished from the heart. Whoever loves a thing and obeys it, and loves and hates for its sake, has made it his god. So whoever loves and hates only for Allah, and befriends and opposes only for His sake,"
+        },
+        {
+         "ar": "فالله إلههُ حقاً، ومن أحبَّ لهواه، وأبغض له، ووالى عليه، وعادى عليه، فإلهه هواه، كما قال تعالى: {أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَهَهُ هَوَاهُ} قالَ الحسن: هوَ الذي لا يهوى شيئاً إلا ركبه.",
+         "en": "has Allah truly as his god; and whoever loves and hates, befriends and opposes for the sake of his whim, has his whim as his god, as the Exalted said: “Have you seen the one who takes his own whim as his god?” [al-Jāthiyah 45:23]. Al-Ḥasan said: He is the one who never desires anything without going after it."
+        },
+        {
+         "ar": "وقال قتادة: هوَ الذي كلما هَوِيَ شيئاً ركبه، وكلما اشتهى شيئاً أتاه، لا يَحجزُه عن ذلك ورعٌ ولا تقوى.",
+         "en": "Qatādah said: He is the one who, whenever he desires a thing, goes after it, and whenever he craves something, takes it, with no scrupulousness or taqwā to hold him back."
+        },
+        {
+         "ar": "ويُروى من حديث أبي أمامة مرفوعاً «ما تحتَ ظلِّ السماء إلهٌ يُعبد أعظم عندَ الله من هوى متَّبع».",
+         "en": "It is narrated as marfūʿ (attributed to the Prophet ﷺ), from the hadith of Abū Umāmah: “Under the shade of the sky there is no god worshipped that is greater in Allah's sight than a whim that is followed.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c35",
+     "pages": [
+      486
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكذلك مَنْ أطاعَ الشيطان في معصية الله، فقد عبده، كما قال الله عز وجل : {أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَنْ لا تَعْبُدُوا الشَّيْطَانَ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ}.",
+         "en": "Likewise, whoever obeys Satan in disobedience to Allah has worshipped him, as Allah, the Mighty and Majestic, said: “Did I not enjoin upon you, children of Ādam, that you not worship Satan? Indeed, he is a clear enemy to you” [Yā Sīn 36:60]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c36",
+     "pages": [
+      486
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فتبيَّن بهذا أنَّه لا يصحُّ تحقيقُ معنى قولِ: لا إله إلا الله، إلاَّ لمن لم يكن في قلبه إصرارٌ على محبة ما يكرهه الله،",
+         "en": "It is clear from this that one can truly realise the meaning of saying “There is no god but Allah” only if there is in one's heart no persistence in loving what Allah dislikes"
+        },
+        {
+         "ar": "ولا على إرادة ما لا يُريده الله، ومتى كان في القلب شيءٌ مِنْ ذلك، كان ذلك نقصاً في التوحيد، وهو مِنْ نوع الشِّرك الخفيِّ.",
+         "en": "or in wanting what Allah does not want. Whenever there is anything of this in the heart, it is a deficiency in tawḥīd and a kind of hidden shirk."
+        },
+        {
+         "ar": "ولهذا قال مجاهدٌ في قوله تعالى: {أَلاَّ تُشْرِكُوا بِهِ شَيْئاً} قال: لا تحبُّوا غيري.",
+         "en": "That is why Mujāhid said concerning the words of the Exalted, “that you associate nothing with Him” [al-Anʿām 6:151]: Do not love anyone other than Me."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c37",
+     "pages": [
+      486
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح الحاكم \" عن عائشة، عن النَّبيِّ صلى الله عليه وسلم، قال: «الشِّركُ أخفى من دبيب الذَّرِّ على الصَّفا في الليلة الظَّلماء،",
+         "en": "In the Ṣaḥīḥ of al-Ḥākim, from ʿĀʾishah, the Prophet ﷺ said: “Shirk is more hidden than the creeping of ants on a smooth rock on a dark night,"
+        },
+        {
+         "ar": "وأدناه أنْ تُحِبَّ على شيءٍ مِنَ الجَوْرِ، وتُبغِضَ على شيءٍ مِنَ العدل، وهل الدِّينُ إلا الحبّ والبغض؟",
+         "en": "and the least of it is that you love on account of something unjust, or hate on account of something just. Is religion anything other than love and hate?"
+        },
+        {
+         "ar": "قال الله عز وجل: {قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللهُ}.",
+         "en": "Allah, the Mighty and Majestic, said: ‘Say: If you love Allah, then follow me; Allah will love you’” [Āl ʿImrān 3:31]."
+        },
+        {
+         "ar": "وهذا نصٌّ في أنَّ محبةَ ما يكرهه الله، وبغضَ ما يُحبه متابعةٌ للهوى، والموالاة على ذلك والمعاداة عليه من الشرك الخفيّ.",
+         "en": "This is an explicit text that loving what Allah dislikes and hating what He loves is following whim, and that befriending and opposing on that basis is hidden shirk."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c38",
+     "pages": [
+      486,
+      487
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج ابن أبي الدُّنيا من حديث أنس مرفوعاً: «لا تزالُ لا إله إلا الله تمنعُ العبادَ مِنْ سخط الله،",
+         "en": "Ibn Abī al-Dunyā recorded, from the hadith of Anas, as marfūʿ: “‘There is no god but Allah’ will continue to protect the servants from Allah's displeasure"
+        },
+        {
+         "ar": "ما لم يُؤْثِروا دُنياهم على صَفقةِ دينهم، فإذا آثرُوا صفقةَ دُنياهم على دينهم، ثم قالوا: لا إله إلا الله رُدَّتْ عليهم، وقال الله:",
+         "en": "so long as they do not prefer their worldly life to the bargain of their religion. When they prefer the bargain of their worldly life to their religion and then say ‘There is no god but Allah’, it is thrown back at them, and Allah says:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c39",
+     "pages": [
+      487
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "كذبتم».",
+         "en": "You have lied.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c40",
+     "pages": [
+      487
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فتبيَّن بهذا معنى قوله صلى الله عليه وسلم: «من شهد أنْ لا إله إلا الله صادقاً من قلبه حرَّمه الله على النار»،",
+         "en": "This makes clear the meaning of his words ﷺ, “Whoever testifies that there is no god but Allah, truthfully from his heart, Allah makes him forbidden to the Fire,”"
+        },
+        {
+         "ar": "وأنَّ من دخل النارَ من أهل هذه الكلمة، فَلِقِلَّةِ صدقه في قولها، فإنَّ هذه الكلمة إذا صدقت، طهَّرت من القلب كلَّ ما سوى الله،",
+         "en": "and that those of the people of this word who enter the Fire do so because of how little truthfulness they had in saying it. For when this word is truthful, it purifies the heart of everything besides Allah."
+        },
+        {
+         "ar": "فمن صدق في قوله: لا إله إلا الله، لم يُحبَّ سواه، ولم يَرْجُ إلاَّ إيَّاه، ولم يخشَ أحداً إلاَّ الله،",
+         "en": "Whoever is truthful in saying “There is no god but Allah” loves none besides Him, hopes in none but Him, fears no one but Allah,"
+        },
+        {
+         "ar": "ولم يتوكَّل إلاَّ على الله، ولم تبقَ له بقيَّةٌ من آثار نفسه وهواه، ومتى بقي في القلب أثرٌ لسوى الله، فمن قلَّة الصدق في قولها.",
+         "en": "relies on none but Allah, and has no remnant left of the traces of his self and his whims. Whenever some trace of anything besides Allah remains in the heart, it is from a lack of truthfulness in saying it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c41",
+     "pages": [
+      487
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "نارُ جهنَّم تنطفئ بنور إيمان الموحدين، كما في الحديث المشهور: «تقول النار للمؤمن: جُزْ يا مؤمنُ، فقد أطفأ نورُك لهبي».",
+         "en": "The fire of Hell is extinguished by the light of the faith of those who affirm Allah's oneness, as in the well-known hadith: “The Fire will say to the believer: Pass on, believer, for your light has put out my flame.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c42",
+     "pages": [
+      487
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" مسند الإمام أحمد \" عن جابرٍ، عَنِ النَّبيِّ صلى الله عليه وسلم قال: «لا يبقى برٌّ ولا فاجر إلاّ دخلها، فتكونُ على المؤمنين برداً وسلاماً كما كانت على إبراهيم، حتى أنَّ للنار ضجيجاً من بردهم».",
+         "en": "In the Musnad of Imam Aḥmad, from Jābir, the Prophet ﷺ said: “There will remain no righteous or wicked person but will enter it, and it will be coolness and safety for the believers as it was for Ibrāhīm — so much so that the Fire will cry out because of their coolness.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c43",
+     "pages": [
+      487
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فهذا ميراثٌ وَرِثَه المؤمنون من حال إبراهيم عليه السلام، فنارُ المحبة في قلوب المؤمنين تخافُ منها نارُ جهنم.",
+         "en": "This is an inheritance the believers have received from the state of Ibrāhīm (peace be upon him): the fire of Hell fears the fire of love in the believers' hearts."
+        },
+        {
+         "ar": "قال الجنيد: قالت النار: يا ربِّ، لو لم أُطِعك، هل كنت تُعذِّبني بشيءٍ هو أشدُّ مني؟",
+         "en": "Al-Junayd said: The Fire said: Lord, had I not obeyed You, would You have punished me with anything more severe than me?"
+        },
+        {
+         "ar": "قالَ: نعم، كنتُ أسلط عليك نارِي الكبرى، قالت: وهل نارٌ أعظم مني وأشدُّ؟",
+         "en": "He said: Yes, I would have set My greater fire upon you. It said: Is there any fire greater and more severe than me?"
+        },
+        {
+         "ar": "قال: نعم، نار محبتي أسكنتُها قلوبَ أوليائي المؤمنين.",
+         "en": "He said: Yes — the fire of My love, which I have made to dwell in the hearts of My believing friends."
+        },
+        {
+         "ar": "وفي هذا يقول بعضهم:",
+         "en": "On this, someone said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c44",
+     "pages": [
+      488
+     ],
+     "paragraphs": [
+      {
+       "kind": "verse",
+       "segments": [
+        {
+         "ar": "ففي فؤادِ المُحِبِّ نارُ هوى … أحرُّ نارِ الجحيم أبردُهَا",
+         "en": "In the lover's heart burns a fire of passion / whose coolest flame is Hell's hottest fire."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h22.c45",
+     "pages": [
+      488
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويشهد لهذا المعنى حديثُ معاذ، عن النَّبيِّ صلى الله عليه وسلم قال: «مَنْ كان آخِرَ كلامِهِ لا إله إلا الله، دخل الجنَّة»، فإنَّ المحتضرَ لا يكادُ يقولُها إلاَّ بإخلاصٍ،",
+         "en": "This meaning is attested by the hadith of Muʿādh, that the Prophet ﷺ said: “Whoever's last words are ‘There is no god but Allah’ will enter Paradise”; for a dying man hardly says it except with sincerity,"
+        },
+        {
+         "ar": "وتوبةٍ، وندمٍ على ما مضى، وعزم على أنْ لا يعودَ إلى مثله، ورجح هذا القولَ الخطابيُّ في مصنَّفٍ له مفرد في التوحيد، وهو حسن.",
+         "en": "repentance, regret for what is past and resolve not to return to the like of it. Al-Khaṭṭābī preferred this view in a separate treatise of his on tawḥīd, and it is a good one."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}

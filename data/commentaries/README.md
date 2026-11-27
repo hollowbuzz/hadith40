@@ -1,6 +1,6 @@
 # Commentaries (Arabic + English)
 
-Three short commentaries on al-Nawawī's Forty with Ibn Rajab's addition (50 hadiths), aligned Arabic–English sentence by sentence for the app's three reading modes.
+Four commentaries on al-Nawawī's Forty with Ibn Rajab's addition (50 hadiths): three short ones and Ibn Rajab's own Jāmiʿ al-ʿUlūm wa-l-Ḥikam (split into one file per chapter under `jami-al-ulum-wal-hikam/`), aligned Arabic–English sentence by sentence for the app's three reading modes.
 
 | File | Book | Author | Blocks | Segments |
 |---|---|---|---|---|

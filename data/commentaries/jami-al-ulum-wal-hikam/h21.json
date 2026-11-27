@@ -1,0 +1,598 @@
+{
+ "id": "h21",
+ "number": 21,
+ "standard_number": 21,
+ "collection": "nawawi",
+ "heading": {
+  "ar": "الحديث الحادي والعشرون",
+  "en": "Hadith 21"
+ },
+ "title": {
+  "ar": "قل آمنت بالله ثم استقم",
+  "en": "Say: I Believe in Allah — Then Be Steadfast"
+ },
+ "pages": {
+  "start": 471,
+  "end": 476
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.n1",
+     "pages": [
+      471
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنْ سُفيانَ بن عبدِ اللهِ رضي الله عنه، قالَ: قُلتُ: يا رَسولَ اللهِ، قُلْ لي في الإسلام قولاً لا أسألُ عَنْهُ أحداً غَيرَكَ، قال: «قُلْ: آمَنْتُ باللهِ، ثمَّ استقِمْ» رواهُ مُسلم.",
+         "en": "From Sufyān ibn ʿAbdillāh (may Allah be pleased with him), who said: I said: Messenger of Allah, tell me something about Islam that I will not need to ask anyone but you about. He said: “Say: I believe in Allah — then be steadfast.” Muslim reported it."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c1",
+     "pages": [
+      471
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "هذا الحديث خرَّجه مسلم من رواية هشام بن عروة، عن أبيه، عن سفيان وسفيان: هو ابنُ عبد الله الثقفي الطائفي له صحبة، وكان عاملاً لعمرَ بنِ الخطَّاب على الطائف.",
+         "en": "Muslim recorded this hadith through the narration of Hishām ibn ʿUrwah, from his father, from Sufyān. This Sufyān is Ibn ʿAbdillāh al-Thaqafī, of al-Ṭāʾif; he was a Companion, and was ʿUmar ibn al-Khaṭṭāb's governor over al-Ṭāʾif."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c2",
+     "pages": [
+      471
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد رُوي عن سفيان بن عبد الله من وجوهٍ أخَرَ بزيادات، فخرَّجه الإمام أحمد، والترمذي وابن ماجه من رواية الزهري، عن محمد بن عبد الرحمان بن ماعز، وعند الترمذي:",
+         "en": "It has also been narrated from Sufyān ibn ʿAbdillāh by other routes, with additions. Imam Aḥmad, al-Tirmidhī and Ibn Mājah recorded it through the narration of al-Zuhrī, from Muḥammad ibn ʿAbd al-Raḥmān ibn Māʿiz (in al-Tirmidhī's version,"
+        },
+        {
+         "ar": "عبد الرحمان بن ماعز، عن سفيان بن عبد الله قال: قلتُ: يا رسولَ الله، حَدِّثني بأمرٍ أعتصمُ به، قال: «قل: ربي الله، ثم استقم»، قلتُ: يا رسول اللهِ، ما أخوفُ ما تخاف عليَّ؟",
+         "en": "ʿAbd al-Raḥmān ibn Māʿiz), from Sufyān ibn ʿAbdillāh, who said: I said: Messenger of Allah, tell me something to hold fast to. He said: “Say: My Lord is Allah — then be steadfast.” I said: Messenger of Allah, what do you fear most for me?"
+        },
+        {
+         "ar": "فأخذ بلسان نفسه، ثم قال : «هذا»، وقال الترمذي: حسن صحيح.",
+         "en": "He took hold of his own tongue and said: “This.” Al-Tirmidhī said: ḥasan ṣaḥīḥ."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c3",
+     "pages": [
+      471
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه الإمام أحمد، والنَّسائي من رواية عبدِ الله بن سفيان الثقفي، عن أبيه: أنَّ رجلاً قال: يا رسولَ الله، مُرني بأمرٍ في الإسلام لا أسألُ عنه أحداً بعدَك، قال: «قل: آمنتُ بالله، ثم استقم».",
+         "en": "Imam Aḥmad and al-Nasāʾī recorded it through the narration of ʿAbdullāh ibn Sufyān al-Thaqafī, from his father, that a man said: Messenger of Allah, command me with something in Islam that I will not need to ask anyone about after you. He said: “Say: I believe in Allah — then be steadfast.”"
+        },
+        {
+         "ar": "قلت: فما أتَّقي؟",
+         "en": "I said: Then what should I guard against?"
+        },
+        {
+         "ar": "فأومأ إلى لسانه.",
+         "en": "He pointed to his tongue."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c4",
+     "pages": [
+      472
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قول سفيان بن عبد الله للنَّبيِّ صلى الله عليه وسلم: «قُلْ لي في الإسلام قولاً لا أسأل عنه أحداً بعدَك» طلب منه أنْ يُعلمه كلاماً جامعاً لأمر الإسلام كافياً حتّى لا يحتاجَ بعدَه إلى غيره،",
+         "en": "Sufyān ibn ʿAbdillāh's words to the Prophet ﷺ, “Tell me something about Islam that I will not need to ask anyone about after you,” were a request that he teach him a saying that would comprehend the whole matter of Islam and suffice him, so that he would need nothing else after it."
+        },
+        {
+         "ar": "فقالَ لهُ النَّبيُّ صلى الله عليه وسلم: «قل: آمنتُ باللهِ، ثُمَّ استقم»، وفي الرواية الأخرى: «قل: ربي الله، ثُمَّ استقم».",
+         "en": "The Prophet ﷺ said to him: “Say: I believe in Allah — then be steadfast”; and in the other narration: “Say: My Lord is Allah — then be steadfast.”"
+        },
+        {
+         "ar": "هذا منتزع من قوله عز وجل: {إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللهُ ثُمَّ اسْتَقَامُوا تَتَنَزَّلُ عَلَيْهِمُ الْمَلائِكَةُ أَلاَّ تَخَافُوا وَلا تَحْزَنُوا وَأَبْشِرُوا بِالْجَنَّةِ الَّتِي كُنْتُمْ تُوعَدُونَ}،",
+         "en": "This is drawn from the words of the Mighty and Majestic: “Indeed, those who said, ‘Our Lord is Allah,’ and then remained steadfast — the angels descend upon them, [saying,] ‘Do not fear and do not grieve, but receive glad tidings of the Paradise you were promised’” [Fuṣṣilat 41:30];"
+        },
+        {
+         "ar": "وقوله عز وجل: {إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللهُ ثُمَّ اسْتَقَامُوا فَلا خَوْفٌ عَلَيْهِمْ وَلا هُمْ يَحْزَنُونَ أُولَئِكَ أَصْحَابُ الْجَنَّةِ خَالِدِينَ فِيهَا جَزَاءً بِمَا كَانُوا يَعْمَلُونَ}.",
+         "en": "and from His words, Mighty and Majestic is He: “Indeed, those who said, ‘Our Lord is Allah,’ and then remained steadfast — no fear will be upon them, nor will they grieve. Those are the companions of Paradise, abiding in it forever, as a reward for what they used to do” [al-Aḥqāf 46:13–14]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c5",
+     "pages": [
+      472
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج النَّسائي في \" تفسيره \" من رواية سهيل بن أبي حزم: حدثنا ثابت، عن أنس: أنَّ النَّبيَّ صلى الله عليه وسلم قرأ:",
+         "en": "Al-Nasāʾī recorded in his Tafsīr, through the narration of Suhayl ibn Abī Ḥazm: Thābit told us, from Anas, that the Prophet ﷺ recited"
+        },
+        {
+         "ar": "{إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللهُ ثُمَّ اسْتَقَامُوا}، فقال : «قد قالها الناسُ، ثم كفروا، فمن مات عليها فهو مِن أهل الاستقامة».",
+         "en": "“Indeed, those who said, ‘Our Lord is Allah,’ and then remained steadfast,” and said: “People have said it and then disbelieved; whoever dies upon it is among the people of steadfastness.”"
+        },
+        {
+         "ar": "وخرَّجه الترمذي، ولفظه: فقال: «قد قالها الناس، ثم كفر أكثرُهم، فمن مات عليها، فهو مِمَّنِ استقامَ»، وقال: حسن غريب، وسهيل تُكُلِّمَ فيه من قِبَلِ حفظه.",
+         "en": "Al-Tirmidhī recorded it in the wording: He said: “People have said it, then most of them disbelieved; whoever dies upon it is among those who remained steadfast.” He said: ḥasan gharīb. Suhayl has been criticised on account of his memory."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c6",
+     "pages": [
+      472
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أبو بكر الصديق في تفسير {ثُمَّ اسْتَقَامُوا} قال: لم يشركُوا بالله شيئاً.",
+         "en": "Abū Bakr al-Ṣiddīq said in explaining “then remained steadfast”: They did not associate anything with Allah."
+        },
+        {
+         "ar": "وعنه قال: لم يلتفتوا إلى إله غيره.",
+         "en": "It is also related from him: They did not turn to any god besides Him."
+        },
+        {
+         "ar": "وعنه قال: ثم استقاموا على أنَّ الله رَبُّهم.",
+         "en": "And from him: Then they remained steadfast in holding that Allah is their Lord."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c7",
+     "pages": [
+      472,
+      473
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن ابن عباس بإسنادٍ ضعيفٍ قال: هذه أرخصُ آيةٍ في كتاب الله {قَالُوا رَبُّنَا اللهُ ثُمَّ اسْتَقَامُوا} على شهادة أنْ لا إله إلا الله.",
+         "en": "From Ibn ʿAbbās, with a weak chain: This is the most lenient verse in the Book of Allah — “said, ‘Our Lord is Allah,’ and then remained steadfast” — steadfast upon the testimony that there is no god but Allah."
+        },
+        {
+         "ar": "وروي نحوه عن أنس، ومجاهد، والأسود بن هلال، وزيد بن أسلم، والسُّدِّيِّ، وعكرمة، وغيرهم.",
+         "en": "Something similar is narrated from Anas, Mujāhid, al-Aswad ibn Hilāl, Zayd ibn Aslam, al-Suddī, ʿIkrimah and others."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c8",
+     "pages": [
+      473
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ورُوي عن عمر بن الخطاب أنَّه قرأ هذه الآية على المنبر {إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللهُ ثُمَّ اسْتَقَامُوا} فقال: لم يَروغوا رَوَغَانَ الثَّعلب.",
+         "en": "It is narrated that ʿUmar ibn al-Khaṭṭāb recited this verse on the minbar — “Indeed, those who said, ‘Our Lord is Allah,’ and then remained steadfast” — and said: They did not dodge about as a fox dodges."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c9",
+     "pages": [
+      473
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى علي بن أبي طلحة، عن ابن عباس في قوله تعالى {ثُمَّ اسْتَقَامُوا} قال: استقاموا على أداءِ فرائضه.",
+         "en": "ʿAlī ibn Abī Ṭalḥah narrated from Ibn ʿAbbās concerning the words of the Exalted, “then remained steadfast”: They remained steadfast in fulfilling His obligations."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c10",
+     "pages": [
+      473
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن أبي العالية، قال: ثمَّ أخلصوا له الدينَ والعملَ.",
+         "en": "From Abū al-ʿĀliyah: Then they devoted their religion and their deeds sincerely to Him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c11",
+     "pages": [
+      473
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن قتادة قال: استقاموا على طاعة الله، وكان الحسن إذا قرأ هذه الآية قال: اللهمَّ أنت ربنا فارزقنا الاستقامة.",
+         "en": "From Qatādah: They remained steadfast in obeying Allah. When al-Ḥasan recited this verse, he would say: O Allah, You are our Lord, so grant us steadfastness."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c12",
+     "pages": [
+      473
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولعل من قال: إنَّ المرادَ الاستقامة على التوحيد إنَّما أرادَ التوحيدَ الكاملَ الذي يُحرِّمُ صاحبَه على النار، وهو تحقيق معنى لا إله إلا الله،",
+         "en": "Perhaps those who said that the steadfastness meant is steadfastness upon tawḥīd meant only the complete tawḥīd that makes the Fire unlawful for the one who has it, which is the true realisation of the meaning of “There is no god but Allah.”"
+        },
+        {
+         "ar": "فإنَّ الإله هو الذي يُطاعُ، فلا يُعصى خشيةً وإجلالاً ومهابةً ومحبةً ورجاءً وتوكُّلاً ودعاءً، والمعاصي كلُّها قادحة في هذا التوحيد؛",
+         "en": "For a god (ilāh) is the one who is obeyed and never disobeyed, out of fear, reverence, awe, love, hope, reliance and supplication; and all sins impair this tawḥīd,"
+        },
+        {
+         "ar": "لأنَّها إجابة لداعي الهوى وهو الشيطان، قال الله عز وجل: {أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَهَهُ هَوَاهُ} قالَ الحسن وغيره: هوَ الذي لا يهوى شيئاً إلاَّ ركبه، فهذا يُنافي الاستقامة على التوحيد.",
+         "en": "because they are a response to the one who calls to whim — that is, Satan. Allah, the Mighty and Majestic, said: “Have you seen the one who takes his own whim as his god?” [al-Jāthiyah 45:23]. Al-Ḥasan and others said: He is the one who never desires anything without going after it. This is incompatible with steadfastness upon tawḥīd."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c13",
+     "pages": [
+      473,
+      474
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما على رواية من روى: «قُلْ: آمنْتُ بالله» فالمعنى أظهر؛",
+         "en": "As for the narration of those who report “Say: I believe in Allah,” the meaning is clearer,"
+        },
+        {
+         "ar": "لأنَّ الإيمانَ يدخل فيه الأعمالُ الصالحة عند السَّلف ومن تابعهم من أهلِ الحديث، وقال الله - عز وجل: {فَاسْتَقِمْ كَمَا أُمِرْتَ وَمَنْ تَابَ مَعَكَ وَلا تَطْغَوْا إِنَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ}.",
+         "en": "because faith (īmān) includes righteous deeds according to the Salaf and the hadith scholars who follow them. Allah, the Mighty and Majestic, said: “So be steadfast as you have been commanded, you and those who have repented with you, and do not transgress; indeed, He sees what you do” [Hūd 11:112]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c14",
+     "pages": [
+      474
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فأمره أنْ يستقيمَ هوَ ومن تاب معه، وأنْ لا يُجاوزوا ما أُمِروا به، وهو الطغيانُ، وأخبر أنَّه بصيرٌ بأعمالهم، مطَّلعٌ عليها، وقال تعالى: {فَلِذَلِكَ فَادْعُ وَاسْتَقِمْ كَمَا أُمِرْتَ وَلا تَتَّبِعْ أَهْوَاءهُمْ}.",
+         "en": "He commanded him to be steadfast, he and those who repented with him, and not to go beyond what they were commanded, which is transgression; and He told them that He sees their deeds and is aware of them. The Exalted said: “So call [people] to that, and be steadfast as you have been commanded, and do not follow their desires” [al-Shūrā 42:15]."
+        },
+        {
+         "ar": "قال قتادة: أُمِرَ محمد صلى الله عليه وسلم أنْ يستقيمَ على أمر الله.",
+         "en": "Qatādah said: Muḥammad ﷺ was commanded to be steadfast upon the command of Allah."
+        },
+        {
+         "ar": "وقال الثوري: على القرآن، وعن الحسن، قال: لما نزلت هذه الآية شَمَّرَ رسولُ الله صلى الله عليه وسلم، فما رؤي ضاحكاً.",
+         "en": "Al-Thawrī said: Upon the Qurʾān. And from al-Ḥasan: When this verse was revealed, the Messenger of Allah ﷺ girded himself in earnest, and was not seen laughing."
+        },
+        {
+         "ar": "خرَّجه ابن أبي حاتم.",
+         "en": "Ibn Abī Ḥātim recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c15",
+     "pages": [
+      474
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وذكر القُشَيْريُّ وغيره عن بعضهم: أنَّه رأى النَّبيَّ صلى الله عليه وسلم في المنام، فقال له: يا رسولَ الله قلتَ: «شَيَّبَتني هُودٌ وأخواتُها»، فما شيَّبك منها؟",
+         "en": "Al-Qushayrī and others mention that someone saw the Prophet ﷺ in a dream and said to him: Messenger of Allah, you said, “Hūd and its sisters have turned my hair grey.” What in it turned your hair grey?"
+        },
+        {
+         "ar": "قال: «قوله {فَاسْتَقِمْ كَمَا أُمِرْتَ}».",
+         "en": "He said: “His words: ‘So be steadfast as you have been commanded.’”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c16",
+     "pages": [
+      474
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال عز وجل: {قُلْ إِنَّمَا أَنَا بَشَرٌ مِثْلُكُمْ يُوحَى إِلَيَّ أَنَّمَا إِلَهُكُمْ إِلَهٌ وَاحِدٌ فَاسْتَقِيمُوا إِلَيْهِ وَاسْتَغْفِرُوهُ}.",
+         "en": "The Mighty and Majestic said: “Say: I am only a man like you; it is revealed to me that your god is one God, so be steadfast towards Him and seek His forgiveness” [Fuṣṣilat 41:6]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c17",
+     "pages": [
+      474
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد أمرَ الله تعالى بإقامةِ الدِّين عموماً كما قال: {شَرَعَ لَكُمْ مِنَ الدِّينِ مَا وَصَّى بِهِ نُوحاً وَالَّذِي أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَى وَعِيسَى أَنْ أَقِيمُوا الدِّينَ وَلا تَتَفَرَّقُوا فِيهِ}،",
+         "en": "Allah the Exalted has commanded establishing the religion in general, as He said: “He has ordained for you of religion what He enjoined upon Nūḥ, and what We have revealed to you, and what We enjoined upon Ibrāhīm, Mūsā and ʿĪsā: Establish the religion and do not be divided in it” [al-Shūrā 42:13];"
+        },
+        {
+         "ar": "وأمر بإقام الصلاة في غير موضعٍ من كتابه، كما أمر بالاستقامة على التوحيد في تلك الآيتين.",
+         "en": "and He commanded establishing the prayer in many places in His Book, just as He commanded steadfastness upon tawḥīd in those two verses."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c18",
+     "pages": [
+      474
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والاستقامة: هي سلوكُ الصِّراط المستقيم، وهو الدِّينُ القيِّم من غير تعريج عنه يَمنةً ولا يَسرةً، ويشمل ذلك فعلَ الطَّاعات كلّها، الظاهرة والباطنة، وتركَ المنهيات كُلِّها كذلك، فصارت هذه الوصيةُ جامعةً لخصال الدِّين كُلِّها.",
+         "en": "Steadfastness (istiqāmah) is keeping to the straight path, which is the upright religion, without swerving from it to the right or the left. This includes doing all acts of obedience, outward and inward, and likewise leaving everything forbidden; and so this counsel comprehends all the qualities of the religion."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c19",
+     "pages": [
+      475
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي قوله عز وجل {فَاسْتَقِيمُوا إِلَيْهِ وَاسْتَغْفِرُوهُ} إشارةٌ إلى أنَّه لابُدَّ من تقصيرٍ في الاستقامة المأمور بها،",
+         "en": "In His words, Mighty and Majestic is He, “so be steadfast towards Him and seek His forgiveness,” there is an indication that some shortfall in the steadfastness commanded is unavoidable,"
+        },
+        {
+         "ar": "فيُجبَرُ ذلك بالاستغفار المقتضي للتَّوبة والرُّجوع إلى الاستقامة، فهو كقول النَّبيِّ صلى الله عليه وسلم لمعاذ: «اتَّقِ الله حيثُما كُنت، وأتبعِ السَّيِّئةَ الحسنةَ تَمحُها».",
+         "en": "and it is made good by seeking forgiveness, which entails repentance and returning to steadfastness. It is like the words of the Prophet ﷺ to Muʿādh: “Fear Allah wherever you are, and follow a bad deed with a good one that will wipe it out.”"
+        },
+        {
+         "ar": "وقد أخبر النَّبيُّ صلى الله عليه وسلم أنَّ الناس لن يُطيقوا الاستقامة حق الاستقامة، كما خرَّجه الإمام أحمد، وابن ماجه من حديث ثوبانَ، عن النَّبيِّ صلى الله عليه وسلم قال :",
+         "en": "The Prophet ﷺ told us that people will never be able to be steadfast as steadfastness truly requires, as Imam Aḥmad and Ibn Mājah recorded, from the hadith of Thawbān, that the Prophet ﷺ said:"
+        },
+        {
+         "ar": "«استَقيموا ولن تُحْصوا، واعلموا أنَّ خيرَ أعمالكُم الصَّلاةُ، ولا يُحافِظُ على الوضوء إلاَّ مؤمنٌ»، وفي روايةٍ للإمام أحمد: «سَدِّدوا وقاربوا، ولا يحافظُ على الوضوء إلاَّ مؤمن».",
+         "en": "“Be steadfast — and you will never manage it fully. Know that the best of your deeds is the prayer, and none guards his wuḍūʾ except a believer.” In a narration of Imam Aḥmad's: “Aim aright and come close, and none guards his wuḍūʾ except a believer.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c20",
+     "pages": [
+      475
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \"الصحيحين\" عن أبي هريرة، عن النَّبيِّ صلى الله عليه وسلم قال: «سددوا وقاربوا».",
+         "en": "In the two Ṣaḥīḥs, from Abū Hurayrah, the Prophet ﷺ said: “Aim aright and come close.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c21",
+     "pages": [
+      475
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فالسَّدادُ: هو حقيقةُ الاستقامة، وهو الإصابةُ في جميع الأقوالِ والأعمال والمقاصد، كالذي يرمي إلى غرض، فيُصيبه،",
+         "en": "Aiming aright (sadād) is the reality of steadfastness: it is hitting the mark in all one's words, deeds and intentions, like someone who shoots at a target and hits it."
+        },
+        {
+         "ar": "وقد أمرَ النَّبيُّ صلى الله عليه وسلم عليَّاً أنْ يسألَ الله عز وجل السَّداد والهدى، وقال له: «اذكر بالسَّدادِ تسديدَكَ السَّهْمَ، وبالهدى هدايَتك الطَّريق».",
+         "en": "The Prophet ﷺ commanded ʿAlī to ask Allah, the Mighty and Majestic, for right aim and guidance, and said to him: “By right aim, call to mind the aiming of your arrow; and by guidance, your being guided along the road.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c22",
+     "pages": [
+      475,
+      476
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والمقاربة: أنْ يُصيبَ ما قَرُبَ مِنَ الغرض إذا لم يُصِبِ الغرضَ نفسَه، ولكن بشرط أنْ يكونَ مصمِّماً على قصد السَّداد وإصابة الغرض،",
+         "en": "Coming close (muqārabah) is hitting near the target when one does not hit the target itself — but on condition that one is resolved on aiming aright and hitting the target,"
+        },
+        {
+         "ar": "فتكون مقاربتُه عن غير عمدٍ، ويدلُّ عليه قولُ النَّبيِّ صلى الله عليه وسلم في حديث الحكم بن حزن الكُلَفي:",
+         "en": "so that coming close is not intentional. This is shown by the words of the Prophet ﷺ in the hadith of al-Ḥakam ibn Ḥazn al-Kulafī:"
+        },
+        {
+         "ar": "«أيُّها النَّاس، إنَّكم لن تعملوا - أو لن تُطيقوا - كلَّ ما أمرتُكم، ولكن سدِّدوا وأبشروا» والمعني: اقصِدُوا التَّسديدَ والإصابةَ والاستقامةَ، فإنَّهم لو سدَّدُوا في العمل كلِّه، لكانوا قد فعلوا ما أُمِرُوا به كُلِّه.",
+         "en": "“O people, you will not do — or: you will not be able to do — all that I have commanded you; but aim aright and rejoice.” That is: intend to aim aright, to hit the mark and to be steadfast; for if they aimed aright in all their deeds, they would have done all that they were commanded."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c23",
+     "pages": [
+      476
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فأصلُ الاستقامةِ استقامةُ القلب على التوحيد، كما فسر أبو بكر الصِّديق وغيرُه قولَه: {إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللهُ ثُمَّ اسْتَقَامُوا} بأنَّهم لم يلتفتوا إلى غيره،",
+         "en": "The root of steadfastness is the heart's being steadfast upon tawḥīd, as Abū Bakr al-Ṣiddīq and others explained His words, “Indeed, those who said, ‘Our Lord is Allah,’ and then remained steadfast,” as meaning that they did not turn to anyone besides Him."
+        },
+        {
+         "ar": "فمتى استقام القلبُ على معرفةِ الله، وعلى خشيته، وإجلاله، ومهابته، ومحبته، وإرادته، ورجائه، ودعائه،",
+         "en": "When the heart is steadfast in knowing Allah, fearing Him, revering Him, holding Him in awe, loving Him, seeking Him, hoping in Him, calling on Him,"
+        },
+        {
+         "ar": "والتوكُّلِ عليه، والإعراض عما سواه، استقامت الجوارحُ كلُّها على طاعته، فإنَّ القلبَ هو ملكُ الأعضاء، وهي جنودهُ، فإذا استقامَ الملك،",
+         "en": "relying on Him and turning away from all else, then all the limbs become steadfast in obeying Him. For the heart is the king of the limbs and they are its troops; when the king is upright,"
+        },
+        {
+         "ar": "استقامت جنودُه ورعاياه، وكذلك فسَّر قوله تعالى: {فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفاً} بإخلاص القصد لله وإرادته وحدَه لا شريكَ له.",
+         "en": "his troops and subjects are upright. In the same way, His words, Exalted is He, “So set your face to the religion, inclining to the truth” [al-Rūm 30:30], have been explained as making one's intention sincerely for Allah and seeking Him alone, without partner."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c24",
+     "pages": [
+      476
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأعظم ما يُراعى استقامتُه بعدَ القلبِ مِنَ الجوارح اللسانُ، فإنَّه ترجمانُ القلب والمعبِّرُ عنه، ولهذا لما أمر النَّبيُّ صلى الله عليه وسلم بالاستقامة، وصَّاه بعدَ ذلك بحفظ لسانه،",
+         "en": "After the heart, the limb whose steadfastness most needs watching is the tongue, for it is the heart's interpreter and gives expression to it. That is why, when the Prophet ﷺ had commanded steadfastness, he then counselled him to guard his tongue."
+        },
+        {
+         "ar": "وفي \" مسند الإمام أحمد \" عن أنس، عن النَّبيِّ صلى الله عليه وسلم، قال: «لا يستقيمُ إيمانُ عبدٍ حتَّى يستقيم قلبُه، ولا يستقيمُ قلبُه حتى يستقيمَ لسانُه».",
+         "en": "In the Musnad of Imam Aḥmad, from Anas, the Prophet ﷺ said: “A servant's faith will not be upright until his heart is upright, and his heart will not be upright until his tongue is upright.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h21.c25",
+     "pages": [
+      476
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الترمذي \" عن أبي سعيد الخدري مرفوعاً وموقوفاً: «إذا أصبح ابن آدم، فإنَّ الأعضاءَ كلها تكفر اللِّسان، فتقول: اتق الله فينا، فإنَّما نحنُ بك، فإنِ استقمتَ استقمنا، وإنِ اعوجَجْتَ اعوججنا».",
+         "en": "In al-Tirmidhī's collection, from Abū Saʿīd al-Khudrī, both as marfūʿ and as mawqūf (as the Prophet's words and as Abū Saʿīd's own): “When the son of Ādam wakes in the morning, all the limbs humble themselves before the tongue and say: Fear Allah concerning us, for we are only through you; if you are upright, we are upright, and if you are crooked, we are crooked.”"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}

@@ -1,6 +1,12 @@
 """Merge skeletons + English TSVs into the final bilingual JSON files and validate.
 
-usage: python3 -I assemble.py <scratch_dir> [--partial] [--book fath|tuhfah|mujaz]
+usage: python3 -I assemble.py <scratch_dir> [--partial] [--check] [--book fath|tuhfah|mujaz|jami]
+
+--check validates (alignment, locks, style, quotes) without writing data/ — for translators working in parallel.
+--out <dir> writes the output there instead of data/commentaries (a batch's own copy, for verify.py --data <dir>).
+
+A book whose meta.json says translation.status "in progress" may have untranslated segments (en: null).
+Split books (jami) are written as <id>/index.json + <id>/hNN.json, so the app loads one chapter at a time.
 """
 import json, os, re, sys, collections, datetime
 
@@ -8,10 +14,13 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 TR = sys.argv[1]
 PARTIAL = '--partial' in sys.argv
 ONLY = sys.argv[sys.argv.index('--book') + 1] if '--book' in sys.argv else None
-OUT = os.path.join(HERE, '..', '..', 'data', 'commentaries')
+CHECK = '--check' in sys.argv
+OUT = sys.argv[sys.argv.index('--out') + 1] if '--out' in sys.argv else os.path.join(HERE, '..', '..', 'data', 'commentaries')
 APP = json.load(open(os.path.join(HERE, '..', 'meta.json')))['hadith']
 
-BOOK_IDS = {'fath': 'fath-al-qawi-al-matin', 'tuhfah': 'al-tuhfah-al-rabbaniyyah', 'mujaz': 'al-sharh-al-mujaz-al-mufid'}
+BOOK_IDS = {'fath': 'fath-al-qawi-al-matin', 'tuhfah': 'al-tuhfah-al-rabbaniyyah', 'mujaz': 'al-sharh-al-mujaz-al-mufid',
+            'jami': 'jami-al-ulum-wal-hikam'}
+SPLIT = {'jami'}
 AR = re.compile(r'[؀-ۿ]')
 LINT = [
     (r'\bGabriel\b', 'Jibrīl'), (r'peace and blessings be upon him', 'ﷺ'), (r'\bQur?an\b', 'Qurʾān'),
@@ -55,8 +64,9 @@ def read_tsv(path):
     return m, notes, hnotes, over
 
 class Ctx:
-    def __init__(self, book):
+    def __init__(self, book, partial=False):
         self.book = book; self.errors = []; self.warn = []; self.missing = 0; self.segs = 0; self.blocks = 0; self.notes = 0
+        self.partial = partial
 
 def build_block(ctx, b, tsv, notes, prefix):
     """Apply translations to block b. Returns final block dict."""
@@ -76,7 +86,7 @@ def build_block(ctx, b, tsv, notes, prefix):
                 if cand in tsv:
                     key = cand; break
             if key is None:
-                if not PARTIAL:
+                if not (PARTIAL or ctx.partial):
                     ctx.errors.append(f'{prefix}: missing English for {sid}')
                 ctx.missing += 1
                 out.append({'ar': ar[sid], 'en': None}); i += 1
@@ -149,10 +159,10 @@ def check_lock(ctx, name, n, chunk_blocks, tsv_path):
 
 def assemble(name):
     sk = json.load(open(os.path.join(TR, 'work', name, 'skel.json')))
-    ctx = Ctx(name)
     bid = BOOK_IDS[name]
     en_dir = os.path.join(HERE, 'en', name)
     meta = json.load(open(os.path.join(HERE, 'en', name, 'meta.json'))) if os.path.exists(os.path.join(en_dir, 'meta.json')) else {}
+    ctx = Ctx(name, partial=meta.get('translation', {}).get('status') == 'in progress')
     tsv, notes, hn, over = read_tsv(os.path.join(en_dir, '00.tsv'))
     check_lock(ctx, name, '00', sk['front'] + sk['back'], os.path.join(en_dir, '00.tsv'))
     keys = {b['key'] for b in sk['front'] + sk['back']}
@@ -194,6 +204,8 @@ def assemble(name):
             secs.append(sec)
         quote_balance(ctx, f'{name}/{n:02d}', [b for s in secs for b in s['blocks']])
         hd['sections'] = secs
+        segs = [sg for s in secs for b in s['blocks'] for p in b['paragraphs'] for sg in p['segments']]
+        hd['translated'] = round(sum(1 for sg in segs if sg['en']) / max(1, len(segs)), 3)
         hadiths.append(hd)
     book = dict(sk['meta']['book'])
     doc = {
@@ -205,15 +217,35 @@ def assemble(name):
     }
     return doc, ctx
 
+def write_split(doc, bid):
+    """index.json (everything but the chapters' sections) + one hNN.json per chapter."""
+    d = os.path.join(OUT, bid)
+    os.makedirs(d, exist_ok=True)
+    index = {k: v for k, v in doc.items() if k != 'hadiths'}
+    index['hadiths'] = [{k: v for k, v in h.items() if k != 'sections'} for h in doc['hadiths']]
+    index['stats']['translated_chapters'] = sum(1 for h in doc['hadiths'] if h['translated'] >= 1)
+    json.dump(index, open(os.path.join(d, 'index.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    for h in doc['hadiths']:
+        json.dump(h, open(os.path.join(d, f"{h['id']}.json"), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    return os.path.join(d, 'index.json')
+
 def main():
     os.makedirs(OUT, exist_ok=True)
     rc = 0
-    for name in ('fath', 'tuhfah', 'mujaz'):
+    for name in BOOK_IDS:
         if ONLY and name != ONLY:
             continue
+        if not os.path.exists(os.path.join(TR, 'work', name, 'skel.json')):
+            print(f'{name}: no skeleton in {TR}/work/{name} — skipped (run prep.py or {name}.py first)')
+            continue
         doc, ctx = assemble(name)
-        path = os.path.join(OUT, BOOK_IDS[name] + '.json')
-        json.dump(doc, open(path, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+        if CHECK:
+            path = '(check only, nothing written)'
+        elif name in SPLIT:
+            path = write_split(doc, BOOK_IDS[name])
+        else:
+            path = os.path.join(OUT, BOOK_IDS[name] + '.json')
+            json.dump(doc, open(path, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
         print(f"{name}: blocks {ctx.blocks}, segments {ctx.segs}, untranslated {ctx.missing}, errors {len(ctx.errors)}, warnings {len(ctx.warn)} -> {os.path.relpath(path)}")
         for e in ctx.errors[:40]:
             print('  ERROR', e)

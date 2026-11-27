@@ -1,0 +1,1912 @@
+{
+ "id": "h06",
+ "number": 6,
+ "standard_number": 6,
+ "collection": "nawawi",
+ "heading": {
+  "ar": "الحديث السادس",
+  "en": "Hadith 6"
+ },
+ "title": {
+  "ar": "الحلال بيّن والحرام بيّن",
+  "en": "The Lawful Is Clear and the Unlawful Is Clear"
+ },
+ "pages": {
+  "start": 172,
+  "end": 192
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.n1",
+     "pages": [
+      172
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنِ النُّعمانِ بنِ بشيرٍ رضي الله عنهما قال: سَمِعتُ رَسُولَ اللهِ صلى الله عليه وسلم يقولُ: «إنَّ الحَلالَ بَيِّنٌ وإنَّ الحَرَامَ بَيِّنٌ،",
+         "en": "From al-Nuʿmān ibn Bashīr (may Allah be pleased with them both), who said: I heard the Messenger of Allah ﷺ say: “The lawful is clear and the unlawful is clear,"
+        },
+        {
+         "ar": "وبَينَهُما أُمُورٌ مُشتَبهاتٌ، لا يَعْلَمُهنّ كثيرٌ مِن النَّاسِ، فَمَن اتَّقى الشُّبهاتِ استبرأ لِدينِهِ وعِرضِه، ومَنْ وَقَعَ في الشُّبُهاتِ وَقَعَ في الحَرَامِ،",
+         "en": "and between them are doubtful matters which many people do not know. So whoever guards against doubtful matters has kept his religion and his honour clear, and whoever falls into doubtful matters falls into the unlawful,"
+        },
+        {
+         "ar": "كالرَّاعي يَرعَى حَوْلَ الحِمَى يُوشِكُ أنْ يَرتَعَ فيهِ، ألا وإنَّ لِكُلِّ مَلِكٍ حِمًى، ألا وإنَّ حِمَى اللهِ محارِمُهُ،",
+         "en": "like the shepherd who grazes his flock around a sanctuary, about to graze within it. Indeed, every king has a sanctuary; indeed, Allah's sanctuary is what He has made unlawful."
+        },
+        {
+         "ar": "ألا وإنَّ في الجَسَدِ مُضغَةً إذا صلَحَتْ صلَحَ الجَسَدُ كلُّه، وإذَا فَسَدَت فسَدَ الجَسَدُ كلُّه، ألا وهِيَ القَلبُ» رواهُ البُخاريُّ ومُسلمٌ.",
+         "en": "Indeed, in the body there is a morsel of flesh: if it is sound, the whole body is sound, and if it is corrupt, the whole body is corrupt. Indeed, it is the heart.” Reported by al-Bukhārī and Muslim."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c1",
+     "pages": [
+      172
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "هذا الحديث صحيح متفق على صحته من رواية الشعبي، عن النعمان بن بشير، وفي ألفاظه بعضُ الزيادة والنقص، والمعنى واحد أو متقارب.",
+         "en": "This hadith is authentic, and al-Bukhārī and Muslim agree on its authenticity, in the narration of al-Shaʿbī from al-Nuʿmān ibn Bashīr. Its wordings contain some additions and omissions, but the meaning is the same or close."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c2",
+     "pages": [
+      172
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد روي عن النَّبيِّ صلى الله عليه وسلم من حديث ابن عمر، وعمار بن ياسر، وجابر، وابن مسعود، وابن عباس، وحديث النعمان أصح أحاديث الباب.",
+         "en": "It has also been narrated from the Prophet ﷺ in the hadiths of Ibn ʿUmar, ʿAmmār ibn Yāsir, Jābir, Ibn Masʿūd and Ibn ʿAbbās, but the hadith of al-Nuʿmān is the most authentic of the hadiths on the subject."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c3",
+     "pages": [
+      173
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فقوله صلى الله عليه وسلم: «الحلالُ بيِّنٌ والحرامُ بيِّن وبينهما أمور مشتبهات لا يعلمهنَّ كثيرٌ من الناس» معناه: أنَّ الحلال المحض بَيِّنٌ لا اشتباه فيه،",
+         "en": "His words ﷺ, “The lawful is clear and the unlawful is clear, and between them are doubtful matters which many people do not know,” mean that the purely lawful is clear, with no doubt about it,"
+        },
+        {
+         "ar": "وكذلك الحرامُ المحضُ، ولكن بين الأمرين أمورٌ تشتبه على كثيرٍ من الناس، هل هي من الحلال أم من الحرام؟",
+         "en": "and so is the purely unlawful; but between the two are matters about which many people are unsure: are they lawful or unlawful?"
+        },
+        {
+         "ar": "وأما الرَّاسخون في العلم، فلا يشتبه عليهم ذلك، ويعلمون من أيِّ القسمين هي.",
+         "en": "Those firmly grounded in knowledge, however, are not unsure about them; they know which of the two categories they belong to."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c4",
+     "pages": [
+      173
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فأما الحلالُ المحضُ: فمثل أكلِ الطيبات من الزروع، والثمار، وبهيمة الأنعام، وشرب الأشربة الطيبة، ولباسِ ما يحتاج إليه من القطن والكتَّان،",
+         "en": "The purely lawful includes such things as eating wholesome foods — crops, fruits and livestock — drinking wholesome drinks, and wearing what one needs of cotton, linen,"
+        },
+        {
+         "ar": "أو الصوف أو الشعر، وكالنكاح، والتسرِّي وغير ذلك إذا كان اكتسابُه بعقدٍ صحيح كالبيع، أو بميراث، أو هبة، أو غنيمة.",
+         "en": "wool or hair; and such things as marriage and taking concubines, and the like, when they are acquired through a valid contract such as a sale, or through inheritance, gift or spoils of war."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c5",
+     "pages": [
+      173
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والحرام المحض: مثلُ أكل الميتة، والدم، ولحم الخنزير، وشرب الخمر، ونكاح المحارم، ولباس الحرير للرجال، ومثل الأكساب المحرَّمة كالرِّبا، والميسر، وثمن مالا يحل بيعه، وأخذ الأموال المغصوبة بسرقة أو غصب أو تدليس أو نحو ذلك.",
+         "en": "The purely unlawful includes such things as eating carrion, blood and pork, drinking wine, marrying women within the forbidden degrees, and men wearing silk; and unlawful earnings, such as usury, gambling, the price of what may not be sold, and taking others' property through theft, usurpation, fraud and the like."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c6",
+     "pages": [
+      173
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما المشتبه: فمثلُ أكل بعضِ ما اختلفَ في حلِّه أو تحريمهِ، إمَّا من الأعيان كالخيلِ والبغالِ والحميرِ، والضبِّ، وشربِ ما اختلف من الأنبذة التي يُسكِرُ كثيرُها،",
+         "en": "The doubtful includes eating some of the things whose lawfulness is disputed — whether substances, such as horses, mules, donkeys and the dabb lizard, and drinking those disputed nabīdh drinks of which a large quantity intoxicates,"
+        },
+        {
+         "ar": "ولبسِ ما اختلف في إباحة لبسه من جلود السباع ونحوها، وإما من المكاسب المختلف فيها كمسائل العِينة والتورّق ونحو ذلك، وبنحو هذا المعنى فسَّرَ المشتبهات أحمدُ وإسحاق وغيرهما من الأئمة.",
+         "en": "and wearing what is disputed, such as the skins of predatory animals and the like; or disputed earnings, such as the questions of ʿīnah [a sale and buy-back that disguises interest] and tawarruq [buying on credit to resell for cash], and the like. Aḥmad, Isḥāq and other imams explained the doubtful matters along these lines."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c7",
+     "pages": [
+      174
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وحاصلُ الأمر أنَّ الله تعالى أنزل على نبيه الكتاب، وبين فيه للأمة ما يحتاجُ إليه من حلال وحرام، كما قال تعالى: {وَنَزَّلْنَا عَلَيْكَ الْكِتَابَ تِبْيَاناً لِكُلِّ شَيْءٍ} قال مجاهد وغيرُه: لكلِّ شيءٍ أُمِرُوا به أو نُهوا عنه،",
+         "en": "The upshot is that Allah the Exalted sent down the Book to His Prophet and made clear in it for the Ummah what it needs of the lawful and the unlawful, as the Exalted said: “And We have sent down to you the Book as a clarification of all things” [al-Naḥl 16:89]. Mujāhid and others said: of everything they were commanded or forbidden."
+        },
+        {
+         "ar": "وقال تعالى في آخر سورة النساء التي بَيَّنَ الله فيها كثيراً من أحكام الأموال والأبضاع: {يُبَيِّنُ اللهُ لَكُمْ أَنْ تَضِلُّوا وَاللهُ بِكُلِّ شَيْءٍ عَلِيمٌ} وقال تعالى:",
+         "en": "At the end of Sūrat al-Nisāʾ, in which Allah made clear many rulings on property and marriage, the Exalted said: “Allah makes this clear to you lest you go astray; and Allah has knowledge of all things” [al-Nisāʾ 4:176]. And the Exalted said:"
+        },
+        {
+         "ar": "{وَمَا لَكُمْ أَلاَّ تَأْكُلُوا مِمَّا ذُكِرَ اسْمُ اللهِ عَلَيْهِ وَقَدْ فَصَّلَ لَكُمْ مَا حَرَّمَ عَلَيْكُمْ إِلاَّ مَا اضْطُرِرْتُمْ إِلَيْه}،",
+         "en": "“Why should you not eat of that over which the name of Allah has been mentioned, when He has explained to you in detail what He has forbidden you, except what you are compelled to?” [al-Anʿām 6:119]."
+        },
+        {
+         "ar": "وقال تعالى: {وَمَا كَانَ اللهُ لِيُضِلَّ قَوْماً بَعْدَ إِذْ هَدَاهُمْ حَتَّى يُبَيِّنَ لَهُمْ مَا يَتَّقُون} ووكل بيان ما أشكل من التنْزيل إلى الرسول صلى الله عليه وسلم كما قال تعالى :",
+         "en": "And the Exalted said: “Allah would not lead a people astray after He has guided them until He makes clear to them what they should guard against” [al-Tawbah 9:115]. He entrusted the explanation of whatever was unclear in the revelation to the Messenger ﷺ, as the Exalted said:"
+        },
+        {
+         "ar": "{وَأَنْزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ إِلَيْهِمْ} وما قُبض صلى الله عليه وسلم حتّى أكمل له ولأُمته الدينَ، ولهذا أنزل عليه بعرفة قَبْلَ موته بمدة يسيرة: {الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الإسْلامَ دِيناً}.",
+         "en": "“And We have sent down to you the Reminder so that you may make clear to people what has been sent down to them” [al-Naḥl 16:44]. He ﷺ was not taken until the religion had been perfected for him and his Ummah. That is why, at ʿArafah, a short while before his death, there was sent down to him: “This day I have perfected your religion for you, completed My favour upon you, and approved Islam as your religion” [al-Māʾidah 5:3]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c8",
+     "pages": [
+      174
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال صلى الله عليه وسلم: «تَركتُكُم على بَيضاءَ نقية لَيلُها كنهارِها لا يَزِيغُ عنها إلاَّ هالِكٌ».",
+         "en": "He ﷺ said: “I have left you on a clear white path whose night is like its day; no one strays from it except one who is doomed.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c9",
+     "pages": [
+      174
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أبو ذرٍّ: توفي رسولُ الله صلى الله عليه وسلم وما طائِرٌ يُحرِّكُ جناحَيهِ في السَّماءِ إلاَّ وقد ذَكَرَ لنا منه عِلماً.",
+         "en": "Abū Dharr said: The Messenger of Allah ﷺ died, and there was not a bird beating its wings in the sky but he had told us something about it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c10",
+     "pages": [
+      174,
+      175
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولمَّا شكَّ النَّاسُ في موته صلى الله عليه وسلم، قال عمُّه العباس رضي الله عنه: والله ما ماتَ رسولُ الله صلى الله عليه وسلم حتّى تركَ السبيلَ نهجاً واضحاً، وأحلَّ الحلالَ وحرَّم الحرامَ،",
+         "en": "When people doubted that he ﷺ had died, his uncle al-ʿAbbās (may Allah be pleased with him) said: By Allah, the Messenger of Allah ﷺ did not die until he had left the way a plain, clear road. He made lawful what is lawful and made unlawful what is unlawful,"
+        },
+        {
+         "ar": "ونكَحَ وطلَّق، وحارب وسالم، وما كان راعي غنم يتبع بها رؤوس الجبال يَخْبِطُ عليها العِضاةَ بمِخْبَطهِ، ويَمْدُرُ حوضَها بيده بأنصَب ولا أدأب من رسول الله صلى الله عليه وسلم كانَ فيكُم.",
+         "en": "married and divorced, made war and made peace. No shepherd following his flock to the mountaintops, beating down the thorn trees' leaves for them with his staff and plastering their trough with mud by his own hand, ever toiled harder or worked more tirelessly than the Messenger of Allah ﷺ did among you."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c11",
+     "pages": [
+      175
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي الجملة فما ترك الله ورسولُه حلالاً إلا مُبيَّناً ولا حراماً إلاَّ مبيَّناً، لكن بعضَه كان أظهر بياناً من بعض،",
+         "en": "In short, Allah and His Messenger left nothing lawful without making it clear, and nothing unlawful without making it clear; but some of it was made clearer than the rest."
+        },
+        {
+         "ar": "فما ظهر بيانُه، واشتهرَ وعُلِمَ من الدِّين بالضَّرورة من ذلك لم يبق فيه شكٌّ، ولا يُعذر أحدٌ بجهله في بلدٍ يظهر فيه الإسلام،",
+         "en": "Whatever was made plainly clear, became widely known and is known from the religion by necessity leaves no room for doubt, and no one is excused for being ignorant of it in a land where Islam is openly practised."
+        },
+        {
+         "ar": "وما كان بيانُه دونَ ذلك، فمنه ما اشتهر بين حملة الشريعة خاصة، فأجمع العلماء على حله أو حرمته،",
+         "en": "Among what was made less plain than that, some became well known among the bearers of the Sharīʿah in particular, so that the scholars agreed by consensus that it is lawful or unlawful,"
+        },
+        {
+         "ar": "وقد يخفى على بعض من ليس منهم، ومنه ما لم يشتهر بين حملة الشريعة أيضاً، فاختلفوا في تحليله وتحريمه وذلك لأسباب:",
+         "en": "though it may be hidden from some who are not of their number; and some did not become well known even among the bearers of the Sharīʿah, so that they differed over whether it is lawful or unlawful. This happens for several reasons."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c12",
+     "pages": [
+      175
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "منها: أنَّه قد يكون النصُّ عليه خفياً لم ينقله إلا قليلٌ من الناس، فلم يبلغ جميع حملة العلم.",
+         "en": "One is that the text on the matter may be obscure, transmitted by only a few people, so that it did not reach all the bearers of knowledge."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c13",
+     "pages": [
+      175
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها: أنَّه قد ينقل فيه نصان، أحدهما بالتحليل، والآخر بالتحريم، فيبلغ طائفةً أحدُ النصين دون الآخرين، فيتمسكون بما بلغهم، أو يبلغ النصان معاً من لم يبلغه التاريخ، فيقف لعدم معرفته بالناسخ.",
+         "en": "Another is that two texts may be transmitted on it, one permitting it and the other forbidding it. One group learns of one text and not the other, and holds to what reached them; or both texts reach someone who does not know which came first, and he suspends judgement because he does not know which abrogates the other."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c14",
+     "pages": [
+      175
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها: ما ليس فيه نصٌّ صريحٌ، وإنَّما يُؤخذ من عموم أو مفهوم أو قياس، فتختلف أفهامُ العلماء في هذا كثيراً.",
+         "en": "Another is that there may be no explicit text on it, so that the ruling is drawn from a general statement, an implied meaning or analogy, and scholars' understandings of these differ greatly."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c15",
+     "pages": [
+      175
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها: ما يكون فيه أمر، أو نهي، فيختلفُ العلماء في حمل الأمر على الوجوب أو الندب، وفي حمل النهي على التحريم أو التنْزيه، وأسبابُ الاختلاف أكثرُ مما ذكرنا.",
+         "en": "Another is that there may be a command or a prohibition on it, and scholars differ over whether the command signifies obligation or recommendation, and whether the prohibition signifies unlawfulness or mere dislike. The causes of disagreement are more than those we have mentioned."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c16",
+     "pages": [
+      175,
+      176
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومع هذا فلابد في الأمة من عالم يُوافق قولُه الحقَّ، فيكون هو العالِم بهذا الحكم، وغيرُه يكون الأمر مشتبهاً عليه ولا يكون عالماً بهذا،",
+         "en": "Even so, there must be in the Ummah a scholar whose view accords with the truth. He is the one who knows this ruling, while for others the matter is doubtful and they do not know it;"
+        },
+        {
+         "ar": "فإنَّ هذه الأمة لا تجتمع على ضلالة، ولا يظهرُ أهلُ باطلها على أهلِ حقِّها، فلا يكونُ الحقُّ مهجوراً غير معمولٍ به في جميع الأمصار والأعصار،",
+         "en": "for this Ummah does not agree upon misguidance, and the people of falsehood within it do not prevail over the people of truth; so the truth is never abandoned and left unpractised in all lands and all ages at once."
+        },
+        {
+         "ar": "ولهذا قال رسول الله صلى الله عليه وسلم في المشتبهات: «لا يَعْلَمُهُنَّ كثيرٌ من النَّاس» فدل على أنَّ من الناس من يعلمها،",
+         "en": "That is why the Messenger of Allah ﷺ said of the doubtful matters, “many people do not know them”: this shows that some people do know them."
+        },
+        {
+         "ar": "وإنَّما هي مشتبهة على من لم يعلمها، وليست مشتبهة في نفس الأمر، فهذا هو السبب المقتضي لاشتباه بعض الأشياء على كثير من العلماء.",
+         "en": "They are doubtful only for those who do not know them, and are not doubtful in themselves. This, then, is the reason why some things are doubtful for many scholars."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c17",
+     "pages": [
+      176
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد يقع الاشتباه في الحلال والحرام بالنسبة إلى العلماء وغيرهم من وجه آخر، وهو أنَّ مِن الأشياء ما يعلم سببُ حِلِّه وهو الملك المتيقن.",
+         "en": "Doubt about the lawful and the unlawful may arise, for scholars and others alike, from another angle too. Some things have a known cause of lawfulness, namely ownership that is certain."
+        },
+        {
+         "ar": "ومنها ما يُعلم سببُ تحريمه وهو ثبوتُ ملك الغير عليه، فالأوَّل لا تزولُ إباحته إلا بيقين زوال الملك عنه،",
+         "en": "Others have a known cause of unlawfulness, namely that someone else's ownership of them is established. The permissibility of the first is not lifted except by certainty that the ownership has ended —"
+        },
+        {
+         "ar": "اللهمَّ إلا في الأبضاع عندَ من يُوقعُ الطلاقَ بالشك فيه كمالكٍ، أو إذا غلب على الظن وقوعُه كإسحاق بن راهويه.",
+         "en": "except, that is, in conjugal matters, according to those who hold that a divorce takes effect when one is in doubt about it, such as Mālik, or when its having occurred is thought most likely, such as Isḥāq ibn Rāhawayh."
+        },
+        {
+         "ar": "والثاني: لا يزول تحريمُه إلا بيقينِ العلم بانتقال الملك فيه.",
+         "en": "The unlawfulness of the second is not lifted except by certain knowledge that ownership of it has passed."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c18",
+     "pages": [
+      176
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأمَّا ما لا يعلم له أصلُ ملكٍ كما يجده الإنسان في بيته ولا يدري: هل هو له أو لغيره فهذا مشتبه، ولا يحرم عليه تناوُله؛",
+         "en": "As for something whose original ownership is unknown, like something a person finds in his house without knowing whether it is his or someone else's, it is doubtful. It is not unlawful for him to take it,"
+        },
+        {
+         "ar": "لأنَّ الظاهر أنَّ ما في بيته ملكُه لثبوت يده عليه، والورعُ اجتنابه، فقد قال النَّبيُّ صلى الله عليه وسلم:",
+         "en": "because the apparent presumption is that what is in his house belongs to him, since it is in his possession; but scrupulousness is to avoid it. The Prophet ﷺ said:"
+        },
+        {
+         "ar": "«إنِّي لأنقلب إلى أهلي فأجدُ التمرة ساقطة على فراشي فأرفعها لآكلها، ثم أخشى أنْ تكون صدقةً فألقيها» خرَّجاه في \" الصحيحين \".",
+         "en": "“I go back to my family and find a date fallen on my bed, and I pick it up to eat it; then I fear that it may be from the charity, and I throw it away.” Al-Bukhārī and Muslim recorded it in the two Ṣaḥīḥs."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c19",
+     "pages": [
+      176,
+      177
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فإنْ كان هناك من جنس المحظور، وشكَّ هل هو منه أم لا؟ قويت الشبهةُ.",
+         "en": "If something of a forbidden kind is present there, and he is unsure whether the thing is from it or not, the doubt is stronger."
+        },
+        {
+         "ar": "وفي حديث عمرو بن شعيب، عن أبيه، عن جده: أنَّ النَّبيَّ صلى الله عليه وسلم أصابه أرقٌ من الليل، فقال له بعضُ نسائه: يا رسول الله أرقت الليلة.",
+         "en": "In the hadith of ʿAmr ibn Shuʿayb, from his father, from his grandfather: the Prophet ﷺ was sleepless one night, and one of his wives said to him: O Messenger of Allah, you were sleepless last night."
+        },
+        {
+         "ar": "فقال: «إني كنتُ أصبتُ تمرةً تحت جنبي، فأكلتُها وكان عندنا تمر من تمر الصدقة، فخشيتُ أنْ تكون منه».",
+         "en": "He said: “I found a date under my side and ate it. We had some of the charity dates, and I feared it might be from them.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c20",
+     "pages": [
+      177
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن هذا أيضاً ما أصلهُ الإباحة كطهارة الماء، والثوب، والأرض إذا لم يتيقن زوال أصله، فيجوز استعمالُه، وما أصله الحظر كالأبضاع ولحوم الحيوان،",
+         "en": "Another case of this is something whose default status is permissibility, such as the purity of water, clothing and ground: so long as it is not certain that the default no longer holds, it may be used. And something whose default status is prohibition, such as sexual relations and the meat of animals,"
+        },
+        {
+         "ar": "فلا يحلُّ إلا بيقين حله من التذكية والعقد، فإنْ تردَّد في شيء من ذلك لظهور سبب آخر رجع إلى الأصل فبنى عليه،",
+         "en": "is lawful only with certainty of what makes it lawful — ritual slaughter or the marriage contract. If one is unsure about any of this because some other factor has appeared, one goes back to the default and builds on it,"
+        },
+        {
+         "ar": "فيبني فيما أصله الحرمة على التحريم ولهذا نهى النَّبيُّ صلى الله عليه وسلم عن أكل الصيدِ الذي يجدُ فيه الصائد أثر سهمٍ غير سهمه، أو كلبٍ غير كلبهِ، أو يجده قد وقع في ماء.",
+         "en": "so that where the default is prohibition one builds on prohibition. That is why the Prophet ﷺ forbade eating game in which the hunter finds the mark of an arrow other than his own, or of a dog other than his own, or which he finds has fallen into water."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c21",
+     "pages": [
+      177
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعلل بأنَّه لا يُدرى: هل مات من السبب المبيح له أو من غيره، فيرجع فيما أصله الحلُّ إلى الحِلِّ، فلا ينجسُ الماءُ والأرض والثوبُ بمجرّد ظنِّ النجاسة،",
+         "en": "He gave as the reason that one does not know whether it died from the cause that makes it lawful or from something else. And where the default is lawfulness one goes back to lawfulness: water, ground and clothing do not become impure merely because impurity is suspected;"
+        },
+        {
+         "ar": "وكذلك البدنُ إذا تحقق طهارته، وشكَّ: هل انتقضت بالحدث عند جمهور العلماء خلافاً لمالك رحمه الله إذا لم يكن قد دخل في الصلاة.",
+         "en": "nor does the body, when its purity is certain and one doubts whether it has been broken by ritual impurity — according to the majority of scholars, though Mālik (may Allah have mercy on him) disagreed where one has not yet begun the prayer."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c22",
+     "pages": [
+      177
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد صحَّ عن النَّبيِّ صلى الله عليه وسلم: «أنَّه شُكي إليه الرجلُ يخيل إليه أنَّه يجد الشيءَ في الصلاة، فقال: «لا ينصرف حتّى يسمع صوتاً أو يجد ريحاً» وفي بعض الروايات: «في المسجد» بدل: «الصلاة».",
+         "en": "It is authentically reported from the Prophet ﷺ “that a man complained to him that he imagined he felt something during the prayer, and he said: ‘He should not leave until he hears a sound or smells a smell.’” Some narrations have “in the mosque” in place of “in the prayer”."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c23",
+     "pages": [
+      177,
+      178
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذا يعمُّ حالَ الصلاةِ وغيرها، فإنْ وُجِدَ سبب قويٌّ يغلب معه على الظنِّ نجاسة ما أصلُه الطهارة مثل أنْ يكونَ الثوبُ يلبسه كافر لا يتحرَّزُ من النجاسات، فهذا محلّ اشتباه، فمن العلماء من رخص فيه أخذاً بالأصل،",
+         "en": "This covers the prayer and other times alike. But if there is a strong reason that makes it most likely that something whose default is purity is impure — as when a garment is worn by a disbeliever who takes no care to avoid impurities — this is a place of doubt. Some scholars allowed it, holding to the default;"
+        },
+        {
+         "ar": "ومنهم من كرهه تنزيهاً، ومنهم من حرمه إذا قوي ظن النجاسة مثل أنْ يكون الكافر ممن لا تباح ذبيحتُه أو يكون ملاقياً لعورته كالسراويل والقميص،",
+         "en": "some considered it mildly disliked; and some held it unlawful when the suspicion of impurity is strong — as when the disbeliever is one whose slaughter is not lawful, or the garment touches his private parts, like trousers and a shirt."
+        },
+        {
+         "ar": "وترجع هذه المسائل وشبهها إلى قاعدةِ تعارض الأصل والظاهر، فإنَّ الأصل الطهارة والظاهر النجاسة.",
+         "en": "These questions and their like go back to the principle of a conflict between the default (aṣl) and the apparent (ẓāhir): here the default is purity and the apparent is impurity."
+        },
+        {
+         "ar": "وقد تعارضت الأدلَّةُ في ذلك.",
+         "en": "The evidence on this is conflicting."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c24",
+     "pages": [
+      178
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فالقائلون بالطهارة يستدلون بأنَّ الله أحلَّ طعام أهل الكتاب، وطعامهم إنَّما يصنعونه بأيديهم في أوانيهم، وقد أجاب النَّبيُّ صلى الله عليه وسلم دعوة يهودي،",
+         "en": "Those who hold such things pure argue that Allah has made the food of the People of the Book lawful, and they prepare their food with their own hands in their own vessels; and the Prophet ﷺ accepted the invitation of a Jew."
+        },
+        {
+         "ar": "وكان هو وأصحابه يلبسون ويستعملون ما يجلب إليهم مما نَسَجَه الكفارُ بأيديهم من الثياب والأواني، وكانوا في المغازي يقتسمون ما وقع لهم من الأوعية والثياب، ويستعملونها، وصحَّ عنهم أنَّهم استعملوا الماء مِنْ مزادة مشركة.",
+         "en": "He and his Companions used to wear and use the clothes and vessels brought to them that disbelievers had made with their own hands; on campaigns they used to divide among themselves the containers and clothes that fell to them, and used them; and it is authentically reported that they used water from a polytheist woman's water skin."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c25",
+     "pages": [
+      178
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والقائلون بالنجاسة يستدلون بأنَّه صحَّ عن النَّبيِّ صلى الله عليه وسلم أنَّه سئل عن آنية أهلِ الكتابِ الذين يأكلون الخنزيرَ، ويشربون الخمر، فقال: إن لم تجدوا غيرها، فاغسلوها بالماء ثم كلوا فيها.",
+         "en": "Those who hold them impure argue that it is authentically reported that the Prophet ﷺ was asked about the vessels of the People of the Book, who eat pork and drink wine, and said: If you find no others, wash them with water and then eat from them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c26",
+     "pages": [
+      178
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد فسَّر الإمام أحمد الشبهة بأنَّها منْزلةٌ بينَ الحلال والحرام، يعني: الحلالَ المحض والحرام المحض، وقال: من اتَّقاها، فقد استبرأ لدينه، وفسَّرها تارةً باختلاط الحلال والحرام.",
+         "en": "Imam Aḥmad explained the doubtful thing (shubhah) as a station between the lawful and the unlawful — meaning the purely lawful and the purely unlawful — and said: Whoever guards against it has kept his religion clear. At other times he explained it as the mixing of the lawful and the unlawful."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c27",
+     "pages": [
+      179
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويتفرَّعُ على هذا معاملة من في ماله حلال وحرام مختلط، فإنْ كان أكثرُ ماله الحرامَ، فقال أحمد: ينبغي أنْ يجتنبه إلا أنْ يكونَ شيئاً يسيراً، أو شيئاً لا يعرف، واختلف أصحابنا: هل هو مكروه أو محرَّم؟ على وجهين.",
+         "en": "From this follows the question of dealing with someone whose wealth is a mixture of lawful and unlawful. If most of his wealth is unlawful, Aḥmad said: One should avoid it, unless it is something small, or something not identifiable. The scholars of our school hold two views on whether dealing with him is disliked or unlawful."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c28",
+     "pages": [
+      179
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وإنْ كان أكثرُ ماله الحلال، جازت معاملته والأكلُ من ماله.",
+         "en": "If most of his wealth is lawful, it is permissible to deal with him and to eat from his wealth."
+        },
+        {
+         "ar": "وقد روى الحارث عن عليِّ أنَّه قال في جوائز السلطان: لا بأس بها، ما يُعطيكم من الحلال أكثر مما يُعطيكم من الحرام.",
+         "en": "Al-Ḥārith narrated that ʿAlī said of the gifts of rulers: There is no harm in them; what he gives you from the lawful is more than what he gives you from the unlawful."
+        },
+        {
+         "ar": "وكان النبيُّ صلى الله عليه وسلم وأصحابه يُعاملون المشركين وأهلَ الكتاب مع علمهم بأنَّهم لا يجتنبون الحرامَ كلَّه.",
+         "en": "The Prophet ﷺ and his Companions used to deal with the polytheists and the People of the Book, knowing that they did not avoid everything unlawful."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c29",
+     "pages": [
+      179
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وإنْ اشتبه الأمر فهو شبهة، والورع تركُه.",
+         "en": "If the matter is unclear, it is a doubtful matter, and scrupulousness is to leave it."
+        },
+        {
+         "ar": "قال سفيان: لا يعجبني ذلك، وتركه أعجب إليَّ.",
+         "en": "Sufyān said: I do not like it; leaving it is dearer to me."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c30",
+     "pages": [
+      179
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الزُّهريُّ ومكحول: لا بأس أنْ يؤكل منه ما لم يعرف أنَّه حرامٌ بعينه، فإنْ لم يُعلم في ماله حرام بعينه، ولكنه علم أنَّ فيه شبهةً، فلا بأس بالأكل منه، نصَّ عليه أحمد في رواية حنبل.",
+         "en": "Al-Zuhrī and Makḥūl said: There is no harm in eating from it so long as one does not know that the thing itself is unlawful. If nothing in his wealth is known to be unlawful in itself, but one knows that there is something doubtful in it, there is no harm in eating from it; Aḥmad stated this explicitly in the narration of Ḥanbal."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c31",
+     "pages": [
+      179
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وذهب إسحاق بنُ راهويه إلى ما رُوي عن ابن مسعود وسلمانَ وغيرِهما منَ الرُّخصة، وإلى ما رُوي عَنِ الحسنِ وابنِ سيرين في إباحةِ الأخذ مما يقضي من الرِّبا والقمار، نقله عنه ابنُ منصور.",
+         "en": "Isḥāq ibn Rāhawayh adopted the concession narrated from Ibn Masʿūd, Salmān and others, and what is narrated from al-Ḥasan and Ibn Sīrīn permitting one to accept a debt repaid out of usury and gambling; Ibn Manṣūr transmitted this from him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c32",
+     "pages": [
+      179,
+      180
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الإمام أحمد في المال المشتبه حلاله بحرامه: إنْ كان المالُ كثيراً، أخرج منه قدرَ الحرام، وتصرَّف في الباقي، وإنْ كان المالُ قليلاً، اجتنبه كلَّه، وهذا لأنَّ القليل إذا تناول منه شيئاً،",
+         "en": "Imam Aḥmad said about wealth in which the lawful and the unlawful are mixed: If the wealth is large, one sets aside the amount that is unlawful and makes use of the rest; if it is small, one avoids all of it. This is because when one takes anything from a small amount,"
+        },
+        {
+         "ar": "فإنَّه تَبْعُدُ معه السلامةُ من الحرام بخلاف الكثير، ومن أصحابنا مَنْ حَمَل ذلك على الورع دُون التَّحريم،",
+         "en": "it is unlikely to be free of the unlawful, unlike a large amount. Some scholars of our school took this as a matter of scrupulousness rather than prohibition,"
+        },
+        {
+         "ar": "وأباح التصرُّف في القليل والكثير بعد إخراج قدر الحرام منه، وهو قولُ الحنفيَّة وغيرهم، وأخذ به قومٌ مِنْ أهل الورع منهم بشرٌ الحافي.",
+         "en": "and permitted making use of small and large amounts alike once the amount of the unlawful had been set aside. This is the view of the Ḥanafīs and others, and some of the people of scrupulousness followed it, among them Bishr al-Ḥāfī."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c33",
+     "pages": [
+      180
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ورخَّص قومٌ من السَّلف في الأكل ممن يعلم في ماله حرام ما لم يعلم أنّه من الحرام بعينه، كما تقدَّم عن مكحولٍ والزُّهريِّ.",
+         "en": "Some of the Salaf allowed eating with someone whose wealth is known to contain something unlawful, so long as one does not know that what one eats is itself from the unlawful, as was mentioned above from Makḥūl and al-Zuhrī."
+        },
+        {
+         "ar": "وروي مثلُه عن الفُضيل بن عياض.",
+         "en": "Something similar is narrated from al-Fuḍayl ibn ʿIyāḍ."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c34",
+     "pages": [
+      180
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروي في ذلك آثارٌ عن السَّلف، فصحَّ عن ابن مسعود أنَّه سُئِلَ عمَّن له جارٌ يأكلُ الرِّبا علانيةً ولا يتحرَّجُ من مالٍ خبيثٍ يأخُذُه يدعوه إلى طعامه، قال: أجيبوهُ، فإنَّما المَهْنأُ لكم والوِزْرُ عليه.",
+         "en": "There are reports on this from the Salaf. It is authentically reported that Ibn Masʿūd was asked about someone whose neighbour openly consumes usury and has no qualms about the foul money he takes, and who invites him to a meal. He said: Accept his invitation; the enjoyment is yours and the sin is his."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c35",
+     "pages": [
+      180
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي رواية أنَّه قال: لا أعلمُ له شيئاً إلاّ خبيثاً أو حراماً، فقال: أجيبوه.",
+         "en": "In one narration the man said: I know of nothing he has that is not foul or unlawful. He said: Accept his invitation."
+        },
+        {
+         "ar": "وقد صحح الإمام أحمد هذا عن ابن مسعود، ولكنَّه عارضه بما رُوي عنه أنَّه قال: الإثم حَوَازُّ القلوب.",
+         "en": "Imam Aḥmad held this to be authentic from Ibn Masʿūd, but set against it what is narrated from him that he said: Sin is what pricks at hearts."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c36",
+     "pages": [
+      180
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروي عن سلمان مثلُ قولِ ابنِ مسعود الأول، وعن سعيد بن جبير، والحسن البصري، ومُورِّق العِجلي، وإبراهيم النَّخعي، وابنِ سيرين وغيرهم،",
+         "en": "Something like Ibn Masʿūd's first statement is narrated from Salmān, and from Saʿīd ibn Jubayr, al-Ḥasan al-Baṣrī, Muwarriq al-ʿIjlī, Ibrāhīm al-Nakhaʿī, Ibn Sīrīn and others."
+        },
+        {
+         "ar": "والآثار بذلك موجودة في كتاب \" الأدب \" لحُمَيد بن زَنجويه، وبعضها في كتاب \" الجامع \" للخلال، وفي مصنفي عبد الرزاق وابن أبي شيبة وغيرهم.",
+         "en": "The reports on this are found in Kitāb al-Adab by Ḥumayd ibn Zanjawayh, some of them in al-Jāmiʿ by al-Khallāl, and in the Muṣannafs of ʿAbd al-Razzāq and Ibn Abī Shaybah, among others."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c37",
+     "pages": [
+      180,
+      181
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومتى علم أنَّ عينَ الشيء حرامٌ، أُخِذَ بوجه محرم، فإنَّه يحرم تناولُه، وقد حَكى الإجماعَ على ذلك ابنُ عبد البرِّ وغيرُه، وقد رُوي عن ابن سيرين في الرجل يُقضى من الربا، قال:",
+         "en": "Whenever it is known that the thing itself is unlawful, having been taken in a forbidden way, it is unlawful to take it; Ibn ʿAbd al-Barr and others reported a consensus on this. It is narrated that Ibn Sīrīn said of a man who is repaid out of usury:"
+        },
+        {
+         "ar": "لا بأس به، وعن الرجل يُقضى من القمار قال: لا بأس به، خرَّجه الخلال بإسناد صحيح، ورُوي عن الحسن خلاف هذا، وأنَّه قال: إنَّ هذه المكاسب قد فسدت، فخذوا منها شبه المضطَر.",
+         "en": "There is no harm in it; and of a man repaid out of gambling: There is no harm in it. Al-Khallāl recorded this with an authentic chain. The opposite is narrated from al-Ḥasan, who said: These earnings have become corrupt, so take from them only as one compelled by necessity would."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c38",
+     "pages": [
+      181
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعارض المروي عن ابن مسعود وسلمان، ما روي عن أبي بكر الصدِّيق أنَّه أكل طعاماً ثم أخبر أنَّه من حرام، فاستقاءه.",
+         "en": "Set against what is narrated from Ibn Masʿūd and Salmān is the report that Abū Bakr al-Ṣiddīq ate some food and was then told that it came from something unlawful, so he made himself vomit it up."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c39",
+     "pages": [
+      181
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد يقع الاشتباه في الحكم، لكون الفرع متردِّداً بين أصول تجتذبهُ، كتحريم الرجل زوجته، فإنَّ هذا متردِّدٌ بين تحريم الظِّهار الذي ترفعه الكفَّارةُ الكبرى، وبين تحريم الطَّلقة الواحدة بانقضاء عدتها الذي تُباحُ معه الزوجة بعقدٍ جديدٍ،",
+         "en": "Doubt about a ruling may also arise because a particular case hovers between several principles, each pulling it towards itself. An example is a man declaring his wife unlawful to him. This hovers between the unlawfulness of ẓihār, which is lifted by the greater expiation; the unlawfulness of a single divorce once her waiting period has ended, after which the wife becomes lawful through a new contract;"
+        },
+        {
+         "ar": "وبين تحريم الطَّلاق الثلاث الذي لا تُباح معه الزوجةُ بدون زوج وإصابة وبين تحريم الرجل عليه ما أحلَّه الله له مِنَ الطَّعام والشراب الذي لا يحرمه،",
+         "en": "the unlawfulness of a triple divorce, after which the wife does not become lawful without another husband who consummates the marriage; and a man's declaring unlawful for himself food or drink that Allah has made lawful for him, which does not make it unlawful"
+        },
+        {
+         "ar": "وإنَّما يُوجب الكفَّارة الصُّغرى، أو لا يُوجب شيئاً على الاختلاف في ذلك، فمن هاهنا كَثُرَ الاختلافُ في هذه المسألة في زمن الصحابة فمن بعدهم.",
+         "en": "but only requires the lesser expiation, or nothing at all, according to the differing views on this. That is why there was so much disagreement over this question in the time of the Companions and after them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c40",
+     "pages": [
+      181
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وبكل حال فالأمور المشتبهة التي لا تتبين أنَّها حلال ولا حرام لكثير من الناس، كما أخبر به النَّبيُّ صلى الله عليه وسلم، قد يتبيَّنُ لبعضِ النَّاس أنَّها حلال أو حرام،",
+         "en": "In any case, the doubtful matters that many people cannot tell to be lawful or unlawful, as the Prophet ﷺ said, may be clear to some people as lawful or unlawful,"
+        },
+        {
+         "ar": "لما عِنده مِنْ ذلك من مزيدِ علمٍ، وكلام النَّبيِّ صلى الله عليه وسلم يدلُّ على أنَّ هذه المشتبهات مِنَ النَّاسِ من يعلمُها، وكثيرٌ منهم لا يعلمها، فدخل فيمن لا يعلمها نوعان:",
+         "en": "because of the greater knowledge they have about them. The Prophet's words show that some people know these doubtful matters and many do not. Those who do not know them are of two kinds."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c41",
+     "pages": [
+      181
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدهما: من يتوقَّف فيها؛ لاشتباهها عليه.",
+         "en": "One suspends judgement on them, because they are unclear to him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c42",
+     "pages": [
+      181,
+      182
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثاني: من يعتقدُها على غيرِ ما هي عليه، ودل كلامُه على أنَّ غير هؤلاء يعلمها، ومرادُه أنَّه يعلمها على ما هي عليه في نفس الأمر من تحليل أو تحريم،",
+         "en": "The other believes them to be other than what they are. His words show that others besides these do know them; what he means is that they know them as they truly are in reality, whether lawful or unlawful."
+        },
+        {
+         "ar": "وهذا من أظهر الأدلة على أنَّ المصيبَ عند الله في مسائل الحلال والحرام المشتبهة المختلفِ فيها واحدٌ عند الله عز وجل،",
+         "en": "This is one of the clearest proofs that, in disputed and doubtful questions of the lawful and the unlawful, the one who is right is only one, in the sight of Allah, the Mighty and Majestic,"
+        },
+        {
+         "ar": "وغيره ليس بعالم بها، بمعنى أنَّه غيرُ مصيب لحكم الله فيها في نفس الأمر، وإنْ كان يعتقدُ فيها اعتقاداً يستندُ فيه إلى شبهة يظنُّها دليلاً، ويكون مأجوراً على اجتهاده، ومغفوراً له خطؤه لعدم اعتماده.",
+         "en": "and the others do not know them — in the sense that they have not hit upon Allah's ruling on them as it truly is — even if they hold a belief about them based on some ambiguity they take for evidence. Such a person is rewarded for his effort of judgement (ijtihād), and his error is forgiven, because it was not intended."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c43",
+     "pages": [
+      182
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله صلى الله عليه وسلم: «فمن اتَّقى الشُّبهاتِ، فقد استبرأ لدينه وعرضه، ومن وقَعَ في الشُّبُهَاتِ، وقع في الحرام» قسَّم الناس في الأمور المشتبهة إلى قسمين، وهذا إنَّما هو بالنسبة إلى من هي مشتبهة عليه،",
+         "en": "His words ﷺ, “So whoever guards against doubtful matters has kept his religion and his honour clear, and whoever falls into doubtful matters falls into the unlawful,” divide people into two categories with respect to doubtful matters. This applies only to those for whom they are doubtful,"
+        },
+        {
+         "ar": "وهو ممن لا يعلمها، فأمَّا مَنْ كان عالماً بها، واتَّبع ما دلَّه علمهُ عليها، فذلك قسمٌ ثالثٌ، لم يذكره لظهور حكمه، فإنَّ هذا القسم أفضلُ الأقسام الثلاثةِ؛",
+         "en": "who are among those who do not know them. Someone who knows them and follows where his knowledge leads him is a third category, which he did not mention because its ruling is evident. This category is the best of the three,"
+        },
+        {
+         "ar": "لأنَّه عَلِمَ حكمَ الله في هذه الأمور المشتبهة على النَّاس، واتَّبع علمَه في ذلك.",
+         "en": "because such a person knows Allah's ruling on these matters that are doubtful for people, and follows his knowledge in them."
+        },
+        {
+         "ar": "وأما من لم يعلم حكم الله فيها، فهم قسمان: أحدهما من يتقي هذه الشبهات؛",
+         "en": "Those who do not know Allah's ruling on them are of two kinds. One guards against these doubtful matters"
+        },
+        {
+         "ar": "لاشتباهها عليه، فهذا قد استبرأ لدينه وعرضه.",
+         "en": "because they are unclear to him; he has kept his religion and his honour clear."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c44",
+     "pages": [
+      182
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومعنى استبرأ: طلب البراءة لدينه وعرضه مِنَ النَّقْص والشَّين، والعرض: هو موضعُ المدح والذمِّ من الإنسان، وما يحصل له بذكره بالجميل مدحٌ،",
+         "en": "Istabraʾa (“has kept clear”) means that he sought to keep his religion and his honour clear (barāʾah) of deficiency and disgrace. A person's honour (ʿirḍ) is that in him which is the object of praise and blame: he gains praise by being spoken of well,"
+        },
+        {
+         "ar": "وبذكره بالقبيح قدحٌ، وقد يكون ذلك تارةً في نفس الإنسان، وتارةً في سلفه، أو في أهله، فمن اتَّقى الأمور المشتبهة واجتنبها،",
+         "en": "and disparagement by being spoken of ill. Sometimes this concerns the person himself, and sometimes his forebears or his family. Whoever guards against doubtful matters and avoids them"
+        },
+        {
+         "ar": "فقد حَصَّنَ عِرْضَهُ مِنَ القَدح والشَّين الداخل على من لا يجتنبها، وفي هذا دليل على أنَّ من ارتكب الشُّبهات،",
+         "en": "has fortified his honour against the disparagement and disgrace that befall those who do not avoid them. This shows that whoever commits doubtful things"
+        },
+        {
+         "ar": "فقد عرَّض نفسه للقدح فيه والطَّعن، كما قال بعض السَّلف: من عرَّض نفسه للتُّهم، فلا يلومنَّ من أساء به الظنَّ.",
+         "en": "has exposed himself to disparagement and reproach, as one of the Salaf said: Whoever exposes himself to suspicion should not blame anyone who thinks ill of him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c45",
+     "pages": [
+      182,
+      183
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي روايةٍ للترمذي في هذا الحديث: «فمن تركها استبراءً لدينه وعرضه، فقد سَلِمَ» والمعنى: أنَّه يتركُها بهذا القصد - وهو براءةُ دينه وعرضه من النقص - لا لغرضٍ آخر فاسدٍ من رياءٍ ونحوه.",
+         "en": "In a narration of this hadith by al-Tirmidhī: “Whoever leaves them to keep his religion and his honour clear is safe.” The meaning is that he leaves them with this aim — keeping his religion and honour clear of deficiency — and not for some other, corrupt purpose, such as showing off and the like."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c46",
+     "pages": [
+      183
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفيه دليلٌ على أنَّ طلب البراءة للعرض ممدوحٌ كطلب البراءة للدين، ولهذا ورد: «أنَّ ما وقى به المرءُ عِرضَه، فهو صدقةٌ».",
+         "en": "It also shows that seeking to keep one's honour clear is praiseworthy, just as seeking to keep one's religion clear is. That is why it has come “that whatever a person protects his honour with is charity.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c47",
+     "pages": [
+      183
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي رواية في \" الصحيحين \" في هذا الحديث: «فمن ترك ما يشتبه عليه مِنَ الإثمِ، كان لما استبانَ أتركَ» يعني: أنَّ من ترك الإثمَ مع اشتباهه عليه، وعدم تحققه،",
+         "en": "In a narration of this hadith in the two Ṣaḥīḥs: “Whoever leaves what he is unsure may be sin will be all the readier to leave what is clearly sin.” That is, whoever leaves a sin while he is unsure of it and not certain of it"
+        },
+        {
+         "ar": "فهو أولى بتركه إذا استبان له أنَّه إثمٌ، وهذا إذا كان تركه تحرُّزاً من الإثم، فأمَّا من يَقصِدُ التصنعَ للناسِ، فإنَّه لا يتركُ إلا ما يَظُنُّ أنَّه ممدوحٌ عندهم تركُهُ.",
+         "en": "will be all the more ready to leave it once it is clear to him that it is a sin. This is when he leaves it to guard against sin; as for someone whose aim is to put on a show for people, he leaves only what he thinks they will praise him for leaving."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c48",
+     "pages": [
+      183
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "القسم الثاني: من يقع في الشبهات مع كونها مشتبهةً عنده، فأمَّا مَنْ أتى شيئاً مما يظنُّه الناس شبهةً، لعلمه بأنَّه حلال في نفس الأمر، فلا حَرَج عليه من الله في ذلك،",
+         "en": "The second kind is someone who falls into doubtful matters while they are doubtful to him. As for someone who does something people consider doubtful because he knows it to be lawful in reality, there is no blame on him from Allah for that;"
+        },
+        {
+         "ar": "لكن إذا خشيَ من طعن الناس عليه بذلك، كان تركُها حينئذ استبراءً لعرضه، فيكون حسناً، وهذا كما قال النَّبيُّ صلى الله عليه وسلم لمن رآه واقفاً مع صفية: «إنَّها صفيَّةُ بنتُ حُيي».",
+         "en": "but if he fears people will reproach him for it, leaving it is then a way of keeping his honour clear, and so is good. This is like the words of the Prophet ﷺ to those who saw him standing with Ṣafiyyah: “She is Ṣafiyyah bint Ḥuyayy.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c49",
+     "pages": [
+      183
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرج أنس إلى الجمعة، فرأى الناسَ قد صلَّوا ورجعوا، فاستحيى، ودخل موضعاً لا يراهُ النَّاس فيه، وقال: «من لا يستحيي من الناس، لا يستحيي من الله».",
+         "en": "Anas went out to the Friday prayer and saw that the people had already prayed and were coming back. He felt ashamed and went into a place where people would not see him, and said: “Whoever is not ashamed before people is not ashamed before Allah.”"
+        },
+        {
+         "ar": "وخرّجه الطبراني مرفوعاً، ولا يصحُّ.",
+         "en": "Al-Ṭabarānī recorded it as marfūʿ (the Prophet's own words), but that is not authentic."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c50",
+     "pages": [
+      184
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وإنْ أتى ذلك لاعتقاده أنَّه حلال، إمَّا باجتهادٍ سائغٍ، أو تقليدٍ سائغٍ، وكان مخطئاً في اعتقاده، فحكمهُ حكمُ الذي قبلَه، فإنْ كان الاجتهادُ ضعيفاً، أو التقليدُ غيرَ سائغٍ،",
+         "en": "If he does it believing it to be lawful, through an admissible ijtihād or admissible following of a scholar (taqlīd), and is mistaken in his belief, he is judged like the one before him. But if the ijtihād is weak, or the following is inadmissible,"
+        },
+        {
+         "ar": "وإنَّما حمل عليه مجرّد اتباع الهوى، فحكمُهُ حكمُ من أتاه مع اشتباهه عليه، والذي يأتي الشبهات مع اشتباهها عليه، فقد أخبر عنه النَّبيُّ صلى الله عليه وسلم أنَّه وقع في الحرام، وهذا يفسر بمعنيين:",
+         "en": "and what led him to it was nothing but following his desires, he is judged like someone who does it while it is doubtful to him. And of someone who does doubtful things while they are doubtful to him, the Prophet ﷺ said that he falls into the unlawful. This is explained in two ways."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c51",
+     "pages": [
+      184
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدهما: أنَّه يكونُ ارتكابُهُ للشبهة مع اعتقاده أنَّها شبهة ذريعة إلى ارتكابه الحرام الذي يعتقد أنَّه حرام بالتدريج والتسامح.",
+         "en": "The first is that his committing what he believes to be doubtful becomes a means to his committing, by degrees and through laxity, what he believes to be unlawful."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c52",
+     "pages": [
+      184
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي رواية في \" الصحيحين \" لهذا الحديث: «ومن اجترأَ على ما يشكُّ فيه مِنَ الإثمِ، أوْشَكَ أنْ يُواقِعَ ما استبانَ».",
+         "en": "In a narration of this hadith in the two Ṣaḥīḥs: “Whoever dares to do what he doubts may be sin is about to fall into what is clearly sin.”"
+        },
+        {
+         "ar": "وفي رواية: «ومَنْ يُخالطِ الرِّيبةَ، يوشِكُ أن يَجْسُرَ»، أي: يَقرُب أنْ يقدم على الحرام المحضِ، والجسورُ: المقدام الذي لا يهابُ شيئاً، ولا يُراقب أحداً، ورواه بعضهم: «يجشُر» بالشِّين المعجمة، أي: يرتع، والجَشْر: الرعي، وجشرتُ الدابة: إذا رعيتها.",
+         "en": "In another narration: “Whoever mixes with what is dubious is about to grow bold (yajsur)” — that is, he is close to venturing upon the purely unlawful. Al-jasūr is the bold one who fears nothing and heeds no one. Some narrated it as yajshur, with the dotted shīn, meaning “to graze freely”: al-jashr is grazing, and one says jashartu al-dābbah when one has grazed an animal."
+        },
+        {
+         "ar": "وفي مراسيل أبي المتوكل الناجي، عنِ النَّبيِّ صلى الله عليه وسلم: «مَنْ يرعى بجنباتِ الحرامِ، يوشكُ أنْ يخالطهُ، ومن تهاون بالمحقِّرات، يُوشِكُ أنْ يُخالِطَ الكبائر».",
+         "en": "Among the mursal reports of Abū al-Mutawakkil al-Nājī, the Prophet ﷺ said: “Whoever grazes on the edges of the unlawful is about to mix with it, and whoever makes light of small sins is about to mix with major ones.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c53",
+     "pages": [
+      184
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والمعنى الثاني: أنَّ من أقدم على ما هو مشتبهٌ عنده، لا يدري: أهو حلالٌ أو حرام، فإنَّه لا يأمن أنْ يكون حراماً في نفس الأمر، فيُصادِفُ الحرام وهو لا يدري أنَّه حرامٌ.",
+         "en": "The second meaning is that whoever ventures on something doubtful to him, not knowing whether it is lawful or unlawful, cannot be sure that it is not unlawful in reality, and so he may come upon the unlawful without knowing that it is unlawful."
+        },
+        {
+         "ar": "وقد رُوي من حديث ابن عمر عنِ النَّبيِّ صلى الله عليه وسلم قال: «الحلالُ بيِّنٌ والحرامُ بيِّن وبينهما مُشتبهاتٌ، فمن اتَّقاها، كان أنزَه لدينِهِ وعِرضه،",
+         "en": "It is narrated, from the hadith of Ibn ʿUmar, that the Prophet ﷺ said: “The lawful is clear and the unlawful is clear, and between them are doubtful matters. Whoever guards against them keeps his religion and his honour purer,"
+        },
+        {
+         "ar": "ومن وقعَ في الشُّبهَاتِ أوشَكَ أنْ يقع في الحَرامِ، كالمرتع حَولَ الحِمى، يُوشِكُ أنْ يُواقعَ الحِمى وهو لا يشعر» خرَّجه الطبراني وغيره.",
+         "en": "and whoever falls into doubtful matters is about to fall into the unlawful, like one who grazes around a sanctuary, about to stray into the sanctuary without realising.” Al-Ṭabarānī and others recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c54",
+     "pages": [
+      185
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "واختلف العلماء: هل يُطيع والديه في الدُّخول في شيءٍ من الشُّبهة أم لا يُطيعهما؟",
+         "en": "Scholars have differed over whether one should obey one's parents in taking up something doubtful, or not."
+        },
+        {
+         "ar": "فرُوي عن بشر بن الحارث، قال: لا طاعة لهما في الشُّبهةِ، وعن محمد ابن مقاتل العبَّادانيِّ قال: يُطيعهما، وتوقف أحمد في هذه المسألة، وقال: يُداريهما، وأبى أنْ يُجيبَ فيها.",
+         "en": "It is narrated that Bishr ibn al-Ḥārith said: They are not to be obeyed in what is doubtful; and that Muḥammad ibn Muqātil al-ʿAbbādānī said: He should obey them. Aḥmad suspended judgement on this question, saying: He should humour them; and he declined to give an answer."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c55",
+     "pages": [
+      185
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أحمد: لا يشبعُ الرَّجل مِنَ الشُّبهة، ولا يشتري الثوبَ للتَّجمُّل من الشُّبهة، وتوقف في حدِّ ما يُؤكل وما يُلبس منها، وقال في التَّمرة يلقيها الطيرُ: لا يأكلها، ولا يأخذها، ولا يتعرَّضُ لها.",
+         "en": "Aḥmad said: A man should not eat his fill of doubtful food, nor buy a garment for adornment with doubtful money. He suspended judgement on how much of it may be eaten and worn. About a date dropped by a bird he said: He should not eat it, nor take it, nor have anything to do with it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c56",
+     "pages": [
+      185
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الثوري في الرجل يجد في بيته الأفلُسَ أو الدَّراهِم: أحبُّ إليَّ أنْ يتنزَّه عنها، يعني: إذا لم يدرِ من أين هي.",
+         "en": "Al-Thawrī said about a man who finds small coins or dirhams in his house: I would prefer him to keep away from them — meaning when he does not know where they came from."
+        },
+        {
+         "ar": "وكان بعضُ السَّلف لا يأكلُ إلا شيئاً يعلمُ من أينَ هو، ويسأل عنه حتّى يقفَ على أصله.",
+         "en": "Some of the Salaf would eat only what they knew the source of, and would ask about it until they had traced it to its origin."
+        },
+        {
+         "ar": "وقد رُويَ في ذلك حديثٌ مرفوعٌ، إلا أنَّ فيه ضعفاً.",
+         "en": "A marfūʿ hadith has been narrated on this, but there is some weakness in it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c57",
+     "pages": [
+      185
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله صلى الله عليه وسلم: «كالرَّاعي يرعى حولَ الحِمى يُوشِكُ أنْ يرتَعَ فيه، ألا وإنَّ لكلِّ ملكٍ حِمى، وإنَّ حِمى اللهِ محارمه»:",
+         "en": "His words ﷺ, “like the shepherd who grazes around a sanctuary, about to graze within it. Indeed, every king has a sanctuary, and Allah's sanctuary is what He has made unlawful”:"
+        },
+        {
+         "ar": "هذا مَثَلٌ ضربه النَّبيُّ صلى الله عليه وسلم لمن وقع في الشُّبهات، وأنَّه يقرُب وقوعه في الحرام المحض، وفي بعض الروايات أنَّ النبيَّ صلى الله عليه وسلم قال :",
+         "en": "this is a parable the Prophet ﷺ struck for whoever falls into doubtful matters, showing that he is close to falling into the purely unlawful. In some narrations the Prophet ﷺ said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c58",
+     "pages": [
+      185,
+      186
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«وسأضرب لذلك مثلاً»، ثم ذكر هذا الكلامَ، فجعل النَّبيُّ صلى الله عليه وسلم مثلَ المحرمات كالحِمى الذي تحميه الملوكُ، ويمنعون غيرهم من قُربانه،",
+         "en": "“And I shall strike a parable for that,” and then said these words. So the Prophet ﷺ likened the forbidden things to a sanctuary (ḥimā) that kings protect, forbidding others to approach it."
+        },
+        {
+         "ar": "وقد جعل النَّبيُّ صلى الله عليه وسلم حول مدينته اثني عشر ميلاً حمى محرَّماً لا يُقطعُ شجرُه ولا يُصادُ صيدُه، وحمى عمرُ وعثمان أماكنَ ينبت فيها الكلأ لأجل إبل الصدقة.",
+         "en": "The Prophet ﷺ made twelve miles around his city a forbidden sanctuary, whose trees may not be cut and whose game may not be hunted; and ʿUmar and ʿUthmān set aside as sanctuaries places where pasture grew, for the camels of zakāh."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c59",
+     "pages": [
+      186
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والله عز وجل حمى هذه المحرَّمات، ومنع عباده من قربانها وسمَّاها حدودَه، فقال:",
+         "en": "Allah, the Mighty and Majestic, has made these forbidden things His sanctuary, forbidding His servants to approach them, and has called them His limits, saying:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c60",
+     "pages": [
+      186
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "{تِلْكَ حُدُودُ اللهِ فَلا تَقْرَبُوهَا كَذَلِكَ يُبَيِّنُ اللهُ آيَاتِهِ لِلنَّاسِ لَعَلَّهُمْ يَتَّقُونَ}، وهذا فيه بيان أنَّه حدَّ لهم ما أحلَّ لهم وما حرَّم عليهم،",
+         "en": "“Those are the limits of Allah, so do not approach them. Thus Allah makes His verses clear to people, that they may be mindful of Him” [al-Baqarah 2:187]. This makes clear that He has marked the bounds for them of what He made lawful for them and what He made unlawful for them,"
+        },
+        {
+         "ar": "فلا يقربوا الحرامَ، ولا يتعدَّوا الحلال، ولذلك قال في آية أخرى: {تِلْكَ حُدُودُ اللهِ فَلا تَعْتَدُوهَا وَمَنْ يَتَعَدَّ حُدُودَ اللهِ فَأُولَئِكَ هُمُ الظَّالِمُونَ}،",
+         "en": "so that they should neither approach the unlawful nor go beyond the lawful. That is why He said in another verse: “Those are the limits of Allah, so do not transgress them; whoever transgresses the limits of Allah — it is they who are the wrongdoers” [al-Baqarah 2:229]."
+        },
+        {
+         "ar": "وجعل من يرعى حول الحمى، أو قريباً منه جديراً بأنْ يدخُلَ الحِمى ويرتع فيه، فكذلك من تعدَّى الحلال، ووقع في الشبهات، فإنَّه قد قارب الحرام غايةَ المقاربة،",
+         "en": "The Prophet ﷺ made the one who grazes around the sanctuary, or near it, likely to enter the sanctuary and graze in it. So too whoever goes beyond the lawful and falls into doubtful matters has come as near as can be to the unlawful,"
+        },
+        {
+         "ar": "فما أخلقَهُ بأنْ يُخالِطَ الحرامَ المحضَ، ويقع فيه، وفي هذا إشارةٌ إلى أنَّه ينبغي التباعد عن المحرَّماتِ، وأنْ يجعل الإنسان بينه وبينها حاجزاً.",
+         "en": "and how likely he is to mix with the purely unlawful and fall into it! This indicates that one should keep far away from forbidden things and put a barrier between oneself and them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c61",
+     "pages": [
+      187
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد خرّج الترمذي وابن ماجه مِنْ حديثِ عبد الله بن يزيد، عن النَّبيِّ صلى الله عليه وسلم، قال: «لا يبلغُ العبدُ أنْ يكونَ من المتَّقين حَتّى يَدَعَ ما لا بأسَ به حذراً مما به بأسٌ».",
+         "en": "Al-Tirmidhī and Ibn Mājah recorded from the hadith of ʿAbdullāh ibn Yazīd that the Prophet ﷺ said: “The servant does not reach the rank of the God-fearing until he leaves what is harmless for fear of what is harmful.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c62",
+     "pages": [
+      187
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أبو الدرداء: تمامُ التقوى أنْ يتقي الله العبدُ، حتّى يتقيَه مِنْ مثقال ذرَّة، وحتّى يتركَ بعضَ ما يرى أنَّه حلال، خشيةَ أنْ يكون حراماً، حجاباً بينه وبينَ الحرام.",
+         "en": "Abū al-Dardāʾ said: The completeness of taqwā is that the servant be mindful of Allah even in the weight of a speck of dust, and that he leave some of what he considers lawful for fear that it may be unlawful, as a screen between himself and the unlawful."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c63",
+     "pages": [
+      187
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الحسنُ: مازالتِ التقوى بالمتقين حتى تركوا كثيراً من الحلال مخافة الحرام.",
+         "en": "Al-Ḥasan said: Taqwā kept working on the God-fearing until they left much of the lawful for fear of the unlawful."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c64",
+     "pages": [
+      187
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الثوري: إنما سُموا المتقين؛",
+         "en": "Al-Thawrī said: They were called the God-fearing (al-muttaqūn) only"
+        },
+        {
+         "ar": "لأنَّهم اتَّقَوْا مالا يُتَّقى.",
+         "en": "because they guarded against what is not usually guarded against."
+        },
+        {
+         "ar": "وروي عن ابن عمر قال: إنِّي لأحبُّ أنْ أدعَ بيني وبين الحرام سترةً من الحلال لا أخرقها.",
+         "en": "It is narrated that Ibn ʿUmar said: I love to leave between myself and the unlawful a screen of the lawful that I do not tear."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c65",
+     "pages": [
+      187
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال ميمون بن مهران: لا يسلم للرجل الحلالُ حتى يجعل بينه وبين الحرام حاجزاً من الحلال.",
+         "en": "Maymūn ibn Mihrān said: The lawful is not safe for a man until he puts a barrier of the lawful between himself and the unlawful."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c66",
+     "pages": [
+      187
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال سفيان بن عيينة: لا يصيب عبدٌ حقيقة الإيمان حتى يجعل بينه وبينَ الحرام حاجزاً من الحلال، وحتى يدعَ الإثم وما تشابه منه.",
+         "en": "Sufyān ibn ʿUyaynah said: A servant does not attain the reality of faith until he puts a barrier of the lawful between himself and the unlawful, and until he leaves sin and whatever resembles it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c67",
+     "pages": [
+      187,
+      188
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويستدلُّ بهذا الحديثِ مَنْ يذهب إلى سدِّ الذرائع إلى المحرَّمات وتحريم الوسائل إليها، ويَدُلُّ على ذلك أيضاً من قواعدِ الشَّريعة تحريمُ قليلِ ما يُسكر كثيرُه،",
+         "en": "Those who hold that the means to forbidden things must be blocked (sadd al-dharāʾiʿ), and the ways to them prohibited, cite this hadith as evidence. The same is shown by principles of the Sharīʿah such as the prohibition of a small amount of whatever intoxicates in large amounts,"
+        },
+        {
+         "ar": "وتحريمُ الخلوة بالأجنبية، وتحريمُ الصَّلاة بعد الصُّبح وبعدَ العصرِ سدَّاً لذريعة الصَّلاة عند طُلوع الشَّمس وعندَ غروبها،",
+         "en": "the prohibition of being alone with a woman who is not one's maḥram, and the prohibition of prayer after the dawn prayer and after ʿaṣr, to block the way to praying at sunrise and sunset;"
+        },
+        {
+         "ar": "ومنعُ الصَّائم من المباشرة إذا كانت تحرِّكُ شهوتَه، ومنع كثيرٍ من العلماءِ مباشرةَ الحائضِ فيما بين سرّتها ورُكبتها إلا مِنْ وراء حائلٍ،",
+         "en": "forbidding the fasting person intimate contact if it arouses his desire; and the forbidding, by many scholars, of intimate contact with a menstruating woman between her navel and her knees except over a barrier,"
+        },
+        {
+         "ar": "كما كان النَّبيُّ صلى الله عليه وسلم يأمر امرأتَه إذا كانت حائضاً أنْ تَتَّزر، فيباشِرُها مِنْ فوق الإزار.",
+         "en": "just as the Prophet ﷺ used to tell his wife, when she was menstruating, to put on a waist-wrap, and would then be intimate with her above the wrap."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c68",
+     "pages": [
+      188
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن أمثلة ذلك وهو شبيه بالمثل الذي ضربه النَّبيُّ صلى الله عليه وسلم: من سيَّب دابَّته ترعى بقُرْب زرع غيرِه، فإنَّه ضامن لما أفسدته من الزرع، ولو كان ذلك نهاراً، هذا هو الصحيح؛",
+         "en": "One example of this, which resembles the parable the Prophet ﷺ struck, is someone who lets his animal loose to graze near another person's crops: he is liable for whatever crops it damages, even in the daytime. This is the correct view,"
+        },
+        {
+         "ar": "لأنَّه مُفَرِّطٌ بإرسالها في هذه الحال.",
+         "en": "because he has been negligent in letting it loose in such circumstances."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c69",
+     "pages": [
+      189
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكذا الخلاف لو أرسل كلبَ الصَّيدِ قريباً من الحرم، فدخل الحرمَ فصاد فيه، ففي ضمانه روايتان عن أحمد، وقيل: يضمنه بكلِّ حال.",
+         "en": "The same disagreement arises if someone sends a hunting dog out close to the Sanctuary of Makkah and it enters the Sanctuary and catches game there: there are two reported positions from Aḥmad on whether he is liable for it, and it has been said that he is liable in every case."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c70",
+     "pages": [
+      189
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله صلى الله عليه وسلم: «ألا وإنَّ في الجسد مضغةً، إذا صَلَحَتْ، صَلَحَ الجسدُ كلُّه، وإذا فسدت فسد الجسدُ كلُّه،",
+         "en": "His words ﷺ, “Indeed, in the body there is a morsel of flesh: if it is sound, the whole body is sound, and if it is corrupt, the whole body is corrupt."
+        },
+        {
+         "ar": "ألا وهي القلب»، فيه إشارةٌ إلى أنَّ صلاحَ حركاتِ العبدِ بجوارحه، واجتنابه للمحرَّمات واتَّقاءه للشُّبهات بحسب صلاحِ حركةِ قلبِه.",
+         "en": "Indeed, it is the heart,” indicate that the soundness of the servant's movements with his limbs, his avoidance of forbidden things and his guarding against doubtful ones depend on the soundness of the movement of his heart."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c71",
+     "pages": [
+      189
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فإنْ كان قلبُه سليماً، ليس فيه إلا محبة الله ومحبة ما يُحبه الله، وخشية الله وخشية الوقوع فيما يكرهه، صلحت حركاتُ الجوارح كلّها، ونشأ عن ذلك اجتناب المحرَّمات كلها، وتوقي للشبهات حذراً مِنَ الوقوعِ في المحرَّمات.",
+         "en": "If his heart is sound, with nothing in it but love of Allah and love of what Allah loves, and fear of Allah and fear of falling into what He dislikes, then all the movements of the limbs are sound; and from that arise the avoidance of all forbidden things and guarding against doubtful matters for fear of falling into forbidden ones."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c72",
+     "pages": [
+      189
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وإنْ كان القلبُ فاسداً، قدِ استولى عليه اتِّباعُ هواه، وطلب ما يحبُّه، ولو كرهه الله، فسدت حركاتُ الجوارح كلها، وانبعثت إلى كلِّ المعاصي والمشتبهات بحسب اتِّباع هوى القلب.",
+         "en": "If the heart is corrupt, overpowered by following its desires and pursuing what it loves even if Allah hates it, then all the movements of the limbs are corrupt, and they are driven to every sin and every doubtful thing, as far as the heart follows its desires."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c73",
+     "pages": [
+      189,
+      190
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولهذا يقال: القلبُ مَلِكُ الأعضاء، وبقيَّةُ الأعضاءِ جنودُه، وهم مع هذا جنودٌ طائعون له، منبعثون في طاعته، وتنفيذ أوامره، لا يخالفونه في شيءٍ من ذلك،",
+         "en": "That is why it is said: The heart is the king of the limbs, and the rest of the limbs are its soldiers. They are, moreover, obedient soldiers, moving to obey it and carry out its commands and never opposing it in any of this."
+        },
+        {
+         "ar": "فإنْ كان الملكُ صالحاً كانت هذه الجنود صالحةً، وإنْ كان فاسداً كانت جنودُه بهذه المثابَةِ فاسدةً، ولا ينفع عند الله إلاّ القلبُ السليم، كما قال تعالى:",
+         "en": "If the king is sound, these soldiers are sound; and if he is corrupt, his soldiers are, by the same token, corrupt. Nothing benefits with Allah except a sound heart, as the Exalted said:"
+        },
+        {
+         "ar": "{يَوْمَ لا يَنْفَعُ مَالٌ وَلا بَنُونَ إِلا مَنْ أَتَى اللهَ بِقَلْبٍ سَلِيمٍ}، وكان النَّبيُّ صلى الله عليه وسلم يقول في دعائه: «اللهم إني أسألُكَ قلباً سليماً»،",
+         "en": "“The Day when neither wealth nor sons will benefit, except one who comes to Allah with a sound heart” [al-Shuʿarāʾ 26:88–89]. The Prophet ﷺ used to say in his supplication: “O Allah, I ask You for a sound heart.”"
+        },
+        {
+         "ar": "فالقلب السليم: هو السالم من الآفات والمكروهات كلِّها، وهو القلبُ الذي ليس فيه سوى محبة الله وما يحبُّه الله، وخشية الله، وخشية ما يُباعد منه.",
+         "en": "The sound heart is the one that is free of every blemish and everything disliked: the heart in which there is nothing but love of Allah and of what Allah loves, fear of Allah, and fear of whatever would take it far from Him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c74",
+     "pages": [
+      190
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" مسند الإمام أحمد \" عن أنس، عن النَّبيِّ صلى الله عليه وسلم، قال: «لا يستقيمُ إيمانُ عبدٍ حتى يستقيمَ قلبُه».",
+         "en": "In the Musnad of Imam Aḥmad, from Anas, the Prophet ﷺ said: “A servant's faith will not be upright until his heart is upright.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c75",
+     "pages": [
+      190
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والمراد باستقامة إيمانه: استقامةُ أعمال جوارحه، فإنَّ أعمالَ الجوارحِ لا تستقيمُ إلا باستقامة القلب، ومعنى استقامة القلب: أنْ يكونَ ممتلئاً مِنْ محبَّةِ الله، ومحبَّة طاعته، وكراهة معصيته.",
+         "en": "What is meant by the uprightness of his faith is the uprightness of the deeds of his limbs, for the deeds of the limbs are upright only when the heart is upright. The heart's uprightness means its being filled with love of Allah, love of obeying Him and hatred of disobeying Him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c76",
+     "pages": [
+      190
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الحسن لرجل: داوِ قلبكَ؛",
+         "en": "Al-Ḥasan said to a man: Treat your heart,"
+        },
+        {
+         "ar": "فإنَّ حاجة الله إلى العباد صلاحُ قلوبهم، يعني: أنَّ مراده منهم ومطلوبه صلاحُ قلوبهم،",
+         "en": "for what Allah needs from His servants is the soundness of their hearts — meaning that what He wants and seeks from them is the soundness of their hearts."
+        },
+        {
+         "ar": "فلا صلاحَ للقلوب حتَّى تستقرَّ فيها معرفةُ اللهِ وعظمتُه ومحبَّتُه وخشيتُهُ ومهابتُه ورجاؤهُ والتوكلُ عليهِ، وتمتلئَ مِنْ ذَلِكَ، وهذا هوَ حقيقةُ التوحيد، وهو معنى «لا إله إلا الله»،",
+         "en": "There is no soundness for hearts until knowledge of Allah, His greatness, love of Him, fear of Him, awe of Him, hope in Him and reliance on Him are settled in them and fill them. This is the reality of tawḥīd, and it is the meaning of “There is no god but Allah”."
+        },
+        {
+         "ar": "فلا صلاحَ للقلوب حتَّى يكونَ إلهُها الذي تألَهُه وتعرفه وتحبُّه وتخشاه هوَ الله وحده لا شريكَ لهُ،",
+         "en": "There is no soundness for hearts until their god — the one they adore, know, love and fear — is Allah alone, without partner."
+        },
+        {
+         "ar": "ولو كانَ في السماوات والأرض إله يُؤَلَّه سوى الله، لفسدت بذلك السماوات والأرض، كما قالَ تعالى: {لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلا اللهُ لَفَسَدَتَا}.",
+         "en": "If there were in the heavens and the earth any god adored besides Allah, the heavens and the earth would be ruined by it, as the Exalted said: “Had there been in them any gods besides Allah, they would both have been ruined” [al-Anbiyāʾ 21:22]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c77",
+     "pages": [
+      191
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فعلم بذلك أنَّه لا صلاحَ للعالَم العلويِ والسُّفليّ معاً حتى تكونَ حركاتُ أهلها كلُّها لله، وحركاتُ الجسدِ تابعةً لحركةِ القلب وإرادته، فإنْ كانت حركتُه وإرادتُه لله وحدَه،",
+         "en": "From this it is known that there is no soundness for the upper and the lower world together until all the movements of their inhabitants are for Allah. The movements of the body follow the movement and will of the heart: if its movement and will are for Allah alone,"
+        },
+        {
+         "ar": "فقد صَلَحَ وصَلَحَتْ حركاتُ الجسدِ كلِّه، وإنْ كانت حركةُ القلب وإراداته لغيرِ الله تعالى فسدَ، وفسدت حركاتُ الجسد بحسب فسادِ حركة القلب.",
+         "en": "it is sound, and the movements of the whole body are sound; if the movement and will of the heart are for other than Allah the Exalted, it is corrupt, and the movements of the body are corrupt in proportion to the corruption of the heart's movement."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c78",
+     "pages": [
+      191
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى الليثُ، عن مجاهدٍ في قوله تعالى: {لا تُشْرِكوا به شيئاً} قال: لا تحبُّوا غيري.",
+         "en": "Al-Layth narrated from Mujāhid concerning His words, the Exalted, “Do not associate anything with Him”: he said, Do not love anything besides Me."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c79",
+     "pages": [
+      191
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح الحاكم \" عن عائشة، عن النَّبيِّ صلى الله عليه وسلم قال: «الشِّركُ أخفى من دبيب الذرِّ على الصفا في اللَّيلة الظَّلماء،",
+         "en": "In Ṣaḥīḥ al-Ḥākim, from ʿĀʾishah, the Prophet ﷺ said: “Shirk is more hidden than the creeping of small ants on a smooth rock on a dark night,"
+        },
+        {
+         "ar": "وأدناهُ أنْ تُحِبَّ على شيءٍ من الجور، وأنْ تُبغض على شيءٍ من العدل، وهل الدِّينُ إلا الحبُّ والبغض؟",
+         "en": "and the least of it is that you love for the sake of something unjust, or hate for the sake of something just. Is religion anything but love and hate?"
+        },
+        {
+         "ar": "قال الله عز وجل : {قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللهَ فَاتَّبِعُونِي يُحْبِبْكُمُ الله}» فهذا يدلُّ على أنَّ محبةَ ما يكرهه الله، وبغضَ ما يُحبه متابعةٌ للهوى، والموالاة على ذلك والمعاداة عليه من الشرك الخفيِّ،",
+         "en": "Allah, the Mighty and Majestic, said: ‘Say: If you love Allah, then follow me; Allah will love you’ [Āl ʿImrān 3:31].” This shows that loving what Allah hates and hating what He loves is following one's desires, and that taking friends and enemies on that basis is part of hidden shirk."
+        },
+        {
+         "ar": "ويدل على ذلك قوله: {قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللهَ فَاتَّبِعُونِي يُحْبِبْكُمُ الله} فجعل الله علامة الصدق في محبته اتباعَ رسولِهِ، فدلَّ على أنَّ المحبة لا تتمُّ بدون الطاعة والموافقة.",
+         "en": "This is shown by His words: “Say: If you love Allah, then follow me; Allah will love you.” Allah made following His Messenger the sign of sincerity in loving Him, which shows that love is not complete without obedience and conformity."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c80",
+     "pages": [
+      191
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال الحسن: قال أصحابُ النَّبيِّ صلى الله عليه وسلم: يا رسول الله، إنّا نُحِبُّ ربنا حباً شديداً.",
+         "en": "Al-Ḥasan said: The Companions of the Prophet ﷺ said: O Messenger of Allah, we love our Lord intensely."
+        },
+        {
+         "ar": "فأحبَّ الله أنْ يجعل لحبه عَلَماً، فأنزل الله هذه الآية: {قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللهَ فَاتَّبِعُونِي يُحْبِبْكُمُ الله}.",
+         "en": "So Allah wished to set a sign for love of Him, and Allah sent down this verse: “Say: If you love Allah, then follow me; Allah will love you.”"
+        },
+        {
+         "ar": "ومن هنا قال الحسن: اعلم أنَّك لن تُحِبَّ الله حتى تُحِبَّ طاعته.",
+         "en": "It was from this that al-Ḥasan said: Know that you will not love Allah until you love obeying Him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c81",
+     "pages": [
+      191,
+      192
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وسئل ذو النون: متى أُحِبُّ ربي؟",
+         "en": "Dhū al-Nūn was asked: When shall I love my Lord?"
+        },
+        {
+         "ar": "قالَ: إذا كانَ ما يُبغضه عندك أمرَّ من الصبر (1).",
+         "en": "He said: When what He hates is more bitter to you than aloes."
+        },
+        {
+         "ar": "وقال بشر بن السَّرِي: ليس من أعلام الحبِّ أنْ تُحبَّ ما يُبغِضُه حبِيبك.",
+         "en": "Bishr ibn al-Sarī said: It is not one of the signs of love that you love what your beloved hates."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c82",
+     "pages": [
+      192
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أبو يعقوب النهرجوري: كلُّ من ادَّعى محبة الله عز وجل، ولم يُوافق الله في أمره ونهيه، فدعواه باطل.",
+         "en": "Abū Yaʿqūb al-Nahrajūrī said: Everyone who claims to love Allah, the Mighty and Majestic, but does not conform to Allah in His commands and prohibitions makes a false claim."
+        },
+        {
+         "ar": "وقال رُويم: المحبة الموافقة في كلِّ الأحوال، وقال يحيى بنُ معاذ: ليس بصادقٍ من ادَّعى محبة الله ولم يحفظ حدوده، وعن بعض السَّلف قال:",
+         "en": "Ruwaym said: Love is conformity in every state. Yaḥyā ibn Muʿādh said: Whoever claims to love Allah but does not keep His limits is not sincere. One of the Salaf said:"
+        },
+        {
+         "ar": "قرأتُ في بعض الكتب السالفة: من أحبَّ الله لم يكن عنده شيء آثرَ من رضاه، ومن أحبَّ الدنيا لم يكن عنده شيء آثر من هوى نفسه.",
+         "en": "I read in one of the earlier scriptures: Whoever loves Allah holds nothing dearer than His pleasure, and whoever loves this world holds nothing dearer than his own desires."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c83",
+     "pages": [
+      192
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" السنن \" عن النَّبيِّ صلى الله عليه وسلم قال: «مَنْ أعطى للهِ، ومنع لله، وأحب لله، وأبغض لله،",
+         "en": "In the Sunan, the Prophet ﷺ said: “Whoever gives for Allah, withholds for Allah, loves for Allah and hates for Allah"
+        },
+        {
+         "ar": "فقد استكمل الإيمان» ومعنى هذا أنَّ حركات القلب والجوارح إذا كانت كلُّها لله فقد كَمُلَ إيمانُ العبد بذلك ظاهراً وباطناً،",
+         "en": "has perfected faith.” This means that when the movements of the heart and the limbs are all for Allah, the servant's faith is thereby perfected, outwardly and inwardly."
+        },
+        {
+         "ar": "ويلزمُ من صلاح حركات القلب صلاحُ حركات الجوارح، فإذا كان القلب صالحاً ليس فيه إلا إرادة الله وإرادة ما يريده لم تنبعثِ الجوارحُ إلا فيما يُريده الله،",
+         "en": "The soundness of the heart's movements entails the soundness of the movements of the limbs. When the heart is sound, with nothing in it but seeking Allah and seeking what He wants, the limbs are moved only towards what Allah wants:"
+        },
+        {
+         "ar": "فسارعت إلى ما فيه رضاه، وكَفَّتْ عما يكرهه، وعما يخشى أنْ يكونَ مما يكرهه وإنْ لم يتيقن ذلك.",
+         "en": "they hasten to what pleases Him, and hold back from what He dislikes and from whatever they fear may be among the things He dislikes, even if they are not certain of it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c84",
+     "pages": [
+      192
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال الحسن: ما نظرتُ ببصري، ولا نطقتُ بلساني، ولا بطشتُ بيدي، ولا نهضتُ على قدمي حتّى أنظر على طاعةٍ أو على معصية، فإنْ كانت طاعةٌ تقدمت، وإنْ كانت معصية تأخَّرت.",
+         "en": "Al-Ḥasan said: I never looked with my eyes, spoke with my tongue, struck with my hand or rose on my feet until I had considered whether it was obedience or disobedience: if it was obedience, I went forward; if it was disobedience, I held back."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c85",
+     "pages": [
+      192
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال محمد بن الفضل البَلخي: ما خطوتُ منذ أربعين سنة خطوةً لغير الله عز وجل.",
+         "en": "Muḥammad ibn al-Faḍl al-Balkhī said: For forty years I have not taken a single step for anyone other than Allah, the Mighty and Majestic."
+        },
+        {
+         "ar": "وقيل لداود الطائي: لو تنحيتَ من الظلِّ إلى الشمس، فقال: هذه خُطا لا أدري كيف تكتب.",
+         "en": "Dāwūd al-Ṭāʾī was told: Why not move out of the shade into the sun? He said: Those are steps, and I do not know how they would be recorded."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h06.c86",
+     "pages": [
+      192
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فهؤلاء القوم لما صلحت قلوبُهم، فلم يبق فيها إرادةٌ لغير الله عز وجل، صلحت جوارحُهم، فلم تتحرّك إلا لله عز وجل، وبما فيه رضاه، والله تعالى أعلم.",
+         "en": "When these people's hearts became sound, with no will left in them for anything other than Allah, the Mighty and Majestic, their limbs became sound and moved only for Allah, the Mighty and Majestic, and in what pleases Him. And Allah the Exalted knows best."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}

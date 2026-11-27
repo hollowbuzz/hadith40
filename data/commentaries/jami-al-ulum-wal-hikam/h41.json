@@ -1,0 +1,719 @@
+{
+ "id": "h41",
+ "number": 41,
+ "standard_number": 41,
+ "collection": "nawawi",
+ "heading": {
+  "ar": "الحديث الحادي والأربعون",
+  "en": "Hadith 41"
+ },
+ "title": {
+  "ar": "اتباع الهوى للشرع",
+  "en": "Desires Following the Revelation"
+ },
+ "pages": {
+  "start": 824,
+  "end": 829
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.n1",
+     "pages": [
+      824
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنْ عبدِ الله بن عَمرو بنِ العاص رضي الله عنهما، قال: قالَ رسولُ الله صلى الله عليه وسلم:",
+         "en": "From ʿAbdullāh ibn ʿAmr ibn al-ʿĀṣ (may Allah be pleased with them both), who said: The Messenger of Allah ﷺ said:"
+        },
+        {
+         "ar": "«لا يُؤمِنُ أَحدُكُم حتّى يكونَ هَواهُ تَبَعاً لِما جِئتُ بِهِ» قال الشيخ رحمه الله: حديثٌ حَسَنٌ صَحيحٌ، رَويناهُ في كِتابِ \" الحُجَّة \" بإسنادٍ صحيح!.",
+         "en": "“None of you believes until his desire follows what I have brought.” The Shaykh (may Allah have mercy on him) said: A good and authentic (ḥasan ṣaḥīḥ) hadith; we have narrated it in the book al-Ḥujjah with an authentic chain."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c1",
+     "pages": [
+      824
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "يريد بصاحب كتاب \" الحجة \" الشيخ أبا الفتح نصر بن إبراهيم المقدسي الشافعي الفقيه الزاهد نزيل دمشق، وكتابه هذا هو كتاب \" الحجة على تارك المحجة \" يتضمن ذكرَ أصولِ الدين على قواعدِ أهل الحديث والسُّنة.",
+         "en": "By the author of the book al-Ḥujjah he means Shaykh Abū al-Fatḥ Naṣr ibn Ibrāhīm al-Maqdisī al-Shāfiʿī, the jurist and ascetic who settled in Damascus. This book of his is al-Ḥujjah ʿalā Tārik al-Maḥajjah (“The Proof against One Who Abandons the Clear Path”), which sets out the foundations of the religion according to the principles of the people of hadith and the Sunnah."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c2",
+     "pages": [
+      824
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد خرَّج هذا الحديث الحافظ أبو نعيم في كتاب \" الأربعين \" وشرط في أوَّلها أنْ تكونَ من صحاح الأخبار وجياد الآثار مما أجمع الناقلون على عدالة ناقليه،",
+         "en": "The ḥāfiẓ Abū Nuʿaym recorded this hadith in his book al-Arbaʿīn, having stipulated at its beginning that its hadiths would be among the authentic reports and excellent narrations whose transmitters' integrity the transmitters agree upon,"
+        },
+        {
+         "ar": "وخرَّجته الأئمة في مسانيدهم، ثم خرَّجه عن الطبراني: حدثنا أبو زيد عبد الرحمان ابن حاتم المرادي،",
+         "en": "and which the imams have recorded in their Musnads. He then recorded it from al-Ṭabarānī: Abū Zayd ʿAbd al-Raḥmān ibn Ḥātim al-Murādī told us,"
+        },
+        {
+         "ar": "حدثنا نُعيم بن حمادٍ، حدثنا عبد الوهَّاب الثقفي، عن هشام بن حسان، عن محمد بن سيرين، عن عُقبة بن أوس، عن عبد الله بن عمرٍو،",
+         "en": "Nuʿaym ibn Ḥammād told us, ʿAbd al-Wahhāb al-Thaqafī told us, from Hishām ibn Ḥassān, from Muḥammad ibn Sīrīn, from ʿUqbah ibn Aws, from ʿAbdullāh ibn ʿAmr,"
+        },
+        {
+         "ar": "قال: قال رسولُ الله صلى الله عليه وسلم: «لا يُؤمِنُ أَحدكم حتّى يكونَ هواه تبعاً لما جئتُ به لا يزيغُ عنه».",
+         "en": "who said: The Messenger of Allah ﷺ said: “None of you believes until his desire follows what I have brought, not swerving from it.”"
+        },
+        {
+         "ar": "ورواه الحافظ أبو بكر بن عاصم الأصبهاني عن ابنِ واره، عن نُعيم بن حماد، حدثنا عبدُ الوهَّاب الثقفي حدثنا بعضُ مشيختنا هشامٌ أو غيره عن ابن سيرين، فذكره.",
+         "en": "The ḥāfiẓ Abū Bakr ibn ʿĀṣim al-Iṣbahānī narrated it from Ibn Wārah, from Nuʿaym ibn Ḥammād: ʿAbd al-Wahhāb al-Thaqafī told us: One of our shaykhs told us — Hishām or someone else — from Ibn Sīrīn; and he mentioned it."
+        },
+        {
+         "ar": "وليس عنده «لا يزيغ عنه»، قال الحافظ أبو موسى المديني: هذا الحديث مُختلفٌ فيه على نعيم، وقيل فيه:",
+         "en": "His version does not have “not swerving from it”. The ḥāfiẓ Abū Mūsā al-Madīnī said: The narrations from Nuʿaym disagree over this hadith; it has also been given as:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c3",
+     "pages": [
+      824
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "حدثنا بعضُ مشيختنا، حدثنا هشام أو غيره.",
+         "en": "One of our shaykhs told us: Hishām or someone else told us."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c4",
+     "pages": [
+      824,
+      825
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قلت: تصحيحُ هذا الحديث بعيدٌ جداً من وجوه، منها: أنَّه حديثٌ يتفرد به نُعيمُ بنُ حماد المروزي، ونُعيم هذا وإنْ كان وثَّقه جماعةٌ مِنَ الأئمة،",
+         "en": "I say: Declaring this hadith authentic is very far-fetched, for several reasons. One is that it is a hadith that Nuʿaym ibn Ḥammād al-Marwazī alone narrates. Although a number of the imams declared this Nuʿaym reliable"
+        },
+        {
+         "ar": "وخرَّج له البخاري، فإنَّ أئمةَ الحديث كانوا يُحسنون به الظنَّ، لِصلابته في السُّنة، وتشدُّده في الرَّدِّ على أهل الأهواء،",
+         "en": "and al-Bukhārī recorded from him, the imams of hadith thought well of him because of his firmness in the Sunnah and his vigour in refuting the people of heresies;"
+        },
+        {
+         "ar": "وكانوا ينسبونه إلى أنَّه يَهِمُ، ويُشبّه عليه في بعض الأحاديث، فلمَّا كُثرَ عثورُهم على مناكيره، حكموا عليه بالضَّعف،",
+         "en": "yet they attributed to him a tendency to err and to be confused in some hadiths, and when they came across his munkar (objectionable) narrations more and more often, they judged him weak."
+        },
+        {
+         "ar": "فروى صالح ابن محمد الحافظ عن ابن معين أنَّه سئل عنه فقال: ليس بشيء ولكنَّه صاحب سنة، قال صالح: وكان يُحدِّث من حفظه، وعنده مناكير كثيرة لا يُتابع عليها.",
+         "en": "Ṣāliḥ ibn Muḥammad the ḥāfiẓ narrated from Ibn Maʿīn that he was asked about him and said: He is nothing, but he is a man of the Sunnah. Ṣāliḥ said: He used to narrate from memory, and he has many munkar narrations in which no one corroborates him."
+        },
+        {
+         "ar": "وقال أبو داود: عند نعيم نحوُ عشرين حديثاً عن النَّبيِّ صلى الله عليه وسلم ليس لها أصل، وقال النَّسائي: ضعيف.",
+         "en": "Abū Dāwūd said: Nuʿaym has about twenty hadiths from the Prophet ﷺ that have no basis. Al-Nasāʾī said: Weak."
+        },
+        {
+         "ar": "وقال مَرَّةً: ليس بثقة.",
+         "en": "Once he said: Not reliable."
+        },
+        {
+         "ar": "وقال مرة: قد كثر تفرُّدُه عن الأئمة المعروفين في أحاديث كثيرةٍ، فصار في حدِّ مَنْ لا يُحتجُّ به.",
+         "en": "And once he said: His solitary narrations from well-known imams have become so many, in so many hadiths, that he has fallen to the level of one who is not relied on as proof."
+        },
+        {
+         "ar": "وقال أبو زرعة الدمشقي: يَصِلُ أحاديث يُوقِفُها الناسُ، يعني: أنَّه يرفع الموقوفات، وقال أبو عروبة الحراني: هو مظلمُ الأمر، وقال أبو سعيد بن يونس: روى أحاديث مناكير عن الثقات،",
+         "en": "Abū Zurʿah al-Dimashqī said: He connects hadiths that others narrate as stopping short — meaning that he turns mawqūf reports (those stopping short of the Prophet ﷺ) into marfūʿ ones (attributed to the Prophet ﷺ). Abū ʿArūbah al-Ḥarrānī said: His case is obscure. Abū Saʿīd ibn Yūnus said: He narrated munkar hadiths from reliable narrators,"
+        },
+        {
+         "ar": "ونسبه آخرون إلى أنّه كان يضعُ الحديثَ، وأين كان أصحاب عبد الوهَّاب الثقفي، وأصحاب هشام بن حَسّان، وأصحاب ابن سيرين عن هذا الحديث حتى يتفرَّد به نعيم؟",
+         "en": "and others accused him of fabricating hadith. And where were the students of ʿAbd al-Wahhāb al-Thaqafī, the students of Hishām ibn Ḥassān and the students of Ibn Sīrīn, that Nuʿaym alone should narrate this hadith?"
+        },
+        {
+         "ar": "ومنها: أنَّه قد اختلف على نُعيم في إسناده، فروي عنه، عن الثقفي، عن هشام، ورُوي عنه عن الثقفي، حدَّثنا بعضُ مشيختنا هشام أو غيره، وعلى هذه الرواية، فيكون شيخ الثَّقفيِّ غيرَ معروف عينه،",
+         "en": "Another reason is that the narrations from Nuʿaym differ over its chain. It is narrated from him: from al-Thaqafī, from Hishām. It is also narrated from him: from al-Thaqafī: One of our shaykhs told us — Hishām or someone else; and on this narration the identity of al-Thaqafī's shaykh is not known."
+        },
+        {
+         "ar": "ورُوي عنه عن الثقفي، حدّثنا بعض مشيختنا، حدَّثنا هشام أو غيره، فعلى هذه الرواية، فالثقفيُّ رواه عن شيخٍ مجهولٍ، وشيخه رواه عن غير مُعَيَّن، فتزدادُ الجهالةُ في إسناده.",
+         "en": "It is also narrated from him: from al-Thaqafī: One of our shaykhs told us: Hishām or someone else told us. On this narration al-Thaqafī narrated it from an unknown shaykh, and his shaykh narrated it from someone unspecified, so the unknowns in its chain multiply."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c5",
+     "pages": [
+      825,
+      826
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها: أنَّ في إسناده عُقبةَ بن أوس السَّدوسي البصري، ويقال فيه: يعقوب ابن أوس أيضاً، وقد خرَّج له أبو داود والنَّسائي وابن ماجه حديثاً عن عبد الله ابن عمرو، ويقال:",
+         "en": "Another reason is that its chain contains ʿUqbah ibn Aws al-Sadūsī al-Baṣrī, who is also called Yaʿqūb ibn Aws. Abū Dāwūd, al-Nasāʾī and Ibn Mājah recorded from him a hadith from ʿAbdullāh ibn ʿAmr — or, it is said,"
+        },
+        {
+         "ar": "عبد الله بن عمر، وقد اضطرب في إسناده، وقد وثقه العجلي، وابن سعد، وابن حبان، وقال ابنُ خزيمة: روى عنه ابن سيرين مع جلالته، وقال ابنُ عبد البرِّ: هو مجهول.",
+         "en": "ʿAbdullāh ibn ʿUmar — and its chain is confused. Al-ʿIjlī, Ibn Saʿd and Ibn Ḥibbān declared him reliable, and Ibn Khuzaymah said: Ibn Sīrīn, for all his eminence, narrated from him. Ibn ʿAbd al-Barr said: He is unknown."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c6",
+     "pages": [
+      826
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الغلابي في \" تاريخه \": يزعمون أنَّه لم يسمع من عبد الله بن عمرو، وإنَّما يقول: قال عبد الله بن عمرو، فعلى هذا تكون رواياتُه عن عبد الله بن عمرو منقطعة، والله أعلم.",
+         "en": "Al-Ghallābī said in his Tārīkh: They claim that he did not hear from ʿAbdullāh ibn ʿAmr, and only says, “ʿAbdullāh ibn ʿAmr said.” On this basis his narrations from ʿAbdullāh ibn ʿAmr would be broken. And Allah knows best."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c7",
+     "pages": [
+      826
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما معنى الحديث، فهو أنَّ الإنسان لا يكون مؤمناً كامل الإيمان الواجب حتى تكون محبته تابعةً لما جاء به الرسول صلى الله عليه وسلم من الأوامر والنَّواهي وغيرها، فيحبُّ ما أمر به، ويكره ما نهى عنه.",
+         "en": "As for the meaning of the hadith, it is that a person is not a believer with the complete faith that is obligatory until his love follows what the Messenger ﷺ brought — commands, prohibitions and the rest — so that he loves what he commanded and dislikes what he forbade."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c8",
+     "pages": [
+      826
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد ورد القرآن بمثل هذا في غير موضع.",
+         "en": "The Qurʾān has come with the like of this in more than one place."
+        },
+        {
+         "ar": "قال تعالى: {فَلا وَرَبِّكَ لا يُؤْمِنُونَ حَتَّى يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجاً مِمَّا قَضَيْتَ وَيُسَلِّمُوا تَسْلِيماً}.",
+         "en": "The Exalted says: “But no, by your Lord, they will not believe until they make you judge in what is disputed between them, then find in themselves no discomfort at what you have decided, and submit completely” [al-Nisāʾ 4:65]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c9",
+     "pages": [
+      826
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال تعالى: {وَمَا كَانَ لِمُؤْمِنٍ وَلا مُؤْمِنَةٍ إِذَا قَضَى اللهُ وَرَسُولُهُ أَمْراً أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ}.",
+         "en": "And the Exalted says: “It is not for a believing man or a believing woman, when Allah and His Messenger have decided a matter, to have any choice in their matter” [al-Aḥzāb 33:36]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c10",
+     "pages": [
+      826
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وذمَّ سبحانه من كره ما أحبَّه الله، أو أحبَّ ما كرهه الله، قال: {ذَلِكَ بِأَنَّهُمْ كَرِهُوا مَا أَنْزَلَ اللهُ فَأَحْبَطَ أَعْمَالَهُمْ}، وقال تعالى: {ذَلِكَ بِأَنَّهُمُ اتَّبَعُوا مَا أَسْخَطَ اللهَ وَكَرِهُوا رِضْوَانَهُ فَأَحْبَطَ أَعْمَالَهُمْ}.",
+         "en": "He, Glorified is He, has condemned those who dislike what Allah loves or love what Allah dislikes, saying: “That is because they disliked what Allah sent down, so He made their deeds worthless” [Muḥammad 47:9]; and the Exalted says: “That is because they followed what angers Allah and disliked His good pleasure, so He made their deeds worthless” [Muḥammad 47:28]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c11",
+     "pages": [
+      826,
+      827
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فالواجب على كلِّ مؤمن أنْ يُحِبَّ ما أحبَّه الله محبةً توجِبُ له الإتيان بما وجب عليه منه، فإنْ زادت المحبَّةُ، حتّى أتى بما ندب إليه منه،",
+         "en": "Every believer must therefore love what Allah loves, with a love that leads him to do whatever of it is obligatory on him; if the love grows until he does whatever of it is recommended,"
+        },
+        {
+         "ar": "كان ذلك فضلاً، وأنْ يكره ما كرهه الله تعالى كراهةً توجِبُ له الكفَّ عمَّا حرَّم عليه منه، فإنْ زادت الكراهةُ حتَّى أوجبت الكفَّ عما كرهه تنْزيهاً، كان ذلك فضلاً.",
+         "en": "that is an extra merit. And he must dislike what Allah the Exalted dislikes, with an aversion that leads him to refrain from whatever of it is unlawful for him; if the aversion grows until it leads him to refrain from what is disliked only as mildly disapproved, that is an extra merit."
+        },
+        {
+         "ar": "وقد ثبت في \" الصحيحين \" عنه صلى الله عليه وسلم أنَّه قال:",
+         "en": "It is established in the two Ṣaḥīḥs that he ﷺ said:"
+        },
+        {
+         "ar": "«لا يؤمن أحدُكُم حتّى أكونَ أحبَّ إليه من نفسه وولده وأهله والنّاس أجمعين» فلا يكون المؤمن مؤمناً حتى يُقدم محبة الرسول على محبة جميع الخلق، ومحبة الرسول تابعة لمحبة مرسله.",
+         "en": "“None of you believes until I am dearer to him than himself, his child, his family and all people.” So the believer is not a believer until he puts love of the Messenger before love of all creation; and love of the Messenger follows from love of the One who sent him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c12",
+     "pages": [
+      827
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والمحبة الصحيحةُ تقتضي المتابعةَ والموافقةَ في حبِّ المحبوبات وبغضِ المكروهات، قال عز وجل:",
+         "en": "True love requires following and agreeing [with the beloved] in loving what he loves and hating what he hates. He, the Mighty and Majestic, says:"
+        },
+        {
+         "ar": "{قُلْ إِنْ كَانَ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ وَإِخْوَانُكُمْ وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ اقْتَرَفْتُمُوهَا وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَاكِنُ تَرْضَوْنَهَا أَحَبَّ إِلَيْكُمْ مِنَ اللهِ وَرَسُولِهِ وَجِهَادٍ فِي سَبِيلِهِ فَتَرَبَّصُوا حَتَّى يَأْتِيَ اللهُ بِأَمْرِهِ}.",
+         "en": "“Say: If your fathers, your sons, your brothers, your wives, your kin, the wealth you have acquired, the trade whose decline you fear and the dwellings you are pleased with are dearer to you than Allah and His Messenger and striving in His path, then wait until Allah brings about His command” [al-Tawbah 9:24]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c13",
+     "pages": [
+      827
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال تعالى: {قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ} قال الحسن: قال أصحابُ النَّبيِّ صلى الله عليه وسلم:",
+         "en": "And the Exalted says: “Say: If you love Allah, follow me; Allah will love you and forgive you your sins” [Āl ʿImrān 3:31]. Al-Ḥasan said: The Companions of the Prophet ﷺ said:"
+        },
+        {
+         "ar": "يا رسول الله، إنّا نُحبُّ ربنا حبّاً شديداً، فأحبَّ الله أنْ يجعل لحبه علماً، فأنزل الله هذه الآية.",
+         "en": "Messenger of Allah, we love our Lord intensely. And Allah wished to set a sign for love of Him, so Allah revealed this verse."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c14",
+     "pages": [
+      827
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن النَّبيِّ صلى الله عليه وسلم، قال: «ثلاثٌ من كُنَّ فيه وجدَ حلاوةَ الإيمان: أنْ يكونَ اللهُ ورسولُه أحبَّ إليه ممَّا سواهُما،",
+         "en": "In the two Ṣaḥīḥs, the Prophet ﷺ said: “There are three things: whoever has them finds the sweetness of faith — that Allah and His Messenger are dearer to him than anything else,"
+        },
+        {
+         "ar": "وأنْ يُحبَّ المرءَ لا يُحبُّه إلا لله، وأنْ يكره أنْ يَرجِعَ إلى الكُفر بعد إذ أنقذه الله منه كما يكره أنْ يُلقى في النار».",
+         "en": "that he loves a person, loving him only for Allah's sake, and that he hates to return to disbelief after Allah has saved him from it, as he would hate to be thrown into the Fire.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c15",
+     "pages": [
+      827
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فمن أحبَّ الله ورسوله محبةً صادقة من قلبه، أوجب له ذلك أنْ يُحبَّ بقلبه ما يُحبُّه الله ورسولُه،",
+         "en": "When someone loves Allah and His Messenger with a true love from the heart, that obliges him to love in his heart what Allah and His Messenger love,"
+        },
+        {
+         "ar": "ويكره ما يكرهه الله ورسوله، ويرضى بما يرضى الله ورسوله، ويَسخط ما يَسْخَطُهُ الله ورسوله، وأنْ يعمل بجوارحه بمقتضى هذا الحبِّ والبغض،",
+         "en": "to dislike what Allah and His Messenger dislike, to be pleased with what pleases Allah and His Messenger and angered by what angers Allah and His Messenger, and to act with his limbs according to this love and hatred."
+        },
+        {
+         "ar": "فإنْ عمل بجوارحه شيئاً يُخالِفُ ذلك، فإن ارتكبَ بعضَ ما يكرهه الله ورسولُه، أو ترك بعضَ ما يُحبه الله ورسوله،",
+         "en": "If he does anything with his limbs that goes against that — if he commits something that Allah and His Messenger dislike, or leaves something that Allah and His Messenger love,"
+        },
+        {
+         "ar": "مع وجوبه والقدرة عليه، دلَّ ذلك على نقص محبَّته الواجبة، فعليه أنْ يتوبَ من ذلك، ويرجع إلى تكميل المحبة الواجبة.",
+         "en": "while it is obligatory and he is able to do it — that shows that his obligatory love is deficient. He must repent of it and return to completing the love that is obligatory."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c16",
+     "pages": [
+      827
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال أبو يعقوب النَّهْرُجُوريُّ: كلُّ مَنِ ادَّعى محبة الله عز وجل، ولم يوافِقِ الله في أمره، فدعواه باطلة، وكلُّ محبٍّ ليس يخاف الله، فهو مغرورٌ.",
+         "en": "Abū Yaʿqūb al-Nahrajūrī said: Everyone who claims to love Allah, the Mighty and Majestic, but does not conform to Allah in His command, his claim is false; and every lover who does not fear Allah is deluded."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c17",
+     "pages": [
+      828
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال يحيى بنُ معاذ: ليس بصادقٍ من ادّعى محبَّة الله عز وجل ولم يحفظ حدودَه.",
+         "en": "Yaḥyā ibn Muʿādh said: Whoever claims to love Allah, the Mighty and Majestic, and does not keep His limits is not truthful."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c18",
+     "pages": [
+      828
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وسئل رُويم عن المحبة، فقال: الموافقة في جميع الأحوال، وأنشد:",
+         "en": "Ruwaym was asked about love, and he said: Conformity in every state. And he recited:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c19",
+     "pages": [
+      828
+     ],
+     "paragraphs": [
+      {
+       "kind": "verse",
+       "segments": [
+        {
+         "ar": "ولو قُلتَ لي مُتْ مِتُّ سَمعاً وطاعةً … وقُلتُ لداعِي الموتِ أهلاً ومرحبا",
+         "en": "If you told me, “Die,” I would die, hearing and obeying, / and say to death's summoner: Welcome!"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c20",
+     "pages": [
+      828
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولبعض المتقدمين:",
+         "en": "One of the early poets said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c21",
+     "pages": [
+      828
+     ],
+     "paragraphs": [
+      {
+       "kind": "verse",
+       "segments": [
+        {
+         "ar": "تَعصِي الإله وأنت تَزعُمُ حُبَّه … هذا لعمري في القِياس شَنيعُ",
+         "en": "You disobey God while claiming to love Him: / by my life, by any measure that is monstrous."
+        },
+        {
+         "ar": "لَو كان حُبُّك صادِقاً لأطعتَه … إنَّ المُحِبَّ لِمَن يُحبُّ مُطيعُ",
+         "en": "Were your love true, you would obey Him; / the lover is obedient to the one he loves."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c22",
+     "pages": [
+      828
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فجميعُ المعاصي تنشأ من تقديم هوى النفوس على محبة الله ورسوله، وقد وصف اللهُ المشركين باتِّباع الهوى في مواضع من كتابه،",
+         "en": "All acts of disobedience, then, arise from putting the desires of the self before love of Allah and His Messenger. Allah has described the idolaters as following desire in a number of places in His Book."
+        },
+        {
+         "ar": "وقال تعالى: {فَإِنْ لَمْ يَسْتَجِيبُوا لَكَ فَاعْلَمْ أَنَّمَا يَتَّبِعُونَ أَهْوَاءهُمْ وَمَنْ أَضَلُّ مِمَّنِ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدىً مِنَ اللهِ}.",
+         "en": "The Exalted says: “If they do not respond to you, know that they are only following their desires; and who is further astray than one who follows his desire without guidance from Allah?” [al-Qaṣaṣ 28:50]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c23",
+     "pages": [
+      828
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكذلك البدعُ، إنَّما تنشأ من تقديم الهوى على الشَّرع، ولهذا يُسمى أهلُها أهل الأهواء.",
+         "en": "Likewise innovations arise only from putting desire before the Sharīʿah, and that is why their adherents are called the people of desires (ahl al-ahwāʾ)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c24",
+     "pages": [
+      828
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكذلك المعاصي، إنَّما تقعُ من تقديم الهوى على محبة الله ومحبة ما يُحبه.",
+         "en": "Likewise sins occur only from putting desire before love of Allah and love of what He loves."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c25",
+     "pages": [
+      828
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكذلك حبُّ الأشخاص: الواجب فيه أنْ يكون تَبعاً لما جاء به الرسولُ صلى الله عليه وسلم.",
+         "en": "The same holds for love of people: it must follow what the Messenger ﷺ brought."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c26",
+     "pages": [
+      828
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فيجبُ على المؤمن محبةُ الله ومحبةُ من يحبه الله من الملائكة والرسل والأنبياء والصديقين والشهداء والصالحين عموماً، ولهذا كان مِنْ علامات وجود حلاوة الإيمان أنْ يُحِبَّ المرءَ لا يُحبُّه إلا لله، ويُحرمُ موالاةُ أعداءِ الله.",
+         "en": "The believer must love Allah and love those whom Allah loves — the angels, the messengers, the prophets, the truthful, the martyrs and the righteous in general. That is why one of the signs of finding the sweetness of faith is loving a person, loving him only for Allah's sake. And it is unlawful to befriend the enemies of Allah"
+        },
+        {
+         "ar": "ومن يكرهه الله عموماً، وقد سبق ذلك في موضع آخر، وبهذا يكونُ الدِّينُ كلُّه لله.",
+         "en": "and those whom Allah dislikes in general; this has been discussed elsewhere. In this way the religion becomes entirely for Allah."
+        },
+        {
+         "ar": "و «من أحبَّ لله، وأبغض لله، وأعطى لله، ومنع لله، فقد استكمل الإيمان»، ومن كان حُبُّه وبُغضه وعطاؤه ومنعه لهوى نفسه، كان ذلك نقصاً في إيمانه الواجب،",
+         "en": "“Whoever loves for Allah, hates for Allah, gives for Allah and withholds for Allah has completed faith.” But whoever loves, hates, gives and withholds for the desire of his own self has a deficiency in his obligatory faith,"
+        },
+        {
+         "ar": "فيجب عليه التَّوبةُ من ذلك، والرُّجوع إلى اتِّباع ما جاء به الرسول صلى الله عليه وسلم من تقديم محبة الله ورسوله، وما فيه رضا الله ورسوله على هوى النفوس ومراداتها كلها.",
+         "en": "and he must repent of it and return to following what the Messenger ﷺ brought: putting love of Allah and His Messenger, and whatever pleases Allah and His Messenger, before the desires of the self and all its wants."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c27",
+     "pages": [
+      829
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال وُهيب بنُ الورد: بلغنا - والله أعلم - أنَّ موسى عليه السلام، قال: يا ربِّ أوصني؟",
+         "en": "Wuhayb ibn al-Ward said: It has reached us — and Allah knows best — that Mūsā (peace be upon him) said: My Lord, counsel me."
+        },
+        {
+         "ar": "قال: أوصيك بي، قالها ثلاثاً حتى قال في الآخرة: أوصيك بي أن لا يعرض لك أمرٌ إلا آثرت فيه محبتي على ما سواها، فمن لم يفعل ذلك لم أُزكِّه ولم أرحمه.",
+         "en": "He said: I counsel you regarding Me. He said it three times, until the last time He said: I counsel you regarding Me that no matter should present itself to you but you prefer love of Me in it to everything else. Whoever does not do that, I will not purify him and I will not have mercy on him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c28",
+     "pages": [
+      829
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والمعروف في استعمال الهوى عند الإطلاق: أنَّه الميلُ إلى خلاف الحقِّ، كما في قوله عز وجل: {وَلا تَتَّبِعِ الْهَوَى فَيُضِلَّكَ عَنْ سَبِيلِ اللهِ}، وقال: {وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ الْهَوَى فَإِنَّ الْجَنَّةَ هِيَ الْمَأْوَى}.",
+         "en": "The well-known use of hawā, when it is used without qualification, is for inclination towards what is contrary to the truth, as in His words, Mighty and Majestic is He: “Do not follow desire, lest it lead you astray from the path of Allah” [Ṣād 38:26]; and He said: “But as for one who feared standing before his Lord and forbade the soul its desire, Paradise will be the refuge” [al-Nāziʿāt 79:40–41]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c29",
+     "pages": [
+      829
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد يُطلق الهوى بمعنى المحبة والميل مطلقاً، فيدخل فيه الميل إلى الحقِّ وغيره، وربما استُعمِل بمعنى محبة الحقِّ خاصة والانقياد إليه، وسئل صفوانُ بن عسّال:",
+         "en": "Hawā is sometimes used to mean love and inclination in general, including inclination towards the truth and towards other things; and it is sometimes used to mean love of the truth in particular and submission to it. Ṣafwān ibn ʿAssāl was asked:"
+        },
+        {
+         "ar": "هل سمعتَ منَ النَّبيَّ صلى الله عليه وسلم يذكر الهوى، فقال: سأله أعرابيٌّ عن الرجل يُحبُّ القومَ ولم يلحق بهم، فقال: «المرءُ مَعَ مَنْ أَحَبَّ».",
+         "en": "Did you hear the Prophet ﷺ mention hawā? He said: A Bedouin asked him about a man who loves a people but has not caught up with them, and he said: “A person will be with those he loves.”"
+        },
+        {
+         "ar": "ولمَّا نزل قوله عز وجل: {تُرْجِي مَنْ تَشَاءُ مِنْهُنَّ وَتُؤْوِي إِلَيْكَ مَنْ تَشَاءُ}، قالت عائشة للنَّبيِّ صلى الله عليه وسلم: ما أرى ربَّك إلا يُسارعُ في هواك.",
+         "en": "When His words, Mighty and Majestic is He, were revealed, “You may put off whichever of them you will and take to yourself whichever you will” [al-Aḥzāb 33:51], ʿĀʾishah said to the Prophet ﷺ: I see your Lord hastening to fulfil your wish (hawāk)."
+        },
+        {
+         "ar": "وقال عمر في قصة المشاورة في أسارى بدر: فهوي رسول الله صلى الله عليه وسلم ما قال أبو بكر، ولم يهوَ ما قلتُ، وهذا الحديثُ مما جاء استعمال الهوى فيهِ بمعنى المحبة المحمودة،",
+         "en": "ʿUmar said, about the consultation over the captives of Badr: The Messenger of Allah ﷺ inclined to what Abū Bakr said and did not incline to what I said. This hadith is one of those in which hawā is used in the sense of praiseworthy love."
+        },
+        {
+         "ar": "وقد وقع مثلُ ذلك في الآثار الإسرائيلية كثيراً، وكلامُ مشايخ القوم وإشاراتُهم نظماً ونثراً يكثُر في هذا الاستعمال، ومما يُناسبُ معنى الحديثِ من ذلك قولُ بعضهم:",
+         "en": "The like of this occurs often in the Israelite reports, and the words and allusions of the shaykhs of the [Sufi] folk, in verse and prose, frequently use it in this way. Among what fits the meaning of the hadith is the saying of one of them:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h41.c30",
+     "pages": [
+      829
+     ],
+     "paragraphs": [
+      {
+       "kind": "verse",
+       "segments": [
+        {
+         "ar": "إنَّ هواكَ الَّذي بقلبي … صَيَّرني سامعاً مُطيعا",
+         "en": "The love of you that is in my heart / has made me one who hears and obeys."
+        },
+        {
+         "ar": "أخذت قلبي وغَمضَ عيني … سَلَبتني النَّومَ والهُجوعا",
+         "en": "You took my heart, and my eye's closing; / you robbed me of sleep and slumber."
+        },
+        {
+         "ar": "فَذَرْ فؤادي وخُذ رُقادي … فقال: لا بل هُما جميعا",
+         "en": "[I said:] Leave my heart and take my sleep. / He said: No — rather the two together."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}

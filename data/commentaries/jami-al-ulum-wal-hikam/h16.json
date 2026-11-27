@@ -1,0 +1,1388 @@
+{
+ "id": "h16",
+ "number": 16,
+ "standard_number": 16,
+ "collection": "nawawi",
+ "heading": {
+  "ar": "الحديث السادس عشر",
+  "en": "Hadith 16"
+ },
+ "title": {
+  "ar": "لا تغضب",
+  "en": "Do Not Become Angry"
+ },
+ "pages": {
+  "start": 343,
+  "end": 359
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.n1",
+     "pages": [
+      343
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنْ أَبي هُرَيرَةَ رضي الله عنه أنَّ رَجُلاً قالَ للنَّبيِّ صلى الله عليه وسلم: أوصِني، قال: «لا تَغْضَبْ» فردَّد مِراراً قال: «لا تَغْضَبْ». رواهُ البُخاريُّ.",
+         "en": "Abū Hurayrah (may Allah be pleased with him) reported that a man said to the Prophet ﷺ: Advise me. He said: “Do not become angry.” The man repeated his request several times, and he said: “Do not become angry.” Al-Bukhārī reported it."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c1",
+     "pages": [
+      343
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "هذا الحديثُ خرَّجه البخاري من طريق أبي حَصين الأسدي، عن أبي صالح، عن أبي هريرة، ولم يُخرجه مسلم؛",
+         "en": "Al-Bukhārī recorded this hadith by way of Abū Ḥaṣīn al-Asadī, from Abū Ṣāliḥ, from Abū Hurayrah. Muslim did not record it,"
+        },
+        {
+         "ar": "لأنَّ الأعمشَ رواه عن أبي صالح، واختلف عليه في إسناده فقيل: عنه، عن أبي صالح، عن أبي هُريرة، كقول أبي حَصين، وقيل: عنه، عن أبي صالح، عن أبي سعيد الخدري، وعند يحيى بن معين أنَّ هذا هو الصحيحُ،",
+         "en": "because al-Aʿmash narrated it from Abū Ṣāliḥ and his chain was reported from him in different ways. Some said: from him, from Abū Ṣāliḥ, from Abū Hurayrah, as Abū Ḥaṣīn has it; others: from him, from Abū Ṣāliḥ, from Abū Saʿīd al-Khudrī — and Yaḥyā ibn Maʿīn held that this is the correct one;"
+        },
+        {
+         "ar": "وقيل: عنه، عن أبي صالح، عن أبي هريرة وأبي سعيد، وقيل: عنه، عن أبي صالح، عن أبي هريرة أو جابر، وقيل: عنه، عن أبي صالح، عن رجل من الصحابة غير مسمى.",
+         "en": "others: from him, from Abū Ṣāliḥ, from Abū Hurayrah and Abū Saʿīd; others: from him, from Abū Ṣāliḥ, from Abū Hurayrah or Jābir; and others: from him, from Abū Ṣāliḥ, from an unnamed man among the Companions."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c2",
+     "pages": [
+      343
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الترمذي هذا الحديثَ من طريق أبي حصين أيضاً ولفظُه: جاء رجلٌ إلى النَّبيِّ صلى الله عليه وسلم، فقال: يا رسول الله علِّمني شيئاً ولا تُكثر عليَّ لَعَلِّي أعيه، قال:",
+         "en": "Al-Tirmidhī also recorded this hadith by way of Abū Ḥaṣīn, with the wording: A man came to the Prophet ﷺ and said: O Messenger of Allah, teach me something, and do not give me too much, so that perhaps I may retain it. He said:"
+        },
+        {
+         "ar": "«لا تَغْضَب»، فردد ذلك مراراً كلُّ ذلك يقول: «لا تغضب» وفي رواية أخرى لغير الترمذي قال: قلتُ: يا رسولَ الله، دلني على عمل يُدخلني الجنَّة ولا تُكثِرْ عليَّ، قال: «لا تَغْضَب».",
+         "en": "“Do not become angry.” He repeated that several times, and each time he said: “Do not become angry.” In another narration, not al-Tirmidhī's, the man said: I said: O Messenger of Allah, direct me to a deed that will admit me into Paradise, and do not give me too much. He said: “Do not become angry.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c3",
+     "pages": [
+      344
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فهذا الرجلُ طلب مِن النَّبيِّ صلى الله عليه وسلم أنْ يُوصِيهَ وصيةً وجيزةً جامعةً لِخصال الخيرِ، ليحفظها عنه خشيةَ أنْ لا يحفظها؛",
+         "en": "This man asked the Prophet ﷺ for a brief piece of advice that would gather together all the traits of goodness, so that he could keep hold of it, fearing that he would not be able to retain them all"
+        },
+        {
+         "ar": "لكثرتها، فوصَّاه النَّبيُّ صلى الله عليه وسلم أنْ لا يغضب، ثم ردَّد هذه المسألة عليه مراراً، والنَّبيُّ صلى الله عليه وسلم يردِّدُ عليه هذا الجوابَ، فهذا يدلُّ على أنَّ الغضب جِماعُ الشرِّ، وأنَّ التحرُّز منه جماعُ الخير.",
+         "en": "because there were so many. The Prophet ﷺ advised him not to become angry; then the man repeated his request several times, and the Prophet ﷺ kept giving him the same answer. This shows that anger is the sum of all evil, and that guarding against it is the sum of all good."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c4",
+     "pages": [
+      344
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولعلَّ هذا الرجلَ الذي سأل النَّبيَّ صلى الله عليه وسلم هو أبو الدرداء، فقد خرَّج الطبراني من حديث أبي الدرداء قال: قلتُ: يا رسولَ الله دلني على عمل يدخلني الجنَّة، قال: «لا تَغْضَبْ ولكَ الجَنَّةُ».",
+         "en": "Perhaps the man who asked the Prophet ﷺ was Abū al-Dardāʾ. Al-Ṭabarānī recorded, from the hadith of Abū al-Dardāʾ, that he said: I said: O Messenger of Allah, direct me to a deed that will admit me into Paradise. He said: “Do not become angry, and Paradise is yours.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c5",
+     "pages": [
+      344
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد روى الأحنفُ بنُ قيسٍ، عن عمه جارية بن قدامة: أنَّ رجلاً قال:",
+         "en": "Al-Aḥnaf ibn Qays narrated, from his paternal uncle Jāriyah ibn Qudāmah, that a man said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c6",
+     "pages": [
+      344
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "يا رسولَ اللهِ قُلْ لي قولاً، وأقْلِلْ عليَّ لعلي أعقِلُهُ، قال: «لا تغضبْ»، فأعاد عليه مراراً كُلُّ ذلك يقول:",
+         "en": "O Messenger of Allah, tell me something, and keep it short for me so that perhaps I may understand it. He said: “Do not become angry.” He asked him again several times, and each time he said:"
+        },
+        {
+         "ar": "«لا تَغضَبْ» خرَّجه الإمام أحمد، وفي رواية له أنَّ جارية بن قُدامة قال: سألت النَّبيَّ صلى الله عليه وسلم فذكره.",
+         "en": "“Do not become angry.” Imam Aḥmad recorded it. In one narration of his, Jāriyah ibn Qudāmah said: I asked the Prophet ﷺ — and he mentioned it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c7",
+     "pages": [
+      344,
+      345
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فهذا يغلب على الظنِّ أنَّ السائلَ هو جارية بنُ قدامة، ولكن ذكر الإمامُ أحمد عن يحيى القطان أنَّه قال: هكذا قال هشام، يعني:",
+         "en": "This makes it most likely that the questioner was Jāriyah ibn Qudāmah. However, Imam Aḥmad mentioned that Yaḥyā al-Qaṭṭān said: That is how Hishām put it — meaning"
+        },
+        {
+         "ar": "أنَّ هشاماً ذكر في الحديث أنَّ جارية سأل النَّبيَّ صلى الله عليه وسلم، قال يحيى: وهم يقولون: لم يُدرك النَّبيّ صلى الله عليه وسلم، وكذا قال العجليُّ وغيرُه: إنَّه تابعيٌّ وليس بصحابي.",
+         "en": "that Hishām stated in the hadith that Jāriyah asked the Prophet ﷺ. Yaḥyā said: But they say he never met the Prophet ﷺ. Al-ʿIjlī and others likewise said that he was a Successor and not a Companion."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c8",
+     "pages": [
+      345
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمامُ أحمد من حديث الزهري، عن حُميد بنِ عبد الرحمان، عن رجلٍ من أصحاب النَّبيِّ صلى الله عليه وسلم قال: قلتُ: يا رسولَ الله أوصني، قال:",
+         "en": "Imam Aḥmad recorded, from the hadith of al-Zuhrī, from Ḥumayd ibn ʿAbd al-Raḥmān, from a man among the Companions of the Prophet ﷺ, that he said: I said: O Messenger of Allah, advise me. He said:"
+        },
+        {
+         "ar": "«لا تَغْضَبْ» قال الرجل: ففكرتُ حين قال النَّبيُّ صلى الله عليه وسلم ما قال، فإذا الغَضَبُ يجمع الشرَّ كُلَّه، ورواه مالك في \" الموطأ \" عن الزهري، عن حُميد، مرسلاً.",
+         "en": "“Do not become angry.” The man said: When the Prophet ﷺ said what he said, I reflected, and I found that anger gathers all evil. Mālik narrated it in the Muwaṭṭaʾ from al-Zuhrī, from Ḥumayd, as mursal."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c9",
+     "pages": [
+      345
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمامُ أحمد من حديث عبد اللهِ بن عمرو: أنَّه سأل النَّبيَّ صلى الله عليه وسلم: ماذا يُبَاعِدُني مِنْ غَضَبِ اللهِ عز وجل؟",
+         "en": "Imam Aḥmad recorded, from the hadith of ʿAbdullāh ibn ʿAmr, that he asked the Prophet ﷺ: What will keep me far from the anger of Allah, the Mighty and Majestic?"
+        },
+        {
+         "ar": "قال: «لا تَغْضَب».",
+         "en": "He said: “Do not become angry.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c10",
+     "pages": [
+      345
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقول الصحابي: ففكرتُ فيما قال النَّبيُّ صلى الله عليه وسلم فإذا الغضبُ يجمع الشرَّ كلَّه يشهد لما ذكرناه أنَّ الغضبَ جماعُ الشرِّ، قال جعفر بنُ محمد: الغضبُ مفتاحُ كلِّ شرٍّ.",
+         "en": "The Companion's words, “I reflected on what the Prophet ﷺ said and found that anger gathers all evil,” bear out what we said: that anger is the sum of all evil. Jaʿfar ibn Muḥammad said: Anger is the key to every evil."
+        },
+        {
+         "ar": "وقيل لابنِ المبارك: اجْمَعْ لنا حسنَ الخلق في كلمة، قال: تركُ الغضبِ.",
+         "en": "Ibn al-Mubārak was asked: Sum up good character for us in a single word. He said: Giving up anger."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c11",
+     "pages": [
+      345,
+      346
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكذا فسَّر الإمام أحمد، وإسحاقُ بنُ راهويه حسنَ الخلق بتركِ الغضب، وقد رُوي ذلك مرفوعاً، خرَّجه محمدُ بن نصر المروزي في كتاب \" الصلاة \" من حديث أبي العلاء بنِ الشِّخِّير:",
+         "en": "Imam Aḥmad and Isḥāq ibn Rāhawayh likewise explained good character as giving up anger. This has also been narrated as marfūʿ (attributed to the Prophet ﷺ): Muḥammad ibn Naṣr al-Marwazī recorded it in his book al-Ṣalāh, from the hadith of Abū al-ʿAlāʾ ibn al-Shikhkhīr,"
+        },
+        {
+         "ar": "أنَّ رجلاً أتى النَّبيَّ صلى الله عليه وسلم مِن قِبَلِ وجهه، فقالَ: يا رسولَ الله أيُّ العملِ أفضلُ؟",
+         "en": "that a man came to the Prophet ﷺ from in front of him and said: O Messenger of Allah, which deed is best?"
+        },
+        {
+         "ar": "قالَ: «حُسْنُ الخلق» ثُمَّ أتاه عن يمينه، فقالَ: يا رسول الله، أيُّ العمل أفضل؟",
+         "en": "He said: “Good character.” Then he came to him from his right and said: O Messenger of Allah, which deed is best?"
+        },
+        {
+         "ar": "قال: «حسنُ الخُلُقِ»، ثم أتاه عن شِماله، فقال: يا رسول الله، أيُّ العمل أفضل؟",
+         "en": "He said: “Good character.” Then he came to him from his left and said: O Messenger of Allah, which deed is best?"
+        },
+        {
+         "ar": "قال: «حسنُ الخُلُقُ»، ثم أتاه من بعده، يعني: من خلفه، فقال: يا رسولَ الله أيُّ العملِ أفضلُ؟",
+         "en": "He said: “Good character.” Then he came to him from after him — that is, from behind — and said: O Messenger of Allah, which deed is best?"
+        },
+        {
+         "ar": "فالتفت إليه رسولُ الله صلى الله عليه وسلم فقال: «مالك لا تَفْقَهُ!",
+         "en": "The Messenger of Allah ﷺ turned to him and said: “What is wrong with you, that you do not understand?"
+        },
+        {
+         "ar": "حسْنُ الخُلُقِ هو أنْ لا تَغْضَبَ إنِ استطعْتَ». وهذا مرسل.",
+         "en": "Good character is that you do not become angry, if you can.” This is mursal."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c12",
+     "pages": [
+      346
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فقولُه صلى الله عليه وسلم لمن استوصاه: «لا تَغْضَبْ» يحتَمِلُ أمرين:",
+         "en": "His words ﷺ to the man who asked his advice, “Do not become angry,” can bear two meanings."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c13",
+     "pages": [
+      346
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدُهما: أنْ يكونَ مرادُه الأمرَ بالأسباب التي توجب حُسْنَ الخُلُقِ من الكرم والسخاء والحلمِ والحياء والتواضع والاحتمال وكفِّ الأذى، والصفح والعفو، وكظم الغيظ،",
+         "en": "The first is that he meant to command the means that produce good character: generosity, open-handedness, forbearance, modesty, humility, tolerance, refraining from harm, overlooking and pardoning, restraining one's rage,"
+        },
+        {
+         "ar": "والطَّلاقةِ والبِشْرِ، ونحوِ ذلك من الأخلاق الجميلة، فإنَّ النفسَ إذا تخلَّقت بهذه الأخلاق، وصارت لها عادة أوجب لها ذلك دفع الغضب عند حصول أسبابه.",
+         "en": "cheerfulness, a smiling face and other such fine traits. For when the soul takes on these traits and they become habitual to it, this leads it to repel anger when its causes arise."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c14",
+     "pages": [
+      346
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثاني: أنْ يكونَ المرادُ: لا تعمل بمقتضى الغضب إذا حَصَل لك، بل جاهد نفسَك على ترك تنفيذه والعمل بما يأمر به،",
+         "en": "The second is that what is meant is: Do not act on what anger demands when it comes over you; rather, struggle with yourself not to carry it out or do what it commands."
+        },
+        {
+         "ar": "فإنَّ الغضب إذا ملك ابنَ آدم كان كالآمر والناهي له، ولهذا المعنى قال الله عز وجل: {وَلَمَّا سَكَتَ عَنْ مُوسَى الْغَضَبُ} فإذا لم يمتثل الإنسانُ ما يأمره به غضبُه،",
+         "en": "When anger takes hold of a person, it is like someone commanding and forbidding him. It is in this sense that Allah, the Mighty and Majestic, said: “When the anger had subsided in Mūsā” [al-Aʿrāf 7:154]. If a person does not obey what his anger commands him"
+        },
+        {
+         "ar": "وجاهد نفسه على ذلك، اندفع عنه شرُّ الغضب، وربما سكن غَضَبُهُ، وذهب عاجلاً، فكأنَّه حينئذٍ لم يغضب،",
+         "en": "and struggles with himself over it, the evil of anger is warded off from him; his anger may well calm down and quickly pass, and then it is as if he had not been angry at all."
+        },
+        {
+         "ar": "وإلى هذا المعنى وقعت الإشارةُ في القرآن بقوله عز وجل: {وَإِذَا مَا غَضِبُوا هُمْ يَغْفِرُونَ}، وبقوله عز وجل: {وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ وَاللهُ يُحِبُّ الْمُحْسِنِينَ}.",
+         "en": "The Qurʾān points to this meaning in the words of the Mighty and Majestic, “and when they are angry, they forgive” [al-Shūrā 42:37], and in His words, “who restrain their rage and pardon people; and Allah loves those who do good” [Āl ʿImrān 3:134]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c15",
+     "pages": [
+      346,
+      347
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكان النَّبيُّ صلى الله عليه وسلم يأمرُ من غضبَ بتعاطي أسبابٍ تدفعُ عنه الغضبَ، وتُسَكِّنُهُ، ويمدح من ملك نفسَه عند غضبه،",
+         "en": "The Prophet ﷺ used to command someone who became angry to take measures that would ward off his anger and calm it, and he praised whoever controlled himself when angry."
+        },
+        {
+         "ar": "ففي \" الصحيحين \" عن سليمانَ بن صُرَد قال: استَبَّ رجلانِ عندَ النَّبيِّ صلى الله عليه وسلم ونحنُ عنده جلوسٌ،",
+         "en": "In the two Ṣaḥīḥs, Sulaymān ibn Ṣurad said: Two men were reviling each other in the presence of the Prophet ﷺ while we were sitting with him,"
+        },
+        {
+         "ar": "وأحدُهما يَسُبُّ صاحبهُ مغضباً قد احمرَّ وجهُهُ، فقال النَّبيُّ صلى الله عليه وسلم: «إني لأعْلَمُ كلمةً لو قالها لذهبَ عنه ما يجد،",
+         "en": "and one of them was reviling the other in anger, his face gone red. The Prophet ﷺ said: “I know a word which, if he said it, what he feels would leave him:"
+        },
+        {
+         "ar": "لو قال: أعوذُ بالله من الشَّيطان الرجيم» فقالوا للرجل: ألا تسمعُ ما يقولُ النَّبيُّ صلى الله عليه وسلم؟",
+         "en": "if he said, ‘I seek refuge in Allah from Satan the accursed.’” They said to the man: Do you not hear what the Prophet ﷺ is saying?"
+        },
+        {
+         "ar": "قال: إني لَسْتُ بِمجنونٍ.",
+         "en": "He said: I am not mad."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c16",
+     "pages": [
+      347
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمامُ أحمد والترمذيُّ من حديث أبي سعيد الخُدري: أنَّ النَّبيَّ صلى الله عليه وسلم قال في خُطْبته:",
+         "en": "Imam Aḥmad and al-Tirmidhī recorded, from the hadith of Abū Saʿīd al-Khudrī, that the Prophet ﷺ said in his sermon:"
+        },
+        {
+         "ar": "«ألا إنَّ الغَضَبَ جَمْرَةٌ في قلبِ ابنِ آدمَ، أفما رأيتُم إلى حُمرة عينيه، وانتفاخ أوداجه، فمن أحسَّ من ذلك شيئاً فليَلْزَقْ بالأرضِ».",
+         "en": "“Anger is a live coal in the heart of the son of Ādam. Have you not seen the redness of his eyes and the swelling of his neck veins? Whoever feels anything of that, let him keep close to the ground.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c17",
+     "pages": [
+      347
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمامُ أحمدُ، وأبو داود من حديث أبي ذرٍّ: أنَّ النَّبيِّ صلى الله عليه وسلم قال : «إذا غَضِبَ أحدُكُم وهو قائِمٌ، فَلْيَجْلِسْ، فإنْ ذَهَبَ عَنه الغضبُ وإلا فليَضطجعْ».",
+         "en": "Imam Aḥmad and Abū Dāwūd recorded, from the hadith of Abū Dharr, that the Prophet ﷺ said: “When one of you becomes angry while standing, let him sit down; then if the anger leaves him, [well and good,] and if not, let him lie down.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c18",
+     "pages": [
+      347,
+      348
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد قيل: إنَّ المعنى في هذا أنَّ القائم متهيِّئ، للانتقام والجالس دونَه في ذلك، والمضطجع أبعدُ عنه،",
+         "en": "It has been said that the meaning of this is that someone standing is ready to take revenge, someone sitting is less so, and someone lying down is farther still from it;"
+        },
+        {
+         "ar": "فأمره بالتباعد عن حالةِ الانتقام، ويَشْهَدُ لذلك أنَّه رُوي من حديث سِنان بنِ سعد، عن أنسٍ، عن النَّبيِّ صلى الله عليه وسلم،",
+         "en": "so he commanded him to distance himself from the state of revenge. This is borne out by what has been narrated, from the hadith of Sinān ibn Saʿd, from Anas, from the Prophet ﷺ,"
+        },
+        {
+         "ar": "ومن حديث الحسن مرسلاً عن النَّبيِّ صلى الله عليه وسلم قال: «الغَضَبُ جَمرةٌ في قَلبِ الإنسانِ تَوَقَّدُ، ألا ترى إلى حُمرةِ عَيْنَيهِ وانْتِفَاخِ أوداجِهِ، فإذا أحس أحدُكُم مِنْ ذلك شيئاً، فليَجْلِسْ، ولا يَعْدُوَنَّه الغَضَبُ».",
+         "en": "and from the hadith of al-Ḥasan, mursal, from the Prophet ﷺ: “Anger is a live coal blazing in a person's heart. Do you not see the redness of his eyes and the swelling of his neck veins? When one of you feels anything of that, let him sit down, and let his anger not pass beyond him.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c19",
+     "pages": [
+      348
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والمرادُ: أنَّه يحبسه في نفسه، ولا يُعديه إلى غيره بالأذى بالفعلِ، ولهذا المعنى قال النَّبيُّ صلى الله عليه وسلم في الفتن: «إنَّ المضطجِعَ فيها خَيْرٌ من القَاعِدِ، والقَاعِدَ فيها خيرٌ من القَائِم،",
+         "en": "What is meant is that he keeps it confined within himself and does not let it pass on to others by harming them with his actions. It is in this sense that the Prophet ﷺ said about the trials (fitan): “The one lying down in them is better than the one sitting, the one sitting is better than the one standing,"
+        },
+        {
+         "ar": "والقائمَ خَيرٌ مِنَ المَاشِي، والمَاشِي خَيرٌ مِنَ السَّاعي»، وإنْ كان هذا على وجه ضرب المثالِ في الإسراع في الفتن، إلا أنَّ المعنى: أنَّ من كان أقرب إلى الإسراع فيها، فهو شرٌّ ممن كان أبعد عن ذلك.",
+         "en": "the one standing is better than the one walking, and the one walking is better than the one running.” Although this is said by way of illustrating how people rush into trials, the meaning is that whoever is nearer to rushing into them is worse than whoever is farther from it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c20",
+     "pages": [
+      348
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمامُ أحمد من حديث ابنِ عباس، عن النَّبيِّ صلى الله عليه وسلم قال: «إذا غَضِبَ أحَدُكُمْ، فليَسْكُتْ»، قالها ثلاثاً.",
+         "en": "Imam Aḥmad recorded, from the hadith of Ibn ʿAbbās, that the Prophet ﷺ said: “When one of you becomes angry, let him keep silent” — he said it three times."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c21",
+     "pages": [
+      348
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذا أيضاً دواء عظيم للغضب؛",
+         "en": "This too is a great remedy for anger,"
+        },
+        {
+         "ar": "لأنَّ الغضبان يصدر منه في حال غضبه من القول ما يندم عليهِ في حال زوال غضبه كثيراً من السِّباب وغيره مما يعظم ضَرَرُهُ،",
+         "en": "because in his anger an angry man often says things that he regrets once his anger has passed — insults and other things whose harm is great."
+        },
+        {
+         "ar": "فإذا سكت زال هذا الشرّ كله عنه، وما أحسنَ قولَ مورق العجلي رحمه الله: ما امتلأتُ غيضاً قَطُّ ولا تكلَّمتُ في غضبٍ قطُّ بما أندمُ عليهِ إذا رضيتُ.",
+         "en": "If he keeps silent, all this evil leaves him. How excellent is what Muwarriq al-ʿIjlī (may Allah have mercy on him) said: I have never been filled with rage, and never in anger have I said anything I would regret once I was content again."
+        },
+        {
+         "ar": "وغضب يوماً عمرُ بن عبد العزيز فقالَ لهُ ابنُه: عبدُ الملكِ - رحمهما الله -: أنتَ يا أميرَ المؤمنين مع ما أعطاك الله وفضَّلك به تغضبُ هذا الغَضبَ؟",
+         "en": "ʿUmar ibn ʿAbd al-ʿAzīz once became angry, and his son ʿAbd al-Malik (may Allah have mercy on them both) said to him: You, Commander of the Believers, with all that Allah has given you and favoured you with, become as angry as this?"
+        },
+        {
+         "ar": "فقال له: أو ما تغضبُ يا عبدَ الملك؟",
+         "en": "He said to him: Do you not become angry, ʿAbd al-Malik?"
+        },
+        {
+         "ar": "فقال عبد الملك: وما يُغني عني سعةُ جوفي إذا لم أُرَدِّدْ فيه الغضبَ حتى لا يظهر؟",
+         "en": "ʿAbd al-Malik said: What use would the breadth of my chest be to me if I did not keep my anger churning inside it until none of it shows?"
+        },
+        {
+         "ar": "فهؤلاء قوم ملكوا أنفسهم عند الغضب رضي الله عنهم.",
+         "en": "These were people who mastered themselves in anger (may Allah be pleased with them)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c22",
+     "pages": [
+      349
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمامُ أحمد، وأبو داود من حديث عُروة بنِ محمد السَّعدي: أنَّه كلَّمه رجل فأغضبه، فقام فتوضأ، ثم قال: حدثني أبي عن جدِّي عطيةَ،",
+         "en": "Imam Aḥmad and Abū Dāwūd recorded, from the hadith of ʿUrwah ibn Muḥammad al-Saʿdī, that a man spoke to him and angered him, so he got up and performed wuḍūʾ, and then said: My father told me, from my grandfather ʿAṭiyyah,"
+        },
+        {
+         "ar": "قال: قال رسولُ الله صلى الله عليه وسلم: «إنَّ الغَضَبَ مِنَ الشَّيْطانِ، وإنَّ الشيطانَ خُلِقَ من النَّارِ، وإنَّما تُطفَأُ النار بالماءِ، فإذا غَضِبَ أحَدُكُم فَليَتوضَّأ».",
+         "en": "who said: The Messenger of Allah ﷺ said: “Anger is from Satan, and Satan was created from fire, and fire is put out only with water. So when one of you becomes angry, let him perform wuḍūʾ.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c23",
+     "pages": [
+      349
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى أبو نعيم بإسناده عن أبي مسلم الخولاني: أنَّه كلَّم معاوية بشيءٍ وهو على المنبر، فغضب، ثم نزل فاغتسل، ثم عاد إلى المنبر،",
+         "en": "Abū Nuʿaym narrated, with his chain of narration, from Abū Muslim al-Khawlānī, that he said something to Muʿāwiyah while Muʿāwiyah was on the pulpit. Muʿāwiyah became angry; then he came down and bathed, then returned to the pulpit"
+        },
+        {
+         "ar": "وقال: سمعتُ رسول الله صلى الله عليه وسلم يقول: «إنَّ الغضبَ مِن الشيطان، والشيطانَ من النار، والماءُ يُطفئُ النار، فإذا غَضِبَ أحدكم فليغتسل».",
+         "en": "and said: I heard the Messenger of Allah ﷺ say: “Anger is from Satan, and Satan is from fire, and water puts out fire. So when one of you becomes angry, let him bathe.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c24",
+     "pages": [
+      349
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن أبي هُريرة، عن النَّبيِّ صلى الله عليه وسلم قال: «لَيْسَ الشَّديدُ بالصُّرَعَةِ، إنَّما الشَّديدُ الَّذي يَملِكُ نَفْسَهُ عندَ الغَضَبِ».",
+         "en": "In the two Ṣaḥīḥs, Abū Hurayrah narrated that the Prophet ﷺ said: “The strong man is not the one who throws others in wrestling; the strong man is only the one who controls himself when angry.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c25",
+     "pages": [
+      349
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح مسلم \" عن ابن مسعودٍ، عن النَّبيِّ صلى الله عليه وسلم، قال: «ما تَعُدُّوَن الصُّرَعَةَ فيكم؟»",
+         "en": "In Ṣaḥīḥ Muslim, Ibn Masʿūd narrated that the Prophet ﷺ said: “Whom do you count as the champion wrestler among you?”"
+        },
+        {
+         "ar": "قلنا: الذي لا تَصْرَعُهُ الرِّجالُ، قال: «ليس ذلك، ولكنَّه الذي يَملِكُ نَفْسَهُ عندَ الغضبِ».",
+         "en": "We said: The one whom men cannot throw. He said: “Not so; rather, it is the one who controls himself when angry.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c26",
+     "pages": [
+      350
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمامُ أحمد، وأبو داود، والترمذي، وابن ماجه من حديث معاذ بن أنس الجهني، عن النَّبيِّ صلى الله عليه وسلم قال:",
+         "en": "Imam Aḥmad, Abū Dāwūd, al-Tirmidhī and Ibn Mājah recorded, from the hadith of Muʿādh ibn Anas al-Juhanī, that the Prophet ﷺ said:"
+        },
+        {
+         "ar": "«مَنْ كَظَمَ غَيظاً وهو يَستطيعُ أنْ يُنفذه، دعاه الله يومَ القيامة على رؤوس الخلائق حتَّى يخيره في أيِّ الحورِ شاء».",
+         "en": "“Whoever restrains his rage when he is able to give vent to it, Allah will call him on the Day of Resurrection in front of all creatures and let him choose whichever of the maidens of Paradise (ḥūr) he wishes.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c27",
+     "pages": [
+      350
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمامُ أحمد من حديث ابن عمر، عن النَّبيِّ صلى الله عليه وسلم قال: «ما تَجَرَّع عبدٌ جُرعَةً أفضلَ عندَ اللهِ من جُرعَةِ غَيْظٍ يَكْظِمُها ابتغاءَ وجهِ الله عز وجل» ومِن حديث ابن عباسٍ،",
+         "en": "Imam Aḥmad recorded, from the hadith of Ibn ʿUmar, that the Prophet ﷺ said: “A servant swallows no draught more excellent in the sight of Allah than a draught of rage that he swallows down, seeking the Face of Allah, the Mighty and Majestic.” And from the hadith of Ibn ʿAbbās,"
+        },
+        {
+         "ar": "عن النَّبيِّ صلى الله عليه وسلم قال: «مَا مِنْ جُرْعَةٍ أحبَّ إلى اللهِ من جُرعةِ غَيظٍ يَكظِمُها عبد، ما كظم عبدٌ لله إلا ملأ الله جوفَه إيماناً».",
+         "en": "that the Prophet ﷺ said: “There is no draught dearer to Allah than a draught of rage that a servant swallows down. No servant swallows it down for Allah's sake but Allah fills his inner self with faith.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c28",
+     "pages": [
+      350
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج أبو داود معناه من رواية بعضِ الصحابة، عن النَّبيِّ صلى الله عليه وسلم وقال: «ملأه الله أمناً وإيماناً».",
+         "en": "Abū Dāwūd recorded something with the same meaning from the narration of one of the Companions, from the Prophet ﷺ, with the words: “Allah fills him with security and faith.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c29",
+     "pages": [
+      350
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال ميمون بن مِهران: جاء رجلٌ إلى سلمان، فقال: يا أبا عبدِ الله أوصني، قال: لا تغضب، قال: أمرتني أنْ لا أغضب وإنَّه ليغشاني ما لا أملِكُ، قال: فإنْ غضبتَ، فامْلِكْ لِسانك ويَدَك.",
+         "en": "Maymūn ibn Mihrān said: A man came to Salmān and said: Abū ʿAbdillāh, advise me. He said: Do not become angry. He said: You have commanded me not to become angry, but something comes over me that I cannot control. He said: Then if you become angry, control your tongue and your hand."
+        },
+        {
+         "ar": "خرَّجه ابن أبي الدنيا، وملكُ لسانه ويده هو الذي أشار إليه النَّبيُّ صلى الله عليه وسلم بأمره لمن غَضِبَ أنْ يجلس، ويضطجع وبأمره له أنْ يسكت.",
+         "en": "Ibn Abī al-Dunyā recorded it. Controlling one's tongue and hand is what the Prophet ﷺ pointed to by commanding whoever becomes angry to sit and lie down, and by commanding him to keep silent."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c30",
+     "pages": [
+      351
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال عمرُ بنُ عبد العزيز: قد أفلحَ مَنْ عُصِمَ من الهوى، والغضب، والطمع.",
+         "en": "ʿUmar ibn ʿAbd al-ʿAzīz said: Whoever is protected from his whims, from anger and from greed has succeeded."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c31",
+     "pages": [
+      351
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الحسن: أربعٌ من كُنَّ فيه عصمه الله من الشيطان، وحرَّمه على النار: مَنْ ملك نفسَه عندَ الرغبة، والرهبة، والشهوةِ، والغضبِ.",
+         "en": "Al-Ḥasan said: Whoever has four things, Allah protects him from Satan and makes him forbidden to the Fire: whoever masters himself in desire, fear, appetite and anger."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c32",
+     "pages": [
+      351
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فهذه الأربع التي ذكرها الحسن هي مبدأ الشرِّ كُلِّه، فإنَّ الرغبةَ في الشيء هي ميلُ النفس إليه لاعتقاد نفعه، فمن حصل له رغبةٌ في شيءٍ،",
+         "en": "These four that al-Ḥasan mentioned are the starting point of all evil. Desire for something is the soul's inclining towards it in the belief that it will benefit; so whoever comes to desire something,"
+        },
+        {
+         "ar": "حملته تلك الرغبة على طلب ذلك الشيء من كل وجه يَظُنُّه موصلاً إليه، وقد يكون كثير منها محرماً، وقد يكون ذلك الشيءُ المرغوبُ فيه مُحرَّماً.",
+         "en": "that desire drives him to seek it by every way he thinks will lead to it, many of which may be unlawful; and the thing desired may itself be unlawful."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c33",
+     "pages": [
+      351
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والرهبة: هي الخوفُ من الشيء، وإذا خاف الإنسان من شيء تسبب في دفعه عنه بكلِّ طريق يظنه دافعاً له، وقد يكون كثير منها محرَّماً.",
+         "en": "Fear is being afraid of something. When a person fears something, he sets about warding it off by every means he thinks will ward it off, and many of those means may be unlawful."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c34",
+     "pages": [
+      351
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والشهوة: هي ميلُ النفس إلى ما يُلائمها، وتلتذُّ به، وقد تميل كثيراً إلى ما هو محرَّم كالزنا والسرقة وشرب الخمر، بل وإلى الكفر والسحر والنفاق والبدع.",
+         "en": "Appetite is the soul's inclining towards what suits it and gives it pleasure. It often inclines towards what is unlawful, such as fornication, theft and drinking wine — and even towards disbelief, sorcery, hypocrisy and innovations."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c35",
+     "pages": [
+      351,
+      352
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والغضب: هو غليانُ دم القلب طلباً لدفع المؤذي عندَ خشية وقوعه، أو طلباً للانتقام ممن حصل له منه الأذى بعدَ وقوعه، وينشأ من ذلك كثيرٌ من الأفعال المحرمة كالقتل والضربِ وأنواعِ الظلم والعُدوان،",
+         "en": "Anger is the boiling of the heart's blood, seeking either to repel something harmful when one fears it will happen, or to take revenge on whoever has caused one harm after it has happened. Many unlawful deeds arise from it, such as killing, beating and every kind of injustice and aggression,"
+        },
+        {
+         "ar": "وكثيرٍ من الأقوال المحرَّمة كالقذفِ والسبِّ والفحش، وربما ارتقى إلى درجة الكفر، كما جرى لجبلة بن الأيهم، وكالأيمان التي لا يجوزُ التزامُها شرعاً، وكطلاق الزوجة الذي يُعقب الندمَ.",
+         "en": "and many unlawful words, such as false accusation of fornication, insults and obscenity. It may even rise to the level of disbelief, as happened with Jabalah ibn al-Ayham; and it leads to oaths that it is not lawful by the Sharīʿah to keep, and to divorcing one's wife, which is followed by regret."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c36",
+     "pages": [
+      352
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والواجبُ على المؤمن أنْ تكون شهوتُه مقصورةً على طلب ما أباحه الله له، وربما تناولها بنيةٍ صالحةٍ، فأثيب عليها،",
+         "en": "What is obligatory for the believer is that his appetite be confined to seeking what Allah has made permissible for him — and he may even take it with a good intention and be rewarded for it —"
+        },
+        {
+         "ar": "وأنْ يكونَ غضبه دفعاً للأذى في الدين له أو لغيره وانتقاماً ممن عصى الله ورسولَه، كما قال تعالى: {قَاتِلُوهُمْ يُعَذِّبْهُمُ اللهُ بِأَيْدِيكُمْ وَيُخْزِهِمْ وَيَنْصُرْكُمْ عَلَيْهِمْ وَيَشْفِ صُدُورَ قَوْمٍ مُؤْمِنِينَ وَيُذْهِبْ غَيْظَ قُلُوبِهِمْ}.",
+         "en": "and that his anger be for repelling harm to the religion, whether done to him or to others, and for taking revenge on whoever disobeys Allah and His Messenger, as the Exalted said: “Fight them: Allah will punish them by your hands, disgrace them, give you victory over them, heal the breasts of a believing people, and remove the rage from their hearts” [al-Tawbah 9:14–15]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c37",
+     "pages": [
+      352
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذه كانت حالَ النَّبيِّ صلى الله عليه وسلم، فإنَّه كان لا ينتقِمُ لنفسه، ولكن إذا انتهكت حرماتُ الله لم يَقُمْ لِغضبه شيء ولم يضرب بيده خادماً ولا امرأة إلا أنْ يجاهِدَ في سبيل الله.",
+         "en": "This was the state of the Prophet ﷺ. He never took revenge for himself, but when the sacred limits of Allah were violated, nothing could stand before his anger. He never struck a servant or a woman with his hand, except when fighting in the path of Allah."
+        },
+        {
+         "ar": "وخدمه أنس عشرَ سنين، فما قال له: «أفٍّ» قط، ولا قال له لشيء فعله: «لم فعلت كذا»، ولا لشيء لم يفعله: «ألا فعلت كذا».",
+         "en": "Anas served him for ten years, and he never once said “Uff!” to him, nor said of something he had done, “Why did you do that?”, nor of something he had not done, “Why did you not do that?”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c38",
+     "pages": [
+      352,
+      353
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي رواية أنَّه كان إذا لامه بعضُ أهله قال صلى الله عليه وسلم: «دعوه فلو قُضي شيءٌ كان».",
+         "en": "In one narration, when one of his family blamed Anas, he ﷺ would say: “Leave him; if something had been decreed, it would have happened.”"
+        },
+        {
+         "ar": "وفي رواية للطبراني قال أنس: خدمتُ رسولَ الله صلى الله عليه وسلم عشر سنين، فما دَرَيْتُ شيئاً قطُّ وافقه، ولا شيئاً قط خالفه رضي من الله بما كان.",
+         "en": "In a narration of al-Ṭabarānī, Anas said: I served the Messenger of Allah ﷺ for ten years, and I never knew of anything that pleased him or anything that displeased him; he was content with whatever came from Allah."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c39",
+     "pages": [
+      353
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وسئلت عائشةُ عن خُلُقِ رسول الله صلى الله عليه وسلم، فقالت: كان خُلُقُه القُرآن، تعني: أنَّه كان تأدَّب بآدابه، وتخلَّق بأخلاقه،",
+         "en": "ʿĀʾishah was asked about the character of the Messenger of Allah ﷺ, and she said: His character was the Qurʾān. She meant that he had schooled himself in its manners and taken on its traits of character,"
+        },
+        {
+         "ar": "فما مدحه القرآن، كان فيه رضاه، وما ذمه القرآنُ، كان فيه سخطه، وجاء في رواية عنها، قالت: كان خُلُقُه القُرآن يَرضى لِرضاه ويَسخَطُ لسخطه.",
+         "en": "so that what the Qurʾān praised was what pleased him, and what the Qurʾān condemned was what displeased him. In one narration from her, she said: His character was the Qurʾān: he was pleased at what it is pleased with and displeased at what it is displeased with."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c40",
+     "pages": [
+      353
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكان صلى الله عليه وسلم لِشدَّةِ حيائه لا يُواجِهُ أحداً بما يكره، بل تعرف الكراهة في وجهه،",
+         "en": "Because of his great modesty, he ﷺ would not confront anyone with something they disliked; rather, displeasure could be seen in his face,"
+        },
+        {
+         "ar": "كما في \" الصحيح \" عن أبي سعيد الخدري قال: كان النَّبيُّ صلى الله عليه وسلم أشدَّ حياءً من العذراءِ في خِدْرها،",
+         "en": "as in the Ṣaḥīḥ, where Abū Saʿīd al-Khudrī said: The Prophet ﷺ was more modest than a virgin behind her curtain,"
+        },
+        {
+         "ar": "فإذا رأى شيئاً يكرهه، عرفناه في وجهه، ولما بلَّغَه ابنُ مسعودٍ قَولَ القائل: هذه قسمة ما أريد بها وجه الله،",
+         "en": "and when he saw something he disliked, we would recognise it in his face. When Ibn Masʿūd conveyed to him what someone had said — “This is a distribution by which the Face of Allah was not sought” —"
+        },
+        {
+         "ar": "شقَّ عليه صلى الله عليه وسلم، وتَغيَّر وجهه، وغَضِبَ، ولم يَزِدْ على أنْ قال: «قد أوذِيَ موسى بأكثر من هذا فصبر».",
+         "en": "it distressed him ﷺ; his face changed and he became angry, but he said no more than: “Mūsā was harmed with more than this, and he was patient.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c41",
+     "pages": [
+      353
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكان صلى الله عليه وسلم إذا رأى، أو سَمِعَ ما يكرهه الله، غَضِبَ لذلك، وقال فيه، ولم يَسْكُتْ،",
+         "en": "When he ﷺ saw or heard something that Allah dislikes, he became angry about it and spoke about it, and did not keep silent."
+        },
+        {
+         "ar": "وقد دخل بيتَ عائشة فرأى ستراً فيه تصاويرُ، فتَلَوَّنَ وجهُهُ وهتكه، وقال: «إنَّ مِنْ أَشدِّ النَّاسِ عذاباً يومَ القيامةِ الَّذينَ يُصوِّرُونَ هذه الصُّورَ».",
+         "en": "He went into ʿĀʾishah's house and saw a curtain with images on it; his face changed colour, he tore it down and said: “Among those most severely punished on the Day of Resurrection are those who make these images.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c42",
+     "pages": [
+      354
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولما شُكِيَ إليه الإمامُ الذي يُطيل بالناس صلاته حتى يتأخرَ بعضهم عن الصَّلاة معه، غَضِبَ، واشتد غضبُه، ووَعَظَ النَّاسَ، وأمر بالتَّخفيف.",
+         "en": "When a complaint was made to him about the imam who prolonged the prayer so much that some people stayed away from praying behind him, he became angry — very angry — admonished the people and commanded that the prayer be kept light."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c43",
+     "pages": [
+      354
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولما رأى النُّخامَةَ في قبلة المسجد، تَغَيَّظ، وحكَّها، وقال: «إنَّ أحدَكُمْ إذا كان في الصَّلاةِ، فإنَّ الله حِيالَ وَجْهِهِ، فلا يَتَنخَّمَنَّ حِيال وجهه في الصَّلاةِ».",
+         "en": "When he saw phlegm on the qiblah wall of the mosque, he was enraged; he scraped it off and said: “When one of you is in prayer, Allah is in front of his face, so let him never spit phlegm in front of his face in the prayer.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c44",
+     "pages": [
+      354
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكان من دعائه صلى الله عليه وسلم: «أسألك كَلِمَة الحقِّ في الغضب والرِّضا» وهذا عزيز جداً، وهو أنَّ الإنسان لا يقول سوى الحقِّ سواء غَضِبَ أو رضي، فإنَّ أكثرَ الناس إذا غَضِبَ لا يَتوقَّفُ فيما يقول.",
+         "en": "Among his supplications ﷺ was: “I ask You for the word of truth in anger and in contentment.” This is very rare: that a person should say nothing but the truth whether he is angry or content. For most people, when angry, do not stop to think about what they say."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c45",
+     "pages": [
+      354
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الطبراني من حديث أنس مرفوعاً: «ثلاثٌ من أخلاقِ الإيمان: مَنْ إذا غَضِبَ، لم يُدخله غضبُهُ في باطلٍ، ومن إذا رَضِيَ، لم يُخرجه رضاه من حقٍّ، ومن إذا قَدَرَ، لم يتعاطَ ما ليسَ له».",
+         "en": "Al-Ṭabarānī recorded, from the hadith of Anas as marfūʿ: “Three things belong to the character of faith: one whose anger, when he is angry, does not lead him into falsehood; one whose contentment, when he is content, does not take him out of what is right; and one who, when he has power, does not reach for what is not his.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c46",
+     "pages": [
+      354,
+      355
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد روي عن النَّبيِّ صلى الله عليه وسلم: «أنَّه أخبر عن رجلين ممن كان قبلنا كان أحدُهما عابداً، وكان الآخرُ مسرفاً على نفسه،",
+         "en": "It has been narrated from the Prophet ﷺ “that he told of two men among those who came before us. One of them was a devout worshipper, and the other was given to wronging himself."
+        },
+        {
+         "ar": "فكان العابدُ يَعِظُهُ، فلا ينتهي، فرآه يوماً على ذنبٍ استعظمه، فقال: والله لا يَغفِرُ الله لك، فغفر الله للمذنب، وأحبط عملَ العابد».",
+         "en": "The worshipper used to admonish him, but he would not desist. One day he saw him committing a sin he considered grave, and said: By Allah, Allah will not forgive you. So Allah forgave the sinner and nullified the worshipper's deeds.”"
+        },
+        {
+         "ar": "وقال أبو هريرة: لقد تكلَّم بكلمة أوبقت دنياه وآخِرتَه، فكان أبو هريرة يُحَذِّرُ الناسَ أنْ يقولوا مثلَ هذه الكلمة في غضب.",
+         "en": "Abū Hurayrah said: He spoke a word that ruined his world and his Hereafter. Abū Hurayrah used to warn people against saying anything like this word in anger."
+        },
+        {
+         "ar": "وقد خرَّجه الإمامُ أحمد وأبو داود، فهذا غَضِبَ لله، ثم تكلَّم في حال غضبه لله بما لا يجوزُ، وحتم على الله بما لا يعلم، فأحبط الله عمله، فكيف بمن تكلَّم في غضبه لنفسه، ومتابعة هواه بما لا يجوز.",
+         "en": "Imam Aḥmad and Abū Dāwūd recorded it. This man was angry for Allah's sake, and then, in his anger for Allah, said something impermissible and made a binding pronouncement about Allah of which he had no knowledge, so Allah nullified his deeds. What, then, of someone who, angry for his own sake and following his own desires, says what is impermissible?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c47",
+     "pages": [
+      355
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح مسلم \" عن عِمران بن حُصين: أنَّهم كانوا مع النَّبيِّ صلى الله عليه وسلم في بعض أسفاره وامرأةٌ من الأنصار على ناقةٍ، فضَجِرَتْ، فلعَنَتها فسَمِعَ النَّبيُّ صلى الله عليه وسلم، فقال: «خذُوا مَتَاعَها ودَعُوها».",
+         "en": "In Ṣaḥīḥ Muslim, ʿImrān ibn Ḥuṣayn narrated that they were with the Prophet ﷺ on one of his journeys, and a woman of the Anṣār was riding a she-camel. The camel became restive and she cursed it. The Prophet ﷺ heard and said: “Take off what is on it and leave it.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c48",
+     "pages": [
+      355
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفيه أيضاً عن جابر قال: سِرنا مع رسول الله صلى الله عليه وسلم في غزوة ورجلٌ من الأنصارِ على ناضحٍ له، فتلدَّنَ عليه بعض التلدُّن، فقال له: سِرْ، لَعنَك الله،",
+         "en": "Also in it, Jābir said: We travelled with the Messenger of Allah ﷺ on a campaign, and a man of the Anṣār was riding a water-camel of his. It became somewhat sluggish with him, and he said to it: Go on, may Allah curse you!"
+        },
+        {
+         "ar": "فقال رسول الله صلى الله عليه وسلم: «انْزِلْ عنه، فلا تَصْحَبْنا بملعونٍ، لا تدعوا على أنفُسِكُم، ولا تدعوا على أولادكم، ولا تَدْعوا على أموالكم، لا تُوافِقوا من الله ساعةً يُسأل فيها عطاء، فيستجيب لكم».",
+         "en": "The Messenger of Allah ﷺ said: “Get off it; do not accompany us on an accursed animal. Do not pray against yourselves, do not pray against your children, and do not pray against your property, lest you coincide with an hour from Allah in which He is asked for something and He answers you.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c49",
+     "pages": [
+      355
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فهذا كله يدلُّ على أنَّ دعاء الغضبانِ قد يُجاب إذا صَادف ساعةَ إجابةٍ، وأنَّه ينهى عن الدعاء على نفسه وأهله وماله في الغضب.",
+         "en": "All of this shows that an angry man's prayer may be answered if it coincides with an hour of answering, and that one is forbidden to pray against oneself, one's family and one's property in anger."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c50",
+     "pages": [
+      356
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما ما قاله مجاهد في قوله تعالى: {وَلَوْ يُعَجِّلُ اللهُ لِلنَّاسِ الشَّرَّ اسْتِعْجَالَهُمْ بِالْخَيْرِ لَقُضِيَ إِلَيْهِمْ أَجَلُهُمْ}، قال:",
+         "en": "As for Mujāhid's comment on the words of the Exalted, “If Allah were to hasten evil for people as they would hasten good, their term would already have been decreed for them” [Yūnus 10:11], in which he said:"
+        },
+        {
+         "ar": "هو الواصِلُ لأهله وولده وماله إذا غَضِبَ عليه، قال: اللهمَّ لا تُبارِكْ فيه، اللهم العنه، يقول: لو عجل له ذلك، لأهلك مَنْ دعا عليه، فأماتَه.",
+         "en": "This is the man who is devoted to his family, children and property, and when he is angry with them he says, “O Allah, do not bless it; O Allah, curse it.” He said: This means that were that hastened for him, it would destroy whoever he prayed against and cause his death."
+        },
+        {
+         "ar": "فهذا يدلُّ على أنَّه لا يُستجاب جميعُ ما يدعو به الغضبانُ على نفسه وأهله وماله، والحديثُ دلَّ على أنَّه قد يُستجابُ لمصادفته ساعة إجابة.",
+         "en": "This shows that not everything an angry man prays for against himself, his family and his property is answered, while the hadith shows that it may be answered when it coincides with an hour of answering."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c51",
+     "pages": [
+      356
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما ما رُوي عن الفُضيل بنِ عياض قال: ثلاثةٌ لا يُلامون على غضبٍ: الصائمُ والمريضُ والمسافرُ، وعن الأحنف بن قيس قال: يوحي الله إلى الحافظين اللذين مع ابن آدم:",
+         "en": "As for what has been narrated from al-Fuḍayl ibn ʿIyāḍ — “Three are not blamed for anger: the fasting person, the sick person and the traveller” — and from al-Aḥnaf ibn Qays — “Allah reveals to the two guardian angels who are with the son of Ādam:"
+        },
+        {
+         "ar": "لا تكتبا على عبدي في ضجره شيئاً، وعن أبي عمران الجوني قال: إنَّ المريضَ إذا جزع فأذنب، قال المَلَكُ الذي على اليمين للملك الذي على الشمال: لا تكتب.",
+         "en": "Do not record anything against My servant in his irritation” — and from Abū ʿImrān al-Jawnī — “When the sick person loses patience and sins, the angel on the right says to the angel on the left: Do not record it” —"
+        },
+        {
+         "ar": "خرَّجه ابن أبي الدنيا، فهذا كلُّه لا يُعرف له أصلٌ صحيحٌ من الشرع يدلُّ عليه، والأحاديثُ التي ذكرناها من قبل تدلُّ على خلافه.",
+         "en": "Ibn Abī al-Dunyā recorded these, but none of this is known to have any sound basis in the Sharīʿah to support it, and the hadiths we mentioned earlier indicate the opposite."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c52",
+     "pages": [
+      356
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقول النَّبيِّ صلى الله عليه وسلم: «إذا غضبتَ فاسكت» يدلُّ على أنَّ الغضبانَ مُكَلَّفٌ في حال غضبه بالسكوت، فيكون حينئذٍ مؤاخذاً بالكلام، وقد صحَّ عن النَّبيِّ صلى الله عليه وسلم:",
+         "en": "The Prophet's words ﷺ, “When you are angry, keep silent,” show that the angry person is charged, while angry, with keeping silent, and so is accountable at that time for what he says. It is authentically reported from the Prophet ﷺ"
+        },
+        {
+         "ar": "أنَّه أمر من غضب أنْ يتلافى غضبَه بما يُسكنه من أقوال وأفعال، وهذا هو عينُ التكليف له بقطع الغضب، فكيف يقال: إنَّه غيرُ مكلَّف في حال غضبه بما يصدر منه.",
+         "en": "that he commanded whoever became angry to remedy his anger with words and actions that would calm it, and that is precisely to charge him with cutting off his anger. How then can it be said that, while angry, he is not answerable for what comes from him?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c53",
+     "pages": [
+      356
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال عطاءُ بنُ أبي رباح: ما أبكى العلماءَ بكاء آخرِ العمرِ من غضبة يغضبُها أحدُهُم فتهدِمُ عملَ خمسين سنة، أو ستين سنة، أو سبعين سنة، وربَّ غضبة قد أقحمت صاحبها مقحماً ما استقاله.",
+         "en": "ʿAṭāʾ ibn Abī Rabāḥ said: Nothing made the scholars weep at the end of their lives as much as a fit of anger into which one of them falls and which pulls down the work of fifty, sixty or seventy years. Many a fit of anger has plunged its owner into a predicament from which he could find no release."
+        },
+        {
+         "ar": "خرَّجه ابن أبي الدنيا.",
+         "en": "Ibn Abī al-Dunyā recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c54",
+     "pages": [
+      356,
+      357
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ثم إنَّ من قال مِن السَّلف: إنَّ الغضبان إذا كان سببُ غضبه مباحاً، كالمرض، أو السفرِ،",
+         "en": "Moreover, those of the Salaf who said that an angry man whose anger has a permissible cause, such as illness or travel,"
+        },
+        {
+         "ar": "أو طاعةٌ كالصَّوْم لا يُلام عليه إنَّما مرادُه أنَّه لا إثمَ عليه إذا كان مما يقع منه في حال الغضب كثيراً من كلام يُوجِبُ تضجراً أو سباً ونحوه كما قال صلى الله عليه وسلم:",
+         "en": "or one that is an act of obedience, such as fasting, is not to be blamed for it, meant only that he incurs no sin for the kind of thing that often comes from someone in anger — words expressing irritation, insults and the like — as he ﷺ said:"
+        },
+        {
+         "ar": "«إنَّما أنا بَشَرٌ أرضى كما يرضي البَشَرُ، وأغْضَبُ كما يَغْضَبُ البشر، فأيُّما مسلم سببتُه أو جلدتُه، فاجعلها له كفارةً».",
+         "en": "“I am only a human being: I am pleased as human beings are pleased, and I become angry as human beings become angry. So any Muslim whom I have insulted or flogged, make it an expiation for him.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c55",
+     "pages": [
+      357
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فأما ما كان من كفر، أو ردَّةٍ، أو قتل نفس، أو أخذ مالٍ بغير حقٍّ ونحو ذلك،",
+         "en": "As for disbelief, apostasy, killing, taking property without right and the like,"
+        },
+        {
+         "ar": "فهذا لا يشكُّ مسلم أنَّهم لم يُريدوا أنَّ الغضبانَ لا يُؤاخذُ به، وكذلك ما يقعُ من الغضبان من طلاقٍ وعَتاقٍ، أو يمينٍ، فإنَّه يُؤاخَذُ بذلك كُلِّه بغيرِ خلافٍ.",
+         "en": "no Muslim doubts that, in their view, the angry man is held accountable for these. Likewise, the angry man is held accountable, without disagreement, for any divorce, manumission or oath that comes from him."
+        },
+        {
+         "ar": "وفي \" مسند الإمام أحمد \" عن خويلة بنت ثعلبة امرأة أوس بن الصامت أنَّها راجعت زوجَها، فغَضِبَ، فظاهر منها،",
+         "en": "In the Musnad of Imam Aḥmad, Khuwaylah bint Thaʿlabah, the wife of Aws ibn al-Ṣāmit, answered her husband back, and he became angry and pronounced ẓihār against her [declaring her as unlawful to him as his mother]."
+        },
+        {
+         "ar": "وكان شيخاً كبيراً قد ساء خُلُقُه وضَجِرَ، وأنَّها جاءت إلى النَّبيِّ صلى الله عليه وسلم، فجعلت تشكو إليه ما تلقى من سوء خلقه، فأنزل الله آيةَ الظهار،",
+         "en": "He was a very old man whose temper had worsened and who was easily irritated. She came to the Prophet ﷺ and began complaining to him of what she suffered from his bad temper, and Allah revealed the verse of ẓihār,"
+        },
+        {
+         "ar": "وأمره رسول الله صلى الله عليه وسلم بكفارة الظِّهار في قصة طويلة، وخرَّجها ابن أبي حاتم من وجه آخر، عن أبي العالية:",
+         "en": "and the Messenger of Allah ﷺ ordered him to make the expiation for ẓihār — in a long story. Ibn Abī Ḥātim recorded it by another route, from Abū al-ʿĀliyah:"
+        },
+        {
+         "ar": "أنَّ خُويلة غضب زوجها فظاهر منها، فأتت النَّبيَّ صلى الله عليه وسلم، فأخبرته بذلك، وقالت: إنَّه لم يُرِدِ الطلاقَ، فقال النَّبيُّ صلى الله عليه وسلم:",
+         "en": "Khuwaylah's husband became angry and pronounced ẓihār against her. She came to the Prophet ﷺ and told him about it, and said: He did not intend divorce. The Prophet ﷺ said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c56",
+     "pages": [
+      357
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«ما أراكِ إلا حَرُمْتِ عليه»، وذكر القصةَ بطولها، وفي آخرها، قال: فحوَّل الله الطلاقَ، فجعله ظهاراً.",
+         "en": "“I can only think that you have become unlawful to him.” He mentioned the story in full, and at its end he said: So Allah changed the divorce and made it ẓihār."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c57",
+     "pages": [
+      357
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فهذا الرجل ظاهر في حال غضبه، وكان النَّبيُّ صلى الله عليه وسلم يرى حينئذ أنَّ الظهارَ طلاق، وقد قال: إنَّها حَرُمَتْ عليه بذلك، يعني: لزمه الطلاق، فلما جعله الله ظهاراً مكفراً ألزمه بالكفارة، ولم يُلغه.",
+         "en": "This man pronounced ẓihār while angry, and the Prophet ﷺ at that time held that ẓihār was divorce. He said that she had become unlawful to him by it — that is, that the divorce was binding on him. When Allah made it a ẓihār to be expiated, he bound him to the expiation and did not treat it as void."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c58",
+     "pages": [
+      358
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى مجاهد عن ابنِ عباس: أنَّ رجلاً قال له: إني طلقت امرأتي ثلاثاً وأنا غضبان، فقال: إنَّ ابنَ عباس لا يستطيع أنْ يُحِلَّ لك ما حرَّم الله عليك، عصيتَ ربَّك وحرمت عليك امرأتك.",
+         "en": "Mujāhid narrated from Ibn ʿAbbās that a man said to him: I divorced my wife three times while I was angry. He said: Ibn ʿAbbās cannot make lawful for you what Allah has made unlawful for you. You have disobeyed your Lord, and your wife has become unlawful to you."
+        },
+        {
+         "ar": "خرَّجه الجوزجاني والدارقطني بإسناد على شرط مسلم.",
+         "en": "Al-Jūzajānī and al-Dāraquṭnī recorded it with a chain meeting the conditions of Muslim."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c59",
+     "pages": [
+      358
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج القاضي إسماعيل بن إسحاق في كتاب \" أحكام القرآن \" بإسنادٍ صحيح عن عائشة قالت: اللغو في الأيمان ما كان في المراءِ والهزل والمزاحة،",
+         "en": "The judge Ismāʿīl ibn Isḥāq recorded in his book Aḥkām al-Qurʾān, with an authentic chain, that ʿĀʾishah said: Idle oaths are those made in argument, jest and joking,"
+        },
+        {
+         "ar": "والحديث الذي لا يعقد عليه القلب، وأيمانُ الكفارة على كُلِّ يمينٍ حلفت عليها على جدٍ من الأمر في غضب أو غيره: لَتَفْعَلنَّ أو لَتَترُكنَّ، فذلك عقدُ الأيمان فيها الكفارة.",
+         "en": "and talk to which the heart does not commit itself. An oath requiring expiation is any oath you swear about a serious matter, in anger or otherwise — “You shall certainly do it,” or “You shall certainly leave it.” That is the binding of oaths, for which expiation is due."
+        },
+        {
+         "ar": "وكذا رواه ابن وهب، عن يونس، عن الزهري، عن عروة، عن عائشة وهذا من أصحِّ الأسانيد،",
+         "en": "Ibn Wahb narrated it likewise from Yūnus, from al-Zuhrī, from ʿUrwah, from ʿĀʾishah, and this is one of the most authentic of chains."
+        },
+        {
+         "ar": "وهذا يدلُّ على أنَّ الحديث المروي عنها مرفوعاً: «لا طلاقَ ولا عتاق في إغْلاقٍ» إما أنَّه غير صحيح، أو إنَّ تفسيرَه بالغضب غيرُ صحيح.",
+         "en": "This shows that the hadith narrated from her as marfūʿ, “There is no divorce and no manumission in a state of ighlāq [constraint],” is either not authentic, or else its explanation as anger is incorrect."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c60",
+     "pages": [
+      358,
+      359
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد صحَّ عن غير واحد من الصحابة أنَّهم أفْتَوا أنَّ يمينَ الغضبان منعقدة وفيها الكفارةُ، وما روي عن ابن عباسٍ مما يُخالِفُ ذلك فلا يصحُّ إسنادُه، قال الحسنُ: طلاقُ السنة أنْ يُطلقها واحدة طاهراً من غير جماعٍ،",
+         "en": "It is authentically reported from more than one of the Companions that they ruled that the oath of an angry man is binding and requires expiation; what has been narrated from Ibn ʿAbbās to the contrary does not have an authentic chain. Al-Ḥasan said: Divorce according to the Sunnah is that he divorces her once, while she is pure and without having had intercourse with her;"
+        },
+        {
+         "ar": "وهو بالخيار ما بينه وبينَ أنْ تحيضَ ثلاث حيض، فإنْ بدا له أنْ يُراجِعَهَا كان أملكَ بذلك، فإنْ كان غضبان، ففي ثلاثِ حيض، أو في ثلاثة أشهر إنْ كانت لا تحيضُ ما يذهب غضبَهُ.",
+         "en": "he then has the choice until she has had three menstrual periods, and if he decides to take her back, he has the stronger right to do so. If he was angry, then three periods — or three months, if she does not menstruate — are enough for his anger to pass."
+        },
+        {
+         "ar": "وقال الحسن: لقد بَيَّن الله لئلا يندم أحدٌ في طلاق كما أمره الله، خرَّجه القاضي إسماعيل.",
+         "en": "Al-Ḥasan said: Allah has made it clear, so that no one who divorces as Allah commanded him should come to regret it. The judge Ismāʿīl recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h16.c61",
+     "pages": [
+      359
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد جعل كثيرٌ من العلماء الكناياتِ معَ الغضبِ كالصريح في أنَّه يقعُ بها الطلاقُ ظاهراً؛",
+         "en": "Many scholars have held that allusive expressions of divorce (kināyāt), when accompanied by anger, are like the explicit expression, in that divorce takes effect by them outwardly,"
+        },
+        {
+         "ar": "ولا يقبل تفسيرُها مع الغضبِ بغير الطلاق، ومنهم مَنْ جعل الغضب مع الكنايات كالنية، فأوقع بذلك الطلاق في الباطن أيضاً، فكيف يجعل الغضب مانعاً من وقوع صريحِ الطلاق.",
+         "en": "and an interpretation of them as meaning something other than divorce is not accepted when there is anger. Some treated anger together with allusive expressions as equivalent to intention, and so held that divorce takes effect by them inwardly as well. How then can anger be made a bar to an explicit divorce taking effect?"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}

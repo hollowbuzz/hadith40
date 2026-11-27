@@ -1,0 +1,835 @@
+{
+ "id": "h11",
+ "number": 11,
+ "standard_number": 11,
+ "collection": "nawawi",
+ "heading": {
+  "ar": "الحديث الحادي عشر",
+  "en": "Hadith 11"
+ },
+ "title": {
+  "ar": "دع ما يريبك",
+  "en": "Leave What Makes You Doubt"
+ },
+ "pages": {
+  "start": 260,
+  "end": 267
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.n1",
+     "pages": [
+      260
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنِ الحَسَنِ بن علي سِبْطِ رَسُولِ الله صلى الله عليه وسلم ورَيحَانَتِهِ رضي الله عنه قال: حَفِظْتُ مِنْ رسولِ الله صلى الله عليه وسلم: «دَعْ ما يريبُكَ إلى ما لَا يرِيبُكَ».",
+         "en": "From al-Ḥasan ibn ʿAlī, the grandson of the Messenger of Allah ﷺ and his sweet basil (may Allah be pleased with him), who said: I memorised from the Messenger of Allah ﷺ: “Leave what makes you doubt for what does not make you doubt.”"
+        },
+        {
+         "ar": "رواه النسائي والترمِذيُّ، وقال: حَسَنٌ صحيحٌ.",
+         "en": "Reported by al-Nasāʾī and al-Tirmidhī, who said: good and authentic (ḥasan ṣaḥīḥ)."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c1",
+     "pages": [
+      260
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "هذا الحديث خرّجه الإمام أحمد، والترمذي، والنسائي، وابنُ حبان في \" صحيحه \" والحاكم من حديث بُريد بن أبي مريم، عن أبي الحوراء، عن الحسن ابن عليٍّ، وصححه الترمذي، وأبو الحوراء السَّعدي،",
+         "en": "This hadith was recorded by Imam Aḥmad, al-Tirmidhī, al-Nasāʾī, Ibn Ḥibbān in his Ṣaḥīḥ, and al-Ḥākim, from the hadith of Burayd ibn Abī Maryam, from Abū al-Ḥawrāʾ, from al-Ḥasan ibn ʿAlī; al-Tirmidhī graded it authentic. As for Abū al-Ḥawrāʾ al-Saʿdī,"
+        },
+        {
+         "ar": "قال الأكثرون: اسمه ربيعةُ بنُ شيبان، ووثقه النسائي وابن حبان، وتوقف أحمد في أنَّ أبا الحوراء اسمه ربيعةُ بن شيبان، ومال إلى التفرقة بينهما، وقال الجوزجاني: أبو الحوراء مجهول لا يعرف.",
+         "en": "most say that his name was Rabīʿah ibn Shaybān, and al-Nasāʾī and Ibn Ḥibbān declared him reliable. Aḥmad hesitated over whether Abū al-Ḥawrāʾ was Rabīʿah ibn Shaybān, and inclined to distinguish the two; and al-Jūzajānī said: Abū al-Ḥawrāʾ is unknown; no one knows him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c2",
+     "pages": [
+      260
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذا الحديثُ قطعة من حديثٍ طويلٍ فيه ذكر قنوت الوتر، وعند الترمذي وغيره زيادة في هذا الحديث وهي: «فإنَّ الصِّدق طُمأنينة، وإنَّ الكذبَ ريبةٌ»، ولفظ ابنِ حبان: «فإنَّ الخيرَ طمأنينةٌ، وإنَّ الشرَّ ريبةٌ».",
+         "en": "This hadith is part of a long hadith that mentions the qunūt of witr. Al-Tirmidhī and others have an addition to it: “For truthfulness is tranquillity, and falsehood is doubt.” Ibn Ḥibbān's wording is: “For good is tranquillity, and evil is doubt.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c3",
+     "pages": [
+      260
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد خرّجه الإمامُ أحمد بإسنادٍ فيه جهالة عن أنس، عن النَّبيِّ صلى الله عليه وسلم قال :",
+         "en": "Imam Aḥmad recorded it, with a chain containing an unknown narrator, from Anas, that the Prophet ﷺ said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c4",
+     "pages": [
+      260
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«دَعْ ما يريبُك إلى ما لا يريبُك» وخرَّجه من وجهٍ آخر أجود منه موقوفاً على أنس.",
+         "en": "“Leave what makes you doubt for what does not make you doubt.” He also recorded it by another, better route as mawqūf (the words of Anas himself)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c5",
+     "pages": [
+      261
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرّجه الطبراني من رواية مالك، عن نافع، عن ابن عمر مرفوعاً، قال الدارقطني:",
+         "en": "Al-Ṭabarānī recorded it in the narration of Mālik, from Nāfiʿ, from Ibn ʿUmar, as marfūʿ (the Prophet's words). Al-Dāraquṭnī said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c6",
+     "pages": [
+      261
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وإنَّما يُروى هذا من قول ابنِ عمر، وعن عمر، ويُروى عن مالك من قوله. انتهى.",
+         "en": "It is narrated only as the words of Ibn ʿUmar, and from ʿUmar, and it is narrated from Mālik as his own words. End of quotation."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c7",
+     "pages": [
+      261
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويروى بإسنادٍ ضعيف، عن عثمان بنِ عطاء الخراساني - وهو ضعيف - عن أبيه، عن الحسن، عن أبي هريرة،",
+         "en": "It is narrated with a weak chain from ʿUthmān ibn ʿAṭāʾ al-Khurāsānī — who is weak — from his father, from al-Ḥasan, from Abū Hurayrah,"
+        },
+        {
+         "ar": "عنِ النَّبيِّ صلى الله عليه وسلم: أنَّه قال لرجل: «دَعْ ما يريبُكَ إلى ما لا يريبُكَ»، قال: وكيف لي بالعلم بذلك؟",
+         "en": "that the Prophet ﷺ said to a man: “Leave what makes you doubt for what does not make you doubt.” He said: And how am I to know that?"
+        },
+        {
+         "ar": "قال: «إذا أردتَ أمراً، فضع يَدَكَ على صدرِكَ، فإنَّ القلبَ يضطرب للحرام، ويسكن للحلال، وإنَّ المسلم الورعَ يدع الصغيرةَ مخافةَ الكبيرة».",
+         "en": "He said: “When you intend something, put your hand on your chest, for the heart is troubled by the unlawful and at rest with the lawful; and the scrupulous Muslim leaves a small sin for fear of a great one.”"
+        },
+        {
+         "ar": "وقد رُوي عن عطاء الخراساني مرسلاً.",
+         "en": "It is also narrated from ʿAṭāʾ al-Khurāsānī as a mursal report."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c8",
+     "pages": [
+      261
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرّج الطبراني نحوه بإسناد ضعيف عن واثلة بن الأسقع، عن النَّبيِّ صلى الله عليه وسلم، وزاد فيه: قيل له: فمن الورعُ؟",
+         "en": "Al-Ṭabarānī recorded something similar, with a weak chain, from Wāthilah ibn al-Asqaʿ, from the Prophet ﷺ, with the addition: He was asked: Then who is the scrupulous one?"
+        },
+        {
+         "ar": "قال: «الذي يقف عند الشبهة».",
+         "en": "He said: “The one who stops at what is doubtful.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c9",
+     "pages": [
+      261
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد روي هذا الكلام موقوفاً على جماعة من الصحابة: منهم عُمَرُ، وابنُ عمرَ، وأبو الدرداء، وعن ابن مسعود، قال: ما تريدُ إلى ما يريبُكَ وحولَك أربعةُ آلاف لا تريبُكَ؟!",
+         "en": "These words have also been narrated as mawqūf sayings of a number of Companions, among them ʿUmar, Ibn ʿUmar and Abū al-Dardāʾ. Ibn Masʿūd said: Why would you want what makes you doubt, when around you are four thousand things that do not make you doubt?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c10",
+     "pages": [
+      261
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال عمر: دَعُوا الرِّبا والرِّيبة، يعني: ما ارتبتم فيه، وإنْ لم تتحققوا أنَّه رِباً.",
+         "en": "ʿUmar said: Leave usury and what is dubious (rībah) — meaning whatever you have doubts about, even if you are not sure that it is usury."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c11",
+     "pages": [
+      261,
+      262
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومعنى هذا الحديث يرجع إلى الوقوف عند الشبهات واتقائها، فإنَّ الحلالَ المحض لا يَحْصُلُ لمؤمن في قلبه منه ريب - والريب:",
+         "en": "The meaning of this hadith comes down to stopping at doubtful matters and guarding against them. For the purely lawful produces no unease (rayb) in a believer's heart — rayb"
+        },
+        {
+         "ar": "بمعنى القلق والاضطراب - بل تسكن إليه النفسُ، ويطمئن به القلبُ، وأما المشتبهات فيَحْصُل بها للقلوب القلقُ والاضطرابُ الموجب للشك.",
+         "en": "meaning disquiet and agitation; rather, the soul is at rest with it and the heart is tranquil with it. Doubtful things, on the other hand, produce in hearts the disquiet and agitation that give rise to doubt."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c12",
+     "pages": [
+      262
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أبو عبد الرحمان العمري الزاهد: إذا كان العبدُ ورعاً، ترك ما يريبه إلى ما لا يريبُه.",
+         "en": "Abū ʿAbd al-Raḥmān al-ʿUmarī the ascetic said: When a servant is scrupulous, he leaves what makes him doubt for what does not make him doubt."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c13",
+     "pages": [
+      262
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الفضيلُ: يزعم الناسُ أنَّ الورعَ شديدٌ، وما ورد عليَّ أمران إلا أخذتُ بأشدِّهما، فدع ما يريبُك إلى ما لا يريبُك.",
+         "en": "Al-Fuḍayl said: People claim that scrupulousness is hard; yet whenever two matters have come to me, I have taken the harder of the two. So leave what makes you doubt for what does not make you doubt."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c14",
+     "pages": [
+      262
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال حسّانُ بن أبي سنان: ما شيء أهون من الورع، إذا رابك شيء فدعه.",
+         "en": "Ḥassān ibn Abī Sinān said: Nothing is easier than scrupulousness: if something makes you doubt, leave it."
+        },
+        {
+         "ar": "وهذا إنَّما يسهل على مثل حسّان رحمه الله.",
+         "en": "But this is easy only for the likes of Ḥassān (may Allah have mercy on him)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c15",
+     "pages": [
+      262
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال ابن المبارك: كتب غلامٌ لحسّانَ بن أبي سنان إليه من الأهواز: إنَّ قَصَبَ السكر أصابته آفةٌ، فاشتر السكر فيما قِبَلَكَ، فاشتراه من رجل،",
+         "en": "Ibn al-Mubārak said: An agent of Ḥassān ibn Abī Sinān wrote to him from al-Ahwāz: The sugar cane has been struck by blight, so buy up sugar where you are. He bought it from a man,"
+        },
+        {
+         "ar": "فلم يأتِ عليه إلا قليلٌ فإذا فيما اشتراه ربحَ ثلاثين ألفاً، قال: فأتى صاحبَ السُّكرِ، فقال: يا هذا إنَّ غلامي كان قد كتب إليَّ،",
+         "en": "and before long there was a profit of thirty thousand on what he had bought. He went to the owner of the sugar and said: My man had written to me,"
+        },
+        {
+         "ar": "فلم أُعْلِمكَ، فأَقِلْني فيما اشتريتُ منك، فقال له الآخر: قد أعلمتني الآن، وقد طَيَّبْتُه لك، قال: فرجع فلم يحتمل قَلْبُهُ، فأتاه، فقال:",
+         "en": "and I did not tell you; so cancel the sale I made with you. The other said to him: You have told me now, and I have made it lawful for you. He went back, but his heart could not bear it, so he went to him again and said:"
+        },
+        {
+         "ar": "يا هذا إني لم آتِ هذا الأمر من قبل وجهه، فأُحبُّ أنْ تستردَّ هذا البَيع، قال: فما زال به حتى ردَّ عليه.",
+         "en": "I did not come at this matter in the proper way, and I would like you to take this sale back. He kept at him until the man took it back."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c16",
+     "pages": [
+      262
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكان يونُس بنُ عبيد إذا طُلِبَ المتاعُ ونَفَقَ، وأرسل يشتريه يقول لمن يشتري له: أَعْلِمْ من تشتري منه أنَّ المتاعَ قد طُلِبَ.",
+         "en": "When there was demand for goods and they were selling well, and Yūnus ibn ʿUbayd sent someone to buy them, he would tell the person buying for him: Let the one you buy from know that the goods are in demand."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c17",
+     "pages": [
+      262
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال هشامُ بنُ حسّان: ترك محمدُ بن سيرين أربعين ألفاً فيما لا ترون به اليومَ بأساً.",
+         "en": "Hishām ibn Ḥassān said: Muḥammad ibn Sīrīn gave up forty thousand over something in which you today see no harm."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c18",
+     "pages": [
+      262,
+      263
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكان الحجاج بنُ دينار قد بعث طعاماً إلى البصرة مع رجلٍ وأمره أنْ يبيعه يَوْمَ يدخل بسعر يومه، فأتاه كتابه: أني قدمت البصرة، فوجدتُ الطعام مبغَّضاً فحبستُه، فزاد الطعامُ،",
+         "en": "Al-Ḥajjāj ibn Dīnār sent grain to al-Baṣrah with a man and told him to sell it on the day he arrived, at that day's price. Then a letter came from the man: I reached al-Baṣrah and found grain in poor demand, so I held it back. The price of grain then rose,"
+        },
+        {
+         "ar": "فازددتُ فيه كذا وكذا، فكتب إليه الحجاج: إنَّك قد خُنتنا، وعملتَ بخلافِ ما أمرناك به، فإذا أتاك كتابي، فتصدَّق بجميع ثمن ذَلِكَ الطعام على فقراء البصرة، فليتني أسلم إذا فعلتَ ذلك.",
+         "en": "and I made such-and-such more on it. Al-Ḥajjāj wrote to him: You have betrayed us and acted against what we told you. When my letter reaches you, give the entire price of that grain in charity to the poor of al-Baṣrah — and I only wish I may come out of it safe once you have done so."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c19",
+     "pages": [
+      263
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وتنَزَّه يزيدُ بنُ زُريع عن خمس مئة ألف من ميراث أبيه، فلم يأخذه، وكان أبوه يلي الأعمال للسلاطين، وكان يزيدُ يعملُ الخُوص، ويتقوَّتُ منه إلى أنْ مات رحمه الله.",
+         "en": "Yazīd ibn Zurayʿ kept himself clear of five hundred thousand from his father's inheritance and did not take it, because his father used to hold offices for the rulers. Yazīd used to weave palm leaves and lived on that until he died (may Allah have mercy on him)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c20",
+     "pages": [
+      263
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكان المِسْوَرُ بنُ مَخرَمَةَ قد احتكر طعاماً كثيراً، فرأى سحاباً في الخريف فكرهه، فقال: ألا أُراني قد كرهت ما يَنفعُ المسلمين؟",
+         "en": "Al-Miswar ibn Makhramah had hoarded a great deal of grain. He saw clouds in the autumn and disliked the sight, and said: Do I not see that I have come to dislike what benefits the Muslims?"
+        },
+        {
+         "ar": "فآلى أنْ لا يربحَ فيه شيئاً، فأخبر بذلك عمر بن الخطاب، فقال له عمر: جزاك الله خيراً.",
+         "en": "So he swore that he would make no profit from it at all. ʿUmar ibn al-Khaṭṭāb was told of this, and ʿUmar said to him: May Allah reward you with good."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c21",
+     "pages": [
+      263
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي هذا أنَّ المحتكر ينبغي له التنَزُّه عن ربح ما احتكره احتكاراً منهياً عنه.",
+         "en": "This shows that a hoarder should keep himself clear of the profit on what he has hoarded in a forbidden way."
+        },
+        {
+         "ar": "وقد نصَّ الإمامُ أحمد رحمه الله على التنزُّه عن ربح ما لم يدخل في ضمانه لِدخوله في ربح ما لم يضمن،",
+         "en": "Imam Aḥmad (may Allah have mercy on him) stated explicitly that one should keep clear of profit on what has not come under one's liability, since it falls under profit on what one has not guaranteed,"
+        },
+        {
+         "ar": "وقد نهى عنه النَّبيُّ صلى الله عليه وسلم، فقال أحمد في رواية عنه فيمن أجَّر ما استأجره بربحٍ: إنَّه يتصدَّق بالربح،",
+         "en": "which the Prophet ﷺ forbade. In one reported position, Aḥmad said about someone who leases out at a profit what he has himself leased: He gives the profit in charity."
+        },
+        {
+         "ar": "وقال في رواية عنه في ربح مال المضاربة إذا خالف فيه المضارب: إنَّه يتصدق به،",
+         "en": "In another reported position he said about the profit on capital in a muḍārabah partnership when the working partner has gone against its terms: He gives it in charity."
+        },
+        {
+         "ar": "وقال في رواية عنه فيما إذا اشترى ثمرة قبل بدو صلاحها بشرط القطع، ثم تركها حتّى بدا صلاحها: إنَّه يتصدَّق بالزيادة، وحمله طائفة من أصحابنا على الاستحباب؛",
+         "en": "In another he said about someone who buys fruit before it is ripe on condition that it be cut, and then leaves it until it ripens: He gives the increase in charity. A group of scholars of our school took this as recommended,"
+        },
+        {
+         "ar": "لأنَّ الصدقة بالشبهات مستحب.",
+         "en": "because giving away doubtful things in charity is recommended."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c22",
+     "pages": [
+      263,
+      264
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروي عن عائشة رضي الله عنها: أنَّها سُئِلَتْ عن أكل الصيدِ للمحرم، فقالت: إنَّما هي أيامٌ قلائل فما رابك فدعه، يعني:",
+         "en": "It is narrated that ʿĀʾishah (may Allah be pleased with her) was asked about someone in iḥrām eating game, and said: They are only a few days, so whatever makes you doubt, leave it — meaning:"
+        },
+        {
+         "ar": "ما اشتبه عليك، هل هو حلال أو حرام، فاتركه، فإنَّ الناسَ اختلفوا في إباحة أكل الصيد للمحرم إذا لم يَصِدْه هُوَ.",
+         "en": "whatever you are unsure of, whether it is lawful or unlawful, leave it. For people have differed over whether someone in iḥrām may eat game that he did not hunt himself."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c23",
+     "pages": [
+      264
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد يستدلُّ بهذا على أنَّ الخروج من اختلاف العلماء أفضلُ؛",
+         "en": "This may be cited as evidence that keeping clear of scholarly disagreement is better,"
+        },
+        {
+         "ar": "لأنَّه أبعدُ عن الشبهة، ولكن المحققون من العلماء من أصحابنا وغيرهم على أنَّ هذا ليس هو على إطلاقه،",
+         "en": "because it is further from doubt. But the scholars who examine things closely, of our school and others, hold that this is not unrestricted,"
+        },
+        {
+         "ar": "فإنَّ من مسائل الاختلاف ما ثبت فيه عن النَّبيِّ صلى الله عليه وسلم رخصة ليس لها معارض، فاتباعُ تلك الرخصة أولى من اجتنابها، وإنْ لم تكن تلك الرخصة بلغت بعضَ العلماء،",
+         "en": "for among disputed questions are some in which a concession is established from the Prophet ﷺ with nothing opposing it; following that concession is better than avoiding it, even if it did not reach some scholars,"
+        },
+        {
+         "ar": "فامتنع منها لذلك، وهذا كمن تَيَقَّن الطهارة، وشكَّ في الحدث، فإنَّه صحَّ عن النَّبيِّ صلى الله عليه وسلم أنَّه قال:",
+         "en": "who refrained from it for that reason. An example is someone who is certain of his purity and doubts whether he has become impure; for it is authentically reported that the Prophet ﷺ said:"
+        },
+        {
+         "ar": "«لا يَنْصَرِف حتّى يَسمع صوتاً أو يَجِدَ ريحاً» ولا سيما إنْ كان شكُّه في الصلاة، فإنَّه لا يجوز له قطعُها لِصحة النهي عنه، وإنْ كان بعض العلماء يوجب ذلك.",
+         "en": "“He should not leave until he hears a sound or smells a smell” — especially if his doubt arises during the prayer, for he may not break it off, since the prohibition of that is authentic, even though some scholars make it obligatory."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c24",
+     "pages": [
+      264
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وإنْ كان للرخصة معارض، إما من سنة أخرى، أو من عمل الأُمَّةِ بخلافها، فالأولى تركُ العمل بها، وكذا لو كان قد عمل بها شذوذٌ من الناس، واشتهر في الأمة العملُ بخلافها في أمصار المسلمين من عهد الصحابة،",
+         "en": "If the concession has something opposing it, whether another Sunnah or the practice of the Ummah to the contrary, it is better not to act on it. The same holds if a few isolated people acted on it while the contrary practice was widespread in the Ummah, in the lands of the Muslims, from the time of the Companions;"
+        },
+        {
+         "ar": "فإنَّ الأخذ بما عليه عملُ المسلمين هو المتعيَّنُ، فإنَّ هذه الأمة قد أجارها الله أنْ يظهر أهلُ باطلها على أهل حَقِّها، فما ظهر العملُ به في القرون الثلاثة المفضلة، فهو الحقُّ، وما عداه فهو باطل.",
+         "en": "for then adopting what the Muslims practise is the only course, since Allah has protected this Ummah from having the people of falsehood within it prevail over the people of truth. Whatever practice prevailed in the three excellent generations is the truth, and anything else is falsehood."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c25",
+     "pages": [
+      265
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهاهنا أمر ينبغي التفطنُ له وهو أنَّ التدقيقَ في التوقف عن الشبهات إنَّما يَصْلُحُ لمن استقامت أحواله كلها،",
+         "en": "There is a point here that should be noted: exactitude in holding back from doubtful matters is fitting only for someone whose states are all upright"
+        },
+        {
+         "ar": "وتشابهت أعمالُه في التقوى والورع، فأما مَنْ يقع في انتهاك المحرَّمات الظاهرة، ثم يريد أنْ يتورَّعَ عن شيء من دقائق الشُّبَهِ،",
+         "en": "and whose deeds are of a piece in taqwā and scrupulousness. As for someone who indulges in violating manifest prohibitions and then wants to be scrupulous about some subtle doubtful matter,"
+        },
+        {
+         "ar": "فإنَّه لا يحتمل له ذلك، بل يُنكر عليه، كما قال ابنُ عمر لمن سأله عن دم البعوض من أهل العراق: يسألونني عن دم البعوض وقد قتلُوا الحسين، وسمعتُ النَّبيَّ صلى الله عليه وسلم يقول: «هُمَا رَيحَانَتاي من الدُّنيا».",
+         "en": "that is not to be borne from him; on the contrary, he is to be rebuked for it. As Ibn ʿUmar said of the people of Iraq, when one of them asked him about the blood of mosquitoes: They ask me about the blood of mosquitoes when they have killed al-Ḥusayn! And I heard the Prophet ﷺ say: “They are my two sweet basils from this world.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c26",
+     "pages": [
+      265
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وسأل رجلٌ بشرَ بنَ الحارث عن رجلٍ له زوجةٌ وأُمَّه تأمره بطلاقها، فقال: إنْ كان بَرَّ أمه في كُلِّ شيءٍ،",
+         "en": "A man asked Bishr ibn al-Ḥārith about a man who has a wife and whose mother tells him to divorce her. He said: If he has been dutiful to his mother in everything,"
+        },
+        {
+         "ar": "ولم يبق من برِّها إلا طلاقُ زوجته فليفعلْ، وإنْ كان يَبَرُّها بطلاق زوجته، ثم يقوم بعد ذلك إلى أُمِّه، فيضربها، فلا يفعل.",
+         "en": "and nothing of his duty to her remains but divorcing his wife, let him do it. But if he is dutiful to her by divorcing his wife and then afterwards goes and beats his mother, he should not do it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c27",
+     "pages": [
+      265
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وسئل الإمامُ أحمد رحمه الله عن رجلٍ يشتري بقلاً، ويشترط الخُوصة، يعني: التي تربط بها جُرْزَةُ البقل، فقال أحمد: أيش هذه المسائل؟!",
+         "en": "Imam Aḥmad (may Allah have mercy on him) was asked about a man who buys greens and stipulates that the palm-leaf strip be included — meaning the one with which the bunch of greens is tied. Aḥmad said: What sort of questions are these?!"
+        },
+        {
+         "ar": "قيل لهُ: إنَّه إبراهيمَ بن أبي نعيم، فقال أحمد: إنْ كان إبراهيمُ بنُ أبي نعيم، فنعم هذا يُشبه ذاك.",
+         "en": "He was told: It is Ibrāhīm ibn Abī Nuʿaym who asks. Aḥmad said: If it is Ibrāhīm ibn Abī Nuʿaym, then yes: this suits a man like him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c28",
+     "pages": [
+      265
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وإنَّما أنكر هذه المسائل ممن لا يشبه حاله، وأما أهل التدقيق في الورع فيشبه حالهم هذا،",
+         "en": "He objected to such questions only from someone whose state did not match them; for the people of exacting scrupulousness, this does match their state."
+        },
+        {
+         "ar": "وقد كان الإمام أحمد نفسه يستعمل في نفسه هذا الورع، فإنَّه أمر من يشتري له سمناً، فجاء به على ورقة، فأمر بردِّ الورقة إلى البائع.",
+         "en": "Imam Aḥmad himself practised this scrupulousness. He once told someone to buy him some ghee, and the man brought it on a leaf, so he ordered the leaf to be returned to the seller."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c29",
+     "pages": [
+      265,
+      266
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكان الإمام أحمد لا يستمدُّ من محابر أصحابه، وإنَّما يُخرج معه محبرَةً يستمدُّ منها، واستأذنه رجل أنْ يكتب من محبرته، فقال له: اكتب فهذا ورع مظلم، واستأذن رجل آخر في ذلك فتبسَّم، وقال:",
+         "en": "Imam Aḥmad would not dip his pen in his companions' inkwells; he would bring out his own inkwell and dip from that. A man asked his permission to write from his inkwell, and he said to him: Write — this is a dark kind of scrupulousness. Another man asked his permission for the same, and he smiled and said:"
+        },
+        {
+         "ar": "لم يبلغ ورعي ولا ورعك هذا، وهذا قاله على وجه التواضع وإلا فهو كان في نفسه يستعمل هذا الورع،",
+         "en": "Neither my scrupulousness nor yours has reached this. He said this out of humility; in fact he practised this scrupulousness himself,"
+        },
+        {
+         "ar": "وكان يُنكِرُه على من لم يَصِلْ إلى هذا المقام، بل يتسامحُ في المكروهات الظاهرة، ويقدم على الشبهات من غير توقف.",
+         "en": "but he objected to it from someone who had not reached that station but was lax about manifest disliked things and rushed into doubtful matters without hesitation."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c30",
+     "pages": [
+      266
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله صلى الله عليه وسلم: «فإنَّ الخيرَ طُمأنينة وإنَّ الشرَّ ريبة» يعني: أنَّ الخيرَ تطمئنُّ به القلوبُ، والشرَّ ترتابُ به، ولا تطمئنُّ إليه،",
+         "en": "His words ﷺ, “For good is tranquillity and evil is doubt,” mean that hearts are tranquil with good, while evil makes them uneasy and they find no tranquillity in it."
+        },
+        {
+         "ar": "وفي هذا إشارة إلى الرجوع إلى القلوب عند الاشتباه، وسيأتي مزيدٌ لهذا الكلام على حديث النَّواس بن سمعان إنْ شاء الله تعالى.",
+         "en": "This points to referring to one's heart when things are unclear. More will be said on this under the hadith of al-Nawwās ibn Samʿān, if Allah the Exalted wills."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c31",
+     "pages": [
+      266
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج ابنُ جرير بإسناده عن قتادة، عن بشير بن كعب: أنَّه قرأ هذه الآية:",
+         "en": "Ibn Jarīr recorded with his chain from Qatādah, from Bushayr ibn Kaʿb, that he recited this verse:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c32",
+     "pages": [
+      266
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "{فامشُوا في منَاكبِها} ثم قال لجاريته: إنْ دَرَيْتِ ما مناكِبُها، فأنت حُرَّةٌ لوجه الله، قالت: مناكبُها: جبالُها، فكأنَّما سُفِعَ في وجهه، ورغب في جاريته،",
+         "en": "“So walk through its tracts (manākib)” [al-Mulk 67:15]. Then he said to his slave girl: If you know what its manākib are, you are free for the sake of Allah. She said: Its manākib are its mountains. His face fell as if he had been struck, for he wanted to keep his slave girl,"
+        },
+        {
+         "ar": "فسألهم، فمنهم من أمره، ومنهم من نهاه، فسأل أبا الدرداء، فقال: الخيرُ طمأنينة والشر ريبة، فذَرْ ما يريبك إلى ما لا يريبك.",
+         "en": "so he asked people about it; some told him to free her and some told him not to. Then he asked Abū al-Dardāʾ, who said: Good is tranquillity and evil is doubt; so leave what makes you doubt for what does not make you doubt."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c33",
+     "pages": [
+      266
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله في الرواية الأخرى: «إنَّ الصدقَ طمأنينةٌ، وإنَّ الكذبَ ريبةٌ» يشير إلى أنَّه لا ينبغي الاعتمادُ على قول كلِّ قائلٍ كما قال في حديث وابصة:",
+         "en": "His words in the other narration, “Truthfulness is tranquillity and falsehood is doubt,” indicate that one should not rely on what just anyone says, as he said in the hadith of Wābiṣah:"
+        },
+        {
+         "ar": "«وإنْ أفتاك الناسُ وأفتوكَ» وإنَّما يُعْتَمَدُ على قولِ مَنْ يقول الصدقَ، وعلامةُ الصدق أنَّه تطمئن به القلوبُ، وعلامة الكذب أنَّه تحصل به الريبةُ، فلا تسكن القلوبُ إليه، بل تَنفِرُ منه.",
+         "en": "“…even if people give you a fatwa, and give you a fatwa.” One should rely only on the words of someone who speaks the truth. The sign of truth is that hearts are tranquil with it, and the sign of falsehood is that it produces doubt, so that hearts do not rest with it but recoil from it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c34",
+     "pages": [
+      266
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن هنا كان العقلاء في عهد النَّبيِّ صلى الله عليه وسلم إذا سمعوا كلامَه وما يدعو إليه، عرفوا أنَّه صادق، وأنَّه جاء بالحق، وإذا سمعوا كلامَ مسيلمة، عرفوا أنَّه كاذب،",
+         "en": "That is why, in the time of the Prophet ﷺ, intelligent people who heard his words and what he called to knew that he was truthful and had brought the truth; and when they heard the words of Musaylimah they knew that he was lying"
+        },
+        {
+         "ar": "وأنَّه جاء بالباطل، وقد رُوي أنَّ عمرو بن العاص سمعه قبلَ إسلامه يَدَّعي أنَّه أُنْزِلَ عليه: يا وَبْرُ يا وَبْرُ، لَكِ أذنان وصَدْر، وإنَّك لتعلم يا عمرو، فقال: والله إني لأعلم أنَّك تَكْذِبُ.",
+         "en": "and had brought falsehood. It is narrated that ʿAmr ibn al-ʿĀṣ, before he became Muslim, heard him claim that this had been revealed to him: “O hyrax, O hyrax, you have two ears and a chest,” and [he added]: “You surely know, ʿAmr.” ʿAmr said: By Allah, I know that you are lying."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c35",
+     "pages": [
+      267
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال بعضُ المتقدمين: صوِّرْ ما شئتَ في قلبك، وتفكر فيه، ثم قِسه إلى ضدِّه، فإنَّك إذا ميَّزْتَ بينهما، عرفتَ الحقَّ من الباطل، والصدقَ من الكذب، قال: كأنَّك تَصَوَّرُ محمداً صلى الله عليه وسلم،",
+         "en": "One of the early scholars said: Picture in your heart whatever you wish and reflect on it, then set it against its opposite; when you distinguish between the two, you will know truth from falsehood and truthfulness from lying. He said: For instance, you picture Muḥammad ﷺ"
+        },
+        {
+         "ar": "ثم تتفكر فيما أتى به من القرآن فتقرأ {إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالأَرْضِ وَاخْتِلافِ اللَّيْلِ وَالنَّهَارِ وَالْفُلْكِ الَّتِي تَجْرِي فِي الْبَحْرِ بِمَا يَنْفَعُ النَّاسَ}،",
+         "en": "and then reflect on the Qurʾān he brought, and recite: “In the creation of the heavens and the earth, the alternation of night and day, and the ships that sail the sea with what benefits people…” [al-Baqarah 2:164];"
+        },
+        {
+         "ar": "ثم تَتَصوَّرُ ضِدَّ محمد صلى الله عليه وسلم، فتجده مسيلمة، فتتفكر فيما جاء به فتقرأ:",
+         "en": "then you picture the opposite of Muḥammad ﷺ and find it to be Musaylimah, and reflect on what he brought, and recite:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c36",
+     "pages": [
+      267
+     ],
+     "paragraphs": [
+      {
+       "kind": "verse",
+       "segments": [
+        {
+         "ar": "ألا يَا رَبَّة المَخْدَع … قَدْ هُيئ لَكِ المَضْجَعْ",
+         "en": "Come, lady of the inner chamber, / the bed has been made ready for you!"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h11.c37",
+     "pages": [
+      267
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "يعني قوله لِسجاح حين تزوَّج بها، قال: فترى هذا - يعني: القرآن - رصيناً عجيباً، يلوطُ بالقلب، ويَحْسُنُ في السمع،",
+         "en": "These were his words to Sajāḥ when he married her. He said: You find this — meaning the Qurʾān — firm and wondrous, clinging to the heart and beautiful to the ear;"
+        },
+        {
+         "ar": "وترى ذا - يعني: قول مسيلمة - بارداً غثَّاً فاحشاً، فتعلم أنَّ محمداً حقا أُتِي بوحي، وأنَّ مسيلمة كذَّاب أُتِيَ بباطل.",
+         "en": "and you find that — meaning Musaylimah's words — cold, insipid and obscene. Then you know that Muḥammad was truly given revelation, and that Musaylimah was a liar who was given falsehood."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}

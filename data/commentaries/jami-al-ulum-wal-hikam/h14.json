@@ -1,0 +1,1749 @@
+{
+ "id": "h14",
+ "number": 14,
+ "standard_number": 14,
+ "collection": "nawawi",
+ "heading": {
+  "ar": "الحديث الرابع عشر",
+  "en": "Hadith 14"
+ },
+ "title": {
+  "ar": "حرمة دم المسلم",
+  "en": "The Sanctity of a Muslim’s Blood"
+ },
+ "pages": {
+  "start": 291,
+  "end": 313
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.n1",
+     "pages": [
+      291
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنْ عبدِ الله بن مَسعودٍ رضي الله عنه قالَ: قالَ رَسولُ الله صلى الله عليه وسلم: «لا يَحِلُّ دَمُ امرِئٍ مُسلِمٍ إلاَّ بِإحْدَى ثَلاثٍ: الثَّيِّبُ الزَّانِي، والنَّفسُ بالنَّفسِ، والتَّارِكُ لِدينِهِ المُفارِقُ لِلجماعَةِ».",
+         "en": "ʿAbdullāh ibn Masʿūd (may Allah be pleased with him) reported that the Messenger of Allah ﷺ said: “The blood of a Muslim is not lawful except in one of three cases: the married adulterer, a life for a life, and the one who abandons his religion and separates from the community.”"
+        },
+        {
+         "ar": "رواهُ البُخاريُّ ومُسلمٌ.",
+         "en": "Al-Bukhārī and Muslim reported it."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c1",
+     "pages": [
+      291
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "هذا الحديث خرّجاه في \" الصحيحين \" من رواية الأعمش، عن عبد الله بن مرة، عن مسروق، عن ابن مسعود، وفي رواية لمسلم: «التارك للإسلام» بدل قوله: «لدينه».",
+         "en": "This hadith is recorded in the two Ṣaḥīḥs by way of al-Aʿmash, from ʿAbdullāh ibn Murrah, from Masrūq, from Ibn Masʿūd. One narration of Muslim's has “the one who abandons Islam” in place of “his religion”."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c2",
+     "pages": [
+      291
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي هذا المعنى أحاديثُ متعددة: فخرَّج مسلم من حديث عائشة، عن النَّبيِّ صلى الله عليه وسلم مثلَ حديثِ ابن مسعود.",
+         "en": "There are a number of hadiths with this meaning. Muslim recorded, from the hadith of ʿĀʾishah, from the Prophet ﷺ, the like of Ibn Masʿūd's hadith."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c3",
+     "pages": [
+      291,
+      292
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الترمذيُّ، والنسائي، وابنُ ماجه من حديث عثمان، عن النَّبيِّ صلى الله عليه وسلم، قال: «لا يَحلُّ دمُ امرئٍ مُسلمٍ إلاَّ بإحدى ثلاثٍ: رجلٍ كفر بعد إسلامه، أو زَنى بعد إحصانهِ، أو قتلَ نفساً بغير نفسٍ».",
+         "en": "Al-Tirmidhī, al-Nasāʾī and Ibn Mājah recorded, from the hadith of ʿUthmān, that the Prophet ﷺ said: “The blood of a Muslim is not lawful except in one of three cases: a man who disbelieves after accepting Islam, or commits adultery after marriage, or kills a soul other than in return for a soul.”"
+        },
+        {
+         "ar": "وفي روايةٍ للنَّسائي : «رجلٌ زنى بعد إحصانه، فعليه الرجمُ، أو قتل عمداً، فعليه القَوَدُ، أو ارتدَّ بعدَ إسلامِهِ، فعليه القتلُ».",
+         "en": "In one narration of al-Nasāʾī's: “A man who commits adultery after marriage is to be stoned; one who kills deliberately is liable to retaliation; and one who apostatises after accepting Islam is to be put to death.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c4",
+     "pages": [
+      292
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد رُوي هذا المعنى عن النَّبيِّ صلى الله عليه وسلم من روايةِ ابن عبَّاس وأبي هريرة وأنس وغيرهم، وقد ذكرنا حديثَ أنسٍ فيما تقدَّم،",
+         "en": "This meaning has also been narrated from the Prophet ﷺ in the narrations of Ibn ʿAbbās, Abū Hurayrah, Anas and others. We have already cited the hadith of Anas,"
+        },
+        {
+         "ar": "وفيه تفسير أنَّ هذه الثلاث خصال هي حقُّ الإسلام التي يُستباح بها دَمُ مَنْ شهد أنْ لا إله إلاَّ الله وأنَّ محمداً رسول الله، والقتلُ بكلِّ واحدةٍ مِنْ هذه الخصالِ الثَّلاثِ متَّفقٌ عليه بين المسلمين.",
+         "en": "which explains that these three traits are the right of Islam by which the blood of one who testifies that there is no god but Allah and that Muḥammad is the Messenger of Allah becomes lawful. Killing for each one of these three traits is agreed upon among the Muslims."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c5",
+     "pages": [
+      292
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أما زنى الثَّيِّبِ، فأجمع المسلمون على أنَّ حَدَّه الرجمُ حتَّى يموتَ، وقد رجم النَّبيُّ صلى الله عليه وسلم ماعزاً والغامدية، وكان في القرآن الذي نسخ لفظه: «والشَّيخُ والشَّيخَةُ إذا زَنيا فارجُموهُما البتة نكالاً من الله، والله عزيز حكيم».",
+         "en": "As for adultery by a married person, the Muslims are unanimous that its prescribed punishment (ḥadd) is stoning until death. The Prophet ﷺ stoned Māʿiz and the Ghāmidī woman. Among the verses of the Qurʾān whose wording was abrogated was: “The old man and the old woman, if they commit adultery, stone them both outright, as an exemplary punishment from Allah; and Allah is Mighty, Wise.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c6",
+     "pages": [
+      292,
+      293
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد استنبط ابنُ عباسٍ الرَّجمَ مِنَ القرآن من قوله تعالى: {يَا أَهْلَ الْكِتَابِ قَدْ جَاءكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ كَثِيراً مِمَّا كُنْتُمْ تُخْفُونَ مِنَ الْكِتَابِ وَيَعْفُو عَنْ كَثِيرٍ}،",
+         "en": "Ibn ʿAbbās derived stoning from the Qurʾān, from the words of the Exalted: “O People of the Book, Our Messenger has come to you, making clear to you much of what you used to conceal of the Book, and passing over much” [al-Māʾidah 5:15]."
+        },
+        {
+         "ar": "قال: فمن كفر بالرَّجم، فقد كفر بالقرآن من حيثُ لا يحتسب، ثمَّ تلا هذه الآية، وقال: كان الرجمُ مما أخفوا.",
+         "en": "He said: Whoever disbelieves in stoning has disbelieved in the Qurʾān without realising it. Then he recited this verse and said: Stoning was among what they concealed."
+        },
+        {
+         "ar": "خرَّجه النَّسائي، والحاكم، وقال: صحيحُ الإسناد.",
+         "en": "Al-Nasāʾī recorded it, as did al-Ḥākim, who said: Its chain is authentic."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c7",
+     "pages": [
+      293
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويُستنبط أيضاً من قوله تعالى: {إِنَّا أَنْزَلْنَا التَّوْرَاةَ فِيهَا هُدىً وَنُورٌ يَحْكُمُ بِهَا النَّبِيُّونَ الَّذِينَ أَسْلَمُوا لِلَّذِينَ هَادُوا} إلى قوله: {وَأَنِ احْكُمْ بَيْنَهُمْ بِمَا أَنْزَلَ الله}.",
+         "en": "It is also derived from the words of the Exalted: “We sent down the Torah, in which is guidance and light; by it the prophets who submitted [to Allah] judged for those who were Jews…” up to His words: “and that you should judge between them by what Allah has sent down” [al-Māʾidah 5:44–49]."
+        },
+        {
+         "ar": "وقال الزهري: بلغنا أنَّها نزلت في اليهوديَّيْن اللذيْن رجمهما النَّبيُّ صلى الله عليه وسلم قال: «إنِّي أحكم بما في التوراة» وأمر بهما فرُجما.",
+         "en": "Al-Zuhrī said: We have been told that it was revealed about the two Jews whom the Prophet ﷺ stoned. He said, “I judge by what is in the Torah,” and gave orders concerning them, and they were stoned."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c8",
+     "pages": [
+      293
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج مسلم في \" صحيحه \" من حديث البراء بن عازب قصة رجم اليهوديين، وقال في حديثه: فأنزل الله:",
+         "en": "Muslim recorded in his Ṣaḥīḥ, from the hadith of al-Barāʾ ibn ʿĀzib, the story of the stoning of the two Jews, and in his hadith he said: Then Allah revealed:"
+        },
+        {
+         "ar": "{يَا أَيُّهَا الرَّسُولُ لا يَحْزُنْكَ الَّذِينَ يُسَارِعُونَ فِي الْكُفْر} وأنزل: {وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللهُ فَأُولَئِكَ هُمُ الْكَافِرُونَ} في الكفار كلها.",
+         "en": "“O Messenger, do not let those who hasten into disbelief grieve you” [al-Māʾidah 5:41], and He revealed: “Whoever does not judge by what Allah has sent down — it is they who are the disbelievers” [al-Māʾidah 5:44] — all of these verses concern the disbelievers."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c9",
+     "pages": [
+      293
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه الإمام أحمد وعنده: فأنزل الله: {لا يَحْزُنْكَ الَّذِينَ يُسَارِعُونَ فِي الْكُفْر} إلى قوله: {إِنْ أُوتِيتُمْ هَذَا فَخُذُوهُ}، يقولون: ائتوا محمداً،",
+         "en": "Imam Aḥmad recorded it, and his version has: Then Allah revealed: “Do not let those who hasten into disbelief grieve you…” up to His words: “If you are given this, take it” [al-Māʾidah 5:41]. They were saying: Go to Muḥammad;"
+        },
+        {
+         "ar": "فإنْ أفتاكم بالتَّحميم والجلدِ، فخُذوه، وإنْ أفتاكم بالرجم، فاحذروا، إلى قوله: {وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ فَأُولَئِكَ هُمُ الْكَافِرُونَ}، قال: في اليهود.",
+         "en": "if he gives you a ruling of blackening the face and flogging, take it, and if he gives you a ruling of stoning, beware — up to His words: “Whoever does not judge by what Allah has sent down — it is they who are the disbelievers” [al-Māʾidah 5:44]. He said: This is about the Jews."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c10",
+     "pages": [
+      293
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ورُوِيَ من حديث جابر قصَّةُ رجم اليهوديين، وفي حديثه قال: فأنزل الله:",
+         "en": "The story of the stoning of the two Jews has also been narrated from the hadith of Jābir, and in his hadith he said: Then Allah revealed:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c11",
+     "pages": [
+      294
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "{فَإِنْ جَاءوكَ فَاحْكُمْ بَينهُمْ أَوْ أَعْرِضْ عَنْهُم} إلى قوله: {وَإِنْ حَكَمْتَ فَاحْكُمْ بَيْنَهُمْ بِالْقِسْط}.",
+         "en": "“If they come to you, judge between them or turn away from them…” up to His words: “and if you judge, judge between them with justice” [al-Māʾidah 5:42]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c12",
+     "pages": [
+      294
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكان الله تعالى قد أمر أوَّلاً بحبسِ النِّساء الزَّواني إلى أنْ يتوفَّاهنَّ الموت، أو يجعل الله لهنَّ السبيل، ثم جعل الله لهنَّ سبيلاً، ففي \" صحيح مسلم \" عن عبادة،",
+         "en": "At first Allah the Exalted had commanded that women who commit fornication be confined until death takes them or Allah ordains a way for them; then Allah ordained a way for them. In Ṣaḥīḥ Muslim, ʿUbādah narrated"
+        },
+        {
+         "ar": "عن النَّبيِّ صلى الله عليه وسلم قال: «خُذوا عنِّي خُذوا عنِّي قد جعل الله لهنَّ سبيلاً: البكرُ بالبكِر جلدُ مئة وتغريبُ عامٍ، والثيبُ بالثيب جلدُ مئة والرجمُ».",
+         "en": "that the Prophet ﷺ said: “Take it from me, take it from me: Allah has ordained a way for them. For the unmarried with the unmarried, a hundred lashes and a year's banishment; for the married with the married, a hundred lashes and stoning.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c13",
+     "pages": [
+      294
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد أخذ بظاهر هذا الحديث جماعةٌ من العلماء، وأوجبوا جلدَ الثيب مئة، ثم رجمه كما فعل عليٌّ بشُراحة الهَمْدَانيَّةِ، وقال: جلدتُها بكتاب الله، ورجمتُها بسُنَّة رسول الله صلى الله عليه وسلم.",
+         "en": "A group of scholars took this hadith at face value and required that the married offender be given a hundred lashes and then stoned, as ʿAlī did with Shurāḥah al-Hamdāniyyah. He said: I flogged her by the Book of Allah and stoned her by the Sunnah of the Messenger of Allah ﷺ."
+        },
+        {
+         "ar": "يشير إلى أنَّ كتاب الله فيه جلدُ الزَّانيين من غير تفصيلٍ بين ثيِّبٍ وبِكرٍ، وجاءت السُّنةُ برجم الثيب خاصة مع استنباطه من القرآن أيضاً،",
+         "en": "He meant that the Book of Allah contains the flogging of the man and woman who commit fornication, without distinguishing married from unmarried, and that the Sunnah came with stoning for the married in particular — though stoning is also derived from the Qurʾān."
+        },
+        {
+         "ar": "وهذا القول هو المشهور عن الإمام أحمد رحمه الله وإسحاق، وهو قول الحسن وطائفة من السَّلف.",
+         "en": "This is the well-known view of Imam Aḥmad (may Allah have mercy on him) and of Isḥāq, and it is the view of al-Ḥasan and a group of the Salaf."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c14",
+     "pages": [
+      294
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقالت طائفة منهم: إنْ كان الثَّيِّبان شيخين رُجمَا وجُلِدا، وإنْ كانا شابَّين، رُجِما بغيرِ جلدٍ؛",
+         "en": "Another group of them said: If the two married offenders are old, they are stoned and flogged; if they are young, they are stoned without flogging,"
+        },
+        {
+         "ar": "لأنَّ ذنبَ الشيخِ أقبحُ، لا سيما بالزنى، وهذا قولُ أبيِّ بنِ كعبٍ، وروي عنه مرفوعاً، ولا يصحُّ رفعه، وهو رواية عن أحمد وإسحاق أيضاً.",
+         "en": "because an old man's sin is the more hideous, especially in fornication. This is the view of Ubayy ibn Kaʿb. It has also been narrated from him as marfūʿ (attributed to the Prophet ﷺ), but it is not authentic as marfūʿ. It is also a reported position of Aḥmad, and of Isḥāq."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c15",
+     "pages": [
+      294,
+      295
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما النَّفسُ بالنفسِ، فمعناه: أنَّ المكلَّف إذا قتل نفساً بغير حق عمداً، فإنَّه يُقْتَلُ بها، وقد دلَّ القرآن على ذلك بقوله تعالى:",
+         "en": "As for “a life for a life”, it means that when a legally responsible person kills someone deliberately and without right, he is killed for it. The Qurʾān indicates this in the words of the Exalted:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c16",
+     "pages": [
+      295
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "{وَكَتَبْنَا عَلَيْهِمْ فِيهَا أَنَّ النَّفْسَ بِالنَّفْس} وقال تعالى: {يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الْقِصَاصُ فِي الْقَتْلَى الْحُرُّ بِالْحُرِّ وَالْعَبْدُ بِالْعَبْدِ وَالأُنْثَى بِالأُنْثَى}.",
+         "en": "“We prescribed for them therein: a life for a life” [al-Māʾidah 5:45]. The Exalted also said: “O you who believe, retaliation is prescribed for you in cases of killing: the free for the free, the slave for the slave, and the female for the female” [al-Baqarah 2:178]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c17",
+     "pages": [
+      295
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويُستثنى من عُموم قوله تعالى: {النَّفْسَ بالنَّفْسِ} صُورٌ:",
+         "en": "Certain cases are excepted from the general sense of His words, “a life for a life”."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c18",
+     "pages": [
+      295
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "منها: أنْ يقتل الوالدُ ولدَه، فالجمهورُ على أنَّه لا يُقْتَلُ به، وصحَّ ذلك عن عُمر.",
+         "en": "One of them is a father killing his child. The majority hold that he is not killed for him, and this is authentically reported from ʿUmar."
+        },
+        {
+         "ar": "وروي عن النَّبيِّ صلى الله عليه وسلم من وجوهٍ مُتعدِّدَةٍ، وقد تُكُلِّمَ في أسانيدها، وقال مالك: إنْ تَعمَّدَ قتله تعمداً لا يشكُّ فيه، مثل أنْ يذبحه، فإنَّه يُقتل به، وإنْ حذفه بسيفٍ أو عصا، لم يقتل.",
+         "en": "It has also been narrated from the Prophet ﷺ through numerous routes, though their chains have been criticised. Mālik said: If he meant to kill him with an intent about which there is no doubt, such as by slaughtering him, he is killed for him; but if he struck him by throwing a sword or a stick at him, he is not killed."
+        },
+        {
+         "ar": "وقال البتِّي: يقتل بقتله بجميع وجوه العَمدِ للعمومات.",
+         "en": "Al-Battī said: He is killed for killing him in every form of deliberate killing, because of the general texts."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c19",
+     "pages": [
+      295,
+      296
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها: أنْ يقتل الحرُّ عبداً، فالأكثرون على أنَّه لا يُقتل به، وقد وردت في ذلك أحاديثُ في أسانيدها مقالٌ.",
+         "en": "Another is a free man killing a slave. Most hold that he is not killed for him, and there are hadiths on this whose chains have been criticised."
+        },
+        {
+         "ar": "وقيل: يقتل بعبدِ غيره دُون عبدِه، وهو قولُ أبي حنيفة وأصحابه، وقيل: يقتل بعبده وعبدِ غيره، وهي رواية عن الثوري، وقول طائفةٍ من أهل الحديث؛",
+         "en": "It has been said that he is killed for someone else's slave but not for his own; this is the view of Abū Ḥanīfah and his companions. It has also been said that he is killed for his own slave and for someone else's alike; this is one reported view of al-Thawrī and the view of a group of the hadith scholars,"
+        },
+        {
+         "ar": "لحديث سمرة، عن النَّبيِّ صلى الله عليه وسلم: «من قَتَلَ عبدهُ قتلناهُ، ومن جَدَعَهُ جدَعْناهُ» وقد طعن فيه الإمام أحمد وغيره.",
+         "en": "because of the hadith of Samurah, from the Prophet ﷺ: “Whoever kills his slave, we will kill him; and whoever mutilates him, we will mutilate him.” Imam Aḥmad and others have impugned it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c20",
+     "pages": [
+      296
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد أجمعوا على أنَّه لا قصاص بين العبيدِ والأحرار في الأطراف، وهذا يدلُّ على أنَّ هذا الحديث مطَّرَحٌ لا يُعمل به، وهذا مما يُستدلُّ به على أنَّ المراد بقوله تعالى: {النَّفْسَ بالنَّفْسِ} الأحرار؛",
+         "en": "They are unanimous that there is no retaliation between slaves and free men for injuries to the limbs, and this shows that this hadith has been set aside and is not acted upon. This is also used as evidence that what is meant by His words “a life for a life” is free persons,"
+        },
+        {
+         "ar": "لأنَّه ذكر بعده القصاص في الأطراف، وهو يختصُّ بالأحرار.",
+         "en": "because after it He mentions retaliation for the limbs, which applies only to free persons."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c21",
+     "pages": [
+      296,
+      297
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها: أنْ يَقتُلَ المسلم كافراً، فإنْ كان حربياً، لم يقتل به بغير خلافٍ؛",
+         "en": "Another is a Muslim killing a disbeliever. If the disbeliever is a combatant (ḥarbī), the Muslim is not killed for him — on this there is no disagreement —"
+        },
+        {
+         "ar": "لأنَّ قتل الحربيِّ مباحٌ بلا ريب، وإنْ كان ذمياً أو معاهَداً، فالجمهور على أنَّه لا يقتل به أيضاً، وفي \" صحيح البخاري \" عن علي، عن النَّبيِّ صلى الله عليه وسلم قال: «لا يُقتلُ مسلمٌ بكافرٍ».",
+         "en": "because killing a combatant is undoubtedly permissible. If he is a dhimmī or under a covenant (muʿāhad), the majority hold that he is not killed for him either. In Ṣaḥīḥ al-Bukhārī, ʿAlī narrated that the Prophet ﷺ said: “A Muslim is not killed for a disbeliever.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c22",
+     "pages": [
+      297
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أبو حنيفة وجماعةٌ من فقهاء الكوفيين: يُقتل به، وقد روى ربيعةُ، عن ابن البيلماني، عن النَّبيِّ صلى الله عليه وسلم: أنَّه قتل رجلاً من أهل القبلة برجل من أهل الذمةِ، وقال:",
+         "en": "Abū Ḥanīfah and a group of the jurists of al-Kūfah said that he is killed for him. Rabīʿah narrated, from Ibn al-Baylamānī, that the Prophet ﷺ had a man of the people of the qiblah killed for a man of the protected people (ahl al-dhimmah), and said:"
+        },
+        {
+         "ar": "«أنا أحقُّ من وفَّى بذمَّته» وهذا مرسل ضعيف قد ضعَّفه الإمام أحمد، وأبو عبيد، وإبراهيمُ الحربي، والجوزجاني، وابنُ المنذر، والدارقطني، وقال: ابن البيلماني ضعيف لا تقوم به حجة إذا وصل الحديث، فكيف بما يرسله؟",
+         "en": "“I am the most entitled to fulfil his pledge of protection.” This is a weak mursal hadith. Imam Aḥmad, Abū ʿUbayd, Ibrāhīm al-Ḥarbī, al-Jūzajānī, Ibn al-Mundhir and al-Dāraquṭnī declared it weak, and al-Dāraquṭnī said: Ibn al-Baylamānī is weak and no proof can be established by him even when he gives a hadith with a connected chain, so what of one he narrates mursal?"
+        },
+        {
+         "ar": "وقال الجوزجاني: إنَّما أخذه ربيعةُ، عن إبراهيمَ بن أبي يحيى، عن ابنِ المنكدر، عن ابن البيلماني، وابن أبي يحيى: متروك الحديث.",
+         "en": "Al-Jūzajānī said: Rabīʿah took it only from Ibrāhīm ibn Abī Yaḥyā, from Ibn al-Munkadir, from Ibn al-Baylamānī; and Ibn Abī Yaḥyā is abandoned as a narrator (matrūk al-ḥadīth)."
+        },
+        {
+         "ar": "وفي \" مراسيل أبي داود \" حديث آخر مرسل: أنَّ النَّبيَّ صلى الله عليه وسلم قَتَلَ يوم خيبر مسلماً بكافرٍ، قتله غيلةً، وقال: «أنا أولى وأحقُّ من وفى بذِمَّته».",
+         "en": "In the Marāsīl of Abū Dāwūd there is another mursal hadith: that on the day of Khaybar the Prophet ﷺ had a Muslim killed for a disbeliever whom he had killed treacherously (ghīlah), and said: “I am the most worthy and the most entitled to fulfil his pledge of protection.”"
+        },
+        {
+         "ar": "وهذا مذهبُ مالك وأهل المدينةِ: أنَّ القتلَ غيلة لا تُشترط له المكافأة، فَيُقْتَلُ فيه المسلمُ بالكافرِ، وعلى هذا حملُوا حديثَ ابن البيلماني أيضاً على تقدير صحَّته.",
+         "en": "This is the school of Mālik and the people of Madīnah: treacherous killing does not require equivalence [between killer and victim], so in such a case a Muslim is killed for a disbeliever. On this basis they also interpreted the hadith of Ibn al-Baylamānī, supposing it to be authentic."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c23",
+     "pages": [
+      297
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها: أنْ يقتل الرجل امرأةً، فيُقتل بها بغيرِ خلاف، وفي كتاب عمرو ابن حزمٍ، عن النَّبيِّ صلى الله عليه وسلم: أنَّ الرَّجُلَ يقتل بالمرأة.",
+         "en": "Another is a man killing a woman. He is killed for her, without disagreement. In the letter of ʿAmr ibn Ḥazm, from the Prophet ﷺ: a man is killed for a woman."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c24",
+     "pages": [
+      298
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وصحَّ أنَّه صلى الله عليه وسلم قتل يهودياً قتلَ جارية وأكثرُ العلماء على أنَّه لا يدفع إلى أولياء الرجل شيءٌ.",
+         "en": "It is authentically reported that he ﷺ had a Jew killed who had killed a girl. Most scholars hold that when a man is killed for a woman, nothing is paid to his next of kin."
+        },
+        {
+         "ar": "وروي عن عليّ أنَّه يدفع إليهم نصف الدية؛",
+         "en": "It has been narrated from ʿAlī that half the blood money is paid to them,"
+        },
+        {
+         "ar": "لأنَّ ديةَ المرأة نصفُ ديةِ الرجل وهو قولُ طائفةٍ مِنَ السَّلف وأحمد في رواية عنه.",
+         "en": "because a woman's blood money is half a man's. This is the view of a group of the Salaf, and of Aḥmad in one reported position."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c25",
+     "pages": [
+      298
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأمَّا التَّاركُ لِدينه المفارق للجماعة، فالمرادُ به من ترك الإسلام، وارتدَّ عنه، وفارقَ جماعة المسلمين، كما جاء التصريحُ بذلك في حديث عثمان،",
+         "en": "As for “the one who abandons his religion and separates from the community”, what is meant is whoever abandons Islam, apostatises from it and separates from the community of the Muslims, as is stated explicitly in the hadith of ʿUthmān."
+        },
+        {
+         "ar": "وإنَّما استثناه مع من يحلُّ دمه من أهل الشهادتين باعتبارِ ما كان عليه قبل الرِّدَّة وحكم الإسلام لازم له بعدها،",
+         "en": "He is counted among the people of the two testimonies whose blood becomes lawful only in view of what he was before his apostasy, since the ruling of Islam still binds him afterwards."
+        },
+        {
+         "ar": "ولهذا يُستتاب، ويُطلب منه العود إلى الإسلام، وفي إلزامه بقضاء ما فاته في زمن الرِّدَّة من العبادات اختلافٌ مشهورٌ بَيْنَ العلماء.",
+         "en": "That is why he is called on to repent and asked to return to Islam. Whether he is obliged to make up the acts of worship he missed during his apostasy is a well-known point of disagreement among scholars."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c26",
+     "pages": [
+      298,
+      299
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأيضاً فقد يتركُ دينَه، ويُفارِقُ الجماعة، وهو مقرٌّ بالشَّهادتين، ويدَّعي الإسلام، كما إذا جحد شيئاً مِنْ أركان الإسلام، أو سبَّ الله ورسولَه،",
+         "en": "Moreover, someone may abandon his religion and separate from the community while still affirming the two testimonies and claiming Islam: for example, if he denies one of the pillars of Islam, or reviles Allah and His Messenger,"
+        },
+        {
+         "ar": "أو كفرَ ببعضِ الملائكة أو النَّبيِّينَ أو الكتب المذكورة في القرآن مع العلم بذلك، وفي \" صحيح البخاري \" عن ابن عباس، عن النَّبيِّ صلى الله عليه وسلم قال: «من بدَّل دينَهُ فاقتلوه».",
+         "en": "or disbelieves in some of the angels, prophets or scriptures mentioned in the Qurʾān while knowing of them. In Ṣaḥīḥ al-Bukhārī, Ibn ʿAbbās narrated that the Prophet ﷺ said: “Whoever changes his religion, kill him.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c27",
+     "pages": [
+      299
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولا فرق في هذا بين الرجلِ والمرأة عندَ أكثر العلماء، ومنهم من قال: لا تُقتل المرأةُ إذا ارتدَّت كما لا تُقتل نساء أهلِ دارِ الحربِ في الحرب، وإنَّما تُقتل رجالُهم، وهذا قول أبي حنيفة وأصحابه،",
+         "en": "Most scholars make no distinction in this between man and woman. Some, however, said: A woman is not killed if she apostatises, just as the women of the enemy's land (dār al-ḥarb) are not killed in war, only their men. This is the view of Abū Ḥanīfah and his companions,"
+        },
+        {
+         "ar": "وجعلوا الكفر الطارئ كالأصلي، والجمهور فرَّقوا بينهما، وجعلوا الطارئ أغلظ من الأصلي لما سبقه من الإسلام، ولهذا يقتل بالرِّدَّة عنه من لا يقتل من أهل الحرب، كالشَّيخ الفاني والزَّمِن والأعمى، ولا يُقتلون في الحرب.",
+         "en": "who treated disbelief that arises later like original disbelief. The majority distinguished between them and held later disbelief to be graver than original disbelief, because of the Islam that preceded it. That is why apostasy from Islam is punished by death even in those who would not be killed if they were among the enemy, such as the decrepit old man, the chronically disabled and the blind, who are not killed in war."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c28",
+     "pages": [
+      299
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله صلى الله عليه وسلم: «التارك لدينه المفارق للجماعة» يدلُّ على أنَّه لو تاب ورجع إلى الإسلام لم يقتل؛",
+         "en": "His words ﷺ, “the one who abandons his religion and separates from the community”, show that if he repented and returned to Islam he would not be killed,"
+        },
+        {
+         "ar": "لأنَّه ليس بتاركٍ لدينه بعد رجوعه، ولا مفارقٍ للجماعة.",
+         "en": "since after his return he is neither abandoning his religion nor separating from the community."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c29",
+     "pages": [
+      300
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فإنَّ قيل: بل استثناء هذا ممَّن يعصم دَمُه من أهل الشهادتين يدلُّ على أنَّه يقتل ولو كان مقراً بالشهادتين، كما يقتل الزاني المُحصَن، وقاتل النفس، وهذا يدلُّ على أنَّ المرتدَّ لا تُقبل توبتُه، كما حُكي عن الحسن،",
+         "en": "If it is said: On the contrary, his being excepted from the people of the two testimonies whose blood is protected shows that he is killed even if he affirms the two testimonies, just as the married adulterer and the killer are; and this shows that the apostate's repentance is not accepted, as is reported from al-Ḥasan;"
+        },
+        {
+         "ar": "أو أنْ يحمل ذلك على منِ ارتدَّ ممَّن وُلِدَ على الإسلام، فإنَّه لا تُقبل توبتُه، وإنَّما تقبل توبةُ مَنْ كانَ كافراً،",
+         "en": "or else it is to be taken as referring to someone born a Muslim who apostatises, whose repentance is not accepted — repentance being accepted only from one who was a disbeliever,"
+        },
+        {
+         "ar": "ثم أسلم، ثم ارتدَّ على قول طائفةٍ من العلماء، منهم: الليثُ بنُ سعدٍ، وأحمد في رواية عنه، وإسحاق.",
+         "en": "then accepted Islam, then apostatised, according to the view of a group of scholars, among them al-Layth ibn Saʿd, Aḥmad in one reported position, and Isḥāq —"
+        },
+        {
+         "ar": "قيل: إنَّما استثناه من المسلمين باعتبار ما كان عليه قبْلَ مفارقة دينه كما سبق تقريره، وليس هذا كالثيبِ الزَّاني، وقاتل النفس؛",
+         "en": "the reply is: he excepted him from the Muslims only in view of what he was before leaving his religion, as was established above. He is not like the married adulterer and the killer,"
+        },
+        {
+         "ar": "لأنَّ قتلَهُما وَجب عقوبةً لجريمتهما الماضية، ولا يُمكن تلافي ذلك.",
+         "en": "because killing those two became due as a punishment for a crime already committed, and there is no way of undoing that."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c30",
+     "pages": [
+      300
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأمَّا المرتدُّ، فإنَّما قُتِلَ لوصفٍ قائمٍ به في الحال، وهو تركُ دينه ومفارقةُ الجماعة، فإذا عاد إلى دينِهِ، وإلى موافقته الجماعة، فالوصف الذي أُبيح به دمُه قدِ انتفى، فتزولُ إباحةُ دمِهِ، والله أعلم.",
+         "en": "The apostate, by contrast, is killed only because of a quality present in him at the time: abandoning his religion and separating from the community. If he returns to his religion and to agreement with the community, the quality for which his blood was made lawful is gone, and so the lawfulness of his blood ceases. And Allah knows best."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c31",
+     "pages": [
+      300
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فإنْ قيل: فقد خرَّج النَّسائي من حديث عائشة، عن النَّبيِّ صلى الله عليه وسلم قال: «لا يَحلُّ دمُ امرئٍ مسلمٍ إلاَّ بإحدى ثلاث خصالٍ:",
+         "en": "If it is said: Al-Nasāʾī recorded, from the hadith of ʿĀʾishah, that the Prophet ﷺ said: “The blood of a Muslim is not lawful except for one of three traits:"
+        },
+        {
+         "ar": "زانٍ محصن يُرجَمُ، ورَجُلٍ قتل متعمداً فيُقتل، ورجلٍ يخرجُ من الإسلام فحارب الله ورسوله فيقتل، أو يُصلب، أو يُنفى من الأرض».",
+         "en": "a married adulterer, who is stoned; a man who kills deliberately, who is killed; and a man who leaves Islam and wages war against Allah and His Messenger, who is killed, crucified or banished from the land.”"
+        },
+        {
+         "ar": "وهذا يدلُّ على أنَّ المرادَ من جمع بين الردَّة والمحاربة.",
+         "en": "This shows that what is meant is someone who combines apostasy with waging war."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c32",
+     "pages": [
+      300
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قيل: قد خرَّج أبو داود حديث عائشة بلفظ آخر، وهو أنَّ رسولَ الله صلى الله عليه وسلم قال: «لا يحلُّ دَمُ امرئٍ مسلمٍ يشهد أنْ لا إله إلاَّ الله، وأنَّ محمداً رسولُ الله إلا في إحدى ثلاث:",
+         "en": "The reply is: Abū Dāwūd recorded the hadith of ʿĀʾishah in other words, namely that the Messenger of Allah ﷺ said: “The blood of a Muslim who testifies that there is no god but Allah and that Muḥammad is the Messenger of Allah is not lawful except in one of three cases:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c33",
+     "pages": [
+      301
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "[رجل] زنى بعد إحصانٍ فإنَّه يُرجم، ورجل خرج محارباً لله ورسوله فإنَّه يقتل أو يُصلب أو يُنفى من الأرض، أو يقتل نفساً فيقتل بها».",
+         "en": "a man who commits adultery after marriage, who is stoned; a man who goes out waging war against Allah and His Messenger, who is killed, crucified or banished from the land; or one who kills a soul and is killed for it.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c34",
+     "pages": [
+      301
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذا يدلُّ على أنَّ مَنْ وُجِدَ منه الحِراب من المسلمين، خُيِّرَ الإمامُ فيه مطلقاً، كما يقوله علماءُ أهلِ المدينة مالك وغيره،",
+         "en": "This shows that when a Muslim is found to have waged war, the ruler may choose freely among the penalties for him, as the scholars of Madīnah, Mālik and others, hold."
+        },
+        {
+         "ar": "والرواية الأولى قد تُحمل على أنَّ المرادَ بخروجه عن الإسلام خروجُه عن أحكام الإسلام، وقد تُحمل على ظاهرها، ويستدلُّ بذلك مَنْ يقول: إنَّ آيةَ المحاربة تختصُّ بالمرتدين،",
+         "en": "The first narration may be taken to mean that “leaving Islam” is leaving the rulings of Islam; or it may be taken at face value. Those who say that the verse on waging war applies specifically to apostates cite it as evidence:"
+        },
+        {
+         "ar": "فمن ارتدَّ وحارب فُعِل به ما في الآية، ومن حارب من غيرِ رِدَّةٍ، أقيمت عليه أحكامُ المسلمين مِنَ القِصاص والقطع في السرقة،",
+         "en": "whoever apostatises and wages war is dealt with as the verse prescribes, while whoever wages war without apostasy is subject to the rulings for Muslims, such as retaliation and amputation for theft."
+        },
+        {
+         "ar": "وهذا رواية عن أحمد لكنَّها غيرُ مشهورةٍ عنه، وكذا قالت طائفة من السَّلف: إنَّ آية المحاربة تختصُّ بالمرتدين، منهم: أبو قِلابة وغيرُه.",
+         "en": "This is a reported position of Aḥmad, though not the well-known one. A group of the Salaf likewise said that the verse on waging war applies specifically to apostates, among them Abū Qilābah and others."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c35",
+     "pages": [
+      301
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وبكلِّ حالٍ فحديث عائشة ألفاظُه مختلفةٌ، وقد روي عنها مرفوعاً، وروي عنها موقوفاً، وحديثُ ابنِ مسعودٍ لفظه لا اختلاف فيه،",
+         "en": "In any case, the wording of ʿĀʾishah's hadith varies, and it has been narrated from her both as marfūʿ and as mawqūf (as the Prophet's words and as her own), whereas there is no variation in the wording of Ibn Masʿūd's hadith,"
+        },
+        {
+         "ar": "وهو ثابت متفق على صحته، ولكن يُقال على هذا: إنَّه قد ورد قتلُ المسلم بغير إحدى هذه الخصال الثلاث:",
+         "en": "which is firmly established and agreed to be authentic. Even so, it may be objected that the killing of a Muslim has been reported for things other than these three traits."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c36",
+     "pages": [
+      301,
+      302
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فمنها: في اللواط، وقد جاء من حديثِ ابن عباس، عن النَّبيِّ صلى الله عليه وسلم قال : «اقتُلوا الفاعِلَ والمفعولَ به»، وأخذ به كثيرٌ من العلماء كمالكٍ وأحمد، وقالوا:",
+         "en": "Among them is sodomy. From the hadith of Ibn ʿAbbās, the Prophet ﷺ said: “Kill the one who does it and the one to whom it is done.” Many scholars, such as Mālik and Aḥmad, adopted this and said"
+        },
+        {
+         "ar": "إنَّه موجبٌ للقتل بكلِّ حالٍ، محصناً كان أو غير محصن، وقد رُوي عن عثمان أنَّه قال: لا يحلُّ دمُ امرئ مسلم إلا بأربع، فذكر الثلاثة المتقدمة، وزاد: ورجل عمِلَ عمَلَ قوم لوط.",
+         "en": "that it requires death in every case, whether the offender is married or not. It has been narrated that ʿUthmān said: The blood of a Muslim is not lawful except for one of four — and he mentioned the three above and added: and a man who does the deed of the people of Lūṭ."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c37",
+     "pages": [
+      302
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها من أتى ذات محرم، وقد روي الأمر بقتله، وروي أنَّ النَّبيَّ صلى الله عليه وسلم قتل من تزوَّجَ بامرأة أبيه، وأخذ بذلك طائفةٌ من العلماء، وأوجبوا قتله مطلقاً محصناً كان أو غير محصن.",
+         "en": "Among them is one who has intercourse with a woman within the prohibited degrees. An order to kill him has been narrated, and it has been narrated that the Prophet ﷺ had a man killed who had married his father's wife. A group of scholars adopted this and required that he be killed in every case, whether married or not."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c38",
+     "pages": [
+      302,
+      303
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها الساحر: وفي \" الترمذي \" من حديث جُندب مرفوعاً: «حدُّ السَّاحر ضربةٌ بالسَّيف»، وذكر أنَّ الصحيح وقفه على جندب،",
+         "en": "Among them is the sorcerer. In al-Tirmidhī, from the hadith of Jundub, as marfūʿ: “The prescribed punishment for the sorcerer is a stroke of the sword”; and al-Tirmidhī stated that it is correctly mawqūf on Jundub."
+        },
+        {
+         "ar": "وهو مذهبُ جماعةٍ من العلماء، منهم: عُمَرُ بنُ عبد العزيز ومالك وأحمد وإسحاق، ولكن هؤلاء يقولون: إنَّه يكفر بسحره، فيكون حكمُه حكمَ المرتدين.",
+         "en": "This is the school of a group of scholars, among them ʿUmar ibn ʿAbd al-ʿAzīz, Mālik, Aḥmad and Isḥāq; but they hold that he becomes a disbeliever by his sorcery, so that his ruling is that of apostates."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c39",
+     "pages": [
+      303
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها: قتلُ من وقع على بهيمة، وقد ورد فيه حديث مرفوع، وقال به طائفةٌ من العلماء.",
+         "en": "Among them is killing one who has intercourse with an animal. A marfūʿ hadith has come about it, and a group of scholars held this view."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c40",
+     "pages": [
+      303
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها: من ترك الصَّلاة، فإنَّه يُقتل عندَ كثيرٍ من العُلماء مع قولهم: إنَّه ليس بكافرٍ، وقد سبق ذكرُ ذلك مستوفى.",
+         "en": "Among them is one who abandons the prayer. Many scholars hold that he is killed, even though they say he is not a disbeliever. This has already been discussed in full."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c41",
+     "pages": [
+      303,
+      304
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها قتلُ شاربِ الخمر في المرَّة الرابعة، وقد ورد الأمرُ به عنِ النَّبيِّ صلى الله عليه وسلم من وُجوهٍ متعدِّدَةٍ،",
+         "en": "Among them is killing the wine-drinker on the fourth occasion. The command to do so has come from the Prophet ﷺ through numerous routes,"
+        },
+        {
+         "ar": "وأخذَ بذلك عبدُ الله بنُ عمرو بن العاص وغيره، وأكثر العلماء على أنَّ القتل انتسخ، وروي أنَّ النَّبيَّ صلى الله عليه وسلم أُتي بالشَّارب في المرَّةِ الرَّابعة، فلم يقتُله.",
+         "en": "and ʿAbdullāh ibn ʿAmr ibn al-ʿĀṣ and others adopted it, but most scholars hold that the killing has been abrogated. It has been narrated that the Prophet ﷺ was brought the drinker on the fourth occasion and did not kill him."
+        },
+        {
+         "ar": "وفي \" صحيح البخاري \": أنَّ رجلاً كان يُؤتى به النَّبيَّ صلى الله عليه وسلم في الخمر، فلعنه رجلٌ، وقال: ما أكثرَ ما يُؤتى به، فقال النَّبيُّ صلى الله عليه وسلم: «لا تلعنه؛",
+         "en": "In Ṣaḥīḥ al-Bukhārī: a man used to be brought to the Prophet ﷺ for drinking wine, and another man cursed him and said: How often he is brought! The Prophet ﷺ said: “Do not curse him,"
+        },
+        {
+         "ar": "فإنَّه يُحِبُّ الله ورسوله» ولم يقتله بذلك.",
+         "en": "for he loves Allah and His Messenger.” And he did not have him killed for it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c42",
+     "pages": [
+      304
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد روي قتلُ السارق في المرة الخامسة، وقيل: إنَّ بعضَ الفُقهاء ذهبَ إليه.",
+         "en": "The killing of the thief on the fifth occasion has also been narrated, and it is said that some jurists held this view."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c43",
+     "pages": [
+      304
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها: ما رُوي عنه صلى الله عليه وسلم أنَّه قال: «إذا بُويِعَ لِخَلِيفَتين، فاقتلوا الآخرَ منهما» خرَّجه مسلم من حديث أبي سعيد، وقد ضعف العقيلي أحاديثَ هذا الباب كلها.",
+         "en": "Among them is what has been narrated from him ﷺ, that he said: “If allegiance is pledged to two caliphs, kill the latter of them.” Muslim recorded it from the hadith of Abū Saʿīd. Al-ʿUqaylī declared weak all the hadiths on this subject."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c44",
+     "pages": [
+      304,
+      305
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها: قولُه صلى الله عليه وسلم: «من أتاكم وأمرُكُم جميعٌ على رجلٍ واحدٍ، فأراد أنْ يشقَّ عصاكم، أو يفرِّقَ جماعَتَكُم فاقتلوه»، وفي رواية: «فاضربوا رأسه بالسيف كائناً من كان».",
+         "en": "Among them are his words ﷺ: “Whoever comes to you, when your affairs are united under one man, wanting to break your staff [of unity] or divide your community, kill him.” In one narration: “Strike his head with the sword, whoever he may be.”"
+        },
+        {
+         "ar": "وقد خرَّجه مسلم أيضاً من رواية عرفجة.",
+         "en": "Muslim recorded this too, from the narration of ʿArfajah."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c45",
+     "pages": [
+      305
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها: من شَهَرَ السِّلاحَ، فخرَّج النسائيُّ من حديث ابن الزبير، عن النَّبيِّ صلى الله عليه وسلم قال: «مَنْ شَهَرَ السِّلاحَ ثم وضعه، فدمه هدرٌ»، وقد روي عن ابن الزبير مرفوعاً وموقوفاً، وقال البخاري: إنَّما هو موقوف.",
+         "en": "Among them is one who draws a weapon. Al-Nasāʾī recorded, from the hadith of Ibn al-Zubayr, that the Prophet ﷺ said: “Whoever draws a weapon and then brings it down, his blood is forfeit.” It has been narrated from Ibn al-Zubayr both as marfūʿ and as mawqūf, and al-Bukhārī said: It is only mawqūf."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c46",
+     "pages": [
+      305
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وسئل أحمد عن معنى هذا الحديث، فقال: ما أدري ما هذا.",
+         "en": "Aḥmad was asked about the meaning of this hadith, and he said: I do not know what this is."
+        },
+        {
+         "ar": "وقال إسحاق ابن راهويه: إنَّما يريد من شهر سلاحه ثمَّ وضعه في النَّاس حتّى استعرض النَّاس، فقد حل قتله، وهو مذهب الحرورية يستعرضون الرجال والنِّساء والذرية.",
+         "en": "Isḥāq ibn Rāhawayh said: He means only someone who draws his weapon and then brings it down among the people, cutting them down indiscriminately; it has then become lawful to kill him. This is the way of the Ḥarūriyyah, who cut down men, women and children indiscriminately."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c47",
+     "pages": [
+      305
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد رُوِيَ عن عائشة ما يخالف تفسير إسحاق، فخرَّج الحاكم من رواية علقمة ابن أبي علقمة، عن أمِّه: أنَّ غلاماً شهر السَّيف على مولاه في إمرةِ سعيدِ بن العاص، وتفلَّت به عليه، فأمسكه النَّاسُ عنه،",
+         "en": "Something that goes against Isḥāq's explanation has been narrated from ʿĀʾishah. Al-Ḥākim recorded, from the narration of ʿAlqamah ibn Abī ʿAlqamah, from his mother, that a slave drew his sword on his master during the governorship of Saʿīd ibn al-ʿĀṣ and lunged at him with it, but the people held him back from him."
+        },
+        {
+         "ar": "فدخل المولى على عائشة، فقالت: سمعتُ رسول الله صلى الله عليه وسلم يقول: «من أشارَ بحديدةٍ إلى أحدٍ من المسلمين يريد قتله، فقد وجب دمه» فأخذه مولاه فقتله، وقال: صحيح على شرط الشيخين.",
+         "en": "The master went in to see ʿĀʾishah, and she said: I heard the Messenger of Allah ﷺ say: “Whoever points an iron blade at any of the Muslims intending to kill him, his blood has become due.” So his master took him and killed him. Al-Ḥākim said: It is authentic according to the conditions of al-Bukhārī and Muslim."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c48",
+     "pages": [
+      305
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد صحَّ عن النَّبيِّ صلى الله عليه وسلم: أنَّه قال: «من قُتِلَ دون ماله، فهو شهيد»، وفي رواية: «ومن قتل دون دمه، فهو شهيد».",
+         "en": "It is authentically reported from the Prophet ﷺ that he said: “Whoever is killed defending his property is a martyr,” and in one narration: “Whoever is killed defending his life is a martyr.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c49",
+     "pages": [
+      306
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فإذا أريد مالُ المرء أو دمُه، دافع عنه بالأسهل.",
+         "en": "So when someone's property or life is targeted, he repels the attacker by the least severe means."
+        },
+        {
+         "ar": "هذا مذهب الشافعي وأحمد، وهل يجب أنْ ينوي أنَّه لا يريد قتله أم لا؟",
+         "en": "This is the school of al-Shāfiʿī and Aḥmad. Must he intend that he does not want to kill him, or not?"
+        },
+        {
+         "ar": "فيه روايتان عن الإمام أحمد.",
+         "en": "There are two reported positions of Imam Aḥmad on this."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c50",
+     "pages": [
+      306
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وذهب طائفة إلى أنَّ مَنْ أراد مالَه أو دمَه، أُبيح له قتلُه ابتداء، ودخل على ابن عمرَ لِصٌّ، فقام إليه بالسيف صلتاً، فلولا أنَّهم حالوا بينه وبينه، لقتله.",
+         "en": "A group held that a man may kill outright, from the start, anyone who goes after his property or his life. A thief came in upon Ibn ʿUmar, and he rose against him with a drawn sword; had they not come between them, he would have killed him."
+        },
+        {
+         "ar": "وسئل الحسنُ عن لصٍّ دخل بيت رجلٍ ومعه حديدة، قال: اقتله بأيِّ قتلة قدرتَ عليه، وهؤلاء أباحوا قتله وإنْ ولَّى هارباً من غير جناية، منهم: أيوبُ السَّختياني.",
+         "en": "Al-Ḥasan was asked about a thief who entered a man's house carrying an iron blade, and he said: Kill him in whatever way you are able. These permitted killing him even if he turned and fled without having done any harm; among them was Ayyūb al-Sakhtiyānī."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c51",
+     "pages": [
+      306
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد من حديث عبادة بن الصامت، عن النَّبيِّ صلى الله عليه وسلم قال : «الدَّارُ حرمك، فمن دخل عليك حَرَمَكَ، فاقتله» ولكن في إسناده ضعف.",
+         "en": "Imam Aḥmad recorded, from the hadith of ʿUbādah ibn al-Ṣāmit, that the Prophet ﷺ said: “The house is your sanctuary; whoever enters your sanctuary, kill him.” But there is weakness in its chain."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c52",
+     "pages": [
+      306,
+      307
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها: قتلُ الجاسوسِ المسلم إذا تجسَّسَ للكفار على المسلمين، وقد توقَّف فيه أحمد، وأباح قَتْلَهُ طائفة من أصحاب مالِك، وابنُ عقيل من أصحابنا، ومن المالكية مَنْ قال: إنْ تكرَّر ذلك منه،",
+         "en": "Among them is killing a Muslim spy who spies on the Muslims for the disbelievers. Aḥmad withheld judgement on it; a group of Mālik's followers permitted killing him, as did Ibn ʿAqīl among the scholars of our [Ḥanbalī] school. Some of the Mālikīs said: If he does it repeatedly,"
+        },
+        {
+         "ar": "أُبِيحَ قتله، واستدلَّ من أباحَ قتله بقولِ النَّبيِّ صلى الله عليه وسلم في حقِّ حاطب بن أبي بلتعة لما كتب الكتابَ إلى أهلِ مكَّةَ يخبرهم بسير النَّبيِّ صلى الله عليه وسلم إليهم،",
+         "en": "killing him becomes permissible. Those who permit killing him cite the words of the Prophet ﷺ concerning Ḥāṭib ibn Abī Baltaʿah, when he wrote the letter to the people of Makkah informing them that the Prophet ﷺ was marching against them"
+        },
+        {
+         "ar": "ويأمرهم بأخذ حذرهم، فاستأذن عمرُ في قتله، فقال: «إنَّه شهدَ بدراً»، فلم يقل: إنَّه لم يأتِ ما يُبيحُ دمه،",
+         "en": "and telling them to be on their guard. ʿUmar asked permission to kill him, and he said: “He was present at Badr.” He did not say that Ḥāṭib had done nothing to make his blood lawful;"
+        },
+        {
+         "ar": "وإنَّما علَّل بوجود مانعٍ مِنْ قتله، وهو شهودُه بدراً ومغفرةُ الله لأهل بدر، وهذا المانعُ منتفٍ في حقِّ مَنْ بعدَه.",
+         "en": "rather, he gave as his reason the existence of something that prevented his being killed, namely his presence at Badr and Allah's forgiveness of the people of Badr — and this impediment does not exist for anyone after him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c53",
+     "pages": [
+      307
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها: ما خرَّجه أبو داود في \" المراسيل \" من رواية ابن المسيَّب: أنَّ النَّبيَّ صلى الله عليه وسلم قال: «من ضرب أباه فاقتلوه» ورُويَ مسنداً من وجهٍ آخرَ لا يصحُّ.",
+         "en": "Among them is what Abū Dāwūd recorded in al-Marāsīl from the narration of Ibn al-Musayyab: that the Prophet ﷺ said: “Whoever strikes his father, kill him.” It has also been narrated with a connected chain by another route, which is not authentic."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c54",
+     "pages": [
+      307
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأعلم أنَّ من هذه الأحاديث المذكورة ما لا يصحُّ ولا يُعرف به قائلٌ معتبر، كحديث: «مَنْ ضرب أباه فاقتلوه»، وحديث: «قتل السارق في المرة الخامسة».",
+         "en": "Know that some of these hadiths we have mentioned are not authentic, and no scholar of standing is known to have held them, such as the hadith “Whoever strikes his father, kill him” and the hadith of killing the thief on the fifth occasion."
+        },
+        {
+         "ar": "وباقي النصوص كلُّها يمكن ردُّها إلى حديث ابن مسعود، وذلك أنَّ حديثَ ابنِ مسعودٍ تضمَّن أنَّه لا يُستباح دمُ المسلم إلاَّ بإحدى ثلاث خصالٍ:",
+         "en": "All the remaining texts can be traced back to Ibn Masʿūd's hadith. Ibn Masʿūd's hadith states that the blood of a Muslim is made lawful only by one of three traits:"
+        },
+        {
+         "ar": "إمَّا أنْ يترك دينه ويفارق جماعة المسلمين، وإمَّا أنْ يزني وهو محصن، وإمَّا أنْ يقتل نفساً بغير حقٍّ.",
+         "en": "either he abandons his religion and separates from the community of the Muslims, or he commits adultery while married, or he kills a soul without right."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c55",
+     "pages": [
+      307
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فيؤخذ منه أنَّ قتل المسلم لا يُستباح إلاَّ بأحد ثلاثة أنواع: تركِ الدين، وإراقةِ الدم المحرَّم، وانتهاك الفرج المحرَّم، فهذه الأنواع الثلاثة هي التي تُبيح دم المسلم دون غيرها.",
+         "en": "From it one may infer that killing a Muslim is made lawful only by one of three kinds of act: abandoning the religion, shedding inviolable blood, and violating sexual sanctity. These three kinds, and nothing else, are what make a Muslim's blood lawful."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c56",
+     "pages": [
+      308
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فأما انتهاكُ الفرج المحرّم، فقد ذكر في الحديث أنَّه الزنا بعد الإحصان، وهذا - والله أعلم - على وجه المثال، فإنَّ المحصن قد تمَّت عليه النعمة بنيل هذه الشهوة بالنِّكاح، فإذا أتاها بعد ذلك مِنْ فرجٍ محرَّمٍ عليه،",
+         "en": "As for violating sexual sanctity, the hadith names it as fornication after marriage. This — and Allah knows best — is by way of example, for the married person has been granted in full the blessing of satisfying this desire through marriage; so if after that he satisfies it with someone forbidden to him,"
+        },
+        {
+         "ar": "أُبيح دمه، وقد ينتفي شرط الإحصان، فيخلفه شرط آخر، وهو كون الفرج لا يُستباحُ بحال، إمَّا مطلقاً كاللواط، أو في حقِّ الواطئ، كمن وطئ ذاتَ محرم بعقد أو غيره، فهذا الوصف هل يكون قائماً مقامَ الإحصان وخلفاً عنه؟",
+         "en": "his blood becomes lawful. The condition of marriage may be absent and be replaced by another condition: that the partner is one who can never be made lawful in any circumstances, either absolutely, as with sodomy, or for the one concerned, as with someone who has intercourse with a woman within the prohibited degrees, whether by a marriage contract or otherwise. Does this quality take the place of marriage and stand in for it?"
+        },
+        {
+         "ar": "هذا هو محلُّ النِّزاع بين العلماء، والأحاديثُ دالَّةٌ على أنَّه يكون خلفاً عنه، ويُكتفى به في إباحة الدم.",
+         "en": "This is the point of dispute among scholars, and the hadiths indicate that it does stand in for it and suffices to make the blood lawful."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c57",
+     "pages": [
+      308
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما سفك الدَّم الحرام، فهل يقومُ مقامه إثارة الفتن المؤدية إلى سفك الدماء، كتفريق جماعة المسلمين، وشقِّ العصا، والمبايعةِ لإمامٍ ثانٍ، ودلِّ الكُفَّارِ على عورات المسلمين؟",
+         "en": "As for shedding inviolable blood: does stirring up the strife that leads to bloodshed take its place — such as dividing the community of the Muslims, breaking its unity, pledging allegiance to a second ruler, or showing the disbelievers where the Muslims are vulnerable?"
+        },
+        {
+         "ar": "هذا هو محلُّ النزاع.",
+         "en": "This is the point of dispute."
+        },
+        {
+         "ar": "وقد روي عن عمر ما يَدُلُّ على إباحة القتل بمثل هذا.",
+         "en": "Something has been narrated from ʿUmar indicating that killing is permissible for things of this kind."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c58",
+     "pages": [
+      308
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكذلك شهرُ السلاح لطلب القتل: هل يقومُ مقامَ القتل في إباحة الدم أم لا؟",
+         "en": "Likewise, does drawing a weapon with intent to kill take the place of killing in making blood lawful, or not?"
+        },
+        {
+         "ar": "فابنُ الزبير وعائشة رأياه قائماً مقام القتل الحقيقي في ذلك.",
+         "en": "Ibn al-Zubayr and ʿĀʾishah held that it takes the place of actual killing in this."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c59",
+     "pages": [
+      308
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكذلك قطعُ الطَّريق بمجرَّده: هل يبيحُ القتلَ أم لا؟",
+         "en": "Likewise, does highway robbery in itself make killing permissible, or not,"
+        },
+        {
+         "ar": "لأنَّه مظِنَّةٌ لسفك الدِّماء المحرَّمة، وقول الله عز وجل: {مَنْ قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الأَرْضِ فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعاً}، يدلُّ على أنَّه إنَّما يُباحُ قتل النفس بشيئين:",
+         "en": "given that it is a likely occasion for shedding inviolable blood? The words of Allah, the Mighty and Majestic, “Whoever kills a soul, other than for a soul or for corruption in the land, it is as though he had killed all mankind” [al-Māʾidah 5:32], show that taking a life is permissible only for one of two things:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c60",
+     "pages": [
+      309
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدهما: بالنفس، والثاني: بالفساد في الأرض، ويدخل في الفساد في الأرض: الحراب والرِّدَّة، والزنى، فإنَّ ذلك كلَّه فساد في الأرض، وكذلك تكرُّر شرب الخمر والإصرار عليه هو مظنةُ سفكِ الدِّماء المحرمة.",
+         "en": "one is in return for a life, and the other is for corruption in the land. Corruption in the land includes waging war, apostasy and fornication, for all of these are corruption in the land. Likewise, repeated wine-drinking and persisting in it is a likely occasion for shedding inviolable blood."
+        },
+        {
+         "ar": "وقد اجتمع الصحابة في عهد عمر على حدِّه ثمانينَ، وجعلوا السكر مَظِنَّة الافتراءِ والقذفِ الموجب لجلد الثمانين،",
+         "en": "In the time of ʿUmar the Companions agreed on eighty lashes as its prescribed punishment, treating drunkenness as a likely occasion for slander and the false accusation of fornication (qadhf), which requires eighty lashes."
+        },
+        {
+         "ar": "ولمَّا قدِمَ وفدُ عبدِ القيس على النَّبيِّ صلى الله عليه وسلم، ونهاهُم عن الأشربة والانتباذِ في الظُّروف قال: «إنَّ أَحَدَكُم ليقومُ إلى ابن عمه - يعني:",
+         "en": "When the delegation of ʿAbd al-Qays came to the Prophet ﷺ and he forbade them intoxicating drinks and steeping dates in [certain] vessels, he said: “One of you will get up and go to his cousin” — meaning,"
+        },
+        {
+         "ar": "إذا شرب - فيضربه بالسَّيف»، وكان فيهم رجلٌ قد أصابته جراحةٌ مِنْ ذلك،",
+         "en": "when he has drunk — “and strike him with the sword.” Among them was a man who had received a wound in just that way,"
+        },
+        {
+         "ar": "فكان يخبؤها حياءً من النَّبيِّ صلى الله عليه وسلم فهذا كلُّه يرجِعُ إلى إباحة الدَّم بالقتل إقامة لمظان القتل مقامَ حقيقته، لكن هل نسخ ذلك أم حكمه باق وهذا هو محلُّ النِّزاع.",
+         "en": "and he used to hide it out of shyness before the Prophet ﷺ. All of this comes down to making blood lawful through killing, by treating the likely occasions of killing as if they were the thing itself. But has that been abrogated, or does its ruling still stand? This is the point of dispute."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c61",
+     "pages": [
+      309
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما تركُ الدين، ومفارقةُ الجماعة، فمعناه: الارتدادُ عن دين الإسلام ولو أتى بالشهادتين، فلو سبَّ الله ورسوله صلى الله عليه وسلم، وهو مقرٌّ بالشهادتين، أُبيح دمُه؛",
+         "en": "As for abandoning the religion and separating from the community, it means apostasy from the religion of Islam, even if he still pronounces the two testimonies. If he reviled Allah and His Messenger ﷺ while affirming the two testimonies, his blood would become lawful,"
+        },
+        {
+         "ar": "لأنَّه قد ترك بذلك دينه.",
+         "en": "because by doing so he has abandoned his religion."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c62",
+     "pages": [
+      309
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكذلك لو استهان بالمُصحف، وألقاه في القاذورات، أو جحد ما يُعلم من الدِّين بالضَّرورة كالصلاة، وما أشبه ذلك ممَّا يُخرج منَ الدِّين.",
+         "en": "The same applies if he treats the copy of the Qurʾān with contempt and throws it into filth, or denies something known by necessity to be part of the religion, such as the prayer, or anything else of that kind that takes one out of the religion."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c63",
+     "pages": [
+      309,
+      310
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهل يقومُ مقامَ ذلك تركُ شيء مِنْ أركان الإسلام الخمس؟",
+         "en": "Does abandoning one of the five pillars of Islam take its place?"
+        },
+        {
+         "ar": "وهذا ينبني على أنَّه هل يخرج من الدِّين بالكُلِّيَّة بذلك أم لا؟",
+         "en": "This depends on whether doing so takes one out of the religion altogether or not."
+        },
+        {
+         "ar": "فمن رآه خروجاً عنِ الدِّين، كان عنده كتركِ الشَّهادتين وإنكارهما، ومن لم يره خروجاً عن الدِّين، فاختلفوا هل يلحقُ بتارك الدِّين في القتل، لكونه ترك أحدَ مباني الإسلام أم لا؟",
+         "en": "Whoever regards it as leaving the religion treats it as equivalent to abandoning and denying the two testimonies. Those who do not regard it as leaving the religion differ over whether he is to be treated like one who abandons the religion as regards killing, because he has abandoned one of the foundations of Islam, or not,"
+        },
+        {
+         "ar": "لكونه لم يخرج عن الدِّين.",
+         "en": "because he has not left the religion."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c64",
+     "pages": [
+      310
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومِنْ هذا الباب ما قاله كثيرٌ من العلماء في قتل الدَّاعية إلى البدع، فإنَّهم نظروا إلى أنَّ ذلك شبيهٌ بالخروج عَنِ الدِّين،",
+         "en": "Under the same heading comes what many scholars have said about killing those who call to innovations. They considered that this resembles leaving the religion"
+        },
+        {
+         "ar": "وهو ذريعةٌ ووسيلة إليه، فإن استخفى بذلك ولم يَدْعُ غيرَه، كان حُكمُه حكمَ المنافقين إذا استخفَوا، وإذا دعا إلى ذلك، تَغَلَّظ جرمُه بإفساد دين الأمة.",
+         "en": "and is a means and path to it. If such a person keeps it hidden and does not call others to it, his ruling is that of the hypocrites when they keep themselves hidden; if he calls others to it, his crime becomes graver, because he is corrupting the religion of the community."
+        },
+        {
+         "ar": "وقد صحَّ عن النَّبيِّ صلى الله عليه وسلم الأمر بقتال الخوارج وقتلهم.",
+         "en": "The command to fight and kill the Khawārij is authentically reported from the Prophet ﷺ."
+        },
+        {
+         "ar": "وقد اختلف العلماء في حكمهم.",
+         "en": "Scholars have differed over their ruling."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c65",
+     "pages": [
+      310
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فمنهم من قال: هم كفَّارٌ، فيكون قتلُهم لكفرهم.",
+         "en": "Some said: They are disbelievers, so they are killed for their disbelief."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c66",
+     "pages": [
+      310
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنهم من قال: إنَّما يُقتلون لفسادهم في الأرض بسفكِ دماءِ المسلمين وتكفيرهم لهم، وهو قولُ مالكٍ وطائفة من أصحابنا، وأجازوا الابتداء بقتالهم، والإجهازَ على جريحهم.",
+         "en": "Some said: They are killed only for their corruption in the land, in shedding the blood of Muslims and declaring them disbelievers. This is the view of Mālik and a group of the scholars of our school, and they permitted initiating the fight against them and finishing off their wounded."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c67",
+     "pages": [
+      310
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنهم من قال: إن دَعَوْا إلى ما هُمْ عليه، قوتلوا، وإنْ أظهروه ولم يدعوا إليه لم يُقاتلوا، وهو نصُّ أحمد وإسحاق، وهو يرجع إلى قتال من دعا إلى بدعة مغلظة.",
+         "en": "Some said: If they call others to what they hold, they are fought; if they display it but do not call to it, they are not fought. This is what Aḥmad and Isḥāq stated explicitly, and it comes back to fighting whoever calls to a grave innovation."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c68",
+     "pages": [
+      310
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنهم من لم يرَ البداءة بقتالهم حتّى يبدءوا بقتالٍ يُبيح قتالَهم مِنْ سفك دماءٍ ونحوه، كما رُوِيَ عن عليٍّ، وهو قولُ الشافعي وكثيرٍ من أصحابنا.",
+         "en": "Some held that the fight should not be begun against them until they begin hostilities that make fighting them permissible, such as shedding blood and the like, as was narrated from ʿAlī. This is the view of al-Shāfiʿī and many of the scholars of our school."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c69",
+     "pages": [
+      311
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد روي من وجوه متعددة أنَّ النَّبيَّ صلى الله عليه وسلم أمر بقتل رجلٍ كان يُصلي، وقال: «لو قتل،",
+         "en": "It has been narrated through numerous routes that the Prophet ﷺ ordered a man who was praying to be killed, and said: “Had he been killed,"
+        },
+        {
+         "ar": "لكان أوَّلَ فتنةٍ وآخرها»، وفي رواية: «لو قُتِلَ، لم يختلف رجلان من أمتي حتى يخرجَ الدَّجَّالُ»، خرّجه الإمام أحمد رحمه الله وغيره.",
+         "en": "it would have been the first strife and the last.” In one narration: “Had he been killed, no two men of my community would have differed until the Dajjāl emerges.” Imam Aḥmad (may Allah have mercy on him) and others recorded it."
+        },
+        {
+         "ar": "فيستدلَّ بهذا على قتل المبتدع إذا كان قتله يكف شرَّه عن المسلمين، ويحسم مادة الفتن.",
+         "en": "This is used as evidence for killing the innovator when killing him would keep his evil away from the Muslims and cut off the source of strife."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c70",
+     "pages": [
+      311
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد حكى ابنُ عبد البر وغيرُه عن مذهبِ مالكٍ جوازَ قتل الدَّاعي إلى البدعة.",
+         "en": "Ibn ʿAbd al-Barr and others reported that the school of Mālik permits killing one who calls to innovation."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c71",
+     "pages": [
+      311
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فرجعت نصوصُ القتل كلُّها إلى ما في حديث ابن مسعود بهذا التقدير، ولله الحمد.",
+         "en": "So, understood in this way, all the texts about killing come back to what is in Ibn Masʿūd's hadith, and to Allah be the praise."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c72",
+     "pages": [
+      311
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكثيرٌ من العلماء يقولُ في كثير من هذه النصوص التي ذكرناها هاهنا: إنَّها منسوخةٌ بحديث ابنِ مسعودٍ، وفي هذا نظرٌ من وجهين:",
+         "en": "Many scholars say of many of the texts we have mentioned here that they were abrogated by Ibn Masʿūd's hadith. This is questionable in two respects."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c73",
+     "pages": [
+      311
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدهما: أنَّه لا يُعلم أنَّ حديثَ ابنِ مسعود كان متأخراً عن تلك النصوص كلِّها، لا سيما وابن مسعود من قدماء المهاجرين.",
+         "en": "First, it is not known that Ibn Masʿūd's hadith came later than all those texts, especially as Ibn Masʿūd was one of the earliest Emigrants,"
+        },
+        {
+         "ar": "وكثير من تلك النصوص يرويها من تأخَّر إسلامُه كأبي هريرة، وجريرِ بنِ عبد الله، ومعاوية، فإنَّ هؤلاء كلهم رووا حديثَ قتل شارب الخمر في المرة الرابعة.",
+         "en": "while many of those texts are narrated by people who accepted Islam late, such as Abū Hurayrah, Jarīr ibn ʿAbdullāh and Muʿāwiyah; all of them narrated the hadith on killing the wine-drinker on the fourth occasion."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c74",
+     "pages": [
+      311,
+      312
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثاني: أنَّ الخاصَّ لا يُنْسَخُ بالعامِّ، ولو كان العامُّ متأخراً عنه في الصحيح الذي عليه جمهور العلماء؛",
+         "en": "Second, the specific is not abrogated by the general, even if the general came after it, according to the correct view held by the majority of scholars,"
+        },
+        {
+         "ar": "لأنَّ دلالة الخاصِّ على معناه بالنصِّ، ودلالة العام عليهِ بالظاهر عندَ الأكثرين، فلا يُبطِلُ الظاهرُ حكمَ النص.",
+         "en": "because the specific indicates its meaning by explicit statement (naṣṣ), whereas the general indicates it only by apparent meaning (ẓāhir), according to most of them; and what is apparent does not cancel the ruling of what is explicit."
+        },
+        {
+         "ar": "وقد روي أنَّ النَّبيَّ صلى الله عليه وسلم أمر بقتل رجل كذَب عليهِ في حياته، وقال لحيٍّ من العرب:",
+         "en": "It has been narrated that the Prophet ﷺ ordered the killing of a man who lied about him during his lifetime. The man had said to a clan of the Arabs:"
+        },
+        {
+         "ar": "إنَّ رسول الله صلى الله عليه وسلم أرسلني وأمرني أنْ أحكمَ في دمائِكم وأموالكم، وهذا رُوي من وجوهٍ متعدِّدةٍ كلها ضعيفة،",
+         "en": "The Messenger of Allah ﷺ has sent me and commanded me to rule over your lives and property. This has been narrated through numerous routes, all of them weak."
+        },
+        {
+         "ar": "وفي بعضها أنَّ هذا الرجل كانَ قد خطب امرأةً منهم في الجاهلية، فأبوا أنْ يُزوِّجوه، وأنَّه لمَّا قالَ لهم هذه المقالة صدَّقوه،",
+         "en": "Some of them state that this man had asked for the hand of one of their women in the Jāhiliyyah and they had refused to marry her to him; when he told them this, they believed him,"
+        },
+        {
+         "ar": "ونزل على تلك المرأة، وحينئذٍ فهذا الرَّجُلُ قد زنى، ونسب إباحةَ ذَلِكَ إلى النَّبيِّ صلى الله عليه وسلم، وهذا كفرٌ وردَّة عن الدِّين.",
+         "en": "and he went and stayed with that woman. This man, then, had committed fornication and attributed its permissibility to the Prophet ﷺ, and that is disbelief and apostasy from the religion."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c75",
+     "pages": [
+      312
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح مسلم \":",
+         "en": "In Ṣaḥīḥ Muslim:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c76",
+     "pages": [
+      312
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أنَّ النَّبيَّ صلى الله عليه وسلم أمر علياً بقتل القبطي الذي كان يدخل على أمِّ ولده مارية، وكان الناسُ يتحدثون بذلك، فلما وجده عليٌّ مجبوباً تركه.",
+         "en": "the Prophet ﷺ ordered ʿAlī to kill the Copt who used to visit Māriyah, the mother of his child; people had been talking about it, but when ʿAlī found that he was a eunuch, he left him alone."
+        },
+        {
+         "ar": "وقد حمله بعضُهم على أنَّ القبطيَّ لم يكن أسلمَ بعدُ، وأنَّ المعاهَدَ إذا فعل ما يُؤذي المسلمين انتقض عهدُه، فكيف إذا آذى النَّبيَّ صلى الله عليه وسلم؟",
+         "en": "Some have explained it as meaning that the Copt had not yet accepted Islam, and that a person under covenant who does something that harms the Muslims breaks his covenant — so how much more so if he harms the Prophet ﷺ?"
+        },
+        {
+         "ar": "وقال بعضهم: بل كان مسلماً، ولكنَّه نُهي عن ذلك فلم ينته، حتَّى تكلَّم الناسُ بسببه في فراش النَّبيِّ صلى الله عليه وسلم،",
+         "en": "Others said: No, he was a Muslim, but he had been told to stop and did not, until people began to talk, because of him, about the Prophet's marital honour ﷺ;"
+        },
+        {
+         "ar": "وأذى النَّبيِّ صلى الله عليه وسلم في فراشه مبيحٌ للدم، لكن لما ظهرت براءتُه بالعيان، تبيَّن للناس براءةُ مارية، فزال السببُ المبيح للقتل.",
+         "en": "and harming the Prophet ﷺ in his marital honour makes blood lawful. But when his innocence became plain for all to see, Māriyah's innocence became clear to the people, and the cause that made killing him lawful was removed."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c77",
+     "pages": [
+      313
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد رُوي عن الإمام أحمد: أنَّ النَّبيَّ صلى الله عليه وسلم كان له أنْ يَقْتُلَ بغير هذه الأسباب الثلاثة التي في حديث ابن مسعود،",
+         "en": "It has been narrated from Imam Aḥmad that the Prophet ﷺ was entitled to kill for reasons other than the three in Ibn Masʿūd's hadith,"
+        },
+        {
+         "ar": "وغَيْرُهُ ليس له ذلك، كأنَّه يُشير إلى أنَّه صلى الله عليه وسلم كان له أنْ يُعَزِّرَ بالقتل إذا رأى ذلك مصلحةً؛",
+         "en": "while no one else is. He seems to be indicating that he ﷺ was entitled to impose death as a discretionary punishment (taʿzīr) when he saw benefit in it,"
+        },
+        {
+         "ar": "لأنَّه صلى الله عليه وسلم معصوم من التعدِّي والحَيْفِ، وأما غيرُه فليس لهُ ذَلِكَ؛",
+         "en": "because he ﷺ was protected from transgression and injustice, whereas no one else is entitled to do so,"
+        },
+        {
+         "ar": "لأنَّه غير مأمون عليهِ التعدِّي بالهوى.",
+         "en": "since he cannot be trusted not to transgress out of his own desires."
+        },
+        {
+         "ar": "قالَ أبو داود: سمعتُ أحمد سُئِلَ عن حديث أبي بكر ما كانت لأحدٍ بعد النَّبيِّ صلى الله عليه وسلم، قال: لم يكن لأبي بكر أنْ يقتل رجلاً إلا بإحدى ثلاثٍ،",
+         "en": "Abū Dāwūd said: I heard Aḥmad being asked about the hadith of Abū Bakr, “That was not for anyone after the Prophet ﷺ.” He said: Abū Bakr was not entitled to kill a man except for one of three things,"
+        },
+        {
+         "ar": "والنَّبيُّ صلى الله عليه وسلم كان له ذَلِكَ أنْ يقتل، وحديث أبي بكر المشار إليه هو أنَّ رجلاً كلم أبا بكر فأغلظ له، فقال له أبو برزة: ألا أقتلُه يا خليفةَ رسولِ الله؟",
+         "en": "whereas the Prophet ﷺ was entitled to kill. The hadith of Abū Bakr referred to is that a man spoke harshly to Abū Bakr, and Abū Barzah said to him: Shall I not kill him, O successor of the Messenger of Allah?"
+        },
+        {
+         "ar": "فقال أبو بكر: ما كانت لأحدٍ بعدَ النَّبيِّ صلى الله عليه وسلم.",
+         "en": "Abū Bakr said: That was not for anyone after the Prophet ﷺ."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h14.c78",
+     "pages": [
+      313
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعلى هذا يتخرَّجُ حديثُ الأمرِ بقتل هذا القبطي، ويتخرَّجُ عليه أيضاً حديثُ الأمر بقتل السارق إنْ كان صحيحاً، فإنَّ فيه أنَّ النَّبيَّ صلى الله عليه وسلم أمر بقتله في أوَّلِ مرةٍ،",
+         "en": "This explains the hadith ordering the killing of the Copt, and it also explains the hadith ordering the killing of the thief, if that is authentic. That hadith says that the Prophet ﷺ ordered him killed the first time,"
+        },
+        {
+         "ar": "فراجعوه فيه فقطعه، ثم فعل ذلك أربع مرات وهو يأمر بقتله، فيُراجع فيه، فيُقطع حتَّى قُطعت أطرافُه الأربع، ثمَّ قتل في الخامسة، والله تعالى أعلم.",
+         "en": "but they appealed to him about it, and he had his hand cut off instead. The same happened four times — he would order him killed, they would appeal to him, and a limb would be cut off — until all four of his limbs had been cut off; then he was killed on the fifth occasion. And Allah the Exalted knows best."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}

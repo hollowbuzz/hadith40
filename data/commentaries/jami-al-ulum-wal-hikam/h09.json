@@ -1,0 +1,2076 @@
+{
+ "id": "h09",
+ "number": 9,
+ "standard_number": 9,
+ "collection": "nawawi",
+ "heading": {
+  "ar": "الحديث التاسع",
+  "en": "Hadith 9"
+ },
+ "title": {
+  "ar": "ما نهيتكم عنه فاجتنبوه",
+  "en": "Avoid What I Have Forbidden"
+ },
+ "pages": {
+  "start": 218,
+  "end": 238
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.n1",
+     "pages": [
+      218
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنْ أَبي هُرُيرة رضي الله عنه قال: سَمِعتُ رَسولَ اللهِ صلى الله عليه وسلم يقولُ: «ما نَهَيتُكُمْ عَنْهُ، فاجْتَنِبوهُ، وما أمرتُكُم به، فأتُوا منهُ ما استطعتُم، فإنَّما أهلَكَ الَّذين من قبلِكُم كَثْرَةُ مسائِلِهم واختلافُهم على أنبيائِهم».",
+         "en": "From Abū Hurayrah (may Allah be pleased with him), who said: I heard the Messenger of Allah ﷺ say: “Whatever I have forbidden you, avoid it; and whatever I have commanded you, do of it as much as you are able. For what destroyed those before you was only their excessive questioning and their disagreeing with their prophets.”"
+        },
+        {
+         "ar": "رواهُ البخاريُّ ومُسلمٌ.",
+         "en": "Reported by al-Bukhārī and Muslim."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c1",
+     "pages": [
+      218
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "هذا الحديثُ بهذا اللفظ خرَّجه مسلم وَحْدَهُ من رواية الزهري، عن سعيد ابن المسيب وأبي سلمة، كلاهما عن أبي هُريرة، وخرَّجاه من رواية أبي الزناد، عن الأعرج، عن أبي هريرة، عن النَّبيِّ صلى الله عليه وسلم،",
+         "en": "Muslim alone recorded this hadith in this wording, in the narration of al-Zuhrī from Saʿīd ibn al-Musayyib and Abū Salamah, both from Abū Hurayrah. Al-Bukhārī and Muslim both recorded it in the narration of Abū al-Zinād, from al-Aʿraj, from Abū Hurayrah, from the Prophet ﷺ,"
+        },
+        {
+         "ar": "قال: «دَعُوني ما تركتُكم، إنَّما أهلَكَ مَنْ كَانَ قَبلَكُم سؤالُهم واختلافُهم على أنبيائهم، فإذا نهيتُكم عن شيءٍ فاجتَنبُوه، وإذا أمرتُكم بأمرٍ فأتُوا منه ما استطعتم» وخرَّجه مسلم مِن طريقين آخرين عن أبي هريرة بمعناه.",
+         "en": "who said: “Leave me alone as long as I leave you alone. What destroyed those before you was only their questioning and their disagreeing with their prophets. So when I forbid you something, avoid it; and when I command you something, do of it as much as you are able.” Muslim recorded it by two other routes from Abū Hurayrah with the same meaning."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c2",
+     "pages": [
+      218
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي رواية له ذكرُ سبب هذا الحديث من رواية محمد بن زياد، عن أبي هريرة قال:",
+         "en": "One of Muslim's narrations mentions the occasion of this hadith, in the narration of Muḥammad ibn Ziyād from Abū Hurayrah, who said:"
+        },
+        {
+         "ar": "خطبنا رسولُ الله صلى الله عليه وسلم فقال: «يا أيَّها النَّاس قد فرضَ الله عليكم الحجَّ فحجُّوا» فقال رجل: أكُلَّ عامٍ يا رسول الله؟",
+         "en": "The Messenger of Allah ﷺ addressed us and said: “O people, Allah has made Ḥajj obligatory on you, so perform Ḥajj.” A man said: Every year, O Messenger of Allah?"
+        },
+        {
+         "ar": "فسكت حتَّى قالها ثلاثاً، فقال رسولُ الله صلى الله عليه وسلم:",
+         "en": "He remained silent until the man had said it three times. Then the Messenger of Allah ﷺ said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c3",
+     "pages": [
+      219
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«لو قلتُ: نعم، لوجبت، ولما استطعتُم» ثمَّ قال: «ذَرُوني ما تَرَكْتُكُم، فإنَّما أُهْلِكَ مَنْ كانَ قبلَكم بسؤالهم واختلافهم على أنبيائهم، فإذا أمرتُكُم بشيءٍ، فأتوا منه ما استطعتُم، وإذا نهيتُكم عن شيءٍ، فدعوه».",
+         "en": "“If I had said yes, it would have become obligatory, and you would not have been able to do it.” Then he said: “Leave me alone as long as I leave you alone, for those before you were destroyed only by their questioning and their disagreeing with their prophets. When I command you to do something, do of it as much as you are able; and when I forbid you something, leave it.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c4",
+     "pages": [
+      219
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه الدَّارقطني من وجه آخر مختصراً، وقال فيه: فنَزل قولُه تعالى : {يَا أَيُّهَا الَّذِينَ آمَنُوا لا تَسْأَلوا عَنْ أَشْيَاءَ إِنْ تُبْدَ لَكُمْ تَسُؤْكُم}.",
+         "en": "Al-Dāraquṭnī recorded it by another route in abridged form, and in it he said: Then His words, the Exalted, were revealed: “O you who believe, do not ask about things which, if made plain to you, would distress you” [al-Māʾidah 5:101]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c5",
+     "pages": [
+      219
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد رُوِي مِن غير وجهٍ أنَّ هذه الآية نزلت لمَّا سألوا النَّبيَّ صلى الله عليه وسلم عن الحجِّ، وقالوا: أفي كلِّ عام؟",
+         "en": "It has been narrated by more than one route that this verse was revealed when they asked the Prophet ﷺ about Ḥajj, saying: Is it every year?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c6",
+     "pages": [
+      219
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن أنس قال: خطبنا رسولُ الله صلى الله عليه وسلم، فقال رجل:",
+         "en": "In the two Ṣaḥīḥs, Anas said: The Messenger of Allah ﷺ addressed us, and a man said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c7",
+     "pages": [
+      219
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "من أبي؟ فقال: «فلان»، فنَزلت هذه الآية {لا تَسْأَلوا عَنْ أَشْيَاءَ}.",
+         "en": "Who is my father? He said: “So-and-so.” Then this verse was revealed: “Do not ask about things.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c8",
+     "pages": [
+      219,
+      220
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفيهما أيضاً عن قتادة، عن أنسٍ قال: سألوا رسول اللهِ صلى الله عليه وسلم حتى أحْفَوهُ في المسألة، فغضب، فصَعدَ المنبر، فقال:",
+         "en": "Also in both, from Qatādah, from Anas, who said: People questioned the Messenger of Allah ﷺ until they pressed him hard with their questions, and he became angry. He mounted the pulpit and said:"
+        },
+        {
+         "ar": "«لا تسألوني اليومَ عن شيءٍ إلا بيَّنتُه»، فقام رجل كان إذا لاحى الرجالَ دُعِيَ إلى غير أبيه، فقال: يا رسول الله من أبي؟",
+         "en": "“You will not ask me about anything today but I will explain it to you.” A man stood up who, whenever he quarrelled with people, was called the son of someone other than his father. He said: O Messenger of Allah, who is my father?"
+        },
+        {
+         "ar": "قالَ: «أبوك حُذافة»، ثم أنشأ عمرُ، فقال: رضينا بالله رباً، وبالإسلام ديناً، وبمحمَّد رسولاً، نعوذ بالله من الفتن.",
+         "en": "He said: “Your father is Ḥudhāfah.” Then ʿUmar spoke up and said: We are pleased with Allah as Lord, with Islam as religion and with Muḥammad as Messenger; we seek refuge with Allah from trials."
+        },
+        {
+         "ar": "وكان قتادة يذكر عند هذا الحديث هذه الآية {يَا أَيُّهَا الَّذِينَ آمَنُوا لا تَسْأَلوا عَنْ أَشْيَاءَ}.",
+         "en": "When narrating this hadith, Qatādah used to mention this verse: “O you who believe, do not ask about things.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c9",
+     "pages": [
+      220
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح البخاري \" عن ابن عباس قال: كان قومٌ يسألون رسولَ الله صلى الله عليه وسلم استهزاءً، فيقولُ الرجلُ: من أبي؟",
+         "en": "In Ṣaḥīḥ al-Bukhārī, Ibn ʿAbbās said: Some people used to question the Messenger of Allah ﷺ in mockery. A man would say: Who is my father?"
+        },
+        {
+         "ar": "ويقول الرجلُ تَضِلُّ ناقته: أين ناقتي؟",
+         "en": "And a man whose she-camel had strayed would say: Where is my she-camel?"
+        },
+        {
+         "ar": "فأنزل الله هذه الآية {يَا أَيُّهَا الَّذِينَ آمَنُوا لا تَسْأَلوا عَنْ أَشْيَاءَ}.",
+         "en": "So Allah revealed this verse: “O you who believe, do not ask about things.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c10",
+     "pages": [
+      220
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخَرَّج ابن جرير الطبري في \" تفسيره \" من حديث أبي هريرة، قال:",
+         "en": "Ibn Jarīr al-Ṭabarī recorded in his Tafsīr from the hadith of Abū Hurayrah, who said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c11",
+     "pages": [
+      220
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "خرج رسول الله صلى الله عليه وسلم وهو غضبانُ مُحمارّاً وجهه، حتّى جلس على المنبرِ، فقام إليه رجلٌ، فقال: أين أنا؟",
+         "en": "The Messenger of Allah ﷺ came out angry, his face reddened, and sat on the pulpit. A man stood up before him and said: Where am I [to end up]?"
+        },
+        {
+         "ar": "فقالَ: «في النار»، فقام إليه آخر فقالَ: من أبي؟",
+         "en": "He said: “In the Fire.” Another stood up before him and said: Who is my father?"
+        },
+        {
+         "ar": "قال: «أبوك حُذافة»، فقام عمر فقال: رضينا بالله رباً، وبالإسلام ديناً، وبمحمد نبياً، وبالقرآن إماماً، إنا يا رسول الله حديثو عهدٍ بجاهلية وشركٍ،",
+         "en": "He said: “Your father is Ḥudhāfah.” ʿUmar stood up and said: We are pleased with Allah as Lord, with Islam as religion, with Muḥammad as Prophet and with the Qurʾān as guide. O Messenger of Allah, we have only lately come out of the Jāhiliyyah and shirk,"
+        },
+        {
+         "ar": "والله أعلم مَن آباؤنا، قال: فسكن غضبُه، ونزلت هذه الآية: {يَا أَيُّهَا الَّذِينَ آمَنُوا لا تَسْأَلوا عَنْ أَشْيَاءَ إِنْ تُبْدَ لَكُمْ تَسُؤْكُم}.",
+         "en": "and Allah knows best who our fathers are. His anger then subsided, and this verse was revealed: “O you who believe, do not ask about things which, if made plain to you, would distress you.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c12",
+     "pages": [
+      220
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى أيضاً من طريق العَوْفي عن ابن عباس في قوله: {يَا أَيُّهَا الَّذِينَ آمَنُوا لا تَسْأَلوا عَنْ أَشْيَاءَ إِنْ تُبْدَ لَكُمْ تَسُؤْكُم} قال:",
+         "en": "He also narrated by way of al-ʿAwfī, from Ibn ʿAbbās, concerning His words, “O you who believe, do not ask about things which, if made plain to you, would distress you,” that he said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c13",
+     "pages": [
+      221
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "إنَّ رسول الله صلى الله عليه وسلم أذَّن في الناس، فقال: «يا قوم كُتِبَ عليكُم الحجُّ»، فقام رجل، فقال: يا رسول الله، أفي كلِّ عامٍ؟",
+         "en": "The Messenger of Allah ﷺ made a proclamation among the people, saying: “O people, Ḥajj has been prescribed for you.” A man stood up and said: O Messenger of Allah, every year?"
+        },
+        {
+         "ar": "فأُغْضِبَ رسولُ الله صلى الله عليه وسلم غضباً شديداً، فقال: «والذي نفسي بيده، لو قلت: نعم، لوجَبَت، ولو وجبت ما استطعتم،",
+         "en": "The Messenger of Allah ﷺ was made extremely angry, and said: “By Him in whose hand is my soul, if I had said yes, it would have become obligatory; and if it had become obligatory you would not have been able to do it,"
+        },
+        {
+         "ar": "وإذن لكفرتُم، فاتركُونِي ما تركتُكم، فإذا أمرتكم بشيءٍ، فافعلوا منه ما استطعتم، وإذا نهيتُكم عن شيءٍ، فانتهوا عنه»، فأنزل الله:",
+         "en": "and then you would have disbelieved. So leave me alone as long as I leave you alone. When I command you to do something, do of it as much as you are able; and when I forbid you something, refrain from it.” And Allah revealed:"
+        },
+        {
+         "ar": "{يَا أَيُّهَا الَّذِينَ آمَنُوا لا تَسْأَلوا عَنْ أَشْيَاءَ إِنْ تُبْدَ لَكُمْ تَسُؤْكُم}، نهاهم أنْ يسألوا مثلَ الذي سألتِ النَّصارى في المائدة، فأصبحوا بها كافرين،",
+         "en": "“O you who believe, do not ask about things which, if made plain to you, would distress you.” He forbade them to ask for the like of what the Christians asked for in the matter of the Table, after which they became disbelievers in it."
+        },
+        {
+         "ar": "فنهى الله تعالى عن ذلك، وقال: لا تسألوا عن أشياء إنْ نزل القرآن فيها بتغليظٍ ساءكم، ولكن انتظروا، فإذا نزل القرآنُ، فإنَّكم لا تسألون عن شيء إلا وجدتُم تبيانه.",
+         "en": "So Allah the Exalted forbade that, and said: Do not ask about things which, if the Qurʾān were revealed about them with severity, would distress you. Wait instead, for when the Qurʾān is revealed, you will not ask about anything without finding its explanation."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c14",
+     "pages": [
+      221
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فدلَّت هذه الأحاديثُ على النهي عن السُّؤال عمَّا لا يُحتاج إليه مما يسوءُ السائلَ جوابُه مثل سؤال السائل، هل هوَ في النار أو في الجنة،",
+         "en": "These hadiths, then, show that it is forbidden to ask about needless things whose answer would distress the questioner — such as a questioner asking whether he is in the Fire or in Paradise,"
+        },
+        {
+         "ar": "وهل أبوه من ينتسب إليه أو غيره، وعلى النهي عن السؤال على وجه التعنت والعبث والاستهزاء، كما كان يفعلُه كثيرٌ من المنافقين وغيرهم.",
+         "en": "or whether his father is the man he is attributed to or someone else — and that it is forbidden to ask in order to make difficulties, or in idle play or mockery, as many of the hypocrites and others used to do."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c15",
+     "pages": [
+      221
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقريبٌ من ذلك سؤالُ الآيات واقتراحُها على وجه التعنتِ، كما كان يسأله المشركون وأهل الكتاب، وقد قال عكرمة وغيرُه: إنَّ الآية نزلت في ذلك.",
+         "en": "Close to this is asking for signs and demanding them in order to make difficulties, as the polytheists and the People of the Book used to ask of him; ʿIkrimah and others said that the verse was revealed about that."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c16",
+     "pages": [
+      221
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويقرب من ذلك السؤالُ عما أخفاه الله عن عباده، ولم يُطلعهم عليه، كالسؤال عن وقتِ الساعة، وعن الروح.",
+         "en": "Close to it, too, is asking about what Allah has hidden from His servants and not disclosed to them, such as asking about the time of the Hour, and about the spirit."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c17",
+     "pages": [
+      221,
+      222
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ودلَّت أيضاً على نهي المسلمين عن السؤال عن كثيرٍ من الحلالِ والحرام مما يُخشى أنْ يكون السؤال سبباً لنزول التشديد فيه، كالسُّؤال عَنِ الحجِّ: هل يجب كلَّ عامٍ أم لا؟",
+         "en": "They also show that the Muslims were forbidden to ask about many matters of the lawful and the unlawful where it was feared that the question might cause something stricter to be revealed, such as asking whether Ḥajj is obligatory every year or not."
+        },
+        {
+         "ar": "وفي \" الصحيح \" عن سعدٍ، عنِ النَّبيِّ صلى الله عليه وسلم أنَّه قال: «إنَّ أعظمَ المسلمين في المسلمين جرماً مَنْ سأل عن شيءٍ لم يحرَّم، فحُرِّمَ من أجل مسألته».",
+         "en": "In the Ṣaḥīḥ, from Saʿd, the Prophet ﷺ said: “The Muslim who commits the greatest crime against the Muslims is one who asks about something that had not been made unlawful, and it is made unlawful because of his question.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c18",
+     "pages": [
+      222
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولما سُئِلَ النَّبيُّ صلى الله عليه وسلم عن اللِّعان كره المسائل وعابها حتى ابتُلي السائلُ عنه قبلَ وقوعه بذلك في أهله، وكان النَّبيُّ صلى الله عليه وسلم ينهى عن قيل وقال، وكثرة السؤال، وإضاعةِ المال.",
+         "en": "When the Prophet ﷺ was asked about liʿān, he disliked such questions and found fault with them, until the man who had asked about it before it happened was himself afflicted with it in his own family. The Prophet ﷺ used to forbid idle gossip, excessive questioning and wasting wealth."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c19",
+     "pages": [
+      222
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولم يكن النَّبيُّ صلى الله عليه وسلم يُرخِّصُ في المسائل إلاَّ للأعرابِ ونحوهم من الوُفود القادمين عليه، يتألَّفهم بذلك، فأمَّا المهاجرون والأنصار المقيمون بالمدينة الذين رَسَخَ الإيمانُ في قلوبهم، فنُهُوا عَنِ المسألة،",
+         "en": "The Prophet ﷺ allowed only the Bedouins and similar delegations who came to him to ask questions, to win their hearts. As for the Emigrants and the Helpers living in Madīnah, in whose hearts faith was firmly rooted, they were forbidden to ask,"
+        },
+        {
+         "ar": "كما في \" صحيح مسلم \" عن النَّوَّاس بن سمعان، قال: أقمتُ مع رسول الله صلى الله عليه وسلم بالمدينة سنة ما يمنعني منَ الهجرة إلاَّ المسألةُ، كان أحدُنا إذا هاجر لم يسأل النَّبيَّ صلى الله عليه وسلم.",
+         "en": "as in Ṣaḥīḥ Muslim, from al-Nawwās ibn Samʿān, who said: I stayed with the Messenger of Allah ﷺ in Madīnah for a year, and nothing kept me from emigrating but the asking of questions: when one of us emigrated, he would no longer ask the Prophet ﷺ."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c20",
+     "pages": [
+      222
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفيه أيضا عن أنسٍ، قال: نُهينا أنْ نسألَ رسولَ الله صلى الله عليه وسلم عن شيءٍ، فكان يُعجِبُنا أنْ يجيءَ الرجلُ من أهل البادية العاقل، فيسأله ونحنُ نَسْمَعُ.",
+         "en": "Also in it, from Anas, who said: We were forbidden to ask the Messenger of Allah ﷺ about anything, so we used to be delighted when an intelligent man from the desert came and asked him while we listened."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c21",
+     "pages": [
+      223
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" المسند \" عن أبي أُمامة قال: كان الله قد أنزل: {يَا أَيُّهَا الَّذِينَ آمَنُوا لا تَسْأَلوا عَنْ أَشْيَاءَ إِنْ تُبْدَ لَكُمْ تَسُؤْكُم} قال: فكنَّا قد كرهنا كثيراً مِنْ مسألته،",
+         "en": "In the Musnad, Abū Umāmah said: Allah had revealed: “O you who believe, do not ask about things which, if made plain to you, would distress you.” So we had come to dislike asking him much,"
+        },
+        {
+         "ar": "واتَّقينا ذلك حين أنزل الله على نبيه صلى الله عليه وسلم، قال: فأتينا أعرابياً، فرشوناه بُرداً، ثمَّ قلنا له: سلِ النَّبيَّ صلى الله عليه وسلم وذكر حديثاً.",
+         "en": "and we guarded against it once Allah had revealed that to His Prophet ﷺ. So we went to a Bedouin, bribed him with a cloak, and said to him: Ask the Prophet ﷺ — and he mentioned a hadith."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c22",
+     "pages": [
+      223
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \"مسند أبي يعلى\" عن البراء بنِ عازب، قال: إنْ كان لتأتي عليَّ السنةُ أريد أنْ أسألَ رسولَ الله صلى الله عليه وسلم عن شيءٍ، فأتهيب منه، وإنْ كنَّا لنتمنَّى الأعرابَ.",
+         "en": "In the Musnad of Abū Yaʿlā, al-Barāʾ ibn ʿĀzib said: A whole year would pass in which I wanted to ask the Messenger of Allah ﷺ about something but held back out of awe of him; and we used to long for the Bedouins to come."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c23",
+     "pages": [
+      223
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" مسند البزار \" عن ابن عباس قال: ما رأيت قوماً خيراً من أصحابِ محمَّدٍ صلى الله عليه وسلم ما سألوه إلا عن اثنتي عشرة مسألةً،",
+         "en": "In the Musnad of al-Bazzār, Ibn ʿAbbās said: I have never seen a people better than the Companions of Muḥammad ﷺ. They asked him only twelve questions,"
+        },
+        {
+         "ar": "كلُّها في القرآن: {يَسْأَلونَكَ عَنِ الْخَمْرِ وَالْمَيْسِرِ}، {يَسْأَلونَكَ عَنِ الشَّهْرِ الْحَرَامِ}، {وَيَسْأَلونَكَ عَنِ الْيَتَامَى}، وذكر الحديث.",
+         "en": "all of them in the Qurʾān: “They ask you about wine and gambling” [al-Baqarah 2:219], “They ask you about the sacred month” [al-Baqarah 2:217], “And they ask you about orphans” [al-Baqarah 2:220] — and he mentioned the rest of the hadith."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c24",
+     "pages": [
+      223
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد كان أصحابُ النَّبيِّ صلى الله عليه وسلم أحياناً يسألونه عن حكم حوادثَ قبلَ وقوعها، لكن للعمل بها عند وقوعها، كما قالوا له: إنَّا لاقوا العدوِّ غداً، وليس معنا مُدىً، أفنذبح بالقصَبِ؟",
+         "en": "The Companions of the Prophet ﷺ did sometimes ask him for the ruling on events before they happened, but in order to act on it when they did happen — as when they said to him: We are going to meet the enemy tomorrow and we have no knives with us; may we slaughter with reeds?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c25",
+     "pages": [
+      224
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وسألوه عَنِ الأُمراءِ الَّذينَ أخبر عنهم بعدَه، وعن طاعتهم وقتالهم، وسأله حذيفةُ عن الفتنِ، وما يصنع فيها.",
+         "en": "They asked him about the rulers he told them would come after him, about obeying them and fighting them; and Ḥudhayfah asked him about the trials, and what he should do in them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c26",
+     "pages": [
+      224
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فهذا الحديث، وهو قولهُ صلى الله عليه وسلم: «ذَرُوني ما تركتُكم، فإنَّما هلك مَنْ كان قبلَكُم بكثرةِ سُؤالهم واختلافهم على أنبيائهم، يدلُّ على كراهة المسائل وذمِّها،",
+         "en": "This hadith, then — his words ﷺ, “Leave me alone as long as I leave you alone, for those before you were destroyed only by their excessive questioning and their disagreeing with their prophets” — shows that questions are disliked and blameworthy."
+        },
+        {
+         "ar": "ولكن بعضَ الناس يزعمُ أنَّ ذلك كان مختصاً بزمن النَّبيِّ صلى الله عليه وسلم لما يخشى حينئذ من تحريم ما لم يُحرم، أو إيجاب ما يشقُّ القيام به، وهذا قد أمن بعد وفاته صلى الله عليه وسلم.",
+         "en": "Some people, however, claim that this applied only to the time of the Prophet ﷺ, because of what was feared then: that something not yet forbidden might be forbidden, or something hard to carry out made obligatory. After his death ﷺ there was no longer any danger of that."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c27",
+     "pages": [
+      224
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولكن ليس هذا وحده هو سببَ كراهة المسائل، بل له سببٌ آخر، وهو الذي أشارَ إليه ابنُ عباس في كلامه الذي ذكرنا بقوله: ولكن انتظرُوا، فإذا نزل القرآن، فإنَّكم لا تَسألونَ عن شيءٍ إلا وجدتم تبيانه.",
+         "en": "But this is not the only reason questions are disliked. There is another, the one Ibn ʿAbbās pointed to in the words of his we quoted: Wait instead, for when the Qurʾān is revealed, you will not ask about anything without finding its explanation."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c28",
+     "pages": [
+      224
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومعنى هذا: أنَّ جميعَ ما يَحتاجُ إليه المسلمون في دينهم لابدَّ أنْ يُبينه الله في كتابه العزيز، ويبلِّغ ذلك رسوله عنه، فلا حاجةَ بعدَ هذا لأحدٍ في السؤال،",
+         "en": "This means that everything the Muslims need in their religion Allah will certainly make clear in His Mighty Book, and His Messenger will convey it from Him; after this, no one has any need to ask."
+        },
+        {
+         "ar": "فإنَّ الله تعالى أعلمُ بمصالح عباده منهم، فما كان فيه هدايتُهم ونفعُهُم، فإن الله لابدَّ أنْ يبيِّنه لهمُ ابتداءً من غيرِ سؤال، كما قال:",
+         "en": "For Allah the Exalted knows His servants' interests better than they do, and whatever brings them guidance and benefit Allah will certainly make clear to them from the outset, without their asking, as He said:"
+        },
+        {
+         "ar": "{يُبَيِّنُ اللهُ لَكُمْ أَنْ تَضِلُّوا}، وحينئذ فلا حاجة إلى السُّؤال عن شيءٍ، ولا سيما قبلَ وقوعه والحاجة إليه، وإنَّما الحاجةُ المهمةُ إلى فهم ما أخبرَ الله به ورسولُه،",
+         "en": "“Allah makes this clear to you lest you go astray” [al-Nisāʾ 4:176]. There is then no need to ask about anything, especially before it happens and is needed. The pressing need is rather to understand what Allah and His Messenger have told us,"
+        },
+        {
+         "ar": "ثمَّ اتباعُ ذلك والعملُ به، وقد كان النَّبيُّ صلى الله عليه وسلم يُسأَل عنِ المسائل، فيُحيل على القرآن، كما سأله عمرُ عنِ الكَلالَةِ، فقالَ : «يَكفيك آيةُ الصيف».",
+         "en": "and then to follow it and act on it. The Prophet ﷺ used to be asked questions and would refer the questioner to the Qurʾān, as when ʿUmar asked him about kalālah [one who dies leaving neither parent nor child], and he said: “The summer verse is enough for you.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c29",
+     "pages": [
+      225
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأشار صلى الله عليه وسلم في هذا الحديث إلى أنَّ في الاشتغال بامتثالِ أمرِه، واجتنابِ نهيه شغلاً عن المسائل، فقال: «إذا نهيتُكم عن شيءٍ، فاجتنبوه،",
+         "en": "In this hadith he ﷺ indicated that being occupied with obeying his commands and avoiding his prohibitions leaves no room for questions, saying: “When I forbid you something, avoid it,"
+        },
+        {
+         "ar": "وإذا أمرتُكم بأمرٍ، فأتوا منه ما استطعتم» فالذي يتعيَّنُ على المسلم الاعتناءُ به والاهتمامُ أنْ يبحثَ عمَّا جاءَ عن الله ورسوله صلى الله عليه وسلم،",
+         "en": "and when I command you something, do of it as much as you are able.” What the Muslim must concern himself with and attend to is searching out what has come from Allah and His Messenger ﷺ,"
+        },
+        {
+         "ar": "ثم يجتهدُ في فهم ذلك، والوقوف على معانيه، ثم يشتغل بالتصديقِ بذلك إنْ كان من الأمور العلمية، وإنْ كان من الأمور العملية،",
+         "en": "then striving to understand it and grasp its meanings, and then occupying himself with affirming it if it concerns matters of belief; and if it concerns matters of practice,"
+        },
+        {
+         "ar": "بذل وسْعَهُ في الاجتهاد في فعل ما يستطيعه من الأوامر، واجتناب ما يُنهى عنه، وتكون همَّتُهُ مصروفةً بالكلية إلى ذلك؛",
+         "en": "doing his utmost to carry out whatever commands he is able to and to avoid what is forbidden, with his attention wholly turned to that"
+        },
+        {
+         "ar": "لا إلى غيره.",
+         "en": "and to nothing else."
+        },
+        {
+         "ar": "وهكذا كان حالُ أصحابِ النَّبيِّ صلى الله عليه وسلم والتابعين لهم بإحسّانٍ في طلب العلم النافع مِنَ الكتاب والسنة.",
+         "en": "Such was the way of the Companions of the Prophet ﷺ and of those who followed them in excellence in seeking beneficial knowledge from the Book and the Sunnah."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c30",
+     "pages": [
+      225
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فأما إنْ كانت همةُ السامع مصروفةً عند سماعِ الأمر والنهي إلى فرض أمورٍ قد تقع، وقد لا تقع، فإنَّ هذا مما يدخل في النَّهي، ويثبِّطُ عنِ الجد في متابعة الأمر.",
+         "en": "If, however, the listener's attention, on hearing a command or a prohibition, turns to supposing things that may or may not happen, this falls under the prohibition and saps his earnestness in following the command."
+        },
+        {
+         "ar": "وقد سألَ رجلٌ ابنَ عمر عن استلام الحجر، فقال له: رأيتُ النَّبيَّ صلى الله عليه وسلم يستلمه ويقبِّلُه، فقال له الرجل: أرأيتَ إنْ غُلِبْتُ عليه؟",
+         "en": "A man asked Ibn ʿUmar about touching the Black Stone, and he said to him: I saw the Prophet ﷺ touching it and kissing it. The man said to him: What if I am prevented from reaching it?"
+        },
+        {
+         "ar": "أرأيت إنْ زُوحِمْتُ؟",
+         "en": "What if I am crowded out?"
+        },
+        {
+         "ar": "فقالَ لهُ ابن عمر: اجعل «أرأيت» باليمن، رأيتُ النَّبيَّ صلى الله عليه وسلم يستلِمُه ويقبِّلُه. خرَّجه الترمذي.",
+         "en": "Ibn ʿUmar said to him: Leave your “what if” in Yemen! I saw the Prophet ﷺ touching it and kissing it. Al-Tirmidhī recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c31",
+     "pages": [
+      225
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومرادُ ابن عمر أنَّه لا يكن لك همٌّ إلا في الاقتداء بالنَّبيِّ صلى الله عليه وسلم، ولا حاجةَ إلى فرضِ العجزِ عنْ ذلك أو تعسُّره قبلَ وقوعه؛",
+         "en": "What Ibn ʿUmar meant was: Let your only concern be to follow the example of the Prophet ﷺ; there is no need to suppose, before it happens, that you will be unable to do so or will find it difficult,"
+        },
+        {
+         "ar": "فإنَّه قد يفتُرُ العزمُ على التَّصميم على المتابعة، فإنَّ التَّفقُّهَ في الدِّين، والسُّؤالَ عن العِلم إنَّما يُحمَدُ إذا كان للعمل، لا لِلمراءِ والجدال.",
+         "en": "for that may weaken one's resolve to follow him. Seeking understanding of the religion and asking about knowledge are praiseworthy only when they are for the sake of action, not for wrangling and dispute."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c32",
+     "pages": [
+      225
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد روي عن عليٍّ رضي الله عنه أنَّه ذكر فتناً تكونُ في آخر الزَّمان، فقال له عمر: متَى ذلك يا عليُّ؟",
+         "en": "It is narrated that ʿAlī (may Allah be pleased with him) mentioned trials that would come at the end of time, and ʿUmar said to him: When will that be, ʿAlī?"
+        },
+        {
+         "ar": "قال: إذا تُفُقِّه لغير الدين، وتُعُلِّم لغير العمل، والتمست الدنيا بعمل الآخرة.",
+         "en": "He said: When understanding is sought for other than the religion, knowledge is learned for other than practice, and this world is sought through the deeds of the Hereafter."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c33",
+     "pages": [
+      226
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن ابن مسعود أنَّه قال: كيف بكم إذا لَبِستكم فتنةٌ يربو فيها الصغيرُ، ويَهْرَمُ فيها الكبيرُ، وتُتَّخَذُ سُنةً، فإنْ غيرت يوماً قيل: هذا منكر؟",
+         "en": "Ibn Masʿūd said: How will you be when a trial envelops you in which the young grow up and the old grow decrepit, and which is taken as a Sunnah, so that if it is changed one day people say: This is objectionable?"
+        },
+        {
+         "ar": "قالوا: ومتى ذَلِكَ؟",
+         "en": "They said: When will that be?"
+        },
+        {
+         "ar": "قال: إذا قلَّت أمناؤكم، وكثرت أمراؤُكم، وقلَّت فقهاؤُكم، وكثر قُرَّاؤُكم، وتُفُقِّهَ لغير الدين، والتُمِسَتِ الدنيا بعمل الآخرة.",
+         "en": "He said: When your trustworthy ones are few and your rulers many, your jurists few and your reciters many, when understanding is sought for other than the religion, and this world is sought through the deeds of the Hereafter."
+        },
+        {
+         "ar": "خرَّجهما عبد الرزاق في \"كتابه\".",
+         "en": "ʿAbd al-Razzāq recorded both of them in his book."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c34",
+     "pages": [
+      226
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولهذا المعنى كان كثيرٌ من الصحابة والتابعين يكرهون السؤال عن الحوادث قبلَ وقوعها، ولا يُجيبون عن ذلك، قال عمرو بن مُرة:",
+         "en": "For this reason many of the Companions and Successors disliked being asked about events before they happened, and would not answer such questions. ʿAmr ibn Murrah said:"
+        },
+        {
+         "ar": "خرج عمرُ على الناس، فقال: أُحرِّجُ عليكم أنْ تسألونا عن ما لم يكن، فإنَّ لنا فيما كان شغلاً.",
+         "en": "ʿUmar came out to the people and said: I forbid you, on pain of sin, to ask us about what has not happened, for what has happened keeps us busy enough."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c35",
+     "pages": [
+      226
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن ابن عمر، قال: لا تسألوا عما لم يكن، فإني سمعتُ عمر لعنَ السَّائل عمَّا لم يكن.",
+         "en": "Ibn ʿUmar said: Do not ask about what has not happened, for I heard ʿUmar curse anyone who asked about what had not happened."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c36",
+     "pages": [
+      226
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكان زيدُ بنُ ثابتٍ إذا سُئِلَ عن الشَّيءِ يقول: كان هذا؟",
+         "en": "When Zayd ibn Thābit was asked about something, he would say: Has this happened?"
+        },
+        {
+         "ar": "فإنْ قالوا: لا، قال: دعوه حتّى يكون.",
+         "en": "If they said no, he would say: Leave it until it happens."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c37",
+     "pages": [
+      226
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال مسروقٌ: سألت أبيَّ بن كعبٍ عن شيءٍ، فقال: أكان بعدُ؟",
+         "en": "Masrūq said: I asked Ubayy ibn Kaʿb about something, and he said: Has it happened yet?"
+        },
+        {
+         "ar": "فقلت: لا، فقال: أجِمَّنا - يعني: أرحنا حتَّى يكونَ -، فإذا كان اجتهدنا لك رأينا.",
+         "en": "I said: No. He said: Then spare us — meaning, give us rest — until it happens; when it does, we will exert our judgement for you."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c38",
+     "pages": [
+      226
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الشَّعبيُّ: سئل عمارٌ عن مسألة فقال: هل كان هذا بعدُ؟",
+         "en": "Al-Shaʿbī said: ʿAmmār was asked a question, and he said: Has this happened yet?"
+        },
+        {
+         "ar": "قالوا: لا، قال: فدعونا حتَّى يكون، فإذا كان تَجَشَّمْنَاهُ لكم.",
+         "en": "They said: No. He said: Then leave us until it happens; when it does, we will take the trouble over it for you."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c39",
+     "pages": [
+      227
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن الصَّلْتِ بنِ راشدٍ، قال: سألت طاووساً عن شيء، فانتهرني وقال: أكان هذا؟",
+         "en": "Al-Ṣalt ibn Rāshid said: I asked Ṭāwūs about something, and he rebuked me and said: Has this happened?"
+        },
+        {
+         "ar": "قلت: نعم، قال: آلله؟",
+         "en": "I said: Yes. He said: By Allah?"
+        },
+        {
+         "ar": "قلت: آلله، قال: إنَّ أصحابنا أخبرونا عن معاذ بن جبل أنَّه قال: أيُّها النَّاسُ، لا تعجلوا بالبلاء قَبْلَ نزوله، فيذهب بكم هاهنا وهاهنا،",
+         "en": "I said: By Allah. He said: Our companions told us that Muʿādh ibn Jabal said: O people, do not hasten the trial before it comes down, or you will be led off this way and that;"
+        },
+        {
+         "ar": "فإنَّكم إنْ لم تعجَلوا بالبلاء قَبْلَ نزوله، لم ينفكَّ المسلمون أنْ يكونَ فيهم مَنْ إذا سُئِلَ سُدِّدَ، أو قال وُفِّقَ.",
+         "en": "for if you do not hasten the trial before it comes down, the Muslims will never be without someone among them who, when asked, is set right, or, when he speaks, is guided to what is correct."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c40",
+     "pages": [
+      227
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد خرَّجه أبو داود في كتاب \" المراسيل \" مرفوعاً من طريق ابن عجلان، عن طاووس، عن معاذ قال: قال رسول الله صلى الله عليه وسلم:",
+         "en": "Abū Dāwūd recorded it in Kitāb al-Marāsīl as marfūʿ (the Prophet's words), by way of Ibn ʿAjlān, from Ṭāwūs, from Muʿādh, who said: The Messenger of Allah ﷺ said:"
+        },
+        {
+         "ar": "«لا تعجَلوا بالبلية قبل نزولها، فإنَّكم إنْ لم تفعلوا لم ينفك المسلمون أنْ يكون منهم من إذا قال سُدِّدَ أو وفق، وأنَّكم إنْ عجِلْتُم، تشتِّتُ بكمُ السُّبُلَ هاهنا وهاهنا.",
+         "en": "“Do not hasten the trial before it comes down, for if you do not, the Muslims will never be without someone among them who, when he speaks, is set right or guided to what is correct; but if you hasten it, the paths will scatter you this way and that.”"
+        },
+        {
+         "ar": "ومعنى إرساله أنَّ طاووساً لم يسمع من معاذ.",
+         "en": "Its being mursal means that Ṭāwūs did not hear from Muʿādh."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c41",
+     "pages": [
+      227
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه أيضاً من رواية يحيى بن أبي كثير، عن أبي سلمة، عن النَّبيِّ صلى الله عليه وسلم، بمعناه مرسلاً.",
+         "en": "He also recorded it in the narration of Yaḥyā ibn Abī Kathīr, from Abū Salamah, from the Prophet ﷺ, with the same meaning, as a mursal report."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c42",
+     "pages": [
+      227
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى الحجاج بن منهال: حدَّثنا جرير بن حازم، سمعتُ الزبير بنَ سعيدٍ: أنَّ رجلاً من بني هشامٍ قالَ: سمعتُ أشياخنا يحدِّثونَ أنَّ رسولَ اللهِ صلى الله عليه وسلم قالَ:",
+         "en": "Al-Ḥajjāj ibn Minhāl narrated: Jarīr ibn Ḥāzim told us: I heard al-Zubayr ibn Saʿīd relate that a man of Banū Hāshim said: I heard our elders relate that the Messenger of Allah ﷺ said:"
+        },
+        {
+         "ar": "«لا يزالُ في أمتي من إذا سئلَ سدّد وأرشدَ حتَّى يسألوا عنْ ما لا ينْزل تبينهُ، فإذا فعلوا ذَلِكَ ذُهبَ بهم هاهنا وهاهنا».",
+         "en": "“There will always be among my Ummah someone who, when asked, is set right and guides aright, until they ask about things whose explanation has not been revealed; when they do that, they will be led off this way and that.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c43",
+     "pages": [
+      228
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد روى الصنابحيُّ، عنْ معاوية، عن النَّبيِّ صلى الله عليه وسلم: «أنَّهُ نهى عنِ الأغلوطات» خرَّجهُ الإمامُ أحمد رحمه الله.",
+         "en": "Al-Ṣunābiḥī narrated from Muʿāwiyah, from the Prophet ﷺ, “that he forbade aghlūṭāt [trick questions].” Imam Aḥmad (may Allah have mercy on him) recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c44",
+     "pages": [
+      228
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفسرهُ الأوزاعيُّ وقالَ: هي شدادُ المسائلِ.",
+         "en": "Al-Awzāʿī explained it, saying: They are hard, knotty questions."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c45",
+     "pages": [
+      228
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال عيسى بنُ يونسَ: هي ما لا يحتاجُ إليهِ منْ كيف وكيف.",
+         "en": "ʿĪsā ibn Yūnus said: They are needless questions of the “how this and how that” sort."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c46",
+     "pages": [
+      228
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويروى من حديثِ ثوبانَ، عنِ النَّبيِّ صلى الله عليه وسلم، قالَ: «سيكونُ أقوامٌ منْ أمتي يُغَلِّطونَ فقهاءهم بعضلِ المسائلِ، أولئكَ شرارُ أمتي».",
+         "en": "It is narrated from the hadith of Thawbān that the Prophet ﷺ said: “There will be people of my Ummah who try to trip up their jurists with difficult questions; they are the worst of my Ummah.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c47",
+     "pages": [
+      228
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقالَ الحسنُ: شرارُ عبادِ اللهِ الذينَ يتبعونَ شرارَ المسائلَ يَغُمُّون بها عبادَ اللهِ.",
+         "en": "Al-Ḥasan said: The worst of Allah's servants are those who chase after the worst of questions to bewilder Allah's servants with them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c48",
+     "pages": [
+      228
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقالَ الأوزاعيُّ: إنَّ اللهَ إذا أرادَ أنْ يَحرُمَ عبدَهُ بركةَ العلمِ ألقى على لسانهِ المغاليط، فلقدْ رأيتهم أقلَّ النَّاسِ علماً.",
+         "en": "Al-Awzāʿī said: When Allah wishes to deprive His servant of the blessing of knowledge, He casts trick questions onto his tongue; and I have seen such people to be the least knowledgeable of all."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c49",
+     "pages": [
+      228
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقالَ ابنُ وهبٍ، عنْ مالكٍ: أدركتُ هذه البلدة وإنَّهم ليكرهون الإكثارَ الذي فيهِ النَّاس اليومَ: يريدُ المسائلَ.",
+         "en": "Ibn Wahb reported that Mālik said: I knew this city when its people disliked the profusion that people indulge in today — meaning questions."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c50",
+     "pages": [
+      229
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقالَ أيضاً: سمعتُ مالكاً وهو يعيبُ كثرةَ الكلامِ وكثرةَ الفتيا، ثُمَّ قالَ: يتكلمُ كأنَّهُ جملٌ مغتلمٌ، يقولُ: هوَ كذا هوَ كذا يهدرُ في كلامهِ.",
+         "en": "He also said: I heard Mālik finding fault with much talk and many fatwas. Then he said: He speaks like a camel in rut, saying, It is such-and-such, it is such-and-such — braying away as he talks."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c51",
+     "pages": [
+      229
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال: سمعتُ مالكاً يكره الجوابَ في كثرة المسائل، وقال: قال الله عز وجل: {وَيَسْأَلونَكَ عَنِ الرُّوحِ قُلِ الرُّوحُ مِنْ أَمْرِ رَبِّي} فلم يأته في ذلك جواب.",
+         "en": "He said: I heard Mālik disliking answering a great many questions, and he said: Allah, the Mighty and Majestic, said: “And they ask you about the spirit. Say: The spirit is of the affair of my Lord” [al-Isrāʾ 17:85] — and no answer came to him on the matter."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c52",
+     "pages": [
+      229
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكان مالكٌ يكره المجادلة عن السُّنن أيضاً.",
+         "en": "Mālik also disliked arguing in defence of the Sunnah."
+        },
+        {
+         "ar": "قال الهيثم بن جميل: قلت لمالك: يا أبا عبدِ الله، الرجلُ يكونُ عالماً بالسُّنن يُجادل عنها؟",
+         "en": "Al-Haytham ibn Jamīl said: I said to Mālik: O Abū ʿAbdillāh, may a man who knows the Sunnah argue in its defence?"
+        },
+        {
+         "ar": "قال: لا، ولكن يخبر بالسُّنَّةِ، فإنْ قُبِلَ منه، وإلاّ سكت.",
+         "en": "He said: No; but he should state what the Sunnah is. If it is accepted from him, well and good; otherwise he should keep silent."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c53",
+     "pages": [
+      229
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال إسحاق بن عيسى: كان مالك يقول: المِراء والجِدال في العلم يَذهبُ بنور العلم من قلب الرجل.",
+         "en": "Isḥāq ibn ʿĪsā said: Mālik used to say: Wrangling and arguing about knowledge take away the light of knowledge from a man's heart."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c54",
+     "pages": [
+      229
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال ابن وهب: سمعت مالكاً يقول: المراء في العلم يُقسِّي القلوب، ويورِّث الضغن.",
+         "en": "Ibn Wahb said: I heard Mālik say: Wrangling about knowledge hardens hearts and breeds rancour."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c55",
+     "pages": [
+      229
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكان أبو شريح الإسكندراني يوماً في مجلسه، فكثُرَتِ المسائلُ، فقال: قد دَرِنَتْ قلوبُكم منذُ اليوم، فقوموا إلى أبي حُميدٍ خالد بن حميد اصقُلوا قلوبكم،",
+         "en": "Abū Shurayḥ al-Iskandarānī was in his circle one day when the questions multiplied, and he said: Your hearts have grown grimy since this morning. Go to Abū Ḥumayd Khālid ibn Ḥumayd and polish your hearts,"
+        },
+        {
+         "ar": "وتعلَّمُوا هذه الرغائب، فإنَّها تُجدِّدُ العبادة، وتُورث الزهادة، وتجرُّ الصداقة، وأقِلُّوا المسائلَ إلا ما نزل، فإنَّها تقسي القلوب، وتورث العداوة.",
+         "en": "and learn these exhortations (raghāʾib), for they renew worship, give rise to detachment from the world and draw friendship. Ask few questions, except about what has actually happened, for questions harden hearts and breed enmity."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c56",
+     "pages": [
+      229
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الميمونيُّ: سمعتُ أبا عبد الله - يعني: أحمد - يُسأل عن مسأَلة، فقال: وقعَت هذه المسألة؟",
+         "en": "Al-Maymūnī said: I heard Abū ʿAbdillāh — meaning Aḥmad — being asked a question, and he said: Has this question actually arisen?"
+        },
+        {
+         "ar": "بُليتم بها بعدُ؟",
+         "en": "Have you been faced with it yet?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c57",
+     "pages": [
+      229
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد انقسم الناسُ في هذا الباب أقساماً:",
+         "en": "People have divided into several groups on this matter."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c58",
+     "pages": [
+      229
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فمن أتباع أهلِ الحديث منْ سدَّ بابَ المسائل حتَّى قلَّ فقهه وعلمُه بحدود ما أنزل الله على رسوله، وصار حامِلَ فقه غير فقيه.",
+         "en": "Some followers of the hadith scholars closed the door of questions so completely that their understanding and knowledge of the limits of what Allah revealed to His Messenger dwindled, and they became carriers of jurisprudence who were not themselves jurists."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c59",
+     "pages": [
+      230
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن فقهاء أهل الرأي من توسَّع في توليدِ المسائل قبلَ وقوعها، ما يقع في العادة منها وما لا يقع، واشتغلُوا بتكلُّفِ الجواب عنْ ذلك، وكثرة الخصومات فيه، والجدال عليه حتَّى يتولدَ مِنْ ذلك افتراقُ القلوب،",
+         "en": "Some jurists among the people of opinion (ahl al-raʾy) went to great lengths in generating questions before they happened — those that usually happen and those that do not — and busied themselves with laboured answers to them and with much quarrelling and arguing over them, until hearts became divided as a result,"
+        },
+        {
+         "ar": "ويستقرَّ فيها بسببه الأهواءُ والشحناءُ والعداوةُ والبغضاءُ، ويقترن ذلك كثيراً بنية المغالبة، وطلب العلوِّ والمباهاة، وصرف وجوه الناس وهذا ممَّا ذمه العلماءُ الربانيون، ودلَّتِ السُّنَّةُ على قبحه وتحريمه.",
+         "en": "and whims, malice, enmity and hatred settled in them because of it. This is often coupled with the intention of besting others, seeking superiority and boasting, and turning people's faces towards oneself. This is what the godly scholars condemned, and the Sunnah shows it to be ugly and unlawful."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c60",
+     "pages": [
+      230
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما فقهاء أهل الحديث العامِلُون به، فإنَّ معظمَ همِّهمُ البحثُ عن معاني كتاب الله عز وجل، وما يُفسِّرُهُ من السنن الصحيحة، وكلام الصحابة والتابعين لهم بإحسّان،",
+         "en": "As for the jurists among the hadith scholars who act on the hadith, their chief concern is to search out the meanings of the Book of Allah, the Mighty and Majestic, and the authentic Sunnah that explains it, and the words of the Companions and of those who followed them in excellence;"
+        },
+        {
+         "ar": "وعن سُنَّةِ رسول الله صلى الله عليه وسلم، ومعرفة صحيحها وسقيمِها، ثم التفقه فيها وتفهمها، والوقوف على معانيها، ثم معرفة كلام الصحابة والتابعين لهم بإحسّان في أنواع العلوم من التفسير والحديث،",
+         "en": "and to search out the Sunnah of the Messenger of Allah ﷺ, knowing what is sound in it and what is unsound, then gaining understanding of it, comprehending it and grasping its meanings; and then knowing the words of the Companions and of those who followed them in excellence in the various branches of knowledge — Qurʾān commentary and hadith,"
+        },
+        {
+         "ar": "ومسائل الحلال والحرام، وأصول السُّنة والزهد والرقائق وغيرِ ذلك، وهذا هو طريقة الإمام أحمد ومَنْ وافقه من علماء الحديث الرَّبّانيين،",
+         "en": "questions of the lawful and the unlawful, the foundations of the Sunnah, zuhd, heart-softening counsels and so on. This is the way of Imam Aḥmad and of the godly hadith scholars who agreed with him."
+        },
+        {
+         "ar": "وفي معرفة هذا شغلٌ شاغلٌ عن التَّشاغُل بما أحدثَ من الرأي ممَّا لا يُنتفع به، ولا يقع، وإنَّما يُورثُ التجادلُ فيه الخصوماتِ والجدالَ وكثرة القيل والقال.",
+         "en": "Knowing all this is occupation enough to keep one from busying oneself with newly devised opinion that brings no benefit and never happens in practice, and arguing over which only breeds quarrels, disputes and endless gossip."
+        },
+        {
+         "ar": "وكان الإمام أحمد كثيراً إذا سُئِلَ عن شيء من المسائل المولدات التي لا تقع يقول: دعونا منْ هذه المسائل المحدثة.",
+         "en": "Imam Aḥmad, when asked about one of these contrived questions that do not happen, would often say: Spare us these newfangled questions."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c61",
+     "pages": [
+      230
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وما أحسن ما قاله يونسُ بنُ سليمان السَّقَطِيُّ: نظرتُ في الأمرِ، فإذا هو الحديث والرأي، فوجدتُ في الحديث ذكرَ الرب عز وجل وربوبيتَه وإجلاله وعظمته،",
+         "en": "How well Yūnus ibn Sulaymān al-Saqaṭī put it: I looked into the matter and found it to be either hadith or opinion. In hadith I found mention of the Lord, the Mighty and Majestic, His lordship, His majesty and His greatness;"
+        },
+        {
+         "ar": "وذكرَ العرش وصفة الجنة والنار، وذكرَ النبيين والمرسلين، والحلال والحرام، والحثَّ على صلة الأرحام، وجماع الخير فيه، ونظرت في الرأي، فإذا فيه المكرُ، والغدرُ، والحيلُ، وقطيعة الأرحام، وجماع الشَّرِّ فيه.",
+         "en": "mention of the Throne and the description of Paradise and the Fire; mention of the prophets and messengers, the lawful and the unlawful, and encouragement to keep ties of kinship — all good gathered together in it. Then I looked into opinion and found in it cunning, treachery, legal stratagems and the severing of kinship — all evil gathered together in it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c62",
+     "pages": [
+      231
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أحمد بن شبويه: من أراد علمَ القبرِ فعليه بالآثار، ومن أراد علم الخُبْزِ، فعليه بالرأي.",
+         "en": "Aḥmad ibn Shabbawayh said: Whoever wants the knowledge of the grave should keep to the reports; whoever wants the knowledge of bread should keep to opinion."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c63",
+     "pages": [
+      231
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن سلك طريقة طلب العلم على ما ذكرناه، تمكَّن من فهم جواب الحوادث الواقعة غالباً؛",
+         "en": "Whoever follows the way of seeking knowledge that we have described will usually be able to understand the answer to events that actually occur,"
+        },
+        {
+         "ar": "لأنَّ أصولها تُوجد في تلك الأصول المشار إليها، ولابدَّ أنْ يكون سلوكُ هذا الطريق خلف أئمة أهل الدين المجمَعِ على هدايتهم ودرايتهم كالشافعي وأحمد وإسحاق وأبي عُبيد ومن سلك مسلكَهم،",
+         "en": "because their roots are found in the foundations we have referred to. This path must be followed behind the imams of the religion whose right guidance and understanding are agreed upon, such as al-Shāfiʿī, Aḥmad, Isḥāq, Abū ʿUbayd and those who followed their way;"
+        },
+        {
+         "ar": "فإنَّ مَنِ ادعى سلوكَ هذا الطريق على غير طريقهم وقع في مفاوزَ ومهالك، وأخذ بما لا يجوز الأخذُ به، وترك ما يجب العملُ به.",
+         "en": "for whoever claims to follow this path in some way other than theirs falls into trackless deserts and places of ruin, adopts what may not be adopted and abandons what must be acted on."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c64",
+     "pages": [
+      231
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومِلاكُ الأمرِ كلِّه أنْ يقصِدَ بذلك وجه الله، والتقرُّبَ إليه بمعرفة ما أنزل على رسوله، وسلوكِ طَريقه، والعمل بذلك، ودعاء الخلق إليه،",
+         "en": "The crux of the whole matter is that one should seek by it the Face of Allah and nearness to Him, through knowing what He revealed to His Messenger, following his way, acting on it and calling people to it."
+        },
+        {
+         "ar": "ومَنْ كان كذلك، وفَّقه الله وسدَّده، وألهمه رشده، وعلَّمه ما لم يكن يعلم، وكان من العلماء الممدوحين في الكتاب في قوله تعالى:",
+         "en": "Whoever is like that, Allah will grant him success and keep him on the right course, inspire him with right guidance and teach him what he did not know, and he will be among the scholars praised in the Book, in His words, the Exalted:"
+        },
+        {
+         "ar": "{إِنَّمَا يَخْشَى اللهَ مِنْ عِبَادِهِ الْعُلَمَاء}، ومن الراسخين في العلم، وقد خرَّج ابنُ أبي حاتم في \"تفسيره\" من حديث أبي الدرداء:",
+         "en": "“Only those of His servants who have knowledge truly fear Allah” [Fāṭir 35:28], and among those firmly grounded in knowledge. Ibn Abī Ḥātim recorded in his Tafsīr, from the hadith of Abū al-Dardāʾ,"
+        },
+        {
+         "ar": "أنَّ رسول الله صلى الله عليه وسلم سُئِل عن الرَّاسخين في العلم، فقال: «من برَّت يمينُه، وصدق لسانُه، واستقامَ قلبُه، ومن عفَّ بطنُه وفرجُه، فذلك مِنَ الرَّاسخين في العلم».",
+         "en": "that the Messenger of Allah ﷺ was asked about those firmly grounded in knowledge, and he said: “One whose oath is kept, whose tongue is truthful and whose heart is upright, and whose stomach and private parts are chaste — that is one of those firmly grounded in knowledge.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c65",
+     "pages": [
+      231
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال نافع بن يزيد: يقال: الرَّاسخونَ في العلم: المتواضعون لله، والمتذلِّلون لله في مرضاته لا يتعاطون من فوقهم، ولا يحقرون من دونهم.",
+         "en": "Nāfiʿ ibn Yazīd said: It is said that those firmly grounded in knowledge are those humble before Allah, abasing themselves before Allah in seeking His pleasure, who do not reach for what is above them nor look down on those below them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c66",
+     "pages": [
+      231
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويشهد لهذا قول النَّبيِّ صلى الله عليه وسلم: «أتاكم أهلُ اليمن، هُمْ أبرُّ قلوباً، وأرقُّ أفئدةً.",
+         "en": "This is supported by the words of the Prophet ﷺ: “The people of Yemen have come to you; they are the kindest of heart and the most tender of soul."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c67",
+     "pages": [
+      232
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "الإيمان يمانٍ، والفِقه يمانٍ، والحكمة يمانيةٌ».",
+         "en": "Faith is Yemeni, understanding is Yemeni and wisdom is Yemeni.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c68",
+     "pages": [
+      232
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذا إشارة منه إلى أبي موسى الأشعري، ومن كان على طريقهِ من عُلَماء أهلِ اليمن، ثمَّ إلى مثل أبي مسلم الخولاني، وأويس القَرَنيِّ، وطاووس، ووهب بن منبه، وغيرهم من عُلماء أهل اليمن،",
+         "en": "Here he was pointing to Abū Mūsā al-Ashʿarī and the scholars of the people of Yemen who followed his way, and after them to the likes of Abū Muslim al-Khawlānī, Uways al-Qaranī, Ṭāwūs, Wahb ibn Munabbih and other scholars of the people of Yemen."
+        },
+        {
+         "ar": "وكلُّ هؤلاء مِنَ العلماء الربانيين الخائفين لله، فكلهم علماءُ بالله يخشونه ويخافونه، وبعضُهم أوسعُ علماً بأحكام الله وشرائع دينه من بعض، ولم يكن تميُّزهم عن الناس بكثرة قيلٍ وقالٍ، ولا بحثٍ ولا جدالٍ.",
+         "en": "All of these were godly scholars who feared Allah; all of them knew Allah, stood in awe of Him and feared Him. Some had wider knowledge than others of Allah's rulings and the laws of His religion, but what set them apart from other people was not endless talk, nor research, nor argument."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c69",
+     "pages": [
+      232
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكذلك معاذُ بنُ جبل رضي الله عنه أعلم الناس بالحلال والحرام، وهو الذي يحشر يومَ القيامة أمام العلماء برتوة،",
+         "en": "Likewise Muʿādh ibn Jabal (may Allah be pleased with him), the most knowledgeable of people about the lawful and the unlawful, who will be gathered on the Day of Resurrection a stone's throw ahead of the scholars."
+        },
+        {
+         "ar": "ولم يكن علمه بتوسعة المسائل وتكثيرها، بل قد سبق عنه كراهةُ الكلام فيما لا يقع، وإنما كان عالماً بالله وعالماً بأصول دينه.",
+         "en": "His knowledge did not lie in multiplying and expanding questions; on the contrary, we have seen that he disliked talking about what had not happened. He was a knower of Allah and a knower of the foundations of His religion."
+        },
+        {
+         "ar": "وقد قيل للإمام أحمد: مَنْ نسألُ بعدَك؟",
+         "en": "Imam Aḥmad was asked: Whom shall we ask after you?"
+        },
+        {
+         "ar": "قال: عبد الوهَّاب الورَّاق، قيل له: إنَّه ليس له اتَّساعٌ في العلم، قال: إنَّه رجل صالح مثلُه يُوفَّقُ لإصابة الحق.",
+         "en": "He said: ʿAbd al-Wahhāb al-Warrāq. He was told: He does not have broad knowledge. He said: He is a righteous man, and someone like him is granted success in hitting upon the truth."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c70",
+     "pages": [
+      232
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وسئل عن معروف الكرخي، فقال: كان معه أصلُ العلم: خشية الله.",
+         "en": "He was asked about Maʿrūf al-Karkhī, and said: He had the root of knowledge: fear of Allah."
+        },
+        {
+         "ar": "وهذا يرجعُ إلى قولِ بعض السَّلف: كفى بخشية الله علماً، وكفى بالاغترار بالله جهلاً.",
+         "en": "This goes back to the saying of one of the Salaf: Fear of Allah is knowledge enough, and being deluded about Allah is ignorance enough."
+        },
+        {
+         "ar": "وهذا بابٌ واسع يطول استقصاؤه.",
+         "en": "This is a vast subject, which would take long to cover fully."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c71",
+     "pages": [
+      233
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولنرجع إلى شرح حديث أبي هريرة رضي الله عنه فنقول: مَنْ لم يشتغل بكثرة المسائل التي لا يوجدُ مثلُها في كتاب، ولا سنة،",
+         "en": "Let us return to the commentary on the hadith of Abū Hurayrah (may Allah be pleased with him). We say: whoever does not busy himself with multiplying questions the like of which are not found in the Book or the Sunnah,"
+        },
+        {
+         "ar": "بل اشتغل بفهم كلام الله ورسوله، وقصدُه بذلك امتثالُ الأوامر، واجتنابُ النواهي، فهو ممَّنِ امتثلَ أمرَ رسول الله صلى الله عليه وسلم في هذا الحديث،",
+         "en": "but busies himself with understanding the words of Allah and His Messenger, aiming thereby to obey the commands and avoid the prohibitions, is one who has obeyed the command of the Messenger of Allah ﷺ in this hadith"
+        },
+        {
+         "ar": "وعَمِلَ بمقتضاه، ومن لم يكن اهتمامُه بفهم ما أنزل الله على رسوله، واشتغل بكثرةِ توليدِ المسائل قد تقع وقد لا تقع، وتكلَّفَ أجوبتها بمجرَّد الرأي، خُشِيَ عليه أنْ يكونَ مخالفاً لهذا الحديث، مرتكباً لنهيه، تاركاً لأمره.",
+         "en": "and acted on what it requires. But whoever does not concern himself with understanding what Allah revealed to His Messenger, and busies himself with generating questions that may or may not happen and labouring over their answers by mere opinion, is in danger of contravening this hadith, committing what it forbids and abandoning what it commands."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c72",
+     "pages": [
+      233
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "واعلم أنَّ كثرةَ وقوع الحوادث التي لا أصل لها في الكتاب والسنة إنَّما هو مِنْ ترك الاشتغال بامتثالِ أوامر الله ورسوله، واجتنابِ نواهي الله ورسوله،",
+         "en": "Know that the frequent occurrence of events that have no basis in the Book and the Sunnah comes only from neglecting to obey the commands of Allah and His Messenger and to avoid the prohibitions of Allah and His Messenger."
+        },
+        {
+         "ar": "فلو أنَّ من أرادَ أنْ يعمل عملاً سأل عمَّا شرع الله في ذلك العمل فامتثله، وعما نهى عنه فاجتنبه، وقعت الحوادثُ مقيدةً بالكتاب والسنة.",
+         "en": "If whoever wanted to do something asked what Allah has prescribed for that deed and complied with it, and asked what He has forbidden and avoided it, events would happen within the bounds of the Book and the Sunnah."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c73",
+     "pages": [
+      233
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وإنَّما يعمل العاملُ بمقتضى رأيه وهواه، فتقع الحوادثُ عامَّتُها مخالفةً لما شرعه الله وربما عسر ردُّها إلى الأحكام المذكورةِ في الكتاب والسنة؛ لبعدها عنها.",
+         "en": "It is only because people act according to their own opinions and desires that events mostly happen in contradiction to what Allah has prescribed, and it may be hard to trace them back to the rulings found in the Book and the Sunnah, because they are so far removed from them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c74",
+     "pages": [
+      233
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي الجملة: فمن امتثل ما أمر به النَّبيُّ صلى الله عليه وسلم في هذا الحديث، وانتهى عما نهى عنه، وكان مشتغلاً بذلك عن غيره، حَصَلَ له النجاةُ في الدنيا والآخرة،",
+         "en": "In short, whoever obeys what the Prophet ﷺ commanded in this hadith, refrains from what he forbade, and is occupied with that rather than anything else, will attain salvation in this world and the Hereafter."
+        },
+        {
+         "ar": "ومَنْ خالف ذلك، واشتغلَ بخواطرهِ وما يستحسنه، وقع فيما حذَّرَ منه النَّبيُّ صلى الله عليه وسلم من حال أهل الكتاب الذين هلكوا بكثرة مسائلهم واختلافهم على أنبيائهم، وعدمِ انقيادهم وطاعتهم لرسلهم.",
+         "en": "Whoever goes against it and busies himself with his own notions and with what he deems good falls into what the Prophet ﷺ warned against: the state of the People of the Book, who were destroyed by their excessive questioning, their disagreeing with their prophets and their failure to submit to and obey their messengers."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c75",
+     "pages": [
+      233
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله صلى الله عليه وسلم: «إذا نهيتُكم عن شيءٍ، فاجتنبوه وإذا أمرتُكم بأمرٍ فأتوا منه ما استطعتم» قال بعضُ العلماء: هذا يؤخذ منه أنَّ النَّهيَّ أشدُّ من الأمر؛",
+         "en": "His words ﷺ, “When I forbid you something, avoid it; and when I command you something, do of it as much as you are able”: some scholars said that one can infer from this that prohibition is stricter than command,"
+        },
+        {
+         "ar": "لأنَّ النَّهيَّ لم يُرَخَّصْ في ارتكاب شيء منه، والأمر قُيِّدَ بحسب الاستطاعة، ورُوي هذا عن الإمام أحمد.",
+         "en": "because no allowance was given for committing any part of what is prohibited, while the command was limited according to ability. This is narrated from Imam Aḥmad."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c76",
+     "pages": [
+      233
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويشبه هذا قولُ بعضهم: أعمال البِرِّ يعملُها البرُّ والفاجرُ، وأمَّا المعاصي، فلا يتركها إلاَّ صِدِّيق.",
+         "en": "Similar to this is the saying of one of them: Deeds of righteousness are done by the righteous and the wicked alike, but sins are left only by the truthful (ṣiddīq)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c77",
+     "pages": [
+      234
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ورُوي عن أبي هريرة، عن النَّبيِّ صلى الله عليه وسلم قال له: «اتَّق المحارم، تَكُن أعبدَ الناس».",
+         "en": "It is narrated from Abū Hurayrah that the Prophet ﷺ said to him: “Guard against forbidden things and you will be the most devout of people.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c78",
+     "pages": [
+      234
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقالت عائشة رضي الله عنها: من سرَّه أنْ يسبق الدائبَ المجتهدَ، فليكفَّ عن الذنوب، وروي عنها مرفوعاً.",
+         "en": "ʿĀʾishah (may Allah be pleased with her) said: Whoever would like to outstrip the tireless striver should refrain from sins. It is also narrated from her as marfūʿ."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c79",
+     "pages": [
+      234
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الحسن: ما عُبِّدَ العابدون بشيءٍ أفضلَ من ترك ما نهاهم الله عنه.",
+         "en": "Al-Ḥasan said: The worshippers have not worshipped with anything better than leaving what Allah has forbidden them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c80",
+     "pages": [
+      234
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والظاهر أنَّ ما ورد مِن تفضيل ترك المحرَّمات على فعل الطاعات، إنَّما أُريد به على نوافل الطّاعات، وإلاّ فجنسُ الأعمال الواجبات أفضلُ مِنْ جنسِ ترك المحرَّمات؛",
+         "en": "It appears that what has come about preferring the leaving of forbidden things over doing acts of obedience refers only to voluntary acts of obedience; otherwise obligatory deeds as a category are better than leaving forbidden things as a category,"
+        },
+        {
+         "ar": "لأنَّ الأعمال مقصودة لذاتها، والمحارم المطلوبُ عدمها، ولذلك لا تحتاج إلى نية بخلاف الأعمالِ، وكذلك كان جنسُ ترك الأعمال قد يكون كفراً كتركِ التوحيد، وكتركِ أركان الإسلام أو بعضها على ما سبق،",
+         "en": "because deeds are sought for their own sake, while with forbidden things what is sought is their absence; that is why leaving them needs no intention, unlike deeds. Likewise, leaving deeds as a category may amount to disbelief, as with abandoning tawḥīd, or abandoning the pillars of Islam or some of them, as discussed earlier,"
+        },
+        {
+         "ar": "بخلاف ارتكاب المنهيات فإنَّه لا يقتضي الكفر بنفسه، ويشهد لذلك قولُ ابنِ عمر: لردُّ دانقٍ من حرام أفضلُ مِنْ مئة ألف تُنْفَقُ في سبيل الله.",
+         "en": "whereas committing forbidden things does not in itself entail disbelief. This is supported by Ibn ʿUmar's saying: Returning a single dāniq of unlawful money is better than a hundred thousand spent in the way of Allah."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c81",
+     "pages": [
+      234
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن بعض السَّلفِ قال: تركُ دانق مما يكره الله أحبُّ إليَّ من خمس مئة حجة.",
+         "en": "One of the Salaf said: Leaving a single dāniq of what Allah dislikes is dearer to me than five hundred pilgrimages."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c82",
+     "pages": [
+      234
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال ميمون بن مِهران: ذكرُ اللهِ باللسان حسن، وأفضلُ منه أنْ يذكر الله العبدُ عندَ المعصية فيمسِكَ عنها.",
+         "en": "Maymūn ibn Mihrān said: Remembering Allah with the tongue is good, but better than that is for the servant to remember Allah when about to sin, and hold back from it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c83",
+     "pages": [
+      234
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال ابنُ المبارك: لأنْ أردَّ درهماً من شبهة أحبُّ إلىَّ من أنْ أتصدَّقَ بمئة ألفٍ ومئة ألف، حتّى بلغ ست مئة ألف.",
+         "en": "Ibn al-Mubārak said: To return a single dirham of doubtful origin is dearer to me than giving a hundred thousand in charity, and another hundred thousand — until he reached six hundred thousand."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c84",
+     "pages": [
+      234,
+      235
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال عمر بنُ عبد العزيز: ليست التقوى قيامَ الليل، وصِيام النهار، والتخليطَ فيما بَيْنَ ذلك، ولكن التقوى أداءُ ما افترض الله، وترك ما حرَّم الله، فإنْ كان مع ذلك عملٌ، فهو خير إلى خير، أو كما قال.",
+         "en": "ʿUmar ibn ʿAbd al-ʿAzīz said: Taqwā is not standing in prayer by night and fasting by day while mixing good and bad in between; taqwā is performing what Allah has made obligatory and leaving what Allah has made unlawful. If there are deeds besides that, it is good upon good — or words to that effect."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c85",
+     "pages": [
+      235
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أيضاً: وددتُ أني لا أصلي غيرَ الصَّلوات الخمس سوى الوتر، وأنْ أؤدِّي الزكاة، ولا أتصدَّق بعدها بدرهم، وأنْ أصومَ رمضان ولا أصوم بعده يوماً أبداً،",
+         "en": "He also said: I wish I prayed nothing but the five prayers, apart from witr, paid zakāh and never gave a dirham in charity after it, fasted Ramaḍān and never fasted another day after it,"
+        },
+        {
+         "ar": "وأنْ أحجَّ حجة الإسلام ثم لا أحجَّ بعدها أبداً، ثم أعمد إلى فضل قوتي، فأجعله فيما حرَّم الله عليَّ، فأمسك عنه.",
+         "en": "and performed the Ḥajj of Islam and never performed Ḥajj again — and then took my surplus strength and devoted it to what Allah has made unlawful for me, holding back from it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c86",
+     "pages": [
+      235
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وحاصل كلامهم يدلُّ على أنَّ اجتناب المحرمات - وإنْ قلَّتْ - فهي أفضلُ من الإكثار من نوافل الطاعات فإنَّ ذلك فرضٌ، وهذا نفلٌ.",
+         "en": "The upshot of their words is that avoiding forbidden things, however small, is better than doing many voluntary acts of obedience, since the former is obligatory and the latter supererogatory."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c87",
+     "pages": [
+      235
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقالت طائفة من المتأخرين: إنَّما قال صلى الله عليه وسلم: «إذا نهيتُكم عن شيءٍ فاجتنبوه، وإذا أمرتكم بأمر فأتوا منه ما استطعتم»؛",
+         "en": "A group of later scholars said: He ﷺ said, “When I forbid you something, avoid it; and when I command you something, do of it as much as you are able,”"
+        },
+        {
+         "ar": "لأنَّ امتثالَ الأمر لا يحصلُ إلاّ بعمل، والعملُ يتوقَّفُ وجودُه على شروط وأسباب، وبعضها قد لا يُستطاع، فلذلك قيَّده بالاستطاعة، كما قيد الله الأمر بالتقوى بالاستطاعة، قال تعالى: {فَاتَّقُوا اللهَ مَا اسْتَطَعْتُمْ}.",
+         "en": "only because obeying a command requires action, and action depends for its existence on conditions and means, some of which may be beyond one's ability; so he limited it by ability, just as Allah limited the command to taqwā by ability, saying, the Exalted: “So be mindful of Allah as much as you are able” [al-Taghābun 64:16]."
+        },
+        {
+         "ar": "وقال في الحجّ: {وَلله عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلاً}.",
+         "en": "And He said of Ḥajj: “And pilgrimage to the House is a duty owed to Allah by people — whoever is able to find a way to it” [Āl ʿImrān 3:97]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c88",
+     "pages": [
+      235
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما النهيُّ: فالمطلوب عدمُه، وذلك هو الأصل، فالمقصود استمرار العدم الأصلي، وذلك ممكن، وليس فيه ما لا يُستطاع، وهذا أيضاً فيه نظر،",
+         "en": "With a prohibition, what is sought is non-existence, which is the original state; so what is intended is that the original non-existence should continue, and that is possible and involves nothing beyond one's ability. This too is questionable,"
+        },
+        {
+         "ar": "فإنَّ الداعي إلى فعل المعاصي قد يكون قوياً، لا صبر معه للعبد على الامتناع مع فعل المعصية مع القدرة عليها،",
+         "en": "for the urge to commit sins may be strong, such that the servant has no patience to hold back from the sin when he is able to commit it,"
+        },
+        {
+         "ar": "فيحتاج الكفُّ عنها حينئذٍ إلى مجاهدةٍ شديدةٍ، ربما كانت أشقَّ على النفوس من مجرَّدِ مجاهدة النفس على فعل الطاعة، ولهذا يُوجَدُ كثيراً من يجتهد فيفعل الطاعات، ولا يقوى على ترك المحرمات.",
+         "en": "and refraining from it then requires a hard struggle, perhaps harder on the soul than merely struggling with oneself to perform an act of obedience. That is why one often finds people who strive and perform acts of obedience but lack the strength to leave forbidden things."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c89",
+     "pages": [
+      236
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد سئل عمرُ عن قومٍ يشتهون المعصية ولا يعملون بها، فقال: أولئِكَ قومٌ امتحنَ الله قلوبهم للتقوى، لهم مغفرةٌ وأجرٌ عظيم.",
+         "en": "ʿUmar was asked about people who desire sin but do not act on it. He said: “Those are people whose hearts Allah has tested for taqwā; for them is forgiveness and a great reward” [al-Ḥujurāt 49:3]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c90",
+     "pages": [
+      236
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال يزيد بن ميسرة: يقولُ الله في بعض الكتب: أيُّها الشابُّ التارك شهوتَه، المتبذل شبابه من أجلي، أنت عندي كبعض ملائكتي.",
+         "en": "Yazīd ibn Maysarah said: Allah says in one of the scriptures: O young man who leaves his desire, who spends his youth for My sake, you are with Me like one of My angels."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c91",
+     "pages": [
+      236
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال: ما أشد الشهوة في الجسد، إنَّها مثلُ حريق النار، وكيف ينجو منها الحصوريون؟.",
+         "en": "He said: How intense desire is in the body! It is like a blazing fire; how can those who abstain from women escape it?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c92",
+     "pages": [
+      236
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والتحقيق في هذا أنَّ الله لا يكلِّفُ العبادَ مِنَ الأعمال ما لا طاقةَ لهم به، وقد أسقط عنهم كثيراً من الأعمال بمجرَّدِ المشقة رخصةً عليهم، ورحمةً لهم، وأمَّا المناهي، فلم يَعْذِرْ أحداً بارتكابها بقوَّةِ الدَّاعي والشَّهوات،",
+         "en": "The truth of the matter is that Allah does not burden His servants with deeds beyond their capacity, and He has relieved them of many deeds on the mere ground of hardship, as a concession and a mercy to them. As for prohibitions, however, He has not excused anyone for committing them on the ground of strong urges and desires;"
+        },
+        {
+         "ar": "بل كلَّفهم تركها على كلِّ حال، وأنَّ ما أباح أنْ يُتناول مِنَ المطاعم المحرَّمة عند الضرورة ما تبقى معه الحياة، لا لأجل التلذذ والشهوة، ومن هنا يعلم صحة ما قاله الإمام أحمد: إنَّ النهي أشدُّ من الأمر.",
+         "en": "rather, He has charged them with leaving them in every situation, and what He has permitted of forbidden foods in necessity is only as much as keeps one alive, not for pleasure and appetite. From this one knows the soundness of Imam Aḥmad's statement: Prohibition is stricter than command."
+        },
+        {
+         "ar": "وقد روي عن النَّبيِّ صلى الله عليه وسلم من حديث ثوبان وغيره أنَّه قال: «استقيموا ولن تُحْصُوا» يعني: لن تقدروا على الاستقامة كلها.",
+         "en": "It is narrated from the Prophet ﷺ, in the hadith of Thawbān and others, that he said: “Be upright, though you will never manage it fully” — that is, you will never be able to achieve uprightness completely."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c93",
+     "pages": [
+      236
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى الحكم بن حزن الكُلَفي، قال: وفدت إلى رسول الله صلى الله عليه وسلم، فشهدتُ معه الجمعة، فقام رسولُ الله صلى الله عليه وسلم متوكئاً على عصاً أو قوسٍ،",
+         "en": "Al-Ḥakam ibn Ḥazn al-Kulafī narrated: I came in a delegation to the Messenger of Allah ﷺ and attended the Friday prayer with him. The Messenger of Allah ﷺ stood leaning on a staff or a bow,"
+        },
+        {
+         "ar": "فحمِدَ الله، وأثنى عليه بكلماتٍ خفيفاتٍ طيباتٍ مباركاتٍ، ثُمَّ قال: «أيُّها النَّاسُ إنَّكم لن تُطيقُوا، أو لن تَفْعَلوا كُلَّ ما أَمَرْتُكم به، ولكن سَدِّدُوا وأبشِرُوا» خرَّجه الإمام أحمد وأبو داود.",
+         "en": "praised Allah and extolled Him in a few light, good and blessed words, and then said: “O people, you will not be able — or, you will not do — all that I have commanded you; but aim for what is right and rejoice in good news.” Imam Aḥmad and Abū Dāwūd recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c94",
+     "pages": [
+      237
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي قوله صلى الله عليه وسلم: «إذا أمرتُكم بأمرٍ فأتوا منه ما استطعتم» دليلٌ على أنَّ من عَجَزَ عن فعل المأمور به كلِّه، وقدرَ على بعضه، فإنَّه يأتي بما أمكنه منه، وهذا مطرد في مسائل:",
+         "en": "His words ﷺ, “When I command you something, do of it as much as you are able,” are evidence that someone who cannot do all of what he is commanded but can do part of it should do as much of it as he can. This holds consistently across a number of questions."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c95",
+     "pages": [
+      237
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "منها: الطهارة، فإذا قدر على بعضها، وعجز عن الباقي: إما لعدم الماء، أو لمرض في بعض أعضائه دون بعض، فإنَّه يأتي مِنْ ذلك بما قدر عليه، ويتيمم للباقي، وسواء في ذلك الوضوء والغسل على المشهور.",
+         "en": "One is purification. If someone can do part of it but not the rest — whether for lack of water or because of an illness in some of his limbs and not others — he does what he can of it and performs tayammum for the rest. This applies equally to wuḍūʾ and ghusl, according to the well-known position."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c96",
+     "pages": [
+      237
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها: الصلاة، فمن عَجَزَ عن فعل الفريضة قائماً صلَّى قاعداً، فإن عجز صلَّى مضطجعاً، وفي \"صحيح البخاري\" عن عِمْرَانَ بن حصين: أنَّ النَّبيَّ صلى الله عليه وسلم قال:",
+         "en": "Another is prayer. Whoever cannot perform the obligatory prayer standing prays sitting, and if he cannot do that he prays lying down. In Ṣaḥīḥ al-Bukhārī, from ʿImrān ibn Ḥuṣayn, the Prophet ﷺ said:"
+        },
+        {
+         "ar": "«صَلِّ قائماً، فإنْ لم تستطع فقاعداً، فإنْ لم تستطع فعلى جنبٍ»، ولو عجز عن ذلك كلِّه، أومأ بطرفه، وصلى بنيته، ولم تسقُط عنه الصلاةُ على المشهور.",
+         "en": "“Pray standing; if you cannot, then sitting; and if you cannot, then on your side.” If he cannot do any of that, he gestures with his eyes and prays with his intention, and the prayer does not lapse for him, according to the well-known position."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c97",
+     "pages": [
+      237,
+      238
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها: زكاة الفطر، فإذا قَدَرَ على إخراج بعضِ صاع، لزمه ذلك على الصحيح، فأمَّا من قدر على صيامِ بعض النهار دُونَ تكملته، فلا يلزمه ذلك بغير خلاف؛",
+         "en": "Another is zakāt al-fiṭr: if someone can give part of a ṣāʿ, he must do so, according to the correct view. As for someone who can fast part of the day but not complete it, he is not obliged to do so, without disagreement,"
+        },
+        {
+         "ar": "لأنَّ صيامَ بعض اليوم ليس بقُربَةٍ في نفسه، وكذا لو قدر على عتق بعض رقبة في الكفارة لم يلزمه؛",
+         "en": "because fasting part of a day is not an act of nearness in itself. Likewise, if someone can free only part of a slave in an expiation, he is not obliged to do so,"
+        },
+        {
+         "ar": "لأنَّ تبعيض العتق غير محبوب للشارع بل يُؤْمَرُ بتكميله بكلِّ طريق.",
+         "en": "because freeing a slave in part is not something the Lawgiver loves; on the contrary, one is commanded to complete it by every means."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h09.c98",
+     "pages": [
+      238
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما من فاته الوقوفُ بعرفةَ في الحج، فهل يأتي بما بقيَ منه من المبيت بمزدلفة، ورمي الجمار أم لا؟",
+         "en": "As for someone who misses the standing at ʿArafah in Ḥajj: does he perform what remains of it — staying the night at Muzdalifah and stoning the pillars — or not,"
+        },
+        {
+         "ar": "بل يقتصر على الطواف والسعي، ويتحلل بعمرة على روايتين عن أحمد، أشهرهما: أنَّه يقتصر على الطواف والسعي؛",
+         "en": "confining himself instead to circumambulation and running [between Ṣafā and Marwah] and leaving iḥrām by means of an ʿUmrah? There are two reported positions from Aḥmad, the better known being that he confines himself to circumambulation and running,"
+        },
+        {
+         "ar": "لأنَّ المبيتَ والرميَّ من لواحق الوقوف بعرفة وتوابعه، وإنَّما أمر الله تعالى بذكره عند المشعر الحرام، وبذكره في الأيام المعدودات لمن أفاض من عرفات، فلا يؤمر به من لا يقف بعرفة كما لا يؤمر به المعتمر.",
+         "en": "because staying the night and stoning are appendages of the standing at ʿArafah and follow from it. Allah the Exalted commanded remembering Him at al-Mashʿar al-Ḥarām [al-Baqarah 2:198], and on the appointed days [al-Baqarah 2:203], only for those who have pressed on from ʿArafāt; so someone who has not stood at ʿArafah is not commanded to do so, just as someone performing ʿUmrah is not."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}

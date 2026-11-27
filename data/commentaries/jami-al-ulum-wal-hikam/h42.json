@@ -1,0 +1,1940 @@
+{
+ "id": "h42",
+ "number": 42,
+ "standard_number": 42,
+ "collection": "nawawi",
+ "heading": {
+  "ar": "الحديث الثاني والأربعون",
+  "en": "Hadith 42"
+ },
+ "title": {
+  "ar": "سعة مغفرة الله",
+  "en": "The Vastness of Allah’s Forgiveness"
+ },
+ "pages": {
+  "start": 830,
+  "end": 845
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.n1",
+     "pages": [
+      830
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنْ أَنسِ بن مالكٍ رضي الله عنه، قَالَ: سَمِعتُ رسولَ الله صلى الله عليه وسلم يَقولُ: «قالَ اللهُ تَعالى: يا ابنَ آدَمَ، إنَّكَ ما دَعَوتَني ورَجَوتَني غَفَرتُ لك على ما كانَ مِنكَ ولا أُبالي،",
+         "en": "From Anas ibn Mālik (may Allah be pleased with him), who said: I heard the Messenger of Allah ﷺ say: “Allah the Exalted said: Son of Ādam, so long as you call upon Me and hope in Me, I will forgive you whatever you have done, and I do not mind."
+        },
+        {
+         "ar": "يا ابن آدمُ لَوَ بَلَغَتْ ذُنُوبُك عَنانَ السَّماءِ، ثمَّ استَغفَرتَني، غَفَرْتُ لكَ، يا ابنَ آدم إنَّك لو أَتَيتَني بِقُرابِ الأرضِ خَطايا، ثمَّ لَقِيتَني لا تُشركُ بي شَيئاً، لأتيتُكَ بِقُرابها مغفرةً».",
+         "en": "Son of Ādam, were your sins to reach the clouds of the sky and you then asked My forgiveness, I would forgive you. Son of Ādam, were you to come to Me with nearly an earthful of sins and then meet Me without associating anything with Me, I would come to you with nearly an earthful of forgiveness.”"
+        },
+        {
+         "ar": "رواهُ التِّرمذيُّ وقالَ: حديثٌ حَسَن.",
+         "en": "Al-Tirmidhī reported it and said: A good (ḥasan) hadith."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c1",
+     "pages": [
+      830
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "هذا الحديثُ تفرَّد به الترمذيُّ خرّجه من طريق كثير بن فائد، حدَّثنا سعيدُ ابن عبيد، سمعتُ بكر بن عبد الله المزني يقولُ: حدثنا أنسٌ، فذكره، وقال: حسنٌ غريبٌ، لا نعرفه إلا من هذا الوجه. انتهى.",
+         "en": "Al-Tirmidhī alone recorded this hadith. He recorded it by way of Kathīr ibn Fāʾid: Saʿīd ibn ʿUbayd told us: I heard Bakr ibn ʿAbdullāh al-Muzanī say: Anas told us — and he mentioned it. He said: Good and unusual (ḥasan gharīb); we know it only by this route. End of quotation."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c2",
+     "pages": [
+      830
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وإسناده لا بأس به، وسعيدُ بنُ عبيد هو الهُنائي، قال أبو حاتم: شيخ.",
+         "en": "Its chain is acceptable. Saʿīd ibn ʿUbayd is al-Hunāʾī; Abū Ḥātim said of him: A shaykh."
+        },
+        {
+         "ar": "وذكره ابن حبان في \" الثقات \"، ومن زعم أنَّه غيرُ الهنائي، فقد وهِمَ، وقال الدارقطني: تفرَّد به كثيرُ بن فائد، عن سعيد مرفوعاً، ورواهُ سَلْم بنُ قتيبة، عن سعيد بن عبيد، فوقفه على أنس.",
+         "en": "Ibn Ḥibbān mentioned him in al-Thiqāt, and whoever claims he is someone other than al-Hunāʾī is mistaken. Al-Dāraquṭnī said: Kathīr ibn Fāʾid alone narrated it from Saʿīd as marfūʿ (attributed to the Prophet ﷺ); Salm ibn Qutaybah narrated it from Saʿīd ibn ʿUbayd and made it mawqūf on Anas (his own words)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c3",
+     "pages": [
+      830
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قلت: قد روي عنه مرفوعاً وموقوفاً، وتابعه على رفعه أيضاً أبو سعيد مولى بني هاشم، فرواه عن سعيد بن عُبيد مرفوعاً أيضاً، وقد روي أيضاً من حديث ثابت، عن أنس مرفوعاً، ولكن قال أبو حاتم: هو منكر.",
+         "en": "I say: It has been narrated from him both as marfūʿ and as mawqūf. Abū Saʿīd, the freed slave of Banū Hāshim, also corroborated its being marfūʿ, narrating it from Saʿīd ibn ʿUbayd as marfūʿ too. It has also been narrated from the hadith of Thābit, from Anas, as marfūʿ; but Abū Ḥātim said: It is munkar (objectionable)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c4",
+     "pages": [
+      830,
+      831
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد رُوي أيضاً من حديث أبي ذَرٍّ خرَّجه الإمامُ أحمد من رواية شهر بنِ حوشب، عن معد يكرب، عن أبي ذرٍّ، عن النَّبيِّ صلى الله عليه وسلم يرويه عن ربه عز وجل فذكره بمعناه،",
+         "en": "It has also been narrated from the hadith of Abū Dharr. Imam Aḥmad recorded it through the narration of Shahr ibn Ḥawshab, from Maʿdīkarib, from Abū Dharr, from the Prophet ﷺ, who narrates it from his Lord, the Mighty and Majestic; and he mentioned it with the same meaning."
+        },
+        {
+         "ar": "ورواه بعضُهم عن شهر، عن عبد الرحمان بن غَنْم، عن أبي ذرّ، وقيل: عن شهر، عن أم الدرداء، عن أبي الدرداء، عن النَّبيِّ صلى الله عليه وسلم، ولا يصحُّ هذا القول.",
+         "en": "Some narrated it from Shahr, from ʿAbd al-Raḥmān ibn Ghanm, from Abū Dharr; and it has been said to be from Shahr, from Umm al-Dardāʾ, from Abū al-Dardāʾ, from the Prophet ﷺ, but that is not correct."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c5",
+     "pages": [
+      831
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ورُوي من حديث ابن عباس خرَّجه الطبراني من رواية قيس بن الربيع، عن حبيب بن أبي ثابت، عن سعيد بن جُبير، عن ابنِ عباس، عن النَّبيِّ صلى الله عليه وسلم.",
+         "en": "It has been narrated from the hadith of Ibn ʿAbbās; al-Ṭabarānī recorded it through the narration of Qays ibn al-Rabīʿ, from Ḥabīb ibn Abī Thābit, from Saʿīd ibn Jubayr, from Ibn ʿAbbās, from the Prophet ﷺ."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c6",
+     "pages": [
+      831
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ورُوي بعضه من وجوهٍ أُخر، فخرَّج مسلم في \" صحيحه \" من حديث المعرور بن سُويد، عن أبي ذرٍّ عن النَّبيِّ صلى الله عليه وسلم، قال: «يقول الله تعالى:",
+         "en": "Part of it has been narrated by other routes. Muslim recorded in his Ṣaḥīḥ, from the hadith of al-Maʿrūr ibn Suwayd, from Abū Dharr, that the Prophet ﷺ said: “Allah the Exalted says:"
+        },
+        {
+         "ar": "مَن تقرَّب منِّي شبراً تقرَّبت منه ذراعاً، ومن تقرَّب منِّي ذراعاً تقرَّبت منه باعاً، ومن أتاني يمشي، أتيته هرولة، ومن لقِيَني بقُرابِ الأرض خطيئةً لا يُشرِكُ بي شيئاً لقيتُه بقُرابها مغفرةً».",
+         "en": "Whoever draws near to Me by a hand's span, I draw near to him by a forearm's length; whoever draws near to Me by a forearm's length, I draw near to him by an arm's span; whoever comes to Me walking, I come to him running; and whoever meets Me with nearly an earthful of sins, associating nothing with Me, I meet him with nearly an earthful of forgiveness.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c7",
+     "pages": [
+      831
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد من رواية أخشن السَّدوسي، قال: دخلتُ على أنس، فقال: سمعتُ رسول الله صلى الله عليه وسلم يقول: «والَّذي نفسي بيده، لو أخطأتم حتّى تملأ خطاياكُم ما بَيْنَ السماءِ والأرض، ثم استغفرتُمُ الله، لغَفَرَ لكُم».",
+         "en": "Imam Aḥmad recorded through the narration of Akhshan al-Sadūsī, who said: I went in to see Anas, and he said: I heard the Messenger of Allah ﷺ say: “By the One in whose hand is my soul, if you sinned until your sins filled what is between heaven and earth, and then asked Allah's forgiveness, He would forgive you.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c8",
+     "pages": [
+      831
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فقد تضمن حديث أنس المبدوء بذكره أنَّ هذه الأسباب الثلاثة يحصل بها المغفرة:",
+         "en": "The hadith of Anas with which we began, then, contains three means by which forgiveness is attained."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c9",
+     "pages": [
+      831
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدها: الدعاءُ مع الرجاء، فإنَّ الدعاء مأمورٌ به، وموعودٌ عليه بالإجابة، كما قال تعالى: {وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ}.",
+         "en": "The first is supplication with hope. Supplication is commanded, and an answer is promised for it, as the Exalted says: “Your Lord has said: Call on Me; I will answer you” [Ghāfir 40:60]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c10",
+     "pages": [
+      831
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" السنن الأربعة \" عن النعمان بن بشير، عن النَّبيِّ صلى الله عليه وسلم، قال: «إنَّ الدُّعاء هو العبادة» ثم تلا هذه الآية.",
+         "en": "In the four Sunan, from al-Nuʿmān ibn Bashīr, the Prophet ﷺ said: “Supplication is worship,” and then he recited this verse."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c11",
+     "pages": [
+      832
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي حديث آخر خرَّجه الطبراني مرفوعاً: «مَنْ أُعطي الدُّعاء، أُعطي الإجابة؛",
+         "en": "In another hadith, which al-Ṭabarānī recorded as marfūʿ: “Whoever is granted supplication is granted the answer,"
+        },
+        {
+         "ar": "لأنَّ الله تعالى يقول: {ادْعُونِي أَسْتَجِبْ لَكُمْ}».",
+         "en": "for Allah the Exalted says: ‘Call on Me; I will answer you.’”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c12",
+     "pages": [
+      832
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي حديث آخر: «ما كان الله لِيفتَحَ على عبدٍ بابَ الدُّعاء، ويُغلقَ عنه بابَ الإجابة».",
+         "en": "And in another hadith: “Allah would not open the door of supplication for a servant and close the door of the answer to him.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c13",
+     "pages": [
+      832
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "لكن الدعاء سببٌ مقتضٍ للإجابة معَ استكمال شرائطه، وانتفاء موانعه، وقد تتخلَّف إجابته، لانتفاءِ بعض شروطه، أو وجود بعض موانعه، وقد سبق ذكرُ بعض شرائطه وموانعه وآدابه في شرح الحديث العاشر.",
+         "en": "Supplication, however, is a cause that brings about the answer only when its conditions are complete and its impediments absent. Its answer may fail to come because one of its conditions is missing or one of its impediments is present. Some of its conditions, impediments and etiquette were mentioned earlier, in the commentary on Hadith 10."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c14",
+     "pages": [
+      832
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن أعظم شرائطه: حضور القلب، ورجاءُ الإجابة من الله تعالى، كما خرَّجه الترمذي من حديث أبي هريرة، عن النَّبيِّ صلى الله عليه وسلم، قال: «ادعوا الله وأنتم موقنون بالإجابة، فإنَّ الله لا يَقبلُ دُعاءً من قلبٍ غافلٍ لاهٍ».",
+         "en": "Among the most important of its conditions are presence of heart and hope of an answer from Allah the Exalted, as al-Tirmidhī recorded from the hadith of Abū Hurayrah that the Prophet ﷺ said: “Call on Allah while you are certain of the answer, for Allah does not accept the supplication of a heedless, distracted heart.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c15",
+     "pages": [
+      832
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" المسند \" عن عبد الله بن عمرو، عن النَّبيِّ صلى الله عليه وسلم، قال: «إنَّ هذه القلوب أوعيةٌ،",
+         "en": "In the Musnad, from ʿAbdullāh ibn ʿAmr, the Prophet ﷺ said: “These hearts are vessels,"
+        },
+        {
+         "ar": "فبعضُها أوعى من بعض، فإذا سألتم الله، فاسألوه وأنتم موقنون بالإجابة، فإنَّ الله لا يستجيبُ لعبدٍ دعاءً من ظهرِ قلبٍ غافلٍ».",
+         "en": "and some hold more than others. So when you ask Allah, ask Him while you are certain of the answer, for Allah does not answer a servant's supplication made by rote from a heedless heart.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c16",
+     "pages": [
+      832
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولهذا نهي العبد أنْ يقول في دعائه: اللهمَّ اغفر لي إنْ شئت، ولكنْ لِيَعزِم المسأَلَة، فإنَّ الله لا مُكرهَ له.",
+         "en": "That is why the servant is forbidden to say in his supplication, “O Allah, forgive me if You will”; rather, let him be firm in his request, for no one can compel Allah."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c17",
+     "pages": [
+      832,
+      833
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ونُهي أنْ يستعجل، ويتركَ الدعاء لاستبطاء الإجابة، وجعل ذلك من موانع الإجابة حتّى لا يقطع العبدُ رجاءه من إجابة دُعائه ولو طالت المدة، فإنَّه سبحانه يُحبُّ المُلحِّين في الدعاء.",
+         "en": "He is also forbidden to be hasty and to abandon supplication because the answer seems slow in coming. That has been made one of the impediments to the answer, so that the servant should not cut off his hope of being answered, however long it takes; for He, Glorified is He, loves those who are persistent in supplication."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c18",
+     "pages": [
+      833
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وجاء في الآثار: إنَّ العبد إذا دعا ربَّه وهو يحبُّه، قال: يا جبريلُ، لا تَعْجَلْ بقضاءِ حاجة عبدي،",
+         "en": "It has come in the reports that when a servant whom his Lord loves calls on Him, He says: Jibrīl, do not hasten to fulfil My servant's need,"
+        },
+        {
+         "ar": "فإنِّي أُحبُّ أن أسمعَ صوتَه، وقال تعالى: {وَادْعُوهُ خَوْفاً وَطَمَعاً إِنَّ رَحْمَتَ اللهِ قَرِيبٌ مِنَ الْمُحْسِنِينَ} فما دام العبدُ يُلحُّ في الدُّعاء،",
+         "en": "for I love to hear his voice. And the Exalted says: “Call on Him in fear and hope; truly the mercy of Allah is near to those who do good” [al-Aʿrāf 7:56]. So long as the servant persists in supplication"
+        },
+        {
+         "ar": "ويَطمعُ في الإجابة من غير قطع الرّجاء، فهو قريبٌ من الإجابة، ومَنْ أَدمن قرعَ الباب، يُوشك أنْ يُفتح له، وفي \" صحيح الحاكم \" عن أنسٍ مرفوعاً: «لا تَعجزوا عن الدُّعاء، فإنَّه لن يَهلِكَ مع الدُّعاء أَحدٌ».",
+         "en": "and hopes for the answer without cutting off hope, he is near to being answered; and whoever keeps knocking at the door will soon have it opened for him. In al-Ḥākim's Ṣaḥīḥ, from Anas as marfūʿ: “Do not fall short in supplication, for no one will perish while he supplicates.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c19",
+     "pages": [
+      833
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن أهمِّ ما يسألُ العبد ربَّه مغفرةُ ذنوبه، أو ما يستلزم ذلك كالنجاة من النار، ودخول الجنة، وقد قال النَّبيُّ صلى الله عليه وسلم: «حولَها نُدنْدِن» يعني: حول سؤال الجنة والنجاة من النار.",
+         "en": "Among the most important things a servant asks his Lord for is the forgiveness of his sins, or what entails it, such as salvation from the Fire and entry into Paradise. The Prophet ﷺ said: “It is around these that we murmur,” meaning around asking for Paradise and salvation from the Fire."
+        },
+        {
+         "ar": "وقال أبو مسلم الخَولاني: ما عَرَضت لي دعوةٌ فذكرتُ النار إلا صرفتُها إلى الاستعاذة منها.",
+         "en": "Abū Muslim al-Khawlānī said: Whenever a supplication occurred to me and I remembered the Fire, I turned it into seeking refuge from it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c20",
+     "pages": [
+      833
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن رحمة الله تعالى بعبده أنَّ العبدَ يدعوه بحاجةٍ من الدنيا، فيصرفها عنه، ويعوِّضه خيراً منها، إما أنْ يَصرِفَ عنه بذلك سوءاً، أو أنْ يدَّخِرَها له في الآخرة، أو يَغفِر له بها ذنباً،",
+         "en": "Part of Allah the Exalted's mercy towards His servant is that the servant asks Him for some worldly need and He keeps it from him and gives him something better in its place: either He averts some evil from him by it, or stores it up for him in the Hereafter, or forgives him a sin by it,"
+        },
+        {
+         "ar": "كما في \" المسند \" و\" الترمذى \" من حديث جابر، عن النَّبيِّ صلى الله عليه وسلم، قال:",
+         "en": "as in the Musnad and al-Tirmidhī, from the hadith of Jābir, the Prophet ﷺ said:"
+        },
+        {
+         "ar": "«ما مِنْ أَحَدٍ يَدعُو بدُعاءٍ إلا آتاه الله ما سألَ أو كَفَّ عنه من السُّوء مثلَه ما لم يدعُ بإثم أو قطيعة رحم».",
+         "en": "“No one makes a supplication but Allah gives him what he asked for or keeps from him an equivalent evil, so long as he does not ask for something sinful or for the severing of family ties.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c21",
+     "pages": [
+      834
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" المسند \" و\" صحيح الحاكم \" عن أبي سعيدٍ، عن النَّبيِّ صلى الله عليه وسلم، قال: «ما مِنْ مُسلمٍ يَدعو بدعوةٍ ليس له فيها إثمٌ أو قطيعةُ رحمٍ إلا أعطاه الله بها إحدى ثلاثٍ:",
+         "en": "In the Musnad and al-Ḥākim's Ṣaḥīḥ, from Abū Saʿīd, the Prophet ﷺ said: “No Muslim makes a supplication in which there is no sin or severing of family ties but Allah gives him by it one of three things:"
+        },
+        {
+         "ar": "إما أنْ يُعجِّلَ له دعوته، وإما أنْ يدَّخرها له في الآخرة، وإما أنْ يكشِفَ عنه من السُّوءِ مثلها»، قالوا: إذاً نُكثر؟",
+         "en": "either He hastens his supplication for him, or He stores it up for him in the Hereafter, or He removes from him an equivalent evil.” They said: Then we will ask for more."
+        },
+        {
+         "ar": "قال: «الله أكثرُ».",
+         "en": "He said: “Allah has more.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c22",
+     "pages": [
+      834
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه الطبراني، وعنده «أو يغفِرَ له بها ذنباً قد سَلَف» بدل قوله:",
+         "en": "Al-Ṭabarānī recorded it, and his version has, “or He forgives him by it a sin he committed in the past,” instead of his words,"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c23",
+     "pages": [
+      834
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«أو يكشف عنه من السوء مثلها».",
+         "en": "“or He removes from him an equivalent evil.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c24",
+     "pages": [
+      834
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الترمذي من حديث عبادة مرفوعاً نحوَ حديث أبي سعيد أيضاً.",
+         "en": "Al-Tirmidhī also recorded, from the hadith of ʿUbādah as marfūʿ, something similar to the hadith of Abū Saʿīd."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c25",
+     "pages": [
+      834
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وبكلِّ حالٍ، فالإلحاحُ بالدعاء بالمغفرة مع رجاء الله تعالى موجبٌ للمغفرة، والله تعالى يقول: «أنا عندَ ظنِّ عبدي بي، فليظنَّ بي ما شاء» وفي رواية: «فلا تظنُّوا بالله إلا خيراً».",
+         "en": "In any case, persistence in supplicating for forgiveness, together with hope in Allah the Exalted, brings about forgiveness. Allah the Exalted says: “I am as My servant thinks of Me, so let him think of Me as he wishes”; and in one narration: “So think nothing of Allah but good.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c26",
+     "pages": [
+      834
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويُروى من حديث سعيد بن جبير عن ابن عمر مرفوعاً: «يأتي الله تعالى بالمؤمن يومَ القيامة، فيُقرِّبُه حتى يجعلَه في حجابه من جميع الخلق، فيقول له: اقرأ صحيفتك، فيُعرِّفُه ذنباً ذنباً: أتعرفُ أتعرفُ؟",
+         "en": "It is narrated from the hadith of Saʿīd ibn Jubayr, from Ibn ʿUmar, as marfūʿ: “Allah the Exalted will bring the believer on the Day of Resurrection and draw him near until He places him under His veil, screened from all creation. He will say to him: Read your record. And He will make him acknowledge one sin after another: Do you recognise it? Do you recognise it?"
+        },
+        {
+         "ar": "فيقول: نعمْ نعمْ، ثم يلتفتُ العبدُ يمنة ويسرة، فيقول الله تعالى: لا بأسَ عليك، يا عبدي أنت في ستري من جميع خلقي،",
+         "en": "He will say: Yes, yes. Then the servant will look to the right and the left, and Allah the Exalted will say: No harm will come to you; My servant, you are under My cover from all My creation."
+        },
+        {
+         "ar": "ليس بيني وبينك اليومَ أحدٌ يطَّلعُ على ذنوبك غيري، اذهب فقد غفرتُها لك بحرفٍ واحدٍ من جميع ما أتيتني به، قال: ما هو يا ربِّ؟",
+         "en": "There is no one between Me and you today who can see your sins but Me. Go, for I have forgiven them for you because of one single thing out of all that you have brought Me. He will say: What is it, my Lord?"
+        },
+        {
+         "ar": "قال: كنت لا ترجو العفو من أحدٍ غيري».",
+         "en": "He will say: You never hoped for pardon from anyone but Me.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c27",
+     "pages": [
+      834,
+      835
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فمن أعظم أسباب المغفرة أنَّ العبد إذا أذنب ذنباً لم يرج مغفرته من غير ربِّه، ويعلم أنه لا يغفر الذنوبَ ويأخذ بها غيرُه،",
+         "en": "Among the greatest means of forgiveness, then, is that when the servant commits a sin he hopes for its forgiveness from none but his Lord, and knows that none but He forgives sins or takes His servants to task for them."
+        },
+        {
+         "ar": "وقد سبق ذكرُ ذلك في شرح حديث أبي ذرٍّ: «يا عبادي إنِّي حرَّمت الظُّلم على نفسي» … الحديث.",
+         "en": "This was mentioned earlier, in the commentary on the hadith of Abū Dharr, “My servants, I have forbidden injustice for Myself…”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c28",
+     "pages": [
+      835
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله: «إنَّك ما دعوتني ورجوتني، غفرتُ لك على ما كان منك ولا أُبالي» يعني: على كثرة ذنوبك وخطاياك، ولا يتعاظمني ذلك،",
+         "en": "His words, “So long as you call upon Me and hope in Me, I will forgive you whatever you have done, and I do not mind,” mean: however many your sins and errors, that is not too great for Me,"
+        },
+        {
+         "ar": "ولا أستكثره، وفي \" الصحيح \" عن النَّبيِّ صلى الله عليه وسلم، قال: «إذا دعا أَحدُكم فليُعظِم الرَّغبَةَ، فإنَّ الله لا يَتعاظَمهُ شيءٌ».",
+         "en": "and I do not consider it too much. In the Ṣaḥīḥ the Prophet ﷺ said: “When one of you supplicates, let him make his longing great, for nothing is too great for Allah.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c29",
+     "pages": [
+      835
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فذنوب العباد وإنْ عظُمَت فإنَّ عفو الله ومغفرته أعظم منها وأعظم، فهي صغيرةٌ في جنب عفوِ الله ومغفرته.",
+         "en": "However great the sins of the servants may be, Allah's pardon and forgiveness are greater, far greater; the sins are small beside Allah's pardon and forgiveness."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c30",
+     "pages": [
+      835
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح الحاكم \" عن جابر أنَّ رجلاً جاء إلى النَّبيِّ صلى الله عليه وسلم يقولُ: واذنوباه واذنوباه مرَّتين أو ثلاثاً، فقال له النَّبيُّ صلى الله عليه وسلم:",
+         "en": "In al-Ḥākim's Ṣaḥīḥ, from Jābir: A man came to the Prophet ﷺ saying, “Oh, my sins! Oh, my sins!” two or three times. The Prophet ﷺ said to him:"
+        },
+        {
+         "ar": "«قل: اللهمَّ مغفرتُك أوسَعُ من ذنوبي، ورحمتُك أرجى عندي من عملي»، فقالها، ثم قال له: «عُدْ»، فعاد، ثم قال له: «عُدْ»، فعاد، فقال له: «قُمْ، فقد غفر الله لك».",
+         "en": "“Say: O Allah, Your forgiveness is wider than my sins, and Your mercy is more to be hoped for by me than my deeds.” He said it, and he said to him: “Again.” He said it again, and he said to him: “Again,” and he said it again. Then he said to him: “Stand up; Allah has forgiven you.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c31",
+     "pages": [
+      835
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي هذا يقول بعضهم:",
+         "en": "On this someone said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c32",
+     "pages": [
+      835
+     ],
+     "paragraphs": [
+      {
+       "kind": "verse",
+       "segments": [
+        {
+         "ar": "يا كَبير الذَّنب عفوُ الـ … ـلَّه مِن ذنبك أكبرُ",
+         "en": "You whose sin is great, Allah's / pardon is greater than your sin;"
+        },
+        {
+         "ar": "أعظَمُ الأشياء في … جَنب عفوِ الله يَصغُرُ",
+         "en": "the greatest of things, beside / Allah's pardon, grows small."
+        }
+       ]
+      },
+      {
+       "kind": "label",
+       "segments": [
+        {
+         "ar": "وقال آخر:",
+         "en": "Another poet said:"
+        }
+       ]
+      },
+      {
+       "kind": "verse",
+       "segments": [
+        {
+         "ar": "يا ربِّ إن عَظُمَت ذُنوني كَثرةً … فلقَد علِمتُ بأنَّ عَفوكَ أعظَمُ",
+         "en": "My Lord, though my sins are great in number, / I know that Your pardon is greater still."
+        },
+        {
+         "ar": "إن كان لا يرجوك إلا مُحسنٌ … فمَن الذي يَرجو ويدعُو المُجرمُ",
+         "en": "If none but those who do good may hope in You, / in whom is the wrongdoer to hope, and on whom to call?"
+        },
+        {
+         "ar": "مالي إليك وسيلةٌ إلاَّ الرجا … وجَميلُ عفوك ثم إنِّي مُسلِمُ",
+         "en": "I have no means of reaching You but hope / and Your beautiful pardon — and then, I am a Muslim."
+        }
+       ]
+      },
+      {
+       "kind": "label",
+       "segments": [
+        {
+         "ar": "وقال آخر:",
+         "en": "Another poet said:"
+        }
+       ]
+      },
+      {
+       "kind": "verse",
+       "segments": [
+        {
+         "ar": "ولما قسى قلبي وضاقتْ مذاهبي … جعلتُ رجائي نحو عفوك سُلماً",
+         "en": "When my heart grew hard and my ways grew narrow, / I made my hope in Your pardon a ladder."
+        },
+        {
+         "ar": "تعاظمني ذنبي فلما قرنتُهُ … بعفوكَ ربي كانَ عفوك أعضما",
+         "en": "My sin seemed too great to me, but when I set it / beside Your pardon, my Lord, Your pardon was the greater."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c33",
+     "pages": [
+      836
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "السبب الثاني للمغفرة: الاستغفار، ولو عظُمت الذُّنوب، وبلغت الكثرة عَنان السماء، وهو السَّحاب.",
+         "en": "The second means of forgiveness is seeking forgiveness (istighfār), even if the sins are great and their number reaches ʿanān al-samāʾ, which is the clouds;"
+        },
+        {
+         "ar": "وقيل: ما انتهى إليه البصر منها، وفي الرواية الأخرى: «لو أخطأتُم حتَّى بلغت خطاياكم ما بين السماء والأرض، ثم استغفرتم الله لَغفر لكم»، والاستغفارُ: طلبُ المغفرة، والمغفرة: هي وقاية شرِّ الذنوب مع سترها.",
+         "en": "it has also been said to mean as far as the eye can see of the sky. In the other narration: “If you sinned until your sins reached what is between heaven and earth, and then asked Allah's forgiveness, He would forgive you.” Istighfār is asking for forgiveness (maghfirah), and maghfirah is protection from the evil of sins together with their concealment."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c34",
+     "pages": [
+      836
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد كثر في القرآن ذكرُ الاستغفار، فتارةً يؤمر به، كقوله تعالى:",
+         "en": "Seeking forgiveness is mentioned often in the Qurʾān. Sometimes it is commanded, as in His words, Exalted is He:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c35",
+     "pages": [
+      836
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "{وَاسْتَغْفِرُوا اللهَ إِنَّ اللهَ غَفُورٌ رَحِيمٌ}، وقوله: {وَأَنِ اسْتَغْفِرُوا رَبَّكُمْ ثُمَّ تُوبُوا إِلَيْهِ}.",
+         "en": "“And seek the forgiveness of Allah; Allah is Forgiving, Merciful” [al-Muzzammil 73:20], and His words: “And seek your Lord's forgiveness, then turn to Him in repentance” [Hūd 11:3]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c36",
+     "pages": [
+      836
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وتارةً يمدحُ أهلَه، كقوله: {وَالْمُسْتَغْفِرِينَ بِالأَسْحَارِ}، وقوله:",
+         "en": "Sometimes He praises those who do it, as in His words, “and those who seek forgiveness before dawn” [Āl ʿImrān 3:17], and His words,"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c37",
+     "pages": [
+      836
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "{وَبِالأَسْحَارِ هُمْ يَسْتَغْفِرُونَ}، وقوله: {وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنْفُسَهُمْ ذَكَرُوا اللهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَمَنْ يَغْفِرُ الذُّنُوبَ إِلاَّ اللهُ}.",
+         "en": "“and before dawn they would seek forgiveness” [al-Dhāriyāt 51:18], and His words: “And those who, when they commit an indecency or wrong themselves, remember Allah and seek forgiveness for their sins — and who forgives sins but Allah?” [Āl ʿImrān 3:135]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c38",
+     "pages": [
+      836
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وتارةً يذكر أن الله يغفر لمن استغفره، كقوله تعالى: {وَمَنْ يَعْمَلْ سُوءاً أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللهَ يَجِدِ اللهَ غَفُوراً رَحِيماً}.",
+         "en": "And sometimes He mentions that Allah forgives whoever seeks His forgiveness, as in His words, Exalted is He: “Whoever does evil or wrongs himself, then seeks Allah's forgiveness, will find Allah Forgiving, Merciful” [al-Nisāʾ 4:110]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c39",
+     "pages": [
+      836
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكثيراً ما يُقرن الاستغفارُ بذكر التوبة، فيكون الاستغفارُ حينئذٍ عبارةً عن طلب المغفرة باللسان، والتوبة عبارة عن الإقلاع عن الذنوب بالقلوب والجوارح.",
+         "en": "Seeking forgiveness is often paired with mention of repentance, in which case seeking forgiveness means asking for forgiveness with the tongue, and repentance means giving up sins with the heart and the limbs."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c40",
+     "pages": [
+      836
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وتارة يفرد الاستغفار، ويُرتب عليه المغفرة، كما ذكر في هذا الحديث وما أشبهه، فقد قيل: إنَّه أريد به الاستغفارُ المقترن بالتوبة، وقيل: إنَّ نصوص الاستغفار المفردة كلّها مطلقة تُقيَّدُ بما ذكر في آية «آل عمران» من عدم الإصرار؛",
+         "en": "Sometimes seeking forgiveness is mentioned on its own, with forgiveness made to follow from it, as in this hadith and others like it. It has been said that what is meant there is seeking forgiveness joined with repentance. It has also been said that the texts on seeking forgiveness alone are all unqualified, and are to be qualified by what is mentioned in the verse of Āl ʿImrān about not persisting;"
+        },
+        {
+         "ar": "فإنَّ الله وعد فيها المغفرة لمن استغفره من ذنوبه ولم يُصر على فعله، فتُحْمَلُ النُّصوص المطلقة في الاستغفار كلّها على هذا المقيد، ومجرَّدُ قولِ القائل: اللهمَّ اغفر لي،",
+         "en": "for in it Allah promised forgiveness to whoever seeks His forgiveness for his sins and does not persist in what he did, and so all the unqualified texts on seeking forgiveness are to be read in the light of this qualified one. Someone's merely saying, “O Allah, forgive me,”"
+        },
+        {
+         "ar": "طلبٌ منه للمغفرة ودعاءٌ بها، فيكون حكمه حكمَ سائرِ الدعاء، فإنْ شاء الله أجابه وغفر لصاحبه، لاسيما إذا خرج عن قلبٍ منكسرٍ بالذنب أو صادف ساعةً من ساعات الإجابة كالأسحار وأدبار الصلوات.",
+         "en": "is a request for forgiveness and a supplication for it, and so its ruling is that of any other supplication: if Allah wills, He answers it and forgives the one who makes it, especially when it comes from a heart broken by sin or coincides with one of the times when supplications are answered, such as the hours before dawn and the ends of the prayers."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c41",
+     "pages": [
+      837
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويُروى عن لُقمان عليه السلام أنَّه قال لابنه: يا بنيَّ عَوِّدْ لسانك: اللهمَّ اغفر لي، فإنَّ لله ساعاتٍ لا يرُدُّ فيها سائلاً.",
+         "en": "It is narrated that Luqmān (peace be upon him) said to his son: My son, accustom your tongue to saying, “O Allah, forgive me,” for Allah has hours in which He turns away no one who asks."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c42",
+     "pages": [
+      837
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الحسن: أكثِروا من الاستغفار في بيوتكم، وعلى موائدكم، وفي طُرقكم، وفي أسواقكم، وفي مجالسكم أينما كُنتم، فإنَّكم ما تدرون متى تنْزل المغفرة.",
+         "en": "Al-Ḥasan said: Seek forgiveness often — in your houses, at your tables, on your roads, in your markets and in your gatherings, wherever you are — for you do not know when forgiveness will come down."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c43",
+     "pages": [
+      837
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج ابنُ أبي الدنيا في كتاب \" حسن الظن \" من حديث أبي هريرة مرفوعاً: «بينما رجلٌ مستلقٍ إذ نظر إلى السَّماء وإلى النجوم، فقال: إني لأعلم أنَّ لك رباً خالقاً، اللهمَّ اغفر لي، فغفر له».",
+         "en": "Ibn Abī al-Dunyā recorded in his book Ḥusn al-Ẓann, from the hadith of Abū Hurayrah as marfūʿ: “A man was lying on his back when he looked up at the sky and the stars and said: I know that you have a Lord who created you. O Allah, forgive me. And He forgave him.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c44",
+     "pages": [
+      837
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن مورِّق قال: كان رجل يعملُ السَّيئات، فخرج إلى البرية، فجمع تراباً، فاضطجع عليه مستلقياً، فقال: ربِّ اغفر لي ذنوبي، فقال: إنَّ هذا ليعرِفُ أنَّ له رباً يغفِرُ ويُعذِّب، فغفر له.",
+         "en": "From Muwarriq, who said: There was a man who used to do evil deeds. He went out into the open country, gathered some earth and lay down on it on his back, and said: My Lord, forgive me my sins. [Allah] said: This man knows that he has a Lord who forgives and punishes. And He forgave him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c45",
+     "pages": [
+      837
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن مُغيث بن سُميٍّ، قال: بينما رجلٌ خبيثٌ، فتذكر يوماً، فقال: اللهمَّ غُفرانَك، اللهمَّ غُفرانك، اللهمَّ غُفرانك، ثم مات فغُفِر له.",
+         "en": "From Mughīth ibn Sumayy, who said: There was a wicked man who one day came to his senses and said: O Allah, Your forgiveness! O Allah, Your forgiveness! O Allah, Your forgiveness! Then he died, and he was forgiven."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c46",
+     "pages": [
+      837
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويشهد لهذا ما في \" الصحيحين \" عن أبي هُريرة، عن النَّبيِّ صلى الله عليه وسلم: «إنَّ عبداً أذنب ذنباً، فقال: ربِّ أذنبتُ ذنباً فاغفر لي، قال الله تعالى: عَلِمَ عبدي أنَّ له رباً يغفر الذنب،",
+         "en": "This is supported by what is in the two Ṣaḥīḥs, from Abū Hurayrah, from the Prophet ﷺ: “A servant committed a sin and said: My Lord, I have committed a sin, so forgive me. Allah the Exalted said: My servant knows that he has a Lord who forgives sin"
+        },
+        {
+         "ar": "ويأخذُ به، غفرتُ لعبدي، ثمَّ مكث ما شاء الله، ثم أذنب ذنباً آخر، فذكر مثل الأوَّل مرتين أخريين» وفي رواية لمسلم: أنَّه قال في الثالثة: «قد غفرتُ لعبدي، فليعمل ما شاء».",
+         "en": "and takes to task for it; I have forgiven My servant. Then he remained as long as Allah willed, and then committed another sin” — and he mentioned the same as the first, twice more. In a narration of Muslim's, He said the third time: “I have forgiven My servant, so let him do as he wishes.”"
+        },
+        {
+         "ar": "والمعنى: ما دام على هذا الحال كلَّما أذنب استغفر.",
+         "en": "The meaning is: so long as he remains in this state, seeking forgiveness whenever he sins."
+        },
+        {
+         "ar": "والظاهر أنَّ مرادهُ الاستغفارُ المقرون بعدم الإصرار، ولهذا في حديث أبي بكر الصديق، عن النَّبيِّ صلى الله عليه وسلم، قال: «ما أصرَّ من استغفر وإنْ عاد في اليوم سبعين مرةً» خرَّجه أبو داود والترمذي.",
+         "en": "It appears that what is meant is seeking forgiveness joined with not persisting. That is why the hadith of Abū Bakr al-Ṣiddīq has the Prophet ﷺ saying: “One who seeks forgiveness has not persisted, even if he goes back [to the sin] seventy times a day.” Abū Dāwūd and al-Tirmidhī recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c47",
+     "pages": [
+      838
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأمّا استغفارُ اللسان مع إصرار القلب على الذنب، فهو دُعاء مجرَّد إنْ شاء الله أجابه، وإنْ شاء ردَّه.",
+         "en": "As for seeking forgiveness with the tongue while the heart persists in the sin, that is a mere supplication: if Allah wills, He answers it, and if He wills, He rejects it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c48",
+     "pages": [
+      838
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد يكون الإصرار مانعاً من الإجابة، وفي \" المسند \" من حديث عبد الله ابن عمرو مرفوعاً: «ويلٌ للذينَ يُصرُّون على ما فعلوا وهُم يَعلَمون».",
+         "en": "Persistence may also be an impediment to the answer. In the Musnad, from the hadith of ʿAbdullāh ibn ʿAmr as marfūʿ: “Woe to those who persist in what they have done while they know.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c49",
+     "pages": [
+      838
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج ابنُ أبي الدنيا من حديث ابن عباس مرفوعاً: «التائبُ مِنَ الذَّنب كمن لا ذنب له، والمستغفر من ذنب وهو مقيمٌ عليه كالمستهزيء بربِّه» ورفعُه منكرٌ، ولعلَّه موقوف.",
+         "en": "Ibn Abī al-Dunyā recorded from the hadith of Ibn ʿAbbās as marfūʿ: “One who repents of a sin is like one who has no sin, and one who seeks forgiveness for a sin while persisting in it is like one who mocks his Lord.” Its being marfūʿ is munkar; perhaps it is mawqūf."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c50",
+     "pages": [
+      838
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال الضحاك: ثلاثةٌ لا يُستجابُ لهم، فذكر منهم: رجل مقيم على امرأة زنى كلما قضى شهوته، قال: ربِّ اغفر لي ما أصبتُ من فلانة، فيقول الربُّ: تحوَّل عنها، وأغفر لك، فأما ما دمت مقيماً عليها،",
+         "en": "Al-Ḍaḥḥāk said: There are three whose supplication is not answered — and among them he mentioned a man who keeps up an unlawful relationship with a woman. Whenever he has satisfied his desire he says: My Lord, forgive me what I did with So-and-so. And the Lord says: Leave her and I will forgive you; but so long as you keep up with her,"
+        },
+        {
+         "ar": "فإنِّي لا أغفر لك، ورجلٌ عنده مالُ قوم يرى أهله، فيقول: ربِّ اغفر لي ما آكل من مال فلان، فيقول تعالى: ردَّ إليهم مالهم، وأغفر لك، وأما ما لم تردَّ إليهم، فلا أغفر لك.",
+         "en": "I will not forgive you. And a man who holds other people's wealth while seeing its owners, and says: My Lord, forgive me what I consume of So-and-so's wealth. And the Exalted says: Return their wealth to them and I will forgive you; but so long as you have not returned it to them, I will not forgive you."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c51",
+     "pages": [
+      838
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقول القائل: أستغفر الله، معناه: أطلبُ مغفرته، فهو كقوله: اللهمَّ اغفر لي، فالاستغفارُ التامُّ الموجبُ للمغفرة: هو ما قارن عدمَ الإصرار، كما مدح الله أهله، ووعدهم المغفرة،",
+         "en": "Someone's saying, “I seek Allah's forgiveness,” means: I ask for His forgiveness; so it is like saying, “O Allah, forgive me.” The complete seeking of forgiveness, which brings about forgiveness, is that which is joined with not persisting, as Allah praised those who do it and promised them forgiveness."
+        },
+        {
+         "ar": "قال بعض العارفين: من لم يكن ثمرةُ استغفاره تصحيح توبته، فهو كاذب في استغفاره، وكان بعضُهم يقول: استغفارُنا هذا يحتاج إلى استغفارٍ كثير، وفي ذلك يقولُ بعضهم:",
+         "en": "One of those who know Allah said: Whoever's seeking of forgiveness does not bear the fruit of a sound repentance is lying in his seeking of forgiveness. One of them used to say: This seeking of forgiveness of ours needs much seeking of forgiveness. On this someone said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c52",
+     "pages": [
+      838
+     ],
+     "paragraphs": [
+      {
+       "kind": "verse",
+       "segments": [
+        {
+         "ar": "أستغْفِرُ الله مِنْ أستغفرُ الله … من لَفظةٍ بَدَرَتْ خالفْتُ معناها",
+         "en": "I seek Allah's forgiveness for saying, “I seek Allah's forgiveness” — / a word that escaped me while I went against its meaning."
+        },
+        {
+         "ar": "وكيفَ أرجو إجاباتِ الدُّعاء وقد … سَدَدْتُ بالذَّنب عندَ الله مَجراها",
+         "en": "How can I hope for my supplications to be answered, / when with sin I have blocked their channel to Allah?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c53",
+     "pages": [
+      838,
+      839
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فأفضل الاستغفار ما اقترن به تركُ الإصرار، وهو حينئذ توبةٌ نصوح، وإنْ قال بلسانه: أستغفر الله وهو غيرُ مقلع بقلبه، فهو داعٍ لله بالمغفرة، كما يقول: اللهمَّ اغفر لي،",
+         "en": "The best seeking of forgiveness, then, is that which is joined with abandoning persistence; it is then a sincere repentance. If he says with his tongue, “I seek Allah's forgiveness,” without having given up the sin in his heart, he is supplicating to Allah for forgiveness, as when he says, “O Allah, forgive me,”"
+        },
+        {
+         "ar": "وهو حسن وقد يُرجى له الإجابة، وأما من قال: توبةُ الكذابين، فمرادُه أنَّه ليس بتوبة، كما يعتقده بعضُ الناس، وهذا حقٌّ، فإنَّ التَّوبةَ لا تكون مَعَ الإصرار.",
+         "en": "and that is good, and he may hope to be answered. As for the one who called it the repentance of liars, he meant that it is not repentance, as some people believe it to be; and that is true, for repentance cannot coexist with persistence."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c54",
+     "pages": [
+      839
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وإن قال: أستغفر الله وأتوبُ إليه فله حالتان:",
+         "en": "If he says, “I seek Allah's forgiveness and I repent to Him,” he is in one of two states."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c55",
+     "pages": [
+      839
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "إحداهما: أن يكونَ مصرّاً بقلبه على المعصية، فهذا كاذب في قوله:",
+         "en": "The first is that he persists in the sin in his heart. Such a person is lying in saying"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c56",
+     "pages": [
+      839
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«وأتوب إليه» لأنَّه غيرُ تائبٍ، فلا يجوزُ له أن يخبر عن نفسه بأنَّه تائبٌ وهو غير تائب.",
+         "en": "“and I repent to Him”, because he is not repenting, and it is not permissible for him to state of himself that he is repenting when he is not."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c57",
+     "pages": [
+      839
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثانية: أنْ يكون مقلعاً عن المعصية بقلبه، فاختلف الناس في جوازِ قوله: وأتوب إليه، فكرهه طائفةٌ من السَّلف، وهو قولُ أصحاب أبي حنيفة حكاه عنهم الطحاوي، وقال الربيع بن خثيم:",
+         "en": "The second is that he has given up the sin in his heart. People differ over whether he may say, “and I repent to Him.” A group of the Salaf disliked it, and it is the view of the followers of Abū Ḥanīfah, which al-Ṭaḥāwī related from them. Al-Rabīʿ ibn Khuthaym said:"
+        },
+        {
+         "ar": "يكونُ قولُه: «وأتوب إليه» كذبةً وذنباً، ولكن ليقل: اللهمَّ تُبْ عليَّ، أو يقول: اللهمَّ إنِّي أستغفرك فتُب عليَّ، وهذا قد يُحمل على من لم يقلع بقلبه وهو بحاله أشبه.",
+         "en": "His saying, “and I repent to Him,” becomes a lie and a sin; rather, let him say, “O Allah, accept my repentance,” or, “O Allah, I seek Your forgiveness, so accept my repentance.” This may be taken as referring to one who has not given up the sin in his heart, and that fits his situation better."
+        },
+        {
+         "ar": "وكان محمد بن سوقة يقول في استغفاره: استغفر الله العظيم الذي لا إله إلا هو الحيّ القيوم وأسأله توبة نصوحاً.",
+         "en": "Muḥammad ibn Sūqah used to say in his seeking of forgiveness: I seek the forgiveness of Allah the Mighty, besides whom there is no god, the Living, the Self-Sustaining, and I ask Him for sincere repentance."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c58",
+     "pages": [
+      839
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ورُوي عن حذيفة أنَّه قال: بحسب المرءِ من الكذب أنْ يقول: أستغفر الله، ثم يعود.",
+         "en": "It is narrated that Ḥudhayfah said: It is lie enough for a man to say, “I seek Allah's forgiveness,” and then go back to the sin."
+        },
+        {
+         "ar": "وسمع مطرِّفٌ رجلاً يقول: أستغفر الله وأتوب إليه، فتغيظ عليه، وقال: لعلك لا تفعل.",
+         "en": "Muṭarrif heard a man saying, “I seek Allah's forgiveness and I repent to Him,” and grew angry with him, and said: Perhaps you will not do it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c59",
+     "pages": [
+      839
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذا ظاهره يدلُّ على أنَّه إنَّما كره أنْ يقول: وأتوب إليه؛",
+         "en": "The apparent sense of this indicates that he disliked only his saying, “and I repent to Him,”"
+        },
+        {
+         "ar": "لأنَّ التوبة النصوحَ أنْ لا يعودَ إلى الذنب أبداً، فمتى عاد إليه، كان كاذباً في قوله: «أتوب إليه».",
+         "en": "because sincere repentance means never returning to the sin, so whenever he returns to it he has lied in saying, “I repent to Him.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c60",
+     "pages": [
+      839
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكذلك سُئِل محمدُ بن كعب القُرظِيُّ عمَّن عاهد الله أنْ لا يعود إلى معصية أبداً، فقال:",
+         "en": "Likewise Muḥammad ibn Kaʿb al-Quraẓī was asked about someone who pledged to Allah never to return to a sin, and he said:"
+        },
+        {
+         "ar": "من أعظم منه إثماً يتألَّي على الله أنْ لا ينفذ فيه قضاؤه، ورجَّح قوله في هذا أبو الفرج ابنُ الجوزي، ورُوي عن سُفيان بن عُيينة نحو ذلك.",
+         "en": "Who is more sinful than he? He presumes to swear to Allah that His decree will not take effect in him. Abū al-Faraj ibn al-Jawzī preferred his view on this, and something similar is narrated from Sufyān ibn ʿUyaynah."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c61",
+     "pages": [
+      839,
+      840
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وجمهورُ العلماء على جواز أنْ يقول التائب: أتوبُ إلى الله، وأنْ يُعاهِدَ العبدُ ربَّه على أنْ لا يعود إلى المعصية،",
+         "en": "The majority of scholars hold that one who repents may say, “I repent to Allah,” and that the servant may pledge to his Lord never to return to the sin,"
+        },
+        {
+         "ar": "فإنَّ العزم على ذلك واجبٌ عليه، فهو مخبر بما عزم عليه في الحال، لهذا قال: «ما أصرَّ من استغفر، ولو عاد في اليوم سبعين مرة».",
+         "en": "since the resolve to do so is obligatory on him, and he is stating what he resolves at present. That is why he said: “One who seeks forgiveness has not persisted, even if he goes back seventy times a day.”"
+        },
+        {
+         "ar": "وقال في المعاود للذنب: «قد غفرتُ لعبدي، فليعمل ما شاء».",
+         "en": "And he said, of one who returns to the sin: “I have forgiven My servant, so let him do as he wishes.”"
+        },
+        {
+         "ar": "وفي حديث كفارة المجلس: «أستغفرك اللهمَّ وأتوب إليك»، وقطع النَّبيُّ صلى الله عليه وسلم سارقاً، ثم قال له: «استغفر الله وتُب إليه»، فقال: أستغفر الله وأتوب إليه، فقال: «اللهمَّ تُب عليه» خرَّجه أبو داود.",
+         "en": "In the hadith on the expiation of a gathering: “I seek Your forgiveness, O Allah, and I repent to You.” The Prophet ﷺ had a thief's hand cut off and then said to him: “Seek Allah's forgiveness and repent to Him.” He said: I seek Allah's forgiveness and I repent to Him. He said: “O Allah, accept his repentance.” Abū Dāwūd recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c62",
+     "pages": [
+      840
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "واستحبَّ جماعة من السَّلف الزيادة على قوله: «أستغفر الله وأتوب إليه» فرُوي عن عمر أنَّه سمع رجلاً يقول: أستغفر الله وأتوب إليه،",
+         "en": "A number of the Salaf considered it recommended to add to the words, “I seek Allah's forgiveness and I repent to Him.” It is narrated of ʿUmar that he heard a man say, “I seek Allah's forgiveness and I repent to Him,”"
+        },
+        {
+         "ar": "فقال له: يا حُميق، قل: توبة من لا يملك لنفسه ضراً ولا نفعاً ولا موتاً ولا حياةً ولا نُشوراً.",
+         "en": "and said to him: You little fool! Say: [I repent with] the repentance of one who has no power over harm or benefit for himself, nor over death, life or resurrection."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c63",
+     "pages": [
+      840
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وسئل الأوزاعيُّ عن الاستغفار: أيقول: أستغفر الله الذي لا إله إلا هو الحيّ القيوم وأتوبُ إليه، فقال: إنَّ هذا لحسن، ولكن يقول: ربِّ اغفر لي حتى يتمَّ الاستغفار.",
+         "en": "Al-Awzāʿī was asked about seeking forgiveness: Should one say, “I seek the forgiveness of Allah, besides whom there is no god, the Living, the Self-Sustaining, and I repent to Him”? He said: That is good; but let him say, “My Lord, forgive me,” so that the seeking of forgiveness is complete."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c64",
+     "pages": [
+      840
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأفضل أنواع الاستغفار: أنْ يبدأ العبدُ بالثَّناء على ربِّه، ثم يثني بالاعتراف بذنبه، ثم يسأل الله المغفرة كما في حديث شدَّاد بن أوس عن النَّبيِّ صلى الله عليه وسلم، قال: «سيِّدُ الاستغفار أنْ يقول العبدُ:",
+         "en": "The best kind of seeking forgiveness is for the servant to begin by praising his Lord, then follow with acknowledgement of his sin, and then ask Allah for forgiveness, as in the hadith of Shaddād ibn Aws, from the Prophet ﷺ: “The master of all seeking of forgiveness is that the servant says:"
+        },
+        {
+         "ar": "اللهمَّ أنت ربِّي لا إله إلا أنت، خلقتني وأنا عبدك، وأنا على عهدك ووعدك ما استطعت، أعوذُ بك من شرِّ ما صنعتُ، أبوءُ لك بنعمتك عليَّ، وأبوءُ بذنبي، فاغفر لي، فإنَّه لا يغفرُ الذُّنوبَ إلاَّ أنتَ» خرَّجه البخاري.",
+         "en": "O Allah, You are my Lord; there is no god but You. You created me and I am Your servant, and I keep to Your covenant and Your promise as far as I am able. I seek refuge with You from the evil of what I have done. I acknowledge before You Your favour upon me, and I acknowledge my sin; so forgive me, for none forgives sins but You.” Al-Bukhārī recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c65",
+     "pages": [
+      840
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن عبد الله بن عمرو أنَّ أبا بكرٍ الصديق رضي الله عنه قال: يا رسولَ الله، علِّمني دعاءً أدعو به في صلاتي،",
+         "en": "In the two Ṣaḥīḥs, from ʿAbdullāh ibn ʿAmr: Abū Bakr al-Ṣiddīq (may Allah be pleased with him) said: Messenger of Allah, teach me a supplication to make in my prayer."
+        },
+        {
+         "ar": "قال: «قل: اللهمَّ إنِّي ظلمتُ نفسي ظُلماً كثيراً، ولا يغفرُ الذُّنوب إلاَّ أنتَ، فاغفر لي مغفرةً من عندك، وارحمني إنَّك أنت الغفورُ الرحيم».",
+         "en": "He said: “Say: O Allah, I have wronged myself greatly, and none forgives sins but You; so forgive me with forgiveness from You, and have mercy on me. You are the Forgiving, the Merciful.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c66",
+     "pages": [
+      840,
+      841
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن أنواع الاستغفار أنْ يقولَ العبدُ: «أستغفرُ الله الذي لا إله إلا هو الحيّ القيُّوم وأتوب إليه».",
+         "en": "Among the kinds of seeking forgiveness is for the servant to say: “I seek the forgiveness of Allah, besides whom there is no god, the Living, the Self-Sustaining, and I repent to Him.”"
+        },
+        {
+         "ar": "وقد رُوي عن النَّبيِّ صلى الله عليه وسلم أنَّ من قاله، غُفِر له وإنْ كان فرَّ من الزَّحف؛",
+         "en": "It is narrated of the Prophet ﷺ that whoever says it is forgiven, even if he has fled from the advancing army."
+        },
+        {
+         "ar": "خرجه أبو داود والترمذي.",
+         "en": "Abū Dāwūd and al-Tirmidhī recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c67",
+     "pages": [
+      841
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي كتاب \" اليوم والليلة \" للنسائي، عن خَبَّاب بن الأرتِّ، قال: قلت يا رسول الله، كيف نستغفر؟",
+         "en": "In al-Nasāʾī's book al-Yawm wa-l-Laylah, from Khabbāb ibn al-Aratt, who said: I said: Messenger of Allah, how should we seek forgiveness?"
+        },
+        {
+         "ar": "قال: «قل: اللهمَّ اغفر لنا وارحمنا وتُبْ علينا، إنك أنت التَّوابُ الرحيم»، وفيه عن أبي هريرة، قال: ما رأيت أحداً أكثر أنْ يقولَ: أستغفر الله وأتوب إليه من رسول الله صلى الله عليه وسلم.",
+         "en": "He said: “Say: O Allah, forgive us, have mercy on us and accept our repentance; You are the Accepter of repentance, the Merciful.” It also has, from Abū Hurayrah: I have never seen anyone who said, “I seek Allah's forgiveness and I repent to Him,” more often than the Messenger of Allah ﷺ."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c68",
+     "pages": [
+      841
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" السنن الأربعة \" عن ابن عمر، قال: إنْ كنَّا لنَعُدُّ لرسولِ الله صلى الله عليه وسلم في المجلس الواحد مئة مرَّة يقول:",
+         "en": "In the four Sunan, from Ibn ʿUmar, who said: We used to count the Messenger of Allah ﷺ saying, a hundred times in a single sitting:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c69",
+     "pages": [
+      841
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«ربِّ اغفر لي وتُب عليَّ، إنَّك أنتَ التوَّابُ الغفور».",
+         "en": "“My Lord, forgive me and accept my repentance; You are the Accepter of repentance, the Forgiving.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c70",
+     "pages": [
+      841
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح البخاري \" عن أبي هريرة، عن النَّبيِّ صلى الله عليه وسلم، قال: «واللهِ إني لأستغفر الله وأتوب إليه في اليوم أكثر من سبعين مرة».",
+         "en": "In Ṣaḥīḥ al-Bukhārī, from Abū Hurayrah, the Prophet ﷺ said: “By Allah, I seek Allah's forgiveness and repent to Him more than seventy times a day.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c71",
+     "pages": [
+      841
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح مسلم \" عن الأغرِّ المزني، عن النَّبيِّ صلى الله عليه وسلم، قال: «إنَّه لَيُغانُ على قلبي، وإنِّي لأستغفرُ الله في اليوم مئة مرة».",
+         "en": "In Ṣaḥīḥ Muslim, from al-Agharr al-Muzanī, the Prophet ﷺ said: “A veil comes over my heart, and I seek Allah's forgiveness a hundred times a day.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c72",
+     "pages": [
+      841,
+      842
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" المسند \" عن حُذيفة قال: قلتُ: يا رسول الله إنِّي ذَرِبُ اللسان وإنَّ عامة ذلك على أهلي، فقال: «أين أنتَ مِن الاستغفار؛",
+         "en": "In the Musnad, from Ḥudhayfah, who said: I said: Messenger of Allah, I have a sharp tongue, and most of it falls on my family. He said: “Where are you in regard to seeking forgiveness?"
+        },
+        {
+         "ar": "إني لأستغفر الله في اليوم والليلة مئة مرة».",
+         "en": "I seek Allah's forgiveness a hundred times in every day and night.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c73",
+     "pages": [
+      842
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" سنن أبي داود \" عن ابن عباس، عن النَّبيِّ صلى الله عليه وسلم، قال: «من أكثرَ من الاستغفارِ جعل الله له من كلِّ همٍّ فرجاً، ومن كلِّ ضيق مخرجاً، ورزقه من حيث لا يحتسبُ».",
+         "en": "In the Sunan of Abū Dāwūd, from Ibn ʿAbbās, the Prophet ﷺ said: “Whoever seeks forgiveness often, Allah will make for him relief from every worry and a way out of every difficulty, and will provide for him from where he does not expect.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c74",
+     "pages": [
+      842
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال أبو هريرة: إنِّي لأستغفرُ الله وأتوب إليه كلَّ يوم ألف مرَّة، وذلك على قدر ديتي.",
+         "en": "Abū Hurayrah said: I seek Allah's forgiveness and repent to Him a thousand times every day, and that is according to the measure of my blood money."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c75",
+     "pages": [
+      842
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقالت عائشة: طوبى لمن وجد في صحيفته استغفاراً كثيراً.",
+         "en": "ʿĀʾishah said: Blessed is the one who finds much seeking of forgiveness in his record."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c76",
+     "pages": [
+      842
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال أبو المِنهال: ما جاور عبدٌ في قبره من جارٍ أحبَّ إليه من استغفار كثير.",
+         "en": "Abū al-Minhāl said: A servant has no neighbour in his grave dearer to him than much seeking of forgiveness."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c77",
+     "pages": [
+      842
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وبالجملة فدواءُ الذنوب الاستغفارُ، وروينا من حديث أبي ذرٍّ مرفوعاً: «إنَّ لكلِّ داء دواءً، وإنَّ دواء الذنوب الاستغفار».",
+         "en": "In short, the remedy for sins is seeking forgiveness. We have narrated, from the hadith of Abū Dharr as marfūʿ: “Every disease has a remedy, and the remedy for sins is seeking forgiveness.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c78",
+     "pages": [
+      842
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال قتادة: إنَّ هذا القرآن يدلُّكم على دائكم ودوائكم، فأما داؤكم: فالذُّنوب، وأما دواؤكم: فالاستغفار.",
+         "en": "Qatādah said: This Qurʾān shows you your disease and your remedy. Your disease is sins, and your remedy is seeking forgiveness."
+        },
+        {
+         "ar": "قال بعضهم: إنَّما مُعوَّلُ المذنبين البكاء والاستغفار، فمن أهمته ذنوبه، أكثر لها من الاستغفار.",
+         "en": "One of them said: The only resort of sinners is weeping and seeking forgiveness; whoever is troubled by his sins, let him seek forgiveness for them often."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c79",
+     "pages": [
+      842
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال رياح القيسي: لي نيِّفٌ وأربعون ذنباً، قد استغفرتُ الله لكلِّ ذنب مئة ألف مرّة.",
+         "en": "Riyāḥ al-Qaysī said: I have some forty-odd sins, and I have sought Allah's forgiveness for each sin a hundred thousand times."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c80",
+     "pages": [
+      842,
+      843
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وحاسب بعضهم نفسه من وقت بلوغه، فإذا زلاتُه لا تُجاوز ستاً وثلاثين زلةً، فاستغفر الله لكل زلةٍ مئة ألف مرّة، وصلَّى لكلِّ زلَّة ألف ركعة،",
+         "en": "One of them took account of himself from the time he reached puberty, and found that his slips did not exceed thirty-six. He sought Allah's forgiveness for each slip a hundred thousand times and prayed a thousand rakʿahs for each slip,"
+        },
+        {
+         "ar": "ختم في كلِّ ركعة منها ختمة، قال: ومع ذلك، فإنّي غير آمن سطوة ربي أنْ يأخذني بها، وأنا على خطرٍ من قَبولِ التوبة.",
+         "en": "completing a full recitation of the Qurʾān in every one of those rakʿahs. He said: Even so, I do not feel safe from my Lord's might, that He will not take me to task for them, and I am in peril as to whether my repentance will be accepted."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c81",
+     "pages": [
+      843
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن زاد اهتمامُه بذنوبه، فربما تعلَّق بأذيالِ من قَلَّت ذنوبُه، فالتمس منه الاستغفار.",
+         "en": "One whose concern over his sins grows may cling to the coat-tails of someone with fewer sins and ask him to seek forgiveness for him."
+        },
+        {
+         "ar": "وكان عمر يطلب من الصبيان الاستغفار، ويقول: إنَّكم لم تُذنبوا، وكان أبو هريرة يقول لغلمان الكُتّاب: قولوا اللهمَّ اغفر لأبي هُريرة، فيؤمن على دعائهم.",
+         "en": "ʿUmar used to ask children to seek forgiveness for him, saying: You have not sinned. Abū Hurayrah used to say to the boys of the Qurʾān school: Say, “O Allah, forgive Abū Hurayrah,” and he would say āmīn to their supplication."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c82",
+     "pages": [
+      843
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال بكرٌ المزني: لو كان رجلٌ يطوف على الأبواب كما يطوف المسكين يقول: استغفروا لي، لكان نوله أنْ يفعل.",
+         "en": "Bakr al-Muzanī said: If a man went round from door to door, as a beggar does, saying, “Seek forgiveness for me,” it would be fitting for him to do so."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c83",
+     "pages": [
+      843
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن كَثُرت ذنوبه وسيئاته حتى فاتت العدَّ والإحصاء، فليستغفر الله مما علم الله، فإنَّ الله قد علم كل شيءٍ وأحصاه، كما قال تعالى:",
+         "en": "When someone's sins and evil deeds have grown so many that they are past counting, let him seek Allah's forgiveness for what Allah knows; for Allah knows everything and has counted it, as the Exalted says:"
+        },
+        {
+         "ar": "{يَوْمَ يَبْعَثُهُمُ اللهُ جَمِيعاً فَيُنَبِّئُهُمْ بِمَا عَمِلُوا أَحْصَاهُ اللهُ وَنَسُوهُ}، وفي حديث شداد بن أوسٍ، عن النَّبيِّ صلى الله عليه وسلم: «أسأَلُكَ من خيرِ ما تَعلَمُ.",
+         "en": "“On the day Allah raises them all and informs them of what they did; Allah has counted it, while they have forgotten it” [al-Mujādilah 58:6]. In the hadith of Shaddād ibn Aws, from the Prophet ﷺ: “I ask You for the good of what You know,"
+        },
+        {
+         "ar": "وأعوذُ بكَ مِنْ شرِّ ما تعلمُ، وأستغفركُ لما تعلم، إنَّك أنت علاّمُ الغيوب».",
+         "en": "and I seek refuge with You from the evil of what You know, and I seek Your forgiveness for what You know; You are the Knower of the unseen.”"
+        },
+        {
+         "ar": "وفي هذا يقول بعضهم:",
+         "en": "On this someone said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c84",
+     "pages": [
+      843
+     ],
+     "paragraphs": [
+      {
+       "kind": "verse",
+       "segments": [
+        {
+         "ar": "أستغفِرُ الله ممّا يَعلمُ الله … إنَّ الشَّقيَّ لَمَن لا يَرحَمُ الله",
+         "en": "I seek Allah's forgiveness for what Allah knows; / the wretched one is he on whom Allah has no mercy."
+        },
+        {
+         "ar": "ما أحلمَ الله عمن لا يُراقبُه … كُلٌّ مُسيءٌ ولكن يَحلمُ الله",
+         "en": "How forbearing Allah is with one who is not mindful of Him! / All do wrong, yet Allah is forbearing."
+        },
+        {
+         "ar": "فاسْتَغفِرُ الله مما كان من زَللٍ … طُوبى لمن كَفَّ عما يَكرهُ الله",
+         "en": "So I seek Allah's forgiveness for whatever slips there have been; / blessed is he who refrains from what Allah dislikes."
+        },
+        {
+         "ar": "طُوبى لمَن حَسُنَت فيه سَريرتُه … طُوبى لمَن يَنتهي عمَّا نهى الله",
+         "en": "Blessed is he whose inner self is good; / blessed is he who stops at what Allah has forbidden."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c85",
+     "pages": [
+      843,
+      844
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "السبب الثالث من أسباب المغفرة: التوحيدُ، وهو السببُ الأعظم، فمن فقده، فَقَدَ المغفرة، ومن جاء به، فقد أتى بأعظم أسباب المغفرة، قال تعالى:",
+         "en": "The third means of forgiveness is tawḥīd, and it is the greatest of them. Whoever lacks it lacks forgiveness, and whoever brings it has brought the greatest means of forgiveness. The Exalted says:"
+        },
+        {
+         "ar": "{إِنَّ اللهَ لا يَغْفِرُ أَنْ يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَلِكَ لِمَنْ يَشَاءُ} فمن جاء مع التوحيد بقُراب الأرض - وهو ملؤها أو ما يُقارب ملأها - خطايا،",
+         "en": "“Allah does not forgive that partners be associated with Him, but He forgives what is less than that to whom He wills” [al-Nisāʾ 4:48]. Whoever brings, along with tawḥīd, nearly an earthful of sins (qurāb al-arḍ is its fill, or nearly its fill),"
+        },
+        {
+         "ar": "لقيه الله بقُرابها مغفرة، لكنَّ هذا مع مشيئة الله عز وجل، فإنْ شاء غَفَرَ له، وإنْ شاء أخذه بذنوبه، ثم كان عاقبته أنْ لا يُخلَّد في النار، بل يخرج منها، ثم يدخل الجنَّة.",
+         "en": "Allah will meet him with nearly an earthful of forgiveness. This, however, is subject to the will of Allah, the Mighty and Majestic: if He wills, He forgives him, and if He wills, He takes him to task for his sins; but in the end he will not abide in the Fire forever, but will come out of it and then enter Paradise."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c86",
+     "pages": [
+      844
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال بعضُهم: الموحِّد لا يُلقى في النار كما يُلقى الكفار، ولا يَلقى فيها ما يَلقى الكفار، ولا يبقى فيها كما يبقى الكفار، فإنْ كمُلَ توحيدُ العبد وإخلاصُه لله فيه،",
+         "en": "One of them said: The one who affirms tawḥīd is not cast into the Fire as the disbelievers are cast, does not meet in it what the disbelievers meet, and does not remain in it as the disbelievers remain. If the servant's tawḥīd, and his sincerity to Allah in it, are complete,"
+        },
+        {
+         "ar": "وقام بشروطه كلِّها بقلبه ولسانه وجوارحه، أو بقلبه ولسانه عندَ الموت، أوجبَ ذلك مغفرة ما سلف من الذنوب كلِّها، ومنعه من دخول النَّار بالكلية.",
+         "en": "and he fulfils all its conditions with his heart, tongue and limbs — or with his heart and tongue at death — that brings about the forgiveness of all his past sins and keeps him from entering the Fire altogether."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c87",
+     "pages": [
+      844
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فمن تحقَّق بكلمة التوحيد قَلبُه، أخرجت منه كلَّ ما سوى الله محبةً وتعظيماً وإجلالاً ومهابةً، وخشيةً، ورجاءً وتوكُّلاً، وحينئذ تُحْرَقُ ذنوبه وخطاياه كلُّها ولو كانت مِثلَ زبد البحر، وربما قلبتها حسناتٍ، كما سبق ذكره في تبديل السيئات حسنات،",
+         "en": "When someone's heart has realised the word of tawḥīd, it drives out of him everything besides Allah, in love, veneration, reverence, awe, fear, hope and reliance. Then all his sins and errors are burned away, even if they were like the foam of the sea; and it may even turn them into good deeds, as was mentioned earlier regarding the replacement of evil deeds with good ones."
+        },
+        {
+         "ar": "فإنَّ هذا التوحيدَ هو الإكسيرُ الأعظمُ، فلو وضع ذرَّة منها على جبالِ الذنوب والخطايا، لقلبها حسناتٍ كما في \" المسند \" وغيره،",
+         "en": "For this tawḥīd is the supreme elixir: if a single atom of it were placed on mountains of sins and errors, it would turn them into good deeds. Thus in the Musnad and elsewhere,"
+        },
+        {
+         "ar": "عن أم هانئ، عن النَّبيِّ صلى الله عليه وسلم، قال: «لا إله إلا الله لا تترُك ذنباً، ولا يسبِقها عمل».",
+         "en": "from Umm Hāniʾ, the Prophet ﷺ said: “Lā ilāha illā Allāh leaves no sin, and no deed surpasses it.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c88",
+     "pages": [
+      844
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" المسند \" عن شدَّاد بن أوس، وعبادة بن الصامت: أنَّ النَّبيَّ صلى الله عليه وسلم قال لأصحابه: «ارفعُوا أيدِيَكم، وقولوا: لا إله إلا الله»، فرفعنا أيدينا ساعة،",
+         "en": "In the Musnad, from Shaddād ibn Aws and ʿUbādah ibn al-Ṣāmit: The Prophet ﷺ said to his Companions: “Raise your hands and say: lā ilāha illā Allāh.” We raised our hands for a while;"
+        },
+        {
+         "ar": "ثم وضع رسول الله صلى الله عليه وسلم يده، ثم قال: «الحمدُ لله، اللهمَّ بعثتني بهذه الكلمة، وأمرتني بها، ووعدتني الجنَّة عليها، وإنَّك لا تُخلِفُ الميعاد»، ثم قال:",
+         "en": "then the Messenger of Allah ﷺ lowered his hand and said: “Praise be to Allah. O Allah, You sent me with this word, commanded me with it and promised me Paradise for it, and You do not break Your promise.” Then he said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c89",
+     "pages": [
+      844
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«أبشروا، فإنَّ الله قد غفر لكم».",
+         "en": "“Rejoice, for Allah has forgiven you.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c90",
+     "pages": [
+      844
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال الشِّبلي: من ركن إلى الدنيا أحرقته بنارها، فصار رماداً تذروه الرياحُ، ومن ركن إلى الآخرة أحرقته بنورها، فصار ذهباً أحمر يُنتفع به، ومن ركن إلى الله، أحرقه نورُ التوحيد، فصار جوهراً لا قيمة له.",
+         "en": "Al-Shiblī said: Whoever relies on this world, it burns him with its fire and he becomes ashes scattered by the winds. Whoever relies on the Hereafter, it burns him with its light and he becomes red gold that is put to use. And whoever relies on Allah, the light of tawḥīd burns him and he becomes a jewel beyond price."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c91",
+     "pages": [
+      845
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "إذا علِقت نارُ المحبة بالقلب أحرقت منه كلَّ ما سوى الربِّ عز وجل، فطهُرَ القلبُ حينئذ من الأغيار، وصلح عرشاً للتوحيد: «ما وسعني سمائي ولا أرضي، ولكن وسعني قلبُ عبدي المؤمن».",
+         "en": "When the fire of love takes hold of the heart, it burns away from it everything besides the Lord, the Mighty and Majestic. The heart is then purified of all others and becomes fit to be a throne for tawḥīd: “My heavens and My earth could not contain Me, but the heart of My believing servant contains Me.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c92",
+     "pages": [
+      845
+     ],
+     "paragraphs": [
+      {
+       "kind": "verse",
+       "segments": [
+        {
+         "ar": "غصَّنِي الشوقُ إليهم بريقي … فَوَا حَريقي في الهوى وا حريقي",
+         "en": "Longing for them has choked me on my own breath; / oh, my burning in love, oh, my burning!"
+        },
+        {
+         "ar": "قَد رماني الحُبُّ في لُجِّ بَحرٍ … فخُذوا باللهِ كفَّ الغريق",
+         "en": "Love has cast me into the depths of a sea; / so, by Allah, take the drowning man's hand!"
+        },
+        {
+         "ar": "حلَّ عندي حُبُّكم في شِغافي … حلَّ مِنِّي كُلَّ عَقدٍ وَثِيقِ",
+         "en": "Love for you has settled in the core of my heart / and untied every firm knot in me."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h42.c93",
+     "pages": [
+      845
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فهذا آخر ما ذكره الشيخ رحمه الله من الأحاديث في هذا الكتاب، ونحن بعون الله ومشيئته نذكر تتمة الخمسين حديثاً من الأحاديث الجامعة لأنواع العلومِ والحكم والآداب الموعود بها في أوّل الكتاب، والله الموفق للصواب.",
+         "en": "This is the last of the hadiths the Shaykh (may Allah have mercy on him) gave in this book. With Allah's help and by His will, we shall now give the rest of the fifty hadiths that bring together kinds of knowledge, wisdom and manners, as was promised at the beginning of the book. Allah is the One who grants success in reaching what is right."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}

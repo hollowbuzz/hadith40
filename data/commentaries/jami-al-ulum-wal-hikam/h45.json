@@ -1,0 +1,969 @@
+{
+ "id": "h45",
+ "number": 45,
+ "standard_number": 45,
+ "collection": "ibn-rajab",
+ "heading": {
+  "ar": "الحديث الخامس والأربعون",
+  "en": "Hadith 45"
+ },
+ "title": {
+  "ar": "تحريم بيع الخمر والميتة",
+  "en": "Forbidden Sales"
+ },
+ "pages": {
+  "start": 871,
+  "end": 880
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.n1",
+     "pages": [
+      871
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنْ جابر بن عبد الله أنَّه سَمِعَ رسول الله صلى الله عليه وسلم عَامَ الفَتحِ وهُوَ بمكَّةَ يَقُولُ:",
+         "en": "From Jābir ibn ʿAbdullāh, that he heard the Messenger of Allah ﷺ say, in the year of the Conquest, while he was in Makkah:"
+        }
+       ]
+      },
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«إنَّ الله ورَسُولَهُ حرَّمَ بَيعَ الخَمْرِ والمَيتَةِ والخِنْزِيرِ والأصنامِ» فقيلَ: يا رَسولَ الله أرأيتَ شُحومَ المَيتَةِ، فإنَّهُ يُطلَى بِها السُّفُنُ، ويُدهَنُ بِها الجُلُودُ، ويَستَصبِحَ بِها النَّاسُ؟",
+         "en": "“Allah and His Messenger have forbidden the sale of wine, carrion, swine and idols.” It was said: Messenger of Allah, what about the fat of carrion? Ships are coated with it, hides are oiled with it, and people light their lamps with it."
+        },
+        {
+         "ar": "قَالَ: «لا، هُوَ حَرامٌ»، ثمَّ قالَ رَسُولُ الله صلى الله عليه وسلم عِنْدَ ذلك: «قَاتَل الله اليَهودَ، إنَّ الله حَرَّمَ عليهِمُ الشُّحومَ، فأَجْمَلوهُ، ثمَّ باعُوه، فأَكَلوا ثَمَنَه» خرَّجه البُخاريُّ ومُسلمٌ.",
+         "en": "He said: “No; it is unlawful.” Then the Messenger of Allah ﷺ said at that point: “May Allah fight the Jews! Allah made the fat unlawful for them, so they melted it down, then sold it and consumed its price.” Al-Bukhārī and Muslim recorded it."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c1",
+     "pages": [
+      871,
+      872
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "هذا الحديث خرّجاه في \" الصحيحين \" من حديث يزيد بن أبي حبيب، عن عطاء، عن جابر.",
+         "en": "The two of them recorded this hadith in the two Ṣaḥīḥs from the hadith of Yazīd ibn Abī Ḥabīb, from ʿAṭāʾ, from Jābir."
+        },
+        {
+         "ar": "وفي رواية لمسلم أنْ يزيد قال: كتب إليَّ عطاء، فذكره، ولهذا قال أبو حاتم الرازي: لا أعلم يزيدَ بن أبي حبيب سمع من عطاء شيئاً،",
+         "en": "In a narration of Muslim's, Yazīd said: ʿAṭāʾ wrote to me — and he mentioned it. That is why Abū Ḥātim al-Rāzī said: I do not know that Yazīd ibn Abī Ḥabīb heard anything from ʿAṭāʾ,"
+        },
+        {
+         "ar": "يعني أنَّه إنَّما يروي عنه كتابَه، وقد رواه أيضاً يزيدُ بنُ أبي حبيب، عن عمرو بن الوليد بن عبدة، عن عبد الله بن عمرو، عن النَّبيِّ صلى الله عليه وسلم بنحوه.",
+         "en": "meaning that he narrates from him only from his writing. Yazīd ibn Abī Ḥabīb also narrated it from ʿAmr ibn al-Walīd ibn ʿAbdah, from ʿAbdullāh ibn ʿAmr, from the Prophet ﷺ, in similar terms."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c2",
+     "pages": [
+      872
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن ابن عباس قال: بلغ عمرَ أنَّ رجلاً باع خمراً، فقال: قاتله الله،",
+         "en": "In the two Ṣaḥīḥs, from Ibn ʿAbbās, who said: It reached ʿUmar that a man had sold wine, and he said: May Allah fight him!"
+        },
+        {
+         "ar": "ألم يعلم أنَّ رسولَ الله صلى الله عليه وسلم، قال: «قاتلَ الله اليهودَ، حُرِّمَتْ عليهمُ الشُّحومُ، فجَمَلوها فباعُوها»، وفي رواية: «وأكلُوا أثمانها».",
+         "en": "Does he not know that the Messenger of Allah ﷺ said: “May Allah fight the Jews! The fat was made unlawful for them, so they melted it down and sold it”? In one narration: “and consumed its price.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c3",
+     "pages": [
+      872
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج أبو داود من حديث ابن عباسٍ عن النَّبيِّ صلى الله عليه وسلم نحوه، وزاد فيه: «وإنَّ الله إذا حرَّم أكلَ شيءٍ، حرَّم عليهم ثمنه»، وخرَّجه ابن أبي شيبة، ولفظه: «إنَّ الله إذا حرَّم شيئاً حرَّم ثمنه».",
+         "en": "Abū Dāwūd recorded something similar from the hadith of Ibn ʿAbbās, from the Prophet ﷺ, adding: “When Allah makes the eating of something unlawful for them, He makes its price unlawful for them.” Ibn Abī Shaybah recorded it, and his wording is: “When Allah makes something unlawful, He makes its price unlawful.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c4",
+     "pages": [
+      872
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \"الصحيحين\" عن أبي هريرة، عن النَّبيِّ صلى الله عليه وسلم، قال: «قاتَلَ الله يهوداً، حُرِّمَت عليهمُ الشُّحومُ، فباعُوها وأكلوا أثمانها».",
+         "en": "In the two Ṣaḥīḥs, from Abū Hurayrah, the Prophet ﷺ said: “May Allah fight the Jews! The fat was made unlawful for them, so they sold it and consumed its price.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c5",
+     "pages": [
+      872
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن عائشة، قالت: لما أُنزِلَت الآياتُ من آخر سورة البقرة، خرج رسولُ الله صلى الله عليه وسلم، فاقترأهُنَّ على الناس، ثم نهى عن التِّجارة في الخمر،",
+         "en": "In the two Ṣaḥīḥs, from ʿĀʾishah, who said: When the verses at the end of Sūrat al-Baqarah were revealed, the Messenger of Allah ﷺ went out and recited them to the people, and then forbade trade in wine."
+        },
+        {
+         "ar": "وفي رواية لمسلم: لمَّا نزلتِ الآياتُ من آخر سورة البقرة في الرِّبا، خرج رسولُ الله صلى الله عليه وسلم إلى المسجد، فحرَّم التجارة في الخمر.",
+         "en": "In a narration of Muslim's: When the verses at the end of Sūrat al-Baqarah about usury were revealed, the Messenger of Allah ﷺ went out to the mosque and made trade in wine unlawful."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c6",
+     "pages": [
+      872
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج مسلم من حديث أبي سعيد، عن النَّبيِّ صلى الله عليه وسلم، قال: «إنَّ الله حرَّم الخمر، فمن أدركته هذه الآية وعنده منها شيءٌ، فلا يشرب ولا يبع».",
+         "en": "Muslim recorded from the hadith of Abū Saʿīd that the Prophet ﷺ said: “Allah has made wine unlawful; so whoever this verse reaches while he has some of it, let him neither drink it nor sell it.”"
+        },
+        {
+         "ar": "قال: فاستقبل الناسُ بما كان عندهم منها في طريق المدينة، فسفكوها.",
+         "en": "He said: So the people brought what they had of it out onto the road of Madīnah and poured it away."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c7",
+     "pages": [
+      873
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج أيضاً من حديث ابن عباس أنَّ رجلاً أهدى لرسول الله صلى الله عليه وسلم راوية خمر، فقال له رسولُ الله صلى الله عليه وسلم: «هل عَلِمْت أنَّ الله قد حرَّمها؟»",
+         "en": "He also recorded from the hadith of Ibn ʿAbbās that a man gave the Messenger of Allah ﷺ a skin of wine as a gift, and the Messenger of Allah ﷺ said to him: “Did you know that Allah has made it unlawful?”"
+        },
+        {
+         "ar": "قال: لا، قال: فسارَّ إنساناً، فقال له رسول الله صلى الله عليه وسلم: «بِما سَارَرْتَه؟»",
+         "en": "He said: No. Then he whispered to someone, and the Messenger of Allah ﷺ said to him: “What did you whisper to him?”"
+        },
+        {
+         "ar": "قال: أمرتُه ببيعها، قال: «إنَّ الذي حَرَّمَ شُربها حَرَّمَ بيعها»، قال: ففتح المزاد حتّى ذهب ما فيها.",
+         "en": "He said: I told him to sell it. He said: “The One who made drinking it unlawful has made selling it unlawful.” So he opened the skins until what was in them had run out."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c8",
+     "pages": [
+      873
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فالحاصل من هذه الأحاديث كُلِّها أنَّ ما حرَّم الله الانتفاعَ به، فإنَّه يحرم بيعُه وأكلُ ثمنه، كما جاء مصرحاً به في الراوية المتقدمة:",
+         "en": "What all these hadiths amount to is that whatever Allah has made it unlawful to benefit from, it is unlawful to sell and to consume its price, as was stated explicitly in the narration mentioned earlier:"
+        },
+        {
+         "ar": "«إنَّ الله إذا حرَّم شيئاً حرَّم ثمنه»، وهذه كلمةٌ عامَّةٌ جامعة تَطَّرِدُ في كُلِّ ما كان المقصودُ من الانتفاع به حراماً، وهو قسمان:",
+         "en": "“When Allah makes something unlawful, He makes its price unlawful.” This is a general, comprehensive statement that holds for everything whose intended use is unlawful, and that is of two categories."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c9",
+     "pages": [
+      873
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدهما: ما كان الانتفاعُ به حاصلاً مع بقاء عَينِه، كالأصنامِ، فإنَّ منفعتها المقصودة منها هوَ الشرك بالله، وهو أعظمُ المعاصي على الإطلاق،",
+         "en": "The first is what is used while it itself remains intact, such as idols: the use intended of them is associating partners with Allah, which is the greatest of all sins without exception."
+        },
+        {
+         "ar": "ويلتحِقُ بذلك ما كانت منفعته محرَّمة، ككتب الشِّركِ والسِّحر والبِدعِ والضَّلالِ، وكذلك الصورُ المحرمةُ، وآلات الملاهي المحرمة كالطنبور، وكذلك شراءُ الجواري للغناء.",
+         "en": "With this go things whose use is unlawful, such as books of shirk, sorcery, innovation and misguidance; likewise unlawful images and unlawful instruments of amusement, such as the tanbūr; and likewise buying slave girls for singing."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c10",
+     "pages": [
+      873,
+      874
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" المسند \" عن أبي أُمامة، عن النَّبيِّ صلى الله عليه وسلم، قال: «إنَّ الله بعثني رحمةً وهُدى للعالمين، وأمرني أنْ أمحق المزاميرَ والكنَّارات - يعني:",
+         "en": "In the Musnad, from Abū Umāmah, the Prophet ﷺ said: “Allah sent me as a mercy and guidance to the worlds, and commanded me to wipe out pipes and kinnārāt” — meaning"
+        },
+        {
+         "ar": "البرابط والمعازف - والأوثان التي كانت تُعبد في الجاهلية، وأقسم ربي بعزَّته لا يشرب عبدٌ من عبيدي جرعةً من خمر إلا سقيته مكانَها من حميم جهنم،",
+         "en": "lutes and musical instruments — “and the idols that used to be worshipped in the Jāhiliyyah. My Lord swore by His might: No servant of Mine drinks a mouthful of wine but I will give him to drink in its place of the boiling water of Hell,"
+        },
+        {
+         "ar": "معذباً أو مغفوراً له، ولا يسقيها صبياً صغيراً إلا سقيته مكانَها من حميم جهنم، معذباً أو مغفوراً له،",
+         "en": "whether he is punished or forgiven; and no one gives it to a small child to drink but I will give him to drink in its place of the boiling water of Hell, whether he is punished or forgiven;"
+        },
+        {
+         "ar": "ولا يدعها عبدٌ من عبيدي من مخافتي إلاَّ سقيتها إيَّاه في حظيرةِ القُدُس، ولا يحلُّ بيعُهُنَّ ولا شراؤُهُنَّ، ولا تعليمُهُنَّ، ولا تجارة فيهن، وأثمانهم حرام» يعني: المغنِّيات.",
+         "en": "and no servant of Mine leaves it out of fear of Me but I will give it to him to drink in the Enclosure of Holiness. Selling them, buying them, teaching them and trading in them are not lawful, and their price is unlawful” — meaning singing girls."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c11",
+     "pages": [
+      874
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه الترمذي، ولفظه: لا تبيعوا القيناتِ ولا تشتروهن، ولا تُعلِّموهُنَّ، ولا خَيرَ في تِجارةٍ فيهن، وثمنُهُنَّ حرام، في مثل ذلك أنزل الله:",
+         "en": "Al-Tirmidhī recorded it, and his wording is: Do not sell singing girls, do not buy them and do not teach them; there is no good in trading in them, and their price is unlawful. It was about the like of this that Allah revealed:"
+        },
+        {
+         "ar": "{وَمِنَ النَّاسِ مَنْ يَشْتَرِي لَهْوَ الْحَدِيثِ} الآية، وخرَّجه ابنُ ماجه أيضاً، وفي إسناد الحديث مقال، وقد رُوي نحوه من حديث عمر وعليٍّ بإسنادين فيهما ضعفٌ أيضاً.",
+         "en": "“And among people is one who buys idle talk…” [Luqmān 31:6]. Ibn Mājah also recorded it. There is criticism of the hadith's chain, and something similar has been narrated from the hadith of ʿUmar and of ʿAlī by two chains that also contain weakness."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c12",
+     "pages": [
+      874
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن يحرم الغناءَ كأحمد ومالك، فإنَّهما يقولان: إذا بيعت الأمةُ المغنية، تُباع على أنَّها ساذجةٌ، ولا يُؤخذُ لغنائها ثمنٌ، ولو كانت الجاريةُ ليتيمٍ، ونصَّ على ذلك أحمد، ولا يمنعُ الغناءُ من أصل بيع العبد والأمة؛",
+         "en": "Those who hold singing to be unlawful, such as Aḥmad and Mālik, say: When a singing slave girl is sold, she is to be sold as an untrained girl, and no price is taken for her singing — even if the slave girl belongs to an orphan; Aḥmad stated this explicitly. Singing does not prevent the sale of a male or female slave as such,"
+        },
+        {
+         "ar": "لأنَّ الانتفاع به في غير الغناء حاصلٌ بالخدمة وغيرها، وهو من أعظم مقاصدِ الرَّقيق.",
+         "en": "since they can be used for things other than singing, through service and the like, which is among the principal purposes of slaves."
+        },
+        {
+         "ar": "نعم، لو علم أنَّ المشتري لا يشتريه إلاّ للمنفعة المحرمة منه، لم يجز بيعُه لهُ عندَ الإمام أحمد وغيره من العلماء،",
+         "en": "Admittedly, if it is known that the buyer is buying the slave only for the unlawful use, it is not permissible to sell to him, according to Imam Aḥmad and other scholars,"
+        },
+        {
+         "ar": "كما لا يجوزُ عندهم بيعُ العصير ممن يتخذه خمراً، ولا بيعُ السِّلاح في الفتنة، ولا بيع الرَّياحين والأقداح لمن يعلم أنَّه يشربُ عليها الخمر، أو الغلام لمن يعلم منه الفاحشة.",
+         "en": "just as, in their view, it is not permissible to sell grape juice to one who will make it into wine, to sell weapons during civil strife, to sell fragrant herbs and drinking cups to one known to drink wine over them, or to sell a slave boy to one known for indecency."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c13",
+     "pages": [
+      874,
+      875
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "القسم الثاني: ما ينتفع به مع إتلاف عينه، فإذا كان المقصود الأعظم منه محرماً، فإنَّه يحرم بيعُه،",
+         "en": "The second category is what is used by being consumed. If the principal use intended of it is unlawful, it is unlawful to sell,"
+        },
+        {
+         "ar": "كما يحرمُ بيعُ الخنزير والخمر والميتة، مع أنَّ في بعضها منافع غيرَ محرمة، كأكل الميتة للمضطرِّ، ودفع الغصَّة بالخمر، وإطفاءِ الحريق به.",
+         "en": "just as it is unlawful to sell swine, wine and carrion, even though some of them have uses that are not unlawful, such as eating carrion in dire need, washing down a morsel one is choking on with wine, and putting out a fire with it,"
+        },
+        {
+         "ar": "والخرْز بشعر الخنْزير عند قوم، والانتفاع بشعره وجلده عند من يرى ذلك، ولكن لمَّا كانت هذه المنافعُ غيرَ مقصودة، لم يعبأ بها، وحرم البيعُ بكون المقصودِ الأعظم من الخنزير والميتة أكلَهما، ومن الخمر شربَها،",
+         "en": "and, in the view of some, sewing with pig's bristles, and making use of its hair and hide, in the view of those who allow that. But since these uses are not the ones intended, no account was taken of them, and sale was made unlawful because the principal use intended of swine and carrion is eating them, and of wine drinking it;"
+        },
+        {
+         "ar": "ولم يلتفت إلى ما عدا ذلك، وقد أشار صلى الله عليه وسلم إلى هذا المعنى لمَّا قيل له: أرأيتَ شحومَ الميتةِ، فإنَّه يُطلى بها السُّفُن، ويُدهن بها الجُلودُ، ويَستصبِحُ بها الناسُ، فقال: «لا، هو حرام».",
+         "en": "no attention was paid to anything else. He ﷺ pointed to this meaning when it was said to him, “What about the fat of carrion? Ships are coated with it, hides are oiled with it, and people light their lamps with it,” and he said: “No; it is unlawful.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c14",
+     "pages": [
+      875
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد اختلفَ الناسُ في تأويلِ قوله صلى الله عليه وسلم: «هو حرامٌ» فقالت طائفة: أراد أنَّ هذا الانتفاعَ المذكور بشحوم الميتة حرام، وحينئذٍ فيكونُ ذلك تأكيداً للمنع من بيع الميتة، حيث لم يجعل شيئاً من الانتفاع بها مباحاً.",
+         "en": "People have differed over the interpretation of his words ﷺ, “It is unlawful.” One group said: He meant that this use of the fat of carrion is unlawful; that would then reinforce the prohibition of selling carrion, since he did not make any use of it permissible."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c15",
+     "pages": [
+      875
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقالت طائفة: بل أرادَ أنَّ بيعها حرامٌ، وإنْ كان قد ينتفع بها بهذه الوجوه، لكن المقصود الأعظم من الشحوم هو الأكل، فلا يُباحُ بيعُها لذلك.",
+         "en": "Another group said: Rather, he meant that selling it is unlawful, even though it may be used in these ways; but the principal intended use of fat is eating, so selling it is not permissible for that reason."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c16",
+     "pages": [
+      875
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد اختلفَ العلماءُ في الانتفاع بشحوم الميتة، فرخَّص فيه عطاءٌ، وكذلك نقل ابنُ منصورٍ عن أحمد وإسحاق، إلاّ أنَّ إسحاقَ قال: إذا احتيجَ إليه، وأمَّا إذا وُجِدَ عنه مندوحةٌ،",
+         "en": "The scholars have differed over making use of the fat of carrion. ʿAṭāʾ allowed it, and Ibn Manṣūr transmitted the same from Aḥmad and Isḥāq, except that Isḥāq said: When there is need for it; but if one can do without it,"
+        },
+        {
+         "ar": "فلا، وقال أحمد: يجوزُ إذا لم يمسه بيده، وقالت طائفة: لا يجوزُ ذلك، وهو قولُ مالك والشافعي وأبي حنيفة، وحكاه ابن عبد البرّ إجماعاً عن غير عطاء.",
+         "en": "then no. Aḥmad said: It is permissible if he does not touch it with his hand. Another group said that it is not permissible; this is the view of Mālik, al-Shāfiʿī and Abū Ḥanīfah, and Ibn ʿAbd al-Barr related it as the consensus of all but ʿAṭāʾ."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c17",
+     "pages": [
+      875
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأمَّا الأدْهانُ الطاهرة إذا تنجَّست بما وقع فيها من النجاسات، ففي جواز الانتفاع بها بالاستصباح ونحوه اختلافٌ مشهور في مذهب الشافعي وأحمد وغيرهما، وفيه روايتان عن أحمد.",
+         "en": "As for pure oils that have become impure through some filth falling into them, there is a well-known disagreement in the schools of al-Shāfiʿī, Aḥmad and others over whether they may be used for lighting lamps and the like; and there are two reported positions of Aḥmad on it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c18",
+     "pages": [
+      875
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما بيعُها، فالأكثرون على أنَّه لا يجوزُ بيعُها، وعن أحمد رواية: يجوز بيعُها من كافرٍ، ويُعلم بنجاستها،",
+         "en": "As for selling them, most scholars hold that it is not permissible. There is a reported position of Aḥmad that they may be sold to a disbeliever, who is told that they are impure;"
+        },
+        {
+         "ar": "وهو مروىٌّ عن أبي موسى الأشعري، ومن أصحابنا من خرَّج جوازَ بيعها على جواز الاستصباح بها وهو ضعيفٌ مخالفٌ لنصِّ أحمد بالتفرقة،",
+         "en": "this is narrated from Abū Mūsā al-Ashʿarī. Some of the scholars of our school derived the permissibility of selling them from the permissibility of using them for lamps; but this is weak, and contrary to Aḥmad's explicit statement distinguishing the two,"
+        },
+        {
+         "ar": "فإنَّ شحومَ الميتة لا يجوزُ بيعُها وإنْ قيل بجواز الانتفاع بها، ومنهم من خرَّجه على القول بطهارتها بالغسل، فيكون - حينئذٍ - كالثوب المتمضّخ بنجاسة.",
+         "en": "for the fat of carrion may not be sold even if it is held permissible to use it. Others derived it from the view that such oils are purified by washing, in which case they would be like a garment smeared with filth."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c19",
+     "pages": [
+      876
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وظاهر كلام أحمد منعُ بيعها مطلقاً؛",
+         "en": "The apparent sense of Aḥmad's words is that selling them is prohibited absolutely,"
+        },
+        {
+         "ar": "لأنَّه علل بأنَّ الدُّهنَ المتنجس فيهِ ميتة، والميتة لا يُؤكل ثمنها.",
+         "en": "for he gave as his reason that impure oil has carrion in it, and the price of carrion is not to be consumed."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c20",
+     "pages": [
+      876
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما بقية أجزاءِ الميتة، فما حُكِمَ بطهارته منها، جاز بيعُه، لجواز الانتفاع به، وهذا كالشَّعر والقَرنِ عندَ من يقول بطهارتهما،",
+         "en": "As for the other parts of carrion, whatever of them is judged pure may be sold, since it may be used: such as hair and horn, according to those who hold them pure,"
+        },
+        {
+         "ar": "وكذلك الجلدُ عندَ من يرى أنَّه طاهر بغيرِ دباغ، كما حُكي عن الزهري، وتبويبُ البخاري يدلُّ عليهِ، واستدلَّ بقولِهِ: «إنَّما حَرُم من الميتة أكلُها».",
+         "en": "and likewise the hide, according to those who hold that it is pure without tanning, as is related from al-Zuhrī; al-Bukhārī's chapter heading points to this, and he argued from his words: “Only the eating of carrion is unlawful.”"
+        },
+        {
+         "ar": "وأما الجمهور الذين يرون نجاسة الجلدِ قبل الدباغ، فأكثرهم منعوا من بيعه حينئذٍ؛",
+         "en": "As for the majority, who hold that the hide is impure before tanning, most of them forbade selling it at that stage,"
+        },
+        {
+         "ar": "لأنَّه جزءٌ من الميتة، وشذَّ بعضهم، فأجاز بيعه كالثوب النجس، ولكن الثوب طاهر طرأت عليه النجاسةُ، وجلد الميتة جزءٌ منها، وهو نجسُ العين.",
+         "en": "since it is part of the carrion. Some took an isolated view and permitted selling it, like an impure garment; but the garment is pure and filth has come upon it, while the hide of carrion is part of it and impure in itself."
+        },
+        {
+         "ar": "وقال سالمُ بنُ عبد الله بن عمر: هل بيعُ جلودِ الميتة إلاَّ كأكل لحمها؟",
+         "en": "Sālim ibn ʿAbdullāh ibn ʿUmar said: Is selling the hides of carrion anything other than eating its flesh?"
+        },
+        {
+         "ar": "وكرهه طاووس وعكرمة، وقال النخعي: كانوا يكرهون أنْ يبيعوها، فيأكلوا أثمانها.",
+         "en": "Ṭāwūs and ʿIkrimah disliked it, and al-Nakhaʿī said: They used to dislike selling them and consuming their price."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c21",
+     "pages": [
+      876
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما إذا دبغت، فمن قال بطهارتها بالدبغ، أجاز بيعها، ومن لم ير طهارتها بذلك، لم يُجِزْ بيعها.",
+         "en": "Once they are tanned, those who hold that tanning purifies them permit selling them, and those who do not hold that it purifies them do not."
+        },
+        {
+         "ar": "ونصَّ أحمد على منع بيعِ القمح إذا كان فيه بولُ الحمار حتى يُغسل، ولعلَّه أراد بيعه ممَّن لا يعلم بحاله، خشية أنْ يأكله ولا يعلم نجاسته.",
+         "en": "Aḥmad stated explicitly that wheat with donkey's urine on it may not be sold until it is washed; perhaps he meant selling it to someone unaware of its state, for fear that he might eat it without knowing it is impure."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c22",
+     "pages": [
+      876
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما الكلب، فقد ثبت في \" الصحيحين \" عن أبي مسعود الأنصاري أنَّ رسول الله صلى الله عليه وسلم نهى عن ثمن الكلب.",
+         "en": "As for the dog, it is established in the two Ṣaḥīḥs, from Abū Masʿūd al-Anṣārī, that the Messenger of Allah ﷺ forbade the price of a dog."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c23",
+     "pages": [
+      876
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح مسلم \" عن رافع بن خديج سمع النَّبيَّ صلى الله عليه وسلم يقول: «شرُّ الكسب مَهْرُ البغيّ، وثمن الكلب، وكسب الحجام».",
+         "en": "In Ṣaḥīḥ Muslim, from Rāfiʿ ibn Khadīj, who heard the Prophet ﷺ say: “The worst of earnings are the earnings of a prostitute, the price of a dog and the earnings of a cupper.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c24",
+     "pages": [
+      877
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفيه عن معقل الجزري عن أبي الزبير، قال: سألت جابراً عن ثمن الكلب والسِّنور، فقال: زجر النَّبيُّ صلى الله عليه وسلم عن ذلك.",
+         "en": "It also has, from Maʿqil al-Jazarī, from Abū al-Zubayr, who said: I asked Jābir about the price of a dog and a cat, and he said: The Prophet ﷺ rebuked people for that."
+        },
+        {
+         "ar": "وهذا إنّما يُعرف عن ابن لهيعة عن أبي الزبير.",
+         "en": "This is known only from Ibn Lahīʿah, from Abū al-Zubayr."
+        },
+        {
+         "ar": "وقد استنكر الإمامُ أحمد رواياتِ مَعْقِلٍ عن أبي الزبير، وقال: هي تشبه أحاديثَ ابنِ لهيعة، وقد تُتُبِّعِ ذلك، فوُجِدَ كما قاله أحمد رحمه الله.",
+         "en": "Imam Aḥmad regarded Maʿqil's narrations from Abū al-Zubayr as munkar (objectionable), saying: They resemble the hadiths of Ibn Lahīʿah. This has been looked into and found to be as Aḥmad (may Allah have mercy on him) said."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c25",
+     "pages": [
+      877
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد اختلف العلماءُ في بيع الكلب، فأكثرهم حرَّموه، منهم الأوزاعي، ومالك في المشهور عنه، والشافعي، وأحمد وإسحاق، وغيرهم، وقال أبو هريرة: هو سحت، وقال ابن سيرين: هو أخبثُ الكسب.",
+         "en": "The scholars have differed over selling a dog. Most of them held it unlawful, among them al-Awzāʿī, Mālik in his well-known position, al-Shāfiʿī, Aḥmad, Isḥāq and others. Abū Hurayrah said: It is ill-gotten gain (suḥt). Ibn Sīrīn said: It is the foulest of earnings."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c26",
+     "pages": [
+      877
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال عبدُ الرحمان بنُ أبي ليلى: ما أُبالي ثمن كلب أكلت أو ثمنَ خنْزير.",
+         "en": "ʿAbd al-Raḥmān ibn Abī Laylā said: I do not care whether I consume the price of a dog or the price of a pig."
+        },
+        {
+         "ar": "وهؤلاء لهم مآخذ:",
+         "en": "These scholars have several lines of reasoning."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c27",
+     "pages": [
+      877
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدها: أنَّه إنّما نُهي عن بيعها لنجاستها، وهؤلاء التزموا تحريمَ بيع كلِّ نجسِ العين، وهذا قولُ الشافعي، وابن جرير، ووافقهم جماعةٌ من أصحابنا،",
+         "en": "First, that selling dogs was forbidden only because of their impurity. These held that the sale of everything impure in itself is unlawful; this is the view of al-Shāfiʿī and Ibn Jarīr, and a number of the scholars of our school agreed with them,"
+        },
+        {
+         "ar": "كابنِ عقيل في \" نظرياته \" وغيره، والتزموا أنَّ البغلَ والحمارَ إنَّما نجيز بيعهما إذا لم نقل بنجاستهما، وهذا مخالفٌ للإجماع.",
+         "en": "such as Ibn ʿAqīl in his Naẓariyyāt, and others. They were forced to hold that we may permit the sale of the mule and the donkey only if we do not hold them impure; and this goes against the consensus."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c28",
+     "pages": [
+      877
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثاني: أنَّ الكلبَ لم يُبح الانتفاعُ به واقتناؤه مطلقاً كالبغل والحمار، وإنَّما أُبيحَ اقتناؤُه لحاجاتٍ مخصوصةٍ، وذلك لا يُبيح بيعه كما لا تبيحُ الضرورةُ إلى الميتة والدم بَيعَهُما، وهذا مأخذُ طائفةٍ من أصحابنا وغيرهم.",
+         "en": "Second, that the dog was not made permissible to use and keep without restriction, as the mule and the donkey are; keeping it is permitted only for specific needs, and that does not make selling it permissible, just as dire need for carrion and blood does not make selling them permissible. This is the line of reasoning of a group of the scholars of our school and others."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c29",
+     "pages": [
+      877
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثالث: أنَّه إنَّما نُهي عن بيعه لخسَّته ومهانته، فإنَّه لا قيمةَ له إلاَّ عند ذوي الشُّحِّ والمهانَةِ، وهو متيسِّرُ الوجودِ،",
+         "en": "Third, that selling it was forbidden only because of its lowness and contemptibility: it has no value except to the miserly and base, and it is easily found;"
+        },
+        {
+         "ar": "فنُهي عن أخذ ثمنِه ترغيباً في المواساة بما يفضل منه عن الحاجة، وهذا مأخذُ الحسن البصري وغيره من السَّلف، وكذا قال بعضُ أصحابنا في النَّهي عن بيع السِّنَّورِ.",
+         "en": "so taking its price was forbidden to encourage sharing whatever one has of it beyond one's needs. This is the line of reasoning of al-Ḥasan al-Baṣrī and others of the Salaf, and some of the scholars of our school said the same of the prohibition of selling cats."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c30",
+     "pages": [
+      877,
+      878
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ورخَّصت طائفةٌ في بيع ما يُباح اقتناؤُه مِنَ الكلاب، ككلب الصَّيد، وهو قولُ عطاء والنَّخعي وأبي حنيفة وأصحابه، ورواية عن مالك، وقالوا: إنَّما نهي عن بيع ما يحرُمُ اقتناؤُه منها.",
+         "en": "A group allowed selling those dogs that may be kept, such as hunting dogs. This is the view of ʿAṭāʾ, al-Nakhaʿī, Abū Ḥanīfah and his followers, and a reported position of Mālik. They said: What was forbidden was only the sale of those that may not be kept."
+        },
+        {
+         "ar": "وروى حماد بن سلمة، عن أبي الزبير، عن جابر أنَّ النَّبيَّ صلى الله عليه وسلم نهى عن ثمن الكلب والسنور، إلا كلب صيد، خرَّجه النَّسائي، وقال:",
+         "en": "Ḥammād ibn Salamah narrated from Abū al-Zubayr, from Jābir, that the Prophet ﷺ forbade the price of a dog and a cat, except for a hunting dog. Al-Nasāʾī recorded it and said:"
+        },
+        {
+         "ar": "هو حديثٌ منكر، وقال أيضاً: ليس بصحيح، وذكر الدارقطني أنَّ الصحيحَ وقفُه على جابر، وقال أحمد: لم يصحَّ عن النَّبيِّ صلى الله عليه وسلم رخصةٌ في كلب الصيد،",
+         "en": "It is a munkar hadith. He also said: It is not authentic. Al-Dāraquṭnī mentioned that the correct version is mawqūf on Jābir (his own words). Aḥmad said: No allowance for the hunting dog is authentically reported from the Prophet ﷺ."
+        },
+        {
+         "ar": "وأشار البيهقي وغيره إلى أنَّه اشتبه على بعض الرواة هذا الاستثناء، فظنه من البيع، وإنَّما هو مِنَ الاقتناء،",
+         "en": "Al-Bayhaqī and others indicated that this exception confused some of the narrators, who took it as referring to sale, when it actually refers to keeping."
+        },
+        {
+         "ar": "وحماد بن سلمة في رواياته عن أبي الزبير ليس بالقوي، ومن قال: إنَّ هذا الحديث على شرط مسلم - كما ظنَّه طائفةٌ من المتأخرين - فقد أخطأ؛",
+         "en": "Ḥammād ibn Salamah is not strong in his narrations from Abū al-Zubayr, and whoever says that this hadith meets Muslim's conditions — as a group of later scholars have supposed — is mistaken,"
+        },
+        {
+         "ar": "لأنَّ مسلماً لم يخرِّج لحمَّاد بن سلمة، عن أبي الزبير شيئاً، وقد بيَّن في كتاب \" التمييز \" أنَّ رواياته عن كثير من شيوخه أو أكثرهم غيرُ قوية.",
+         "en": "for Muslim recorded nothing from Ḥammād ibn Salamah from Abū al-Zubayr, and he made clear in his book al-Tamyīz that Ḥammād's narrations from many of his shaykhs, or most of them, are not strong."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c31",
+     "pages": [
+      878
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فأمَّا بيعُ الهرِّ، فقد اختلف العلماءُ في كراهته، فمنهم من كرهه، ورُوي ذلك عن أبي هريرة وجابر وعطاء وطاووس ومجاهد،",
+         "en": "As for selling a cat, the scholars have differed over whether it is disliked. Some disliked it; this is narrated from Abū Hurayrah, Jābir, ʿAṭāʾ, Ṭāwūs, Mujāhid,"
+        },
+        {
+         "ar": "وجابر بن زيد، والأوزاعي، وأحمد في رواية عنه، وقال: هو أهونُ من جلود السِّباع، وهذا اختيارُ أبي بكر من أصحابنا،",
+         "en": "Jābir ibn Zayd, al-Awzāʿī, and Aḥmad in one reported position, who said: It is less serious than selling the skins of beasts of prey. This is the choice of Abū Bakr among the scholars of our school."
+        },
+        {
+         "ar": "ورخص في بيع الهرِّ ابن عباس وعطاء في رواية والحسن وابن سيرين والحكم وحماد، وهو قول الثوري وأبي حنيفة ومالك والشافعي وأحمد في المشهور عنه، وعن إسحاق روايتان، وعن الحسن أنَّه كره بيعها، ورخَّصَ في شرائها للانتفاع بها.",
+         "en": "Selling cats was allowed by Ibn ʿAbbās, by ʿAṭāʾ in one report, and by al-Ḥasan, Ibn Sīrīn, al-Ḥakam and Ḥammād; it is the view of al-Thawrī, Abū Ḥanīfah, Mālik and al-Shāfiʿī, and of Aḥmad in his well-known position. There are two reports from Isḥāq. It is reported of al-Ḥasan that he disliked selling them but allowed buying them in order to make use of them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c32",
+     "pages": [
+      878
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهؤلاء منهم من لم يصحِّح النهي عن بيعها، قال أحمد: ما أعلم فيه شيئاً يثبت أو يصحُّ، وقال أيضاً: الأحاديث فيه مضطربةٌ.",
+         "en": "Some of these did not consider the prohibition of selling them authentic. Aḥmad said: I know of nothing on it that is established or authentic. He also said: The hadiths on it are confused."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c33",
+     "pages": [
+      879
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنهم من حمل النهي على ما لا نفع فيه كالبرِّيِّ ونحوه.",
+         "en": "Some took the prohibition to apply to cats of no use, such as wild cats and the like."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c34",
+     "pages": [
+      879
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنهم من قال: إنَّما نهى عن بيعها؛",
+         "en": "Others said: He forbade selling them only"
+        },
+        {
+         "ar": "لأنَّه دناءة وقلة مروءة، لأنَّها متيسرة الوجود والحاجة إليها داعية، فهي من مرافِق الناس التي لا ضررَ عليهم في بذل فضلها، فالشُّحُّ بذلك مِنْ أقبحِ الأخلاق الذميمة، فلذلك زجر عن أخذ ثمنها.",
+         "en": "because it is mean and shows a lack of decency: they are easily found and there is a pressing need for them, so they are among the conveniences of people, whose surplus costs nothing to give away, and being miserly with that is among the ugliest of blameworthy traits. That is why he rebuked people for taking their price."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c35",
+     "pages": [
+      879
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما بقية الحيوانات التي لا تُؤكل، فما لا نفع فيه كالحشرات ونحوه لا يجوزُ بيعُه، وما يُذكر من نفع في بعضها، فهو قليلٌ، فلا يكون مبيحاً للبيع،",
+         "en": "As for the other animals that are not eaten, those of no use, such as insects and the like, may not be sold. Whatever use is mentioned for some of them is slight, and so does not make selling them permissible,"
+        },
+        {
+         "ar": "كما لم يبح النَّبيُّ صلى الله عليه وسلم بيعَ الميتة لما ذكر له ما فيها من الانتفاع، ولهذا كان الصحيحُ أنَّه لا يُباحُ بيعُ العلق لِمَصِّ الدم، ولا الدِّيدان للاصطياد ونحو ذلك.",
+         "en": "just as the Prophet ﷺ did not permit selling carrion when the uses it had were mentioned to him. That is why the correct view is that it is not permissible to sell leeches for sucking blood, worms for fishing, and the like."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c36",
+     "pages": [
+      879
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما ما فيه نفعٌ للاصطياد منها، كالفهد والبازيِّ والصَّقر، فحكى أكثرُ الأصحاب في جواز بيعها روايتين عن أحمد، ومنهم من أجازَ بيعَها، وذكر الإجماعَ عليه، وتأوَّل رواية الكراهة كالقاضي أبي يعلى في \" المجرد \"،",
+         "en": "As for those that are useful for hunting, such as the cheetah, the hawk and the falcon, most of the scholars of our school relate two reported positions of Aḥmad on whether they may be sold. Some of them permitted selling them, mentioned that there is consensus on it and explained away the report of dislike; among them is al-Qāḍī Abū Yaʿlā in al-Mujarrad."
+        },
+        {
+         "ar": "ومنهم من قال: لا يجوزُ بيع الفهد والنّسر، وحكى فيه وجهاً آخر بالجواز، وأجاز بيع البُزاة والصُّقور، ولم يحكِ فيه خلافاً، وهو قولُ ابن أبي موسى.",
+         "en": "Others said that it is not permissible to sell the cheetah or the vulture, relating another view that it is permissible, while permitting the sale of hawks and falcons without relating any disagreement; this is the view of Ibn Abī Mūsā."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c37",
+     "pages": [
+      879
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأجاز بيع الصقر والبازي والعُقاب ونحوه أكثرُ العلماء، منهم: الثوري، والأوزاعي، والشافعي، وإسحاق، والمنصوص عن أحمد في أكثر الروايات عنه جوازُ بيعها،",
+         "en": "Most scholars permitted selling the falcon, the hawk, the eagle and the like, among them al-Thawrī, al-Awzāʿī, al-Shāfiʿī and Isḥāq. What is explicitly reported from Aḥmad in most of the narrations from him is that selling them is permissible;"
+        },
+        {
+         "ar": "وتوقف في رواية عنه في جوازه إذا لم تكن معلَّمة، قال الخلاَّل: العمل على ما رواه الجماعة أنَّه يجوزُ بيعُها بكلِّ حالٍ.",
+         "en": "in one reported position he withheld judgement on whether it is permissible when they are untrained. Al-Khallāl said: The position acted upon is what the majority narrated: that selling them is permissible in every case."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c38",
+     "pages": [
+      879,
+      880
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وجعل بعضُ أصحابنا الفيلَ حكمه حكم الفهد ونحوه، وفيه نظر، والمنصوص عن أحمد في رواية حنبل أنَّه لا يحِلُّ بيعه ولا شراؤه،",
+         "en": "Some of the scholars of our school gave the elephant the same ruling as the cheetah and the like, but this is open to question. What is explicitly reported from Aḥmad in the narration of Ḥanbal is that it is not lawful to sell or buy it;"
+        },
+        {
+         "ar": "وجعله كالسَّبُع، وحُكي عن الحسن أنَّه قال: لا يُركب ظهره، وقال: هو مسخ، وهذا كلُّه يدلُّ على أنَّه لا منفعةَ فيه.",
+         "en": "he treated it like a beast of prey. It is related that al-Ḥasan said: Its back is not to be ridden; and he said: It is a transformed creature. All of this indicates that there is no benefit in it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c39",
+     "pages": [
+      880
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولا يجوزُ بيعُ الدُّبِّ، قاله القاضي في \" المجرد \"، وقال ابن أبي موسى: لا يجوزُ بيعُ القردِ، قال ابن عبد البرِّ: لا أعلمُ في ذلك خلافاً بين العلماء، وقال القاضي في \" المجرد \":",
+         "en": "It is not permissible to sell a bear; al-Qāḍī said so in al-Mujarrad. Ibn Abī Mūsā said: It is not permissible to sell a monkey; and Ibn ʿAbd al-Barr said: I know of no disagreement among the scholars on this. Al-Qāḍī said in al-Mujarrad:"
+        },
+        {
+         "ar": "إنْ كان ينتفع به في موضع، لحفظ المتاع، فهو كالصَّقر والبازيِّ، وإلا، فهو كالأسد لا يجوزُ بيعه، والصحيح المنعُ مطلقاً، وهذه المنفعة يسيرةٌ، وليست هي المقصودة منه، فلا تُبيح البيعَ كمنافعِ الميتة.",
+         "en": "If it is of use somewhere, for guarding goods, it is like the falcon and the hawk; otherwise it is like the lion, and may not be sold. The correct view is that it is prohibited absolutely: this use is slight and not what it is intended for, so it does not make selling it permissible, like the uses of carrion."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c40",
+     "pages": [
+      880
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومما نُهي عن بيعه جيفُ الكفار إذا قُتِلوا، خرّج الإمام أحمد من حديث ابن عباس قال: قتل المسلمون يوم الخندق رجلاً من المشركين،",
+         "en": "Among the things whose sale is forbidden are the corpses of disbelievers when they are killed. Imam Aḥmad recorded from the hadith of Ibn ʿAbbās, who said: On the day of the Trench the Muslims killed a man of the idolaters,"
+        },
+        {
+         "ar": "فأعطوا بجيفته مالاً، فقال رسول الله صلى الله عليه وسلم: «ادفعوا إليهم جيفَته، فإنَّه خبيثُ الجيفة، خبيثُ الدِّيةِ»، فلم يقبل منهم شيئاً.",
+         "en": "and the idolaters offered money for his corpse. The Messenger of Allah ﷺ said: “Hand his corpse over to them, for it is a foul corpse and a foul blood price,” and he accepted nothing from them."
+        },
+        {
+         "ar": "وخرَّجه الترمذي، ولفظه: إنَّ المشركين أرادوا أنْ يشتروا جَسَد رجلٍ من المشركين فأبى النَّبيُّ صلى الله عليه وسلم أنْ يبيعهم.",
+         "en": "Al-Tirmidhī recorded it, and his wording is: The idolaters wanted to buy the body of a man of the idolaters, and the Prophet ﷺ refused to sell it to them."
+        },
+        {
+         "ar": "وخرَّجه وكيع في كتابه من وجه آخر عن عكرمة مرسلاً، ثم قال وكيع: الجيفة لا تُباع.",
+         "en": "Wakīʿ recorded it in his book by another route, from ʿIkrimah, in mursal form; then Wakīʿ said: A corpse is not to be sold."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h45.c41",
+     "pages": [
+      880
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال حرب: قلت لإسحاق، ما تقول في بيع جيف المشركين من المشركين؟ قال: لا.",
+         "en": "Ḥarb said: I said to Isḥāq: What do you say about selling the corpses of idolaters to idolaters? He said: No."
+        },
+        {
+         "ar": "وروى أبو عمرو الشيباني أنَّ علياً أتي بالمستورد العجلي وقد تنصّر، فاستتابه فأبى أنْ يتوبَ، فقتله، فطلبت النصارى جيفته بثلاثين ألفاً، فأبى عليٌّ فأحرقه.",
+         "en": "Abū ʿAmr al-Shaybānī narrated that al-Mustawrid al-ʿIjlī, who had become a Christian, was brought to ʿAlī. He called on him to repent, and when he refused, he killed him. The Christians asked for his corpse for thirty thousand, but ʿAlī refused and burned it."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}

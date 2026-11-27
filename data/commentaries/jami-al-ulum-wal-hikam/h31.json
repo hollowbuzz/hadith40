@@ -1,0 +1,3165 @@
+{
+ "id": "h31",
+ "number": 31,
+ "standard_number": 31,
+ "collection": "nawawi",
+ "heading": {
+  "ar": "الحديث الحادي والثلاثون",
+  "en": "Hadith 31"
+ },
+ "title": {
+  "ar": "الزهد",
+  "en": "Renunciation (Zuhd)"
+ },
+ "pages": {
+  "start": 639,
+  "end": 666
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.n1",
+     "pages": [
+      639
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنْ سهلِ بنِ سعْدٍ السَّاعِديِّ قال: جاءَ رجُلٌ إلى النَّبيِّ صلى الله عليه وسلم فقالَ:",
+         "en": "From Sahl ibn Saʿd al-Sāʿidī, who said: A man came to the Prophet ﷺ and said:"
+        },
+        {
+         "ar": "يا رَسولَ الله دُلَّني عَلى عَمَلٍ إذا عَمِلْتُهُ أَحَبَّنِي الله، وأحَبَّنِي النَّاسُ، فقال: «ازهَدْ فِي الدُّنيا يُحِبَّكَ الله، وازهَدْ فيمَا في أيدي النَّاسِ يُحبَّكَ النَّاسُ».",
+         "en": "Messenger of Allah, direct me to a deed which, if I do it, Allah will love me and people will love me. He said: “Be detached from this world and Allah will love you; and be detached from what people possess and people will love you.”"
+        },
+        {
+         "ar": "حديثٌ حسنٌ رَواهُ ابنُ ماجه وغيرُهُ بأسانِيدَ حَسَنةٍ.",
+         "en": "A ḥasan hadith, reported by Ibn Mājah and others with ḥasan chains."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c1",
+     "pages": [
+      639,
+      640
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "هذا الحديث خرَّجه ابن ماجه من رواية خالد بن عمرو القرشي، عن سفيان الثوري، عن أبي حازم، عن سهل بن سعد، وقد ذكر الشيخ رحمه الله أنَّ إسناده حسن، وفي ذلك نظر،",
+         "en": "This hadith was recorded by Ibn Mājah through the narration of Khālid ibn ʿAmr al-Qurashī, from Sufyān al-Thawrī, from Abū Ḥāzim, from Sahl ibn Saʿd. The Shaykh (may Allah have mercy on him) stated that its chain is ḥasan, but that is open to question,"
+        },
+        {
+         "ar": "فإنَّ خالد بن عمرو القرشي الأموي قال فيه الإمامُ أحمد: منكرُ الحديث، وقال مرة: ليس بثقة، يروي أحاديث بواطيل، وقال ابن معين: ليس حديثه بشيءٍ، وقال مرة: كان كذاباً يكذب، حدَّث عن شعبة أحاديثَ موضوعة،",
+         "en": "for of Khālid ibn ʿAmr al-Qurashī al-Umawī Imam Aḥmad said: His hadith is munkar; and he said once: He is not trustworthy; he narrates false hadiths. Ibn Maʿīn said: His hadith is worth nothing; and he said once: He was a liar who lied; he narrated fabricated hadiths from Shuʿbah."
+        },
+        {
+         "ar": "وقال البخاري وأبو زرعة: منكر الحديث، وقال أبو حاتم: متروكُ الحديث ضعيف، ونسبه صالح بنُ محمد، وابنُ عدي إلى وضع الحديث، وتناقض ابنُ حبان في أمره، فذكره في كتاب \"الثقات\"، وذكره في كتاب \" الضعفاء \"،",
+         "en": "Al-Bukhārī and Abū Zurʿah said: His hadith is munkar. Abū Ḥātim said: His hadith is abandoned (matrūk); he is weak. Ṣāliḥ ibn Muḥammad and Ibn ʿAdī attributed the fabrication of hadith to him. Ibn Ḥibbān contradicted himself about him, mentioning him both in Kitāb al-Thiqāt and in Kitāb al-Ḍuʿafāʾ,"
+        },
+        {
+         "ar": "وقال: كان ينفردُ عَنِ الثِّقاتِ بالموضوعات، لا يحلُّ الاحتجاج بخبره، وخرَّج العقيلي حديثه هذا وقال: ليس له أصل من حديث سفيان الثوري، قال: وقد تابع خالداً عليه محمَّد بن كثيرٍ الصَّنعانيُّ، ولعله أخذه عنه ودلسه؛",
+         "en": "where he said: He used to narrate fabrications from trustworthy narrators that no one else had; it is not permitted to cite his reports as proof. Al-ʿUqaylī recorded this hadith of his and said: It has no basis in the hadith of Sufyān al-Thawrī. He said: Muḥammad ibn Kathīr al-Ṣanʿānī corroborated Khālid in it; perhaps he took it from him and concealed the fact (tadlīs),"
+        },
+        {
+         "ar": "لأنَّ المشهور به خالد هذا.",
+         "en": "because the one known for it is this Khālid."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c2",
+     "pages": [
+      640
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال أبو بكر الخطيب: وتابعه أيضا أبو قتادة الحرَّاني ومِهرانُ بن أبي عمر الرازي، فرووه عن الثَّوريِّ قال: وأشهرُها حديثُ ابن كثير.",
+         "en": "Abū Bakr al-Khaṭīb said: Abū Qatādah al-Ḥarrānī and Mihrān ibn Abī ʿUmar al-Rāzī also corroborated him, reporting it from al-Thawrī. He said: The best known of them is the hadith of Ibn Kathīr."
+        },
+        {
+         "ar": "كذا قال، وهذا يخالفُ قولَ العقيلي: إنَّ أشهرَها حديثُ خالد بن عمرو، وهذا أصحُّ، ومحمد بن كثير الصنعاني هو المصيصي، ضعفه أحمد.",
+         "en": "So he said; but this differs from al-ʿUqaylī's statement that the best known of them is the hadith of Khālid ibn ʿAmr, which is the more correct. Muḥammad ibn Kathīr al-Ṣanʿānī is al-Miṣṣīṣī; Aḥmad declared him weak."
+        },
+        {
+         "ar": "وأبو قتادة ومهران تُكُلِّمَ فيهما أيضاً، لكن محمد بن كثير خيرٌ منهما، فإنَّه ثقةٌ عندَ كثير مِنَ الحفَّاظ.",
+         "en": "Abū Qatādah and Mihrān have also been criticised; but Muḥammad ibn Kathīr is better than both of them, for he is trustworthy in the view of many of the ḥuffāẓ."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c3",
+     "pages": [
+      640
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد تعجب ابنُ عدي من حديثه هذا، وقال: ما أدري ما أقول فيه.",
+         "en": "Ibn ʿAdī was astonished at this hadith of his and said: I do not know what to say about it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c4",
+     "pages": [
+      640
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وذكر ابنُ أبي حاتم أنَّه سأل أباه عن حديث محمد بن كثير، عن سفيان الثوري، فذكر هذا الحديث، فقال: هذا حديثٌ باطلٌ، يعني: بهذا الإسناد، يُشير إلى أنَّه لا أصلَ له عن محمد بن كثير، عن سفيان.",
+         "en": "Ibn Abī Ḥātim mentioned that he asked his father about the hadith of Muḥammad ibn Kathīr from Sufyān al-Thawrī, naming this hadith, and he said: This is a false hadith — meaning with this chain. He was indicating that it has no basis from Muḥammad ibn Kathīr from Sufyān."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c5",
+     "pages": [
+      640
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال ابن مشيش: سألتُ أحمد عن حديث سهل بن سعد، فذكر هذا الحديث، فقال أحمد: لا إله إلا الله - تعجباً منه - من يروي هذا؟",
+         "en": "Ibn Mushaysh said: I asked Aḥmad about the hadith of Sahl ibn Saʿd, and mentioned this hadith. Aḥmad said: Lā ilāha illā Allāh! — in astonishment at it — Who narrates this?"
+        },
+        {
+         "ar": "قلت: خالد ابن عمرو، فقال: وقعنا في خالد بن عمرو، ثم سكت، ومراده الإنكار على من ذكر له شيئاً من حديث خالد هذا، فإنَّه لا يُشتغل به.",
+         "en": "I said: Khālid ibn ʿAmr. He said: So we have landed on Khālid ibn ʿAmr! — and then fell silent. He meant to rebuke whoever mentioned to him anything of this Khālid's hadith, for it is not worth attending to."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c6",
+     "pages": [
+      640,
+      641
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه أبو عبيد القاسم بن سلام في كتاب \" المواعظ \" له عن خالد بن عمرو، ثم قال: كنت منكراً لهذا الحديث، فحدثني هذا الشيخُ عن وكيع: أنَّه سأله عنه، ولولا مقالته هذه لتركته.",
+         "en": "Abū ʿUbayd al-Qāsim ibn Sallām recorded it in his Kitāb al-Mawāʿiẓ from Khālid ibn ʿAmr, and then said: I used to reject this hadith, but this shaykh told me that Wakīʿ had asked him about it; were it not for this statement of his, I would have left it out."
+        },
+        {
+         "ar": "وخرَّج ابن عدي هذا الحديث في ترجمة خالد بن عمرو، وذكر رواية محمد بن كثير له أيضاً، وقال: هذا الحديث عن الثوري منكر،",
+         "en": "Ibn ʿAdī recorded this hadith in his entry on Khālid ibn ʿAmr, mentioned Muḥammad ibn Kathīr's narration of it as well, and said: This hadith from al-Thawrī is munkar."
+        },
+        {
+         "ar": "قال: ورواه زافر - يعني: ابن سلمان - عن محمد بن عيينة أخي سفيان، عن أبي حازم، عن ابن عمر.",
+         "en": "He said: Zāfir — meaning Ibn Sulaymān — reported it from Muḥammad ibn ʿUyaynah, Sufyān's brother, from Abū Ḥāzim, from Ibn ʿUmar."
+        },
+        {
+         "ar": "انتهى، وزافر ومحمد بن عيينة، كلاهما ضعيف.",
+         "en": "End of quotation. Zāfir and Muḥammad ibn ʿUyaynah are both weak."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c7",
+     "pages": [
+      641
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد روي هذا الحديث من وجه آخر مرسلٍ: خرجه أبو سليمان بن زبر الدِّمشقي في \" مسند إبراهيم بن أدهم \" من جمعه من رواية معاوية بن حفص،",
+         "en": "This hadith has also been narrated by another route, in mursal form. Abū Sulaymān ibn Zabr al-Dimashqī recorded it in the Musnad of Ibrāhīm ibn Adham that he compiled, through the narration of Muʿāwiyah ibn Ḥafṣ,"
+        },
+        {
+         "ar": "عن إبراهيم بن أدهم، عن منصور، عن ربعي بن حِراش، قال:",
+         "en": "from Ibrāhīm ibn Adham, from Manṣūr, from Ribʿī ibn Ḥirāsh, who said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c8",
+     "pages": [
+      641
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "جاء رجلٌ إلى النَّبيِّ صلى الله عليه وسلم، فقال: يا رسولَ الله، دلَّني على عمل يحبَّني الله عليه، ويحبني الناس عليه،",
+         "en": "A man came to the Prophet ﷺ and said: Messenger of Allah, direct me to a deed for which Allah will love me and people will love me."
+        },
+        {
+         "ar": "فقال: «أما العملُ الذي يحبُّك الله عليه، فالزُّهدُ في الدُّنيا، وأمَّا العملُ الذي يحبُّك الناس عليه، فانظر هذا الحطام، فانبذه إليهم».",
+         "en": "He said: “As for the deed for which Allah will love you, it is detachment from this world; and as for the deed for which people will love you, look at this debris [of worldly goods] and throw it to them.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c9",
+     "pages": [
+      641
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه ابن أبي الدُّنيا في كتاب \" ذم الدُّنيا \" من رواية عليِّ بن بكار، عن إبراهيم بن أدهم، قال:",
+         "en": "Ibn Abī al-Dunyā recorded it in Kitāb Dhamm al-Dunyā (“The Censure of This World”) through the narration of ʿAlī ibn Bakkār, from Ibrāhīm ibn Adham, who said:"
+        },
+        {
+         "ar": "جاء رجل إلى النَّبيِّ صلى الله عليه وسلم، فذكره، ولم يذكر في إسناده منصوراً ولا ربعياً، وقال في حديثه: «فانبذ إليهم ما في يديك من الحُطام».",
+         "en": "A man came to the Prophet ﷺ — and he related it, without mentioning Manṣūr or Ribʿī in its chain — and in his version he said: “Throw to them the debris that is in your hands.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c10",
+     "pages": [
+      641
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقدِ اشتمل هذا الحديثُ على وصيتين عظيمتين:",
+         "en": "This hadith contains two great pieces of counsel."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c11",
+     "pages": [
+      641
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "إحداهما: الزُّهدُ في الدُّنيا، وأنَّه مقتضٍ لمحبة الله عز وجل لعبده.",
+         "en": "The first is detachment from this world (zuhd), and that it brings about Allah's love for His servant."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c12",
+     "pages": [
+      641
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثانية: الزُّهد فيما في أيدي الناس، وأنَّه مقتضٍ لِمحبَّة النَّاس.",
+         "en": "The second is detachment from what people possess, and that it brings about people's love."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c13",
+     "pages": [
+      641,
+      642
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فأمَّا الزُّهد في الدُّنيا، فقد كثُر في القُرآن الإشارة إلى مدحه، وإلى ذمّ الرغبة في الدُّنيا، قال تعالى: {بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنيا وَالآخِرَةُ خَيْرٌ وَأَبْقَى}، وقال تعالى: {تُرِيدُونَ عَرَضَ الدُّنيا وَاللهُ يُرِيدُ الآخِرَةَ}، وقال تعالى في قصة قارون:",
+         "en": "As for detachment from this world, there are many indications in the Qurʾān praising it and censuring desire for this world. The Exalted says: “But you prefer the life of this world, though the Hereafter is better and more lasting” [al-Aʿlā 87:16–17]; and: “You desire the goods of this world, but Allah desires the Hereafter” [al-Anfāl 8:67]; and the Exalted says in the story of Qārūn:"
+        },
+        {
+         "ar": "{فَخَرَجَ عَلَى قَوْمِهِ فِي زِينَتِهِ قَالَ الَّذِينَ يُرِيدُونَ الْحَيَاةَ الدُّنيا يَا لَيْتَ لَنَا مِثْلَ مَا أُوتِيَ قَارُونُ إِنَّهُ لَذُو حَظٍّ عَظِيمٍ وَقَالَ الَّذِينَ أُوتُوا الْعِلْمَ وَيْلَكُمْ ثَوَابُ اللهِ خَيْرٌ لِمَنْ آمَنَ وَعَمِلَ صَالِحاً وَلا يُلَقَّاهَا إِلاَّ الصَّابِرُونَ} إلى قوله:",
+         "en": "“So he went out before his people in his finery. Those who desired the life of this world said: If only we had the like of what Qārūn has been given; he is truly one of great fortune. But those who had been given knowledge said: Woe to you! Allah's reward is better for one who believes and does righteous deeds, and none attains it but the patient” [al-Qaṣaṣ 28:79–80] — up to His words:"
+        },
+        {
+         "ar": "{تِلْكَ الدَّارُ الآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لا يُرِيدُونَ عُلُوّاً فِي الأَرْضِ وَلا فَسَاداً وَالْعَاقِبَةُ لِلْمُتَّقِينَ}، وقال تعالى: {وَفَرِحُوا بِالْحَيَاةِ الدُّنيا وَمَا الْحَيَاةُ الدُّنيا فِي الآخِرَةِ إِلاَّ مَتَاعٌ}، وقال: {قُلْ مَتَاعُ الدُّنيا قَلِيلٌ وَالآخِرَةُ خَيْرٌ لِمَنِ اتَّقَى وَلا تُظْلَمُونَ فَتِيلاً}.",
+         "en": "“That is the abode of the Hereafter: We assign it to those who seek neither exaltation in the land nor corruption; and the end belongs to the God-fearing” [al-Qaṣaṣ 28:83]. He also says: “They rejoice in the life of this world, but the life of this world beside the Hereafter is only a brief enjoyment” [al-Raʿd 13:26]; and: “Say: The enjoyment of this world is little, and the Hereafter is better for one who fears [Allah], and you will not be wronged by a date-thread” [al-Nisāʾ 4:77]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c14",
+     "pages": [
+      642
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال حاكياً عن مؤمن آل فرعون أنَّه قال لقومه: {يَا قَوْمِ اتَّبِعُونِ أَهْدِكُمْ سَبِيلَ الرَّشَادِ يَا قَوْمِ إِنَّمَا هَذِهِ الْحَيَاةُ الدُّنيا مَتَاعٌ وَإِنَّ الآخِرَةَ هِيَ دَارُ الْقَرَارِ}.",
+         "en": "Relating the words of the believer among Pharaoh's people to his people, He says: “My people, follow me, and I will guide you to the path of right conduct. My people, this life of the world is only a passing enjoyment, and the Hereafter is the abode of permanence” [Ghāfir 40:38–39]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c15",
+     "pages": [
+      642
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد ذمَّ الله مَنْ كان يُريد الدُّنيا بعمله وسعيه ونيَّته، وقد سبق ذكرُ ذلك في الكلام على حديث: «الأعمال بالنيات».",
+         "en": "Allah has censured whoever seeks this world by his deeds, his striving and his intention; this was discussed above, in the commentary on the hadith “Deeds are only by intentions.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c16",
+     "pages": [
+      642
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والأحاديث في ذمِّ الدُّنيا وحقارتها عند الله كثيرةٌ جداً، ففي \" صحيح مسلم \" عن جابر:",
+         "en": "The hadiths censuring this world and its worthlessness in Allah's sight are very many. In Ṣaḥīḥ Muslim, from Jābir:"
+        },
+        {
+         "ar": "أنَّ النَّبيَّ صلى الله عليه وسلم مرَّ بالسُّوقِ والنَّاسُ كَنَفَيْهِ، فمرَّ بجديٍّ أسكَّ ميِّتٍ، فتناوله، فأخذ بأذنه، فقال: «أيُّكم يُحبُّ أنَّ هذا له بدرهم؟»",
+         "en": "The Prophet ﷺ passed through the market with people on either side of him, and came upon a dead kid with small ears. He picked it up, took hold of its ear and said: “Which of you would like to have this for a dirham?”"
+        },
+        {
+         "ar": "فقالوا: ما نحبُّ أنَّه لنا بشيء، وما نصنع به؟",
+         "en": "They said: We would not like to have it for anything; what would we do with it?"
+        },
+        {
+         "ar": "قال: «أتحبُّون أنَّه لكم؟»",
+         "en": "He said: “Would you like it to be yours?”"
+        },
+        {
+         "ar": "قالوا: والله لو كان حياً كان عيباً فيه؛",
+         "en": "They said: By Allah, even if it were alive it would be defective,"
+        },
+        {
+         "ar": "لأنَّه أسكُّ، فكيف وهو ميت؟",
+         "en": "because its ears are small; so how, when it is dead?"
+        },
+        {
+         "ar": "فقال: «والله للدُّنيا أهونُ على الله من هذا عليكم».",
+         "en": "He said: “By Allah, this world is more worthless to Allah than this is to you.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c17",
+     "pages": [
+      642
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفيه أيضاً عن المستورد الفهري، عن النَّبيِّ صلى الله عليه وسلم، قال: «ما الدُّنيا في الآخرة إلاَّ كما يَجْعَلُ أحدُكم أصبَعَهُ في اليمِّ، فلينظر بماذا ترجع».",
+         "en": "It also has, from al-Mustawrid al-Fihrī, that the Prophet ﷺ said: “This world compared with the Hereafter is only as if one of you put his finger in the sea; let him see what it comes back with.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c18",
+     "pages": [
+      643
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الترمذي من حديث سهل بن سعد، عن النَّبيِّ صلى الله عليه وسلم، قال: «لو كانتِ الدُّنيا تعدِلُ عندَ الله جناح بعوضةٍ، ما سقى كافراً منها شربةً» وصححه.",
+         "en": "Al-Tirmidhī recorded, from the hadith of Sahl ibn Saʿd, that the Prophet ﷺ said: “If this world were worth a gnat's wing to Allah, He would not give a disbeliever a single drink of water from it.” He declared it authentic."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c19",
+     "pages": [
+      643
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومعنى الزهد في الشيء: الإعراضُ عنه لاستقلاله، واحتقاره، وارتفاع الهمَّةِ عنه، يقال: شيء زهيد، أي: قليل حقير.",
+         "en": "To be detached from a thing (zuhd) means to turn away from it because one regards it as little and contemptible and one's aspiration rises above it. One says shayʾ zahīd: a little, contemptible thing."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c20",
+     "pages": [
+      643
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد تكلَّم السَّلفُ ومَنْ بعدَهم في تفسير الزُّهد في الدُّنيا، وتنوَّعت عباراتهم عنه، وورد في ذلك حديثٌ مرفوع خرَّجه الترمذي وابن ماجه من رواية عمرو بن واقدٍ،",
+         "en": "The Salaf and those after them spoke about the meaning of detachment from this world, and expressed it in various ways. A marfūʿ hadith (attributed to the Prophet ﷺ) has come on this, recorded by al-Tirmidhī and Ibn Mājah through the narration of ʿAmr ibn Wāqid,"
+        },
+        {
+         "ar": "عن يونس بن حلبس، عن أبي إدريس الخولانيِّ، عن أبي ذرٍّ، عن النَّبيِّ صلى الله عليه وسلم،",
+         "en": "from Yūnus ibn Ḥalbas, from Abū Idrīs al-Khawlānī, from Abū Dharr, from the Prophet ﷺ,"
+        },
+        {
+         "ar": "قال: «الزَّهادةُ في الدُّنيا ليست بتحريم الحلال، ولا إضاعة المال، ولكن الزهادة في الدُّنيا أنْ لا تكونَ بما في يديك أوثقَ ممَّا في يد الله،",
+         "en": "who said: “Detachment from this world is not making the lawful unlawful or squandering wealth. Rather, detachment from this world is that you are not more confident in what is in your hand than in what is in the hand of Allah,"
+        },
+        {
+         "ar": "وأنْ تكون في ثواب المصيبة إذا أنتَ أُصبتَ بها أَرغبَ فيها لو أنَّها بقيت لك».",
+         "en": "and that, when a misfortune strikes you, you desire its reward more than you would desire to have kept what you lost.”"
+        },
+        {
+         "ar": "وقال الترمذي: غريب لا نعرفه إلاَّ من هذا الوجه، وعمرو بن واقد منكر الحديث.",
+         "en": "Al-Tirmidhī said: Unusual (gharīb); we know it only by this route, and ʿAmr ibn Wāqid's hadith is munkar."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c21",
+     "pages": [
+      643
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قلت: الصحيح وقفه، كما رواه الإمام أحمد في كتاب \" الزهد \"، حدثنا زيد بن يحيى الدمشقي، حدثنا خالدُ بنُ صبيح، حدثنا يونس بن حلبس قال: قال أبو مسلم الخولاني:",
+         "en": "I say: The correct view is that it is mawqūf (stopping short of the Prophet ﷺ), as Imam Aḥmad reported it in Kitāb al-Zuhd: Zayd ibn Yaḥyā al-Dimashqī told us: Khālid ibn Ṣubayḥ told us: Yūnus ibn Ḥalbas told us: Abū Muslim al-Khawlānī said:"
+        },
+        {
+         "ar": "ليس الزهادةُ في الدُّنيا بتحريم الحلال، ولا إضاعة المال، إنَّما الزهادة في الدُّنيا أنْ تكونَ بما في يد الله أوثق مما في يديك، وإذا أُصِبْتَ بمصيبةٍ، كنت أشدَّ رجاءً لأجرها وذُخرها مِن إيَّاها لو بقيت لك.",
+         "en": "Detachment from this world is not making the lawful unlawful or squandering wealth. Detachment from this world is only that you are more confident in what is in the hand of Allah than in what is in your own hand, and that when you are struck by a misfortune you are more hopeful of its reward and of its being stored up for you than you would be of the thing itself, had it stayed with you."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c22",
+     "pages": [
+      643,
+      644
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه ابن أبي الدُّنيا من راوية محمد بن مهاجر، عن يونس بن ميسرة، قال: ليس الزَّهادة في الدُّنيا بتحريم الحلال، ولا بإضاعة المال،",
+         "en": "Ibn Abī al-Dunyā recorded it through the narration of Muḥammad ibn Muhājir, from Yūnus ibn Maysarah, who said: Detachment from this world is not making the lawful unlawful, nor squandering wealth;"
+        },
+        {
+         "ar": "ولكن الزهادة في الدُّنيا أنْ تكونَ بما في يد الله أوثق منك بما في يدك، وأنْ يكونَ حالك في المصيبة وحالُك إذا لم تُصب بها سواءً، وأنْ يكون مادحُك وذامُّك في الحقِّ سواء.",
+         "en": "rather, detachment from this world is that you are more confident in what is in the hand of Allah than in what is in your own hand; that your state when struck by a misfortune and your state when not struck by it are the same; and that the one who praises you and the one who censures you for keeping to the truth are the same to you."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c23",
+     "pages": [
+      644
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ففسر الزهد في الدُّنيا بثلاثة أشياء كُلُّها من أعمال القلوب، لا من أعمال الجوارح، ولهذا كان أبو سليمان يقول: لا تَشْهَدْ لأحدٍ بالزُّهد، فإنَّ الزُّهد في القلب.",
+         "en": "So he explained detachment from this world by three things, all of them deeds of the heart, not of the limbs. That is why Abū Sulaymān used to say: Do not testify that anyone has zuhd, for zuhd is in the heart."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c24",
+     "pages": [
+      644
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدها: أنْ يكونَ العبدُ بما في يد الله أوثقَ منه بما في يد نفسه، وهذا ينشأ مِنْ صحَّة اليقين وقوَّته، فإنَّ الله ضَمِن أرزاقَ عباده، وتكفَّل بها، كما قال:",
+         "en": "The first is that the servant is more confident in what is in the hand of Allah than in what is in his own hand. This arises from soundness and strength of certainty, for Allah has guaranteed His servants' provision and taken responsibility for it, as He says:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c25",
+     "pages": [
+      644
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "{وَمَا مِنْ دَابَّةٍ فِي الأَرْضِ إِلاَّ عَلَى اللهِ رِزْقُهَا}، وقال: {وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ}، وقال: {فَابْتَغُوا عِنْدَ اللهِ الرِّزْقَ وَاعْبُدُوهُ}.",
+         "en": "“There is no creature on earth but its provision rests on Allah” [Hūd 11:6]; and: “In heaven is your provision and what you are promised” [al-Dhāriyāt 51:22]; and: “So seek provision from Allah and worship Him” [al-ʿAnkabūt 29:17]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c26",
+     "pages": [
+      644
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال الحسن: إنَّ مِنْ ضعف يقينك أنْ تكونَ بما في يدك أوثقَ منك بما في يد الله عز وجل.",
+         "en": "Al-Ḥasan said: It is a sign of the weakness of your certainty that you are more confident in what is in your hand than in what is in the hand of Allah, the Mighty and Majestic."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c27",
+     "pages": [
+      644
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروي عن ابن مسعود قال: إنَّ أرجى ما أكون للرزق إذا قالوا: ليس في البيت دقيق.",
+         "en": "It is narrated that Ibn Masʿūd said: I am most hopeful of provision when they say: There is no flour in the house."
+        },
+        {
+         "ar": "وقال مسروقٌ: إنَّ أحسن ما أكون ظناً حين يقول الخادم: ليس في البيت قفيزٌ من قمحٍ ولا درهمٌ.",
+         "en": "Masrūq said: My thoughts [of Allah] are best when the house servant says: There is not a qafīz of wheat or a dirham in the house."
+        },
+        {
+         "ar": "وقال الإمامُ أحمد: أسرُّ أيامي إليَّ يوم أُصْبِحُ وليس عندي شيء.",
+         "en": "Imam Aḥmad said: The happiest of my days is a day on which I wake up with nothing."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c28",
+     "pages": [
+      644
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقيل لأبي حازم الزاهد: ما مالُك؟",
+         "en": "Abū Ḥāzim the ascetic was asked: What is your wealth?"
+        },
+        {
+         "ar": "قال: لي مالان لا أخشى معهما الفقر: الثِّقةُ بالله، واليأسُ ممَّا في أيدي الناس.",
+         "en": "He said: I have two kinds of wealth with which I do not fear poverty: trust in Allah, and despairing of what people possess."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c29",
+     "pages": [
+      644
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقيل له: أما تخافُ الفقر؟",
+         "en": "He was asked: Do you not fear poverty?"
+        },
+        {
+         "ar": "فقال: أنا أخاف الفقر ومولاي له ما في السماوات وما في الأرض وما بينهما وما تحت الثرى؟!",
+         "en": "He said: Should I fear poverty, when to my Master belongs all that is in the heavens and on earth, all that is between them and all that is beneath the soil?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c30",
+     "pages": [
+      644
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ودُفع إلى عليِّ بنِ الموفق ورقة، فقرأها فإذا فيها: يا عليّ بن الموفق أتخاف الفقرَ وأنا ربك؟",
+         "en": "A slip of paper was handed to ʿAlī ibn al-Muwaffaq. He read it, and in it was written: ʿAlī ibn al-Muwaffaq, do you fear poverty when I am your Lord?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c31",
+     "pages": [
+      644
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الفضيلُ بن عياض:",
+         "en": "Al-Fuḍayl ibn ʿIyāḍ said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c32",
+     "pages": [
+      645
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أصلُ الزُّهد الرِّضا عَنِ الله عز وجل.",
+         "en": "The root of zuhd is contentment with Allah, the Mighty and Majestic."
+        },
+        {
+         "ar": "وقال: القنوع هو الزهد، وهو الغنى.",
+         "en": "He also said: Being content with little (qunūʿ) is zuhd, and it is wealth."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c33",
+     "pages": [
+      645
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فمن حقق اليقين، وثق بالله في أموره كلها، ورضي بتدبيره له، وانقطع عن التعلُّق بالمخلوقين رجاءً وخوفاً، ومنعه ذلك مِنْ طلب الدُّنيا بالأسباب المكروهة، ومن كان كذلك،",
+         "en": "Whoever realises certainty trusts Allah in all his affairs, is content with His disposal of him, and cuts himself off from attachment to created beings in hope and in fear, so that this prevents him from seeking this world by disliked means. Whoever is like that"
+        },
+        {
+         "ar": "كان زاهداً في الدُّنيا حقيقة، وكان من أغنى الناس، وإنْ لم يكن له شيء من الدُّنيا كما قال عمَّار: كفى بالموت واعظاً، وكفى باليقين غنى، وكفى بالعبادة شغلاً.",
+         "en": "is truly detached from this world, and is one of the richest of people, even if he has nothing of this world, as ʿAmmār said: Death suffices as an admonisher, certainty suffices as wealth, and worship suffices as an occupation."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c34",
+     "pages": [
+      645
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال ابن مسعود: اليقينُ: أنْ لا ترضي النَّاسَ بسخطِ اللهِ، ولا تحمد أحداً على رزق الله، ولا تلم أحداً على ما لم يؤتِكَ الله،",
+         "en": "Ibn Masʿūd said: Certainty is that you do not please people by angering Allah, do not praise anyone for Allah's provision, and do not blame anyone for what Allah has not given you;"
+        },
+        {
+         "ar": "فإنَّ الرِّزقَ لا يسوقُه حرصُ حريصٍ، ولا يردُّه كراهة كارهٍ، فإنَّ الله تبارك وتعالى بقسطه وعلمه وحكمه - جعل الرَّوحَ والفرحَ في اليقين والرضا، وجعل الهمَّ والحزن في الشكِّ والسخطِ.",
+         "en": "for provision is not brought by the greed of the greedy, nor turned away by the dislike of one who dislikes it. Allah, Blessed and Exalted is He, by His justice, knowledge and wisdom, has placed relief and joy in certainty and contentment, and placed worry and grief in doubt and discontent."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c35",
+     "pages": [
+      645
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي حديث مرسل أنَّ النَّبيَّ صلى الله عليه وسلم كان يدعو بهذا الدُّعاء: «اللهمَّ إنِّي أسألك إيماناً يُباشر قلبي، ويقيناً صادقاً حتى أعلم أنَّه لا يمنعني رزقاً قسمته لي، ورضِّني من المعيشة بما قسمت لي».",
+         "en": "In a mursal hadith, the Prophet ﷺ used to supplicate with this supplication: “O Allah, I ask You for faith that touches my heart, and true certainty, so that I know that nothing will withhold from me provision You have allotted me; and make me content with the livelihood You have allotted me.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c36",
+     "pages": [
+      645
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكان عطاء الخراساني لا يقومُ من مجلسه حتى يقولَ: اللهمَّ هب لنا يقيناً منك حتى تُهوِّن علينا مصائبَ الدُّنيا، وحتى نعلمَ أنَّه لا يُصيبنا إلا ما كتبتَ علينا، ولا يُصيبنا مِنْ هذا الرِّزقِ إلاَّ ما قسمتَ لنا.",
+         "en": "ʿAṭāʾ al-Khurāsānī would not rise from his gathering until he had said: O Allah, grant us certainty from You, so that You make the misfortunes of this world easy for us, and so that we know that nothing will befall us but what You have written for us, and nothing of this provision will reach us but what You have allotted us."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c37",
+     "pages": [
+      645
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "روينا من حديث ابن عباس مرفوعاً، قال: «من سرَّه أنْ يكون أغنى الناسِ، فليكن بما في يدِ الله أوثق منه بما في يده».",
+         "en": "We have narrated, from the hadith of Ibn ʿAbbās as marfūʿ: “Whoever would be glad to be the richest of people, let him be more confident in what is in the hand of Allah than in what is in his own hand.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c38",
+     "pages": [
+      646
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثاني: أنْ يكونَ العبدُ إذا أُصيبَ بمصيبةٍ في دُنياه مِنْ ذهابِ مالٍ، أو ولدٍ، أو غير ذلك، أرغبَ في ثواب ذلك ممَّا ذهبَ منه مِنَ الدُّنيا أنْ يبقي له، وهذا أيضاً ينشأُ مِنْ كمالِ اليقين.",
+         "en": "The second is that when the servant is struck by a misfortune in his worldly life — the loss of wealth, of a child or of something else — he desires its reward more than he desires that what he has lost of this world had stayed with him. This too arises from perfect certainty."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c39",
+     "pages": [
+      646
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد روي عن ابن عمر: أنَّ النَّبيَّ صلى الله عليه وسلم كان يقول في دعائه: «اللهُمَّ اقسم لنا مِنْ خشيتك ما تحولُ به بيننا وبين معاصِيكَ، ومِنْ طاعتك ما تبلِّغُنا به جنَّتك،",
+         "en": "It is narrated from Ibn ʿUmar that the Prophet ﷺ used to say in his supplication: “O Allah, allot us such fear of You as will come between us and disobeying You, such obedience to You as will bring us to Your Paradise,"
+        },
+        {
+         "ar": "ومِنَ اليقين ما تهوِّنُ به علينا مصائبَ الدُّنيا» وهو من علامات الزُّهد في الدُّنيا، وقلَّةِ الرَّغبة فيها، كما قال عليٌّ رضي الله عنه: من زهد في الدُّنيا، هانت عليه المصيباتُ.",
+         "en": "and such certainty as will make the misfortunes of this world easy for us.” This is one of the signs of detachment from this world and of little desire for it, as ʿAlī (may Allah be pleased with him) said: Misfortunes become easy for whoever is detached from this world."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c40",
+     "pages": [
+      646
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثالث: أنْ يستوي عندَ العبد حامدُه وذامُّه في الحقِّ، وهذا من علامات الزُّهد في الدُّنيا، واحتقارها، وقلَّةِ الرَّغبة فيها، فإنَّ من عظُمتِ الدُّنيا عنده أحبَّ المدحَ وكرِهَ الذَّمَّ، فربما حمله ذلك على تركِ كثيرٍ مِنَ الحق خشيةَ الذَّمِّ،",
+         "en": "The third is that the one who praises the servant and the one who censures him for keeping to the truth are the same to him. This is one of the signs of detachment from this world, of holding it in contempt and of little desire for it; for whoever holds this world in high regard loves praise and dislikes censure, and that may lead him to abandon much of the truth for fear of censure,"
+        },
+        {
+         "ar": "وعلى فعلِ كثيرٍ مِنَ الباطلِ رجاءَ المدح، فمن استوى عنده حامدُه وذامُّه في الحقِّ، دلَّ على سُقوط منزلة المخلوقين من قلبه،",
+         "en": "and to do much falsehood in hope of praise. When the one who praises him and the one who censures him for the truth are the same to him, this shows that created beings have lost their standing in his heart,"
+        },
+        {
+         "ar": "وامتلائه مِنْ محبَّة الحقِّ، وما فيه رضا مولاه، كما قال ابن مسعود: اليقين أنْ لا تُرضي النَّاسَ بسخط الله.",
+         "en": "and that it is filled with love of the truth and of what pleases his Master, as Ibn Masʿūd said: Certainty is that you do not please people by angering Allah."
+        },
+        {
+         "ar": "وقد مدح الله الذين يُجاهدون في سبيل الله، ولا يخافون لومة لائم.",
+         "en": "Allah has praised those who strive in the path of Allah and do not fear the blame of any blamer [al-Māʾidah 5:54]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c41",
+     "pages": [
+      646
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد روي عن السَّلف عبارات أخرُ في تفسير الزُّهد في الدُّنيا، وكلها تَرجِعُ إلى ما تقدَّم، كقول الحسن:",
+         "en": "Other expressions explaining detachment from this world have been narrated from the Salaf, all of which go back to what has been said, such as al-Ḥasan's saying:"
+        },
+        {
+         "ar": "الزاهد الذي إذا رأى أحداً قال: هو أفضل مني، وهذا يرجع إلى أنَّ الزاهد حقيقةً هو الزَّاهدُ في مدح نفسه وتعظيمها، ولهذا يقال:",
+         "en": "The zāhid (one detached from the world) is one who, whenever he sees anyone, says: He is better than I am. This goes back to the point that the truly detached person is one who is detached from praise of himself and from exalting himself. That is why it is said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c42",
+     "pages": [
+      646,
+      647
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "الزهد في الرِّياسة أشدُّ منه في الذهب والفضة، فمن أخرج مِنْ قلبه حبَّ الرياسة في الدُّنيا، والتَّرفُّع فيها على الناس، فهو الزاهد حقاً، وهذا هو الذي يستوي عنده حامدُه وذامُّه في الحقِّ،",
+         "en": "Detachment from leadership is harder than detachment from gold and silver. Whoever expels from his heart love of leadership in this world and of rising above people in it is the truly detached one, and he is the one to whom the one who praises him and the one who censures him for the truth are the same."
+        },
+        {
+         "ar": "وكقول وهيب بن الورد: الزهد في الدُّنيا أنْ لا تأسى على ما فات منها، ولا تفرح بما آتاك منها، قال ابن السماك: هذا هو الزاهد المبرز في زهده.",
+         "en": "Another is the saying of Wuhayb ibn al-Ward: Detachment from this world is that you do not grieve over what has passed you by of it and do not exult in what it has given you. Ibn al-Sammāk said: This is the zāhid who excels in his zuhd."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c43",
+     "pages": [
+      647
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذا يرجع إلى أنَّه يستوي عند العبد إدبارها وإقبالها وزيادتها ونقصُها، وهو مثلُ استواءِ المصيبة وعدمها كما سبق.",
+         "en": "This goes back to its going and its coming, its increase and its decrease, being the same to the servant, which is like misfortune and its absence being the same, as was said above."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c44",
+     "pages": [
+      647
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وسئل بعضُهم - أظنُّه الإمام أحمد - عمَّن معه مالٌ: هل يكون زاهداً؟",
+         "en": "Someone — I think it was Imam Aḥmad — was asked about a man who has wealth: can he be a zāhid?"
+        },
+        {
+         "ar": "قال: إنْ كان لا يفرح بزيادته ولا يحزن بنقصه، أو كما قال.",
+         "en": "He said: If he does not exult when it increases or grieve when it decreases — or words to that effect."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c45",
+     "pages": [
+      647
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وسئل الزهري عن الزاهد فقال: من لم يغلب الحرامُ صبرَه، ولم يشغل الحلالُ شكره، وهذا قريبٌ ممَّا قبله،",
+         "en": "Al-Zuhrī was asked about the zāhid and said: He is one whose patience the unlawful does not overcome, and whom the lawful does not distract from giving thanks. This is close to what came before it,"
+        },
+        {
+         "ar": "فإنَّ معناه أنَّ الزاهد في الدُّنيا إذا قدر منها على حرام، صبر عنه، فلم يأخذه، وإذا حصل له منها حلالٌ، لم يشغَلْهُ عَنِ الشُّكر، بل قام بشكرِ الله عليه.",
+         "en": "for its meaning is that when one who is detached from this world is able to get something unlawful from it, he patiently refrains from it and does not take it; and when he obtains something lawful from it, it does not distract him from giving thanks, but he thanks Allah for it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c46",
+     "pages": [
+      647
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال أحمد بن أبي الحواري: قلتُ لسفيان بن عيينة: مَنِ الزَّاهد في الدُّنيا؟",
+         "en": "Aḥmad ibn Abī al-Ḥawārī said: I said to Sufyān ibn ʿUyaynah: Who is the one detached from this world?"
+        },
+        {
+         "ar": "قال: من إذا أنعم عليه شكر، وإذا ابتُلي صبر.",
+         "en": "He said: One who, when he is blessed, gives thanks, and when he is tried, is patient."
+        },
+        {
+         "ar": "فقلت: يا أبا محمد قد أنعم عليه فشكر، وابتلي فصبر، وحبس النِّعمةَ، كيف يكون زاهداً؟!",
+         "en": "I said: Abū Muḥammad, he has been blessed and given thanks, tried and been patient, and has held on to the blessing; how can he be a zāhid?"
+        },
+        {
+         "ar": "فقال: اسكت، من لم تمنعه النَّعماءُ مِنَ الشُّكر، ولا البلوى من الصَّبر، فذلك الزاهد.",
+         "en": "He said: Be quiet! One whom blessings do not keep from giving thanks, nor trials from patience — that is the zāhid."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c47",
+     "pages": [
+      647
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال ربيعة: رأس الزهادة جمعُ الأشياء بحقها، ووضعُها في حقِّها.",
+         "en": "Rabīʿah said: The head of zuhd is to gather things rightfully and spend them rightfully."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c48",
+     "pages": [
+      647
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال سفيان الثوري: الزهد في الدُّنيا قِصَرُ الأمل، ليس بأكل الغليظ، ولا بلبس العباء، وقال: كان من دعائهم: اللهم زهِّدنا في الدُّنيا، ووسِّع علينا منها، ولا تزوِها عنا، فترغِّبنا فيها.",
+         "en": "Sufyān al-Thawrī said: Detachment from this world is keeping one's hopes short; it is not eating coarse food or wearing a woollen cloak. He also said: Among their supplications was: O Allah, make us detached from this world and give us plenty of it; do not withhold it from us and so make us desire it."
+        },
+        {
+         "ar": "وكذا قال الإمام أحمد: الزُّهد في الدُّنيا: قِصَرُ الأمل، وقال مرة: قِصَرُ الأملِ واليأسُ مما في أيدي الناس.",
+         "en": "Imam Aḥmad likewise said: Detachment from this world is keeping one's hopes short; and he said once: Keeping one's hopes short and despairing of what people possess."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c49",
+     "pages": [
+      648
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ووجه هذا أنَّ قِصَرَ الأملِ يُوجِبُ محبَّةَ لقاء الله بالخروج من الدُّنيا، وطول الأمل يقتضي محبَّةَ البقاءِ فيها، فمن قصُرَ أملُه، فقد كره البقاء في الدُّنيا، وهذا نهاية الزُّهد فيها، والإعراض عنها،",
+         "en": "The reason for this is that short hopes bring about love of meeting Allah by leaving this world, while long hopes call for love of remaining in it. Whoever's hopes are short dislikes remaining in this world, and that is the utmost detachment from it and turning away from it."
+        },
+        {
+         "ar": "واستدل ابنُ عيينة لهذا القول بقوله تعالى: {قُلْ إِنْ كَانَتْ لَكُمُ الدَّارُ الآخِرَةُ عِنْدَ اللهِ خَالِصَةً مِنْ دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إنْ كُنْتُمْ صَادِقِينَ} إلى قوله: {وَلَتَجِدَنَّهُمْ أَحْرَصَ النَّاسِ عَلَى حَيَاةٍ}.",
+         "en": "Ibn ʿUyaynah cited as evidence for this view His words, Exalted is He: “Say: If the abode of the Hereafter with Allah is yours alone, to the exclusion of other people, then wish for death, if you are truthful” — up to His words: “And you will surely find them the most eager of people for life” [al-Baqarah 2:94–96]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c50",
+     "pages": [
+      648
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى ابن أبي الدُّنيا بإسناده عن الضَّحَّاك بن مزاحم قال: أتى النَّبيَّ صلى الله عليه وسلم رجلٌ، فقال: يا رسول الله، مَنْ أزهدُ النَّاسِ؟",
+         "en": "Ibn Abī al-Dunyā reported, with his chain, from al-Ḍaḥḥāk ibn Muzāḥim, who said: A man came to the Prophet ﷺ and said: Messenger of Allah, who is the most detached of people?"
+        },
+        {
+         "ar": "فقال: «من لم ينسَ القبرَ والبِلى، وترك أفضلَ زينة الدُّنيا، وآثرَ ما يبقى على ما يفنى، ولم يعدَّ غداً مِنْ أيَّامه وعدَّ نفسه من الموتى» وهذا مرسل.",
+         "en": "He said: “One who does not forget the grave and decay, gives up the finest adornment of this world, prefers what lasts to what perishes, does not count tomorrow among his days, and counts himself among the dead.” This is mursal."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c51",
+     "pages": [
+      648
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد قسَّم كثيرٌ مِنَ السَّلفِ الزُّهدَ أقساماً: فمنهم من قال: أفضل الزُّهدِ: الزُّهدُ في الشِّركِ، وفي عبادةِ ما عُبِدَ من دُونِ الله، ثمَّ الزُّهدُ في الحرام كلِّه من المعاصي،",
+         "en": "Many of the Salaf divided zuhd into categories. Some said: The best zuhd is detachment from shirk and from the worship of whatever is worshipped besides Allah; then detachment from everything unlawful, all sins;"
+        },
+        {
+         "ar": "ثمَّ الزُّهدُ في الحلال، وهو أقلُّ أقسام الزهد، فالقسمان الأولان من هذا الزهد، كلاهما واجبٌ، والثَّالث: ليس بواجبٍ، فإنَّ أعظمَ الواجبات: الزُّهد في الشِّركِ، ثم في المعاصي كلِّها.",
+         "en": "then detachment from the lawful, which is the least of the categories of zuhd. The first two categories of this zuhd are both obligatory, while the third is not; for the greatest of obligations is detachment from shirk, and then from all sins."
+        },
+        {
+         "ar": "وكان بكرٌ المزنيُّ يدعو لإخوانه: زهَّدنا الله وإياكم زُهْدَ مَنْ أمكنه الحرام والذنوب في الخلوات، فعلم أنَّ الله يراه فتركه.",
+         "en": "Bakr al-Muzanī used to supplicate for his brothers: May Allah grant us and you the detachment of one who had the unlawful and sins within his reach in private, knew that Allah saw him, and so left them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c52",
+     "pages": [
+      648
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال ابنُ المبارك: قال سلام بن أبي مطيع: الزُّهد على ثلاثة وجوه:",
+         "en": "Ibn al-Mubārak said: Sallām ibn Abī Muṭīʿ said: Zuhd is of three kinds."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c53",
+     "pages": [
+      648
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "واحد: أنْ يُخْلِصَ العمل لله عز وجل والقول، ولا يُراد بشيء منه الدُّنيا.",
+         "en": "The first is to make one's deeds and words sincerely for Allah, the Mighty and Majestic, with nothing of them intended for this world."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c54",
+     "pages": [
+      648
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثاني: تركُ ما لا يصلُحُ، والعمل بما يصلح.",
+         "en": "The second is leaving what is not right and doing what is right."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c55",
+     "pages": [
+      648
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثالث: الحلال أنْ يزهدَ فيه وهو تطوُّعٌ، وهو أدناها.",
+         "en": "The third is detachment from the lawful, which is voluntary; and it is the lowest of them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c56",
+     "pages": [
+      649
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذا قريب مما قبله، إلاَّ أنَّه جعل الدَّرجةَ الأُولى مِنَ الزُّهدِ الزُّهدَ في الرياء المنافي للإخلاص في القول والعمل، وهو الشِّركُ الأصغر، والحاملُ عليه محبَّةُ المدح في الدُّنيا، والتقدُّم عند أهلها، وهو مِنْ نوعِ محبَّةِ العلوِّ فيها والرياسة.",
+         "en": "This is close to what came before, except that he made the first degree of zuhd detachment from showing off (riyāʾ), which is contrary to sincerity in word and deed. Showing off is the lesser shirk, and what drives one to it is love of praise in this world and of standing high with its people, which is a kind of love of eminence and leadership in it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c57",
+     "pages": [
+      649
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال إبراهيم بن أدهم: الزهد ثلاثة أصناف: فزهدٌ فرضٌ، وزهدٌ فضلٌ، وزهدٌ سلامةٌ، فالزهد الفرض: الزهد في الحرام، والزهد الفضل: الزهد في الحلال، والزهدُ السلامةُ: الزُّهد في الشبهات.",
+         "en": "Ibrāhīm ibn Adham said: Zuhd is of three kinds: obligatory zuhd, meritorious zuhd and zuhd for safety. The obligatory zuhd is detachment from the unlawful; the meritorious zuhd is detachment from the lawful; and the zuhd for safety is detachment from doubtful things (shubuhāt)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c58",
+     "pages": [
+      649
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقدِ اختلفَ الناسُ: هل يستحقُّ اسمَ الزاهد مَنْ زَهِدَ في الحرام خاصَّةً، ولم يزهد في فضول المباحات أم لا؟",
+         "en": "People have differed over whether someone who is detached from the unlawful alone, but not from the surplus of permissible things, deserves the name zāhid or not,"
+        },
+        {
+         "ar": "على قولين: أحدهما: أنَّه يستحقُّ اسمَ الزهد بذلك، وقد سبق ذلك عَنِ الزُّهري وابن عيينة وغيرهما.",
+         "en": "holding two views. The first is that this is enough for him to deserve the name; this view has been given above from al-Zuhrī, Ibn ʿUyaynah and others."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c59",
+     "pages": [
+      649
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثاني: لا يستحقُّ اسم الزهد بدون الزهد في فضول المباح، وهو قولُ طائفة من العارفين وغيرهم، حتى قال بعضهم: لا زُهْدَ اليوم لفقد المباح المحض، وهو قول يوسف بن أسباط وغيره، وفي ذلك نظر.",
+         "en": "The second is that he does not deserve the name without detachment from the surplus of the permissible. This is the view of a group of those who know Allah (al-ʿārifūn) and others, so much so that some of them said: There is no zuhd today, because the purely permissible is no longer to be found. This is the view of Yūsuf ibn Asbāṭ and others, but it is open to question."
+        },
+        {
+         "ar": "وكان يونس بن عبيد يقول: وما قدر الدُّنيا حتى يُمدَح من زهد فيها؟",
+         "en": "Yūnus ibn ʿUbayd used to say: What is this world worth, that one who is detached from it should be praised?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c60",
+     "pages": [
+      649
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أبو سليمان الداراني: اختلفوا علينا في الزُّهد بالعراق، فمنهم من قال: الزُّهد في ترك لقاءِ النَّاسِ، ومنهم من قال: في ترك الشَّهواتِ، ومنهم من قال: في ترك الشِّبَعِ،",
+         "en": "Abū Sulaymān al-Dārānī said: In Iraq they have given us differing views on zuhd. Some said zuhd lies in giving up meeting people; some said, in giving up appetites; and some said, in giving up eating one's fill."
+        },
+        {
+         "ar": "وكلامهم قريبٌ بعضُه مِن بعضٍ، قال: وأنا أذهبُ إلى أنَّ الزُّهدَ في ترك ما يشغلُك عن الله عز وجل، وهذا الذي قاله أبو سليمان حسن، وهو يجمعُ جميعَ معاني الزُّهد وأقسامه وأنواعه.",
+         "en": "Their words are close to one another. He said: My own view is that zuhd lies in giving up whatever distracts you from Allah, the Mighty and Majestic. What Abū Sulaymān said is good, and it brings together all the meanings, categories and kinds of zuhd."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c61",
+     "pages": [
+      649
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "واعلم أنَّ الذمَّ الوارد في الكتاب والسُّنَّة للدُّنيا ليس هو راجعاً إلى زمانها الذي هو اللَّيل والنَّهار، المتعاقبان إلى يوم القيامة، فإنَّ الله جعلهما خِلفَةً لمن أراد أنْ يذَّكَّرَ أو أراد شكوراً.",
+         "en": "Know that the censure of this world in the Book and the Sunnah does not refer to its time, the night and day that follow each other until the Day of Resurrection; for Allah has made them succeed one another for whoever wishes to take heed or wishes to give thanks [al-Furqān 25:62]."
+        },
+        {
+         "ar": "ويُروى عن عيسى عليه السلام أنَّه قال: إنَّ هذا الليل والنهار خزانتان، فانظُروا ما تضعُون فيهما، وكان يقول: اعملوا اللَّيل لما خلق له، والنَّهار لما خلق له.",
+         "en": "It is narrated that ʿĪsā (peace be upon him) said: This night and day are two treasuries, so look at what you put in them. He used to say: Use the night for what it was created for, and the day for what it was created for."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c62",
+     "pages": [
+      650
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال مجاهد: ما مِنْ يوم إلاَّ يقول: ابنَ آدم قد دخلتُ عليك اليوم، ولن أرجعَ إليك بعدَ اليوم، فانظُر ماذا تعمل فيَّ، فإذا انقضى،",
+         "en": "Mujāhid said: There is no day but it says: Son of Ādam, I have come in to you today, and I will never return to you after today; so look at what you do in me. When it has ended,"
+        },
+        {
+         "ar": "طوي، ثم يُخْتَمُ عليه، فلا يُفَكُّ حتّى يكون الله هو الذي يفضّه يومَ القيامة، ولا ليلة إلا تقول كذلك، وقد أنشد بعضُ السَّلف:",
+         "en": "it is folded up and sealed, and it is not unsealed until Allah opens it on the Day of Resurrection; and every night says the same. One of the Salaf recited:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c63",
+     "pages": [
+      650
+     ],
+     "paragraphs": [
+      {
+       "kind": "verse",
+       "segments": [
+        {
+         "ar": "إنَّما الدُّنيا إلى الجنَّـ … ـةِ والنَّار طريق",
+         "en": "This world is only a road / to Paradise or to the Fire;"
+        },
+        {
+         "ar": "واللَّيالي متجر الإنـ … ـسان والأيَّام سُوق",
+         "en": "the nights are man's place of trade, / and the days are the market."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c64",
+     "pages": [
+      650
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وليس الذمُّ راجعاً إلى مكان الدُّنيا الذي هو الأرض التي جعلها الله لبني آدم مِهاداً وسكناً، ولا إلى ما أودعه الله فيها من الجبال والبحار والأنهار والمعادن، ولا إلى ما أنبته فيها من الشَّجر والزرع،",
+         "en": "Nor does the censure refer to the place of this world, the earth which Allah has made a bed and a dwelling for the children of Ādam; nor to the mountains, seas, rivers and minerals He has placed in it; nor to the trees and crops He has made to grow in it;"
+        },
+        {
+         "ar": "ولا إلى ما بثَّ فيها من الحيوانات وغير ذلك، فإنَّ ذلك كُلَّه مِنْ نعمة الله على عباده بما لهم فيه من المنافع،",
+         "en": "nor to the animals and other things He has spread in it. All of that is part of Allah's blessing to His servants, for the benefits they have in it,"
+        },
+        {
+         "ar": "ولهم به من الاعتبار والاستدلال على وحدانيَّة صانعه وقُدرته وعَظَمَتهِ، وإنَّما الذَّمُّ راجعٌ إلى أفعال بني آدم الواقعة في الدُّنيا؛",
+         "en": "and for the lessons they draw from it and the evidence it gives them of the oneness, power and greatness of its Maker. The censure refers only to the actions of the children of Ādam that take place in this world,"
+        },
+        {
+         "ar": "لأنَّ غالبها واقعٌ على غير الوجه الذي تُحمَدُ عاقبتُه، بل يقعُ على ما تضرُّ عاقبتُه، أو لا تنفع، كما قال عز وجل: {اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنيا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌ بَيْنَكُمْ وَتَكَاثُرٌ فِي الأَمْوَالِ وَالأَوْلادِ}.",
+         "en": "because most of them are not done in a way that ends well; rather, they are done in a way that ends in harm, or in no benefit, as the Mighty and Majestic says: “Know that the life of this world is only play and amusement, adornment, boasting among yourselves and rivalry in wealth and children” [al-Ḥadīd 57:20]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c65",
+     "pages": [
+      650
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وانقسم بنو آدم في الدُّنيا إلى قسمين:",
+         "en": "The children of Ādam in this world are divided into two groups."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c66",
+     "pages": [
+      650
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدهما: من أنكر أنْ يكون للعباد بعد الدُّنيا دارٌ للثَّواب والعقاب، وهؤلاء هم الَّذين قال الله فيهم: {إِنَّ الَّذِينَ لا يَرْجُونَ لِقَاءنَا وَرَضُوا بِالْحَيَاةِ الدُّنيا وَاطْمَأَنُّوا بِهَا وَالَّذِينَ هُمْ عَنْ آيَاتِنَا غَافِلُونَ أُولَئِكَ مَأْوَاهُمُ النَّارُ بِمَا كَانُوا يَكْسِبُونَ}،",
+         "en": "The first are those who deny that the servants have any abode of reward and punishment after this world. They are the ones of whom Allah says: “Those who do not hope to meet Us, are content with the life of this world and at ease in it, and those who are heedless of Our signs — their refuge is the Fire, for what they used to earn” [Yūnus 10:7–8]."
+        },
+        {
+         "ar": "وهؤلاء همُّهمُ التمتُّع بالدُّنيا، واغتنامُ لَذَّاتها قبل الموت، كما قال تعالى: {وَالَّذِينَ كَفَرُوا يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ الأَنْعَامُ وَالنَّارُ مَثْوىً لَهُمْ}.",
+         "en": "Their concern is to enjoy this world and snatch its pleasures before death, as the Exalted says: “Those who disbelieve enjoy themselves and eat as cattle eat, and the Fire will be their dwelling” [Muḥammad 47:12]."
+        },
+        {
+         "ar": "ومن هؤلاء من كان يأمرُ بالزُّهد في الدُّنيا؛",
+         "en": "Some of these used to enjoin detachment from this world,"
+        },
+        {
+         "ar": "لأنَّه يرى أنَّ الاستكثار منها يُوجِبُ الهمَّ والغمَّ، ويقول: كلَّما كثُرَ التعلُّقُ بها، تألَّمت النَّفسُ بمفارقتها عند الموت، فكان هذا غايةَ زُهدهم في الدُّنيا.",
+         "en": "because they held that taking much of it brings worry and distress, and said: The more one is attached to it, the more the soul suffers at parting from it at death. That was the extent of their detachment from this world."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c67",
+     "pages": [
+      650,
+      651
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والقسم الثاني: من يُقرُّ بدارٍ بعد الموت للثَّواب والعقاب، وهم المنتسبون إلى شرائع المرسلين، وهم منقسمون إلى ثلاثة أقسام: ظالم لنفسه، ومقتصد، وسابق بالخيرات بإذن الله.",
+         "en": "The second group are those who affirm an abode of reward and punishment after death; they are those who adhere to the laws brought by the messengers. They are divided into three categories: one who wrongs himself, one who takes a middle course, and one who is foremost in good deeds by Allah's leave [Fāṭir 35:32]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c68",
+     "pages": [
+      651
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فالظالم لنفسه: هم الأكثرون منهم، وأكثرهم وقف مع زهرةِ الدُّنيا وزينتِها، فأخذها مِن غير وجهها، واستعملها في غيرِ وجهها،",
+         "en": "Those who wrong themselves are the majority of them. Most of them stop at the glitter and adornment of this world, taking it from other than its proper source and using it in other than its proper way."
+        },
+        {
+         "ar": "وصارت الدُّنيا أكبرَ همِّه، لها يغضب، وبها يرضى، ولها يُوالي، وعليها يُعادي، وهؤلاء هم أهلُ اللَّهو واللَّعب والزِّينة والتَّفاخر والتَّكاثر،",
+         "en": "This world has become their greatest concern: for it they grow angry and with it they are pleased; for it they befriend and over it they show enmity. These are the people of play, amusement, adornment, boasting and rivalry in increase."
+        },
+        {
+         "ar": "وكلُّهم لم يعرفِ المقصودَ من الدُّنيا، ولا أنَّها منزلُ سفرٍ يتزوَّدُ منها لِمَا بعدَها مِنْ دارِ الإقامة، وإنْ كان أحدُهم يُؤمِنُ بذلك إيماناً مجمَلاً،",
+         "en": "None of them has understood the purpose of this world, nor that it is a stopping place on a journey, from which one takes provision for the abode of residence after it; and even if one of them believes in that in a general way,"
+        },
+        {
+         "ar": "فهو لا يعرفه مفصَّلاً، ولا ذاقَ ما ذاقَهُ أهلُ المعرفة بالله في الدُّنيا ممَّا هو أنموذَجُ ما ادُّخر لهم في الآخرة.",
+         "en": "he does not know it in detail, nor has he tasted what those who know Allah taste in this world, which is a foretaste of what has been stored up for them in the Hereafter."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c69",
+     "pages": [
+      651
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والمقتصد منهم أخذَ الدُّنيا مِنْ وجوهها المباحَةِ، وأدَّى واجباتها، وأمسك لنفسه الزَّائِدَ على الواجب، يتوسَّعُ به في التمتُّع بشهواتِ الدُّنيا،",
+         "en": "The one who takes a middle course takes this world by its permissible means and fulfils its obligations, but keeps for himself what is beyond the obligatory, using it to enjoy the appetites of this world more amply."
+        },
+        {
+         "ar": "وهؤلاءِ قدِ اختُلف في دخولهم في اسم الزَّهادَةِ في الدُّنيا كما سبق ذكره، ولا عقاب عليهم في ذلك، إلاَّ أنَّه ينقصُ من درجاتهم من الآخرة بقدر توسُّعهم في الدُّنيا.",
+         "en": "There is disagreement, as mentioned above, over whether these fall under the name of detachment from this world. They are not punished for that, except that their degrees in the Hereafter are reduced in proportion to their indulgence in this world."
+        },
+        {
+         "ar": "قال ابن عمر: لا يصيبُ عبدٌ مِنَ الدُّنيا شيئاً إلاَّ نقص من درجاته عند الله، وإنْ كان عليه كريماً، خرَّجه ابنُ أبي الدُّنيا بإسنادٍ جيد.",
+         "en": "Ibn ʿUmar said: A servant gets nothing of this world but it reduces his degrees with Allah, even if he is honoured by Him. Ibn Abī al-Dunyā recorded it with a sound chain."
+        },
+        {
+         "ar": "وروي مرفوعاً من حديث عائشة بإسناد فيه نظر.",
+         "en": "It has been narrated as marfūʿ from the hadith of ʿĀʾishah, with a chain open to question."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c70",
+     "pages": [
+      651
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى الإمام أحمدُ في كتاب \" الزهد \" بإسناده: أنَّ رجلاً دخل على معاوية، فكساه، فخرج فمرَّ على أبي مسعود الأنصاري ورجلٍ آخر من الصَّحابة، فقال أحدهما له: خذها مِنْ حسناتِك، وقال الآخر: من طيِّباتك.",
+         "en": "Imam Aḥmad reported in Kitāb al-Zuhd, with his chain, that a man went in to Muʿāwiyah, who gave him clothes. He came out and passed by Abū Masʿūd al-Anṣārī and another of the Companions. One of them said to him: Take it out of your good deeds; and the other said: Out of your good things."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c71",
+     "pages": [
+      651
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وبإسناده عن عمر قال: لولا أنْ تنقص حسناتي لخالطتكم في لين عَيشِكُم، ولكنَّي سمعت الله عيَّرَ قوماً، فقال: {أَذْهَبْتُمْ طَيِّبَاتِكُمْ فِي حَيَاتِكُمُ الدُّنيا}.",
+         "en": "With his chain, from ʿUmar, who said: Were it not that my good deeds would be reduced, I would join you in your soft living; but I have heard Allah reproach a people, saying: “You used up your good things in your worldly life” [al-Aḥqāf 46:20]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c72",
+     "pages": [
+      652
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الفضيل بن عياض: إنْ شئت استَقِلَّ مِنَ الدُّنيا، وإنْ شئت استكثر منها فإنَّما تأخُذُ مِن كيسك.",
+         "en": "Al-Fuḍayl ibn ʿIyāḍ said: If you wish, take little of this world; and if you wish, take much of it; for you are only taking from your own purse."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c73",
+     "pages": [
+      652
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويشهد لهذا أنَّ الله عز وجل حرَّم على عباده أشياءَ مِنْ فضول شهواتِ الدُّنيا وزينتها وبهجتها، حيث لم يكونوا محتاجين إليه، وادَّخره لهم عنده في الآخرة، وقد وقعت الإشارة إلى هذا بقوله عز وجل:",
+         "en": "This is borne out by the fact that Allah, the Mighty and Majestic, has forbidden His servants some of the surplus pleasures, adornment and splendour of this world, since they had no need of them, and has stored them up for them with Him in the Hereafter. This is alluded to in His words, the Mighty and Majestic:"
+        },
+        {
+         "ar": "{وَلَوْلا أَنْ يَكُونَ النَّاسُ أُمَّةً وَاحِدَةً لَجَعَلْنَا لِمَنْ يَكْفُرُ بِالرحمان لِبُيُوتِهِمْ سُقُفاً مِنْ فِضَّةٍ وَمَعَارِجَ} إلى قوله: {وَإِنْ كُلُّ ذَلِكَ لَمَّا مَتَاعُ الْحَيَاةِ الدُّنيا وَالآخِرَةُ عِنْدَ رَبِّكَ لِلْمُتَّقِينَ}.",
+         "en": "“Were it not that mankind would become a single community, We would have made for those who disbelieve in the Most Merciful roofs of silver for their houses, and stairways…” — up to His words: “Yet all that is only the enjoyment of the life of this world, and the Hereafter with your Lord is for the God-fearing” [al-Zukhruf 43:33–35]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c74",
+     "pages": [
+      652
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وصحَّ عن النَّبيِّ صلى الله عليه وسلم أنَّه قال: «مَنْ لبس الحَريرَ في الدُّنيا، لم يلبسه في الآخرة»، و «من شرب الخمر في الدُّنيا لم يشربها في الآخرة».",
+         "en": "It is authentically reported that the Prophet ﷺ said: “Whoever wears silk in this world will not wear it in the Hereafter,” and “Whoever drinks wine in this world will not drink it in the Hereafter.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c75",
+     "pages": [
+      652
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال: «لا تلبَسوا الحريرَ ولا الدِّيباجَ، ولا تشربوا في آنية الذَّهبِ والفِضَّةِ، ولا تأكُلُوا في صحافها، فإنَّها لهم في الدُّنيا، ولكم في الآخرة».",
+         "en": "He also said: “Do not wear silk or brocade, and do not drink from vessels of gold and silver or eat from plates made of them; for they are theirs in this world and yours in the Hereafter.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c76",
+     "pages": [
+      652
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال وهب: إنَّ الله عز وجل قال لموسى عليه السلام: إنِّي لأذودُ أوليائي عن نعيم الدُّنيا ورخائها كما يذودُ الرَّاعي الشفيقُ إبِلَه عن مبارك العُرَّةِ،",
+         "en": "Wahb said: Allah, the Mighty and Majestic, said to Mūsā (peace be upon him): I keep My friends away from the comfort and ease of this world, as a caring shepherd keeps his camels away from places where mange is caught."
+        },
+        {
+         "ar": "وما ذلك لهوانهم عليَّ، ولكن ليستكملوا نصيبهم من كرامتي سالماً موفراً لم تَكْلَمْه الدُّنيا.",
+         "en": "That is not because they are lowly in My sight, but so that they may receive their full share of My honour, safe and complete, untouched by this world."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c77",
+     "pages": [
+      652,
+      653
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويشهد لهذا ما خرَّجه الترمذي عن قتادة بن النُّعمان، عن النَّبيِّ صلى الله عليه وسلم، قال: «إنَّ الله إذا أحبَّ عبداً حماه عَنِ الدُّنيا،",
+         "en": "This is borne out by what al-Tirmidhī recorded from Qatādah ibn al-Nuʿmān, from the Prophet ﷺ, who said: “When Allah loves a servant, He protects him from this world,"
+        },
+        {
+         "ar": "كما يَظَلُّ أحدُكُمْ يحمي سقيمَه الماءَ»، وخرَّجه الحاكم، ولفظه: «إنَّ الله ليحمي عبدَه الدُّنيا وهو يحبُّه، كما تحمُونَ مريضَكم الطَّعام والشراب، تخافون عليه».",
+         "en": "as one of you keeps water from his sick one.” Al-Ḥākim recorded it with the wording: “Allah protects His servant from this world while He loves him, as you keep food and drink from your sick ones, fearing for them.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c78",
+     "pages": [
+      653
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح مسلم \" عن عبد الله بن عمرو، عن النَّبيِّ صلى الله عليه وسلم، قال: «الدُّنيا سجنُ المؤمن، وجنَّة الكافر».",
+         "en": "In Ṣaḥīḥ Muslim, from ʿAbdullāh ibn ʿAmr, the Prophet ﷺ said: “This world is the believer's prison and the disbeliever's paradise.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c79",
+     "pages": [
+      653
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأمَّا السَّابقُ بالخيرات بإذن الله، فهمُ الَّذينَ فهِمُوا المرادَ مِنَ الدُّنيا، وعَمِلُوا بمقتضى ذلك، فعلموا أنَّ الله إنَّما أسكنَ عبادَه في هذه الدَّارِ، ليبلوهم أيُّهم أحسنُ عملاً،",
+         "en": "As for one who is foremost in good deeds by Allah's leave, they are those who have understood the purpose of this world and acted accordingly. They knew that Allah has settled His servants in this abode only to test them, which of them is best in deed,"
+        },
+        {
+         "ar": "كما قال: {وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ فِي سِتَّةِ أَيَّامٍ وَكَانَ عَرْشُهُ عَلَى الْمَاءِ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلاً}، وقال: {الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلاً}.",
+         "en": "as He says: “It is He who created the heavens and the earth in six days — and His Throne was upon the water — to test you, which of you is best in deed” [Hūd 11:7]; and: “who created death and life to test you, which of you is best in deed” [al-Mulk 67:2]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c80",
+     "pages": [
+      653
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال بعض السَّلف: أيهم أزهد في الدُّنيا، وأرغبُ في الآخرة، وجعل ما في الدُّنيا مِنَ البهجة والنُّضرة مِحنَةً، لينظر من يقف منهم معه، ويَركَن إليه،",
+         "en": "One of the Salaf said: [That is:] which of them is most detached from this world and most desirous of the Hereafter. He has made the splendour and freshness of this world a trial, to see which of them will stop at it and rely on it,"
+        },
+        {
+         "ar": "ومن ليس كذلك، كما قال تعالى: {إِنَّا جَعَلْنَا مَا عَلَى الأَرْضِ زِينَةً لَهَا لِنَبْلُوَهُمْ أَيُّهُمْ أَحْسَنُ عَمَلاً} ثم بين انقطاعه ونفاده، فقال: {وَإِنَّا لَجَاعِلُونَ مَا عَلَيْهَا صَعِيداً جُرُزاً}،",
+         "en": "and which will not, as the Exalted says: “We have made what is on the earth an adornment for it, to test them, which of them is best in deed” [al-Kahf 18:7]. Then He made clear that it would come to an end and run out, saying: “And We shall make what is on it a barren plain” [al-Kahf 18:8]."
+        },
+        {
+         "ar": "فلمَّا فهِموا أنَّ هذا هو المقصود مِنَ الدُّنيا، جعلوا همَّهم التزوُّدَ منها للآخرة التي هي دارُ القرار، واكتفوا مِنَ الدُّنيا بما يكتفي به المسافرُ في سفره،",
+         "en": "When they understood that this is the purpose of this world, they made it their concern to take provision from it for the Hereafter, which is the abode of permanence, and contented themselves with as much of this world as a traveller contents himself with on his journey,"
+        },
+        {
+         "ar": "كما كان النَّبيُّ صلى الله عليه وسلم يقول: «ما لي وللدُّنيا، إنَّما مثلي ومثل الدُّنيا كراكبٍ قالَ في ظلِّ شجرةٍ، ثم راح وتركها».",
+         "en": "as the Prophet ﷺ used to say: “What have I to do with this world? My likeness and that of this world is only that of a rider who took a midday rest in the shade of a tree, and then went on and left it.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c81",
+     "pages": [
+      653,
+      654
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ووصَّى صلى الله عليه وسلم جماعةً من الصحابة أنْ يكون بلاغُ أحدِهم مِنَ الدُّنيا كزادِ الراكب، منهم: سلمان، وأبو عبيدة بن الجراح،",
+         "en": "He ﷺ counselled a number of the Companions that each one's sufficiency from this world should be like a rider's provisions; among them were Salmān, Abū ʿUbaydah ibn al-Jarrāḥ,"
+        },
+        {
+         "ar": "وأبو ذرٍّ، وعائشة، ووصَّى ابنَ عمرَ أنْ يكونَ في الدُّنيا كأنَّه غريبٌ أو عابرُ سبيل، وأنْ يَعُدَّ نفسه من أهل القبور.",
+         "en": "Abū Dharr and ʿĀʾishah. And he counselled Ibn ʿUmar to be in this world as though he were a stranger or a wayfarer, and to count himself among the people of the graves."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c82",
+     "pages": [
+      654
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأهل هذه الدرجة على قسمين: منهم من يقتصرُ من الدُّنيا على قدر ما يسدُّ الرَّمق فقط، وهو حالُ كثيرٍ من الزُّهَّادِ.",
+         "en": "The people of this degree are of two kinds. Some limit themselves to as much of this world as keeps them alive and no more; this is the state of many of the ascetics."
+        },
+        {
+         "ar": "ومنهم من يفسح لنفسه أحياناً في تناول بعض شهواتِها المباحةِ؛",
+         "en": "Others sometimes allow themselves some of its permissible pleasures,"
+        },
+        {
+         "ar": "لتقوى النَّفسُ بذلك، وتنشَط للعملِ، كما روي عنِ النَّبيِّ صلى الله عليه وسلم: أنَّه قال: «حُبِّبَ إليَّ من دنياكمُ النِّساءُ والطِّيبُ، وجُعِلَتْ قُرَّةُ عيني في الصَّلاة» خرَّجه الإمام أحمد والنَّسائي من حديث أنس.",
+         "en": "so that the soul may be strengthened by that and become eager for work, as is narrated of the Prophet ﷺ that he said: “Of your world, women and perfume have been made dear to me, and the delight of my eye has been placed in prayer.” Imam Aḥmad and al-Nasāʾī recorded it from the hadith of Anas."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c83",
+     "pages": [
+      654
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد من حديث عائشة، قالت: كان رسول الله صلى الله عليه وسلم يحبُّ من الدُّنيا النِّساء والطِّيب والطعام، فأصاب من النِّساءِ والطِّيبِ، ولم يُصب من الطَّعامِ.",
+         "en": "Imam Aḥmad recorded, from the hadith of ʿĀʾishah, who said: Of this world the Messenger of Allah ﷺ loved women, perfume and food. He had his share of women and perfume, but not of food."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c84",
+     "pages": [
+      654
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال وهب: مكتوبٌ في حكمة آل داود عليه السلام: ينبغي للعاقل أنْ لا يَغْفُل عن أربع ساعاتٍ: ساعةٍ يُحاسِبُ فيها نفسه، وساعةٍ يُناجي فيها ربَّه، وساعةٍ يلقى فيها إخوانه الذين يُخبرونه بعيُوبه،",
+         "en": "Wahb said: It is written in the wisdom of the family of Dāwūd (peace be upon him): The intelligent man should not neglect four hours: an hour in which he calls himself to account, an hour in which he converses intimately with his Lord, an hour in which he meets his brothers who tell him of his faults"
+        },
+        {
+         "ar": "ويُصدقونه عن نفسه، وساعةٍ يُخلي بين نفسه وبين لذَّاتها فيما يحلُّ ويجمل، فإنَّ في هذه السَّاعة عوناً على تلك الساعات، وفضلَ بُلغة واستجماماً للقلوب، يعني: ترويحاً لها.",
+         "en": "and are truthful with him about himself, and an hour in which he leaves himself free to enjoy its pleasures in what is lawful and seemly. For this hour is a help towards those hours, an extra provision and a refreshing of the hearts — that is, giving them rest."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c85",
+     "pages": [
+      655
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومتى نوى المؤمن بتناول شهواته المباحة التقوِّي على الطاعة كانت شهواتُه له طاعة يُثابُ عليها، كما قال معاذ بن جبل:",
+         "en": "Whenever the believer intends, by enjoying his permissible appetites, to gain strength for obedience, his appetites become for him an act of obedience for which he is rewarded, as Muʿādh ibn Jabal said:"
+        },
+        {
+         "ar": "إنِّي لأحتسب نومتي كما أحتسب قومتي، يعني: أنَّه ينوي بنومه التَّقوِّي على القيام في آخر الليل، فيحتسِبُ ثوابَ نومهِ كما يحتسب ثواب قيامه.",
+         "en": "I hope for reward for my sleep as I hope for reward for my standing [in prayer]. He meant that by his sleep he intended to gain strength for standing in prayer at the end of the night, so he hoped for the reward of his sleep as he hoped for the reward of his standing."
+        },
+        {
+         "ar": "وكان بعضهم إذا تناول شيئاً من شهواته المباحة واسى منها إخوانَه، كما روي عن ابن المبارك أنَّه كان إذا اشتهى شيئاً لم يأكلْه حتّى يشتهيه بعضُ أصحابه، فيأكله معهم، وكان إذا اشتهى شيئاً، دعا ضيفاً له ليأكل معه.",
+         "en": "When some of them had some of their permissible pleasures, they would share them with their brothers. So it is narrated of Ibn al-Mubārak that when he desired something, he would not eat it until one of his companions desired it, and then he would eat it with them; and when he desired something, he would invite a guest to eat it with him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c86",
+     "pages": [
+      655
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكان يذكر عن الأوزاعي أنَّه قال: ثلاثة لا حسابَ عليهم في مطعمهم:",
+         "en": "It used to be related of al-Awzāʿī that he said: There are three who will have no reckoning for their food:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c87",
+     "pages": [
+      655
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "المتسحِّر، والصائم حين يفطر، وطعام الضيف.",
+         "en": "the one who eats the pre-dawn meal (saḥūr), the fasting person when he breaks his fast, and [the one who eats] the food of a guest."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c88",
+     "pages": [
+      655
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الحسن: ليس مِن حبك للدُّنيا طلبك ما يصلحك فيها، ومن زهدك فيها ترك الحاجة يسدها عنك تركها، ومن أحبَّ الدُّنيا وسرَّته، ذهب خوفُ الآخرة من قلبه.",
+         "en": "Al-Ḥasan said: It is not part of your love of this world to seek what puts you right in it; and it is part of your detachment from it to give up a need when giving it up serves you as well as meeting it. When a person loves this world and is delighted by it, fear of the Hereafter leaves his heart."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c89",
+     "pages": [
+      655
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال سعيد بن جبير: متاعُ الغرور ما يُلهيك عن طلب الآخرة، وما لم يُلهك فليس بمتاع الغرور، ولكنَّه متاعُ بلاغٍ إلى ما هو خيرٌ منه.",
+         "en": "Saʿīd ibn Jubayr said: The enjoyment of delusion is whatever distracts you from seeking the Hereafter; whatever does not distract you is not the enjoyment of delusion, but an enjoyment that brings you to something better than it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c90",
+     "pages": [
+      655
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال يحيى بنُ معاذ الرازي: كيف لا أُحِبُّ دنيا قُدِّر لي فيها قوتٌ، أكتسب بها حياةً، أُدركُ بها طاعةً، أنالُ بها الآخرة.",
+         "en": "Yaḥyā ibn Muʿādh al-Rāzī said: How could I not love a world in which a sustenance has been decreed for me, by which I gain a life, by which I attain obedience, by which I reach the Hereafter?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c91",
+     "pages": [
+      655
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وسئل أبو صفوان الرّعيني - وكان من العارفين -: ما هي الدُّنيا التي ذمَّها الله في القرآن التي ينبغي للعاقل أنْ يجتنبها؟",
+         "en": "Abū Ṣafwān al-Ruʿaynī — who was one of those who know Allah — was asked: What is the world that Allah has censured in the Qurʾān, which the intelligent person should avoid?"
+        },
+        {
+         "ar": "فقال: كلُّ ما أصبت في الدُّنيا تريدُ به الدُّنيا، فهو مذمومٌ، وكلُّ ما أَصبتَ فيها تريدُ به الآخرة، فليس منها.",
+         "en": "He said: Everything you obtain in this world by which you seek this world is censured, and everything you obtain in it by which you seek the Hereafter is not part of it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c92",
+     "pages": [
+      655,
+      656
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الحسن: نعمت الدار كانت الدُّنيا للمؤمن، وذلك أنَّه عمل قليلاً، وأخذ زاده منها إلى الجنَّة، وبئست الدار كانت للكافر والمنافق، وذلك أنَّه ضيَّع لياليه، وكان زادُه منها إلى النار.",
+         "en": "Al-Ḥasan said: What an excellent abode this world was for the believer! For he did a little work and took from it his provision for Paradise. And what an evil abode it was for the disbeliever and the hypocrite! For he squandered his nights, and his provision from it was for the Fire."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c93",
+     "pages": [
+      656
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أيفع بنُ عبدٍ الكَلاعيُّ: قال رسول الله صلى الله عليه وسلم: «إذا دخل أهل الجنَّةِ الجنَّة وأهل النار النارَ، قال الله: يا أهل الجنة، كَمْ لَبِثْتُم في الأرضِ عَدَدَ سِنين؟",
+         "en": "Ayfaʿ ibn ʿAbd al-Kalāʿī said: The Messenger of Allah ﷺ said: “When the people of Paradise have entered Paradise and the people of the Fire the Fire, Allah will say: People of Paradise, how many years did you remain on earth?"
+        },
+        {
+         "ar": "قالوا: لَبِثْنَا يَوماً أَوْ بَعْضَ يَومٍ، قال: نعم ما اتجرتم في يومٍ أو بعض يوم، رحمتي ورضواني وجنتي، امكثوا فيها خالدين مخلدين، ثم يقول لأهل النار: كم لبثتم في الأرض عددَ سنين؟",
+         "en": "They will say: We remained a day or part of a day. He will say: How well you traded in a day or part of a day: My mercy, My good pleasure and My Paradise. Remain in it, abiding for ever. Then He will say to the people of the Fire: How many years did you remain on earth?"
+        },
+        {
+         "ar": "قالوا: لبثنا يوماً أو بعض يوم، فيقول: بئس ما اتَّجرتم في يومٍ أو بعض يومٍ، سخطي ومعصيتي وناري، امكثوا فيها خالدين مخلدينَ».",
+         "en": "They will say: We remained a day or part of a day. He will say: How badly you traded in a day or part of a day: My anger, disobedience to Me and My Fire. Remain in it, abiding for ever.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c94",
+     "pages": [
+      656
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الحاكم من حديث عبد الجبَّار بن وهب، أنبأنا سعدُ بن طارق، عن أبيه، عن النَّبيِّ صلى الله عليه وسلم، قال: «نعمتِ الدَّارُ الدُّنيا لمن تزوَّد منها لآخرته حتّى يُرضِيَ ربَّهُ، وبئستِ الدَّارُ لمن صدَّته عن آخرته،",
+         "en": "Al-Ḥākim recorded, from the hadith of ʿAbd al-Jabbār ibn Wahb: Saʿd ibn Ṭāriq informed us, from his father, that the Prophet ﷺ said: “What an excellent abode this world is for one who takes provision from it for his Hereafter until he pleases his Lord; and what an evil abode for one whom it turns away from his Hereafter"
+        },
+        {
+         "ar": "وقصَّرت به عن رضا ربِّه، وإذا قال العبد: قبَّحَ الله الدُّنيا، قالت الدُّنيا: قبَّح الله أعصانا لربِّه» وقال: صحيح الإسناد،",
+         "en": "and keeps from his Lord's good pleasure. When the servant says, ‘May Allah make this world ugly!’, the world says: ‘May Allah make ugly whichever of us is more disobedient to his Lord!’” He said: Its chain is authentic."
+        },
+        {
+         "ar": "وخرَّجه العقيلي، وقال: عبد الجبار بن وهب مجهول وحديثُه غير محفوظ، قال: وهذا الكلام يُروى عن عليٍّ من قوله.",
+         "en": "Al-ʿUqaylī recorded it and said: ʿAbd al-Jabbār ibn Wahb is unknown, and his hadith is not preserved. He said: These words are narrated from ʿAlī as his own."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c95",
+     "pages": [
+      656,
+      657
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقول عليٍّ خرَّجه ابنُ أبي الدُّنيا عنه بإسنادٍ فيه نظر: أنَّ علياً سمع رجلاً يسبُّ الدُّنيا، فقال: إنَّها لدارُ صدق لمن صدقها، ودارُ عافيةٍ لمن فهم عنها، ودارُ غنى لمن تزوَّد منها، مسجد أحبَّاءِ الله، ومهبِطُ وحيِهِ،",
+         "en": "As for ʿAlī's words, Ibn Abī al-Dunyā recorded them from him with a chain open to question: ʿAlī heard a man reviling this world and said: It is an abode of truthfulness for whoever is truthful with it, an abode of well-being for whoever understands it, an abode of wealth for whoever takes provision from it; the place of prostration of Allah's beloved ones, the place where His revelation descends,"
+        },
+        {
+         "ar": "ومُصَلّى ملائكتِهِ، ومتجَرُ أوليائه، اكتسبوا فيها الرَّحمَةَ وربحُوا فيها الجَنَّة، فمن ذا يذمُّ الدُّنيا وقد آذنت بفراقها، ونادت بعيبها،",
+         "en": "the place of prayer of His angels and the place of trade of His friends, who earned mercy in it and gained Paradise as their profit in it. Who then censures this world, when it has announced its departure, proclaimed its faults,"
+        },
+        {
+         "ar": "ونعت نفسها وأهلَها، فمثَّلت ببلائها البلاءَ، وشوَّقت بسرُورها إلى السُّرور، فذمَّها قومٌ عندَ النَّدامة، وحمِدها آخرون، حدَّثتهم فصدقوا، وذكَّرتهم فذكروا؟",
+         "en": "and described itself and its people, showing by its affliction a likeness of the affliction [to come], and by its joy arousing longing for the joy [to come]? Some censured it at the moment of regret, while others praised it: it spoke to them and they believed, it reminded them and they took heed."
+        },
+        {
+         "ar": "فيا أيُّها المغترُّ بالدُّنيا، المغترُّ بغرورها، متى استلامت إليك الدُّنيا؟",
+         "en": "You who are deluded by this world, beguiled by its beguilement, when did this world ever give you cause to blame it?"
+        },
+        {
+         "ar": "بل متى غرَّتك؟",
+         "en": "Or rather, when did it deceive you?"
+        },
+        {
+         "ar": "أبمضاجعِ آبائك مِنَ الثرى؟",
+         "en": "With the resting places of your fathers in the dust?"
+        },
+        {
+         "ar": "أم بمصارع أُمَّهاتك منَ البلى؟",
+         "en": "Or with the places where your mothers fell into decay?"
+        },
+        {
+         "ar": "كم قد قلَّبت بكفيك، ومرَّضت بيديك تطلب له الشِّفاءَ، وتسأل له الأطباء، فلم تظفر بحاجتك، ولم تُسعَفْ بطلبَتِكَ، قد مثَّلت لك الدُّنيا بمصرعه مصرَعَك غداً، ولا يُغني عنك بكاؤك، ولا ينفعُك أحبَّاؤك.",
+         "en": "How many a sick man have you turned with your palms and nursed with your hands, seeking a cure for him and asking the physicians on his behalf, yet you did not attain your need and were not granted your request! By his death this world has shown you a likeness of your own death tomorrow, when your weeping will not avail you and your loved ones will not benefit you."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c96",
+     "pages": [
+      657
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فبين أميرُ المؤمنين رضي الله عنه أنَّ الدُّنيا لا تُذَمُّ مطلقاً، وأنَّها تُحمدُ بالنِّسبة إلى من تزوَّد منها الأعمال الصالحة،",
+         "en": "So the Commander of the Believers (may Allah be pleased with him) made clear that this world is not to be censured absolutely, and that it is praiseworthy for whoever takes righteous deeds from it as provision;"
+        },
+        {
+         "ar": "وأنَّ فيها مساجدَ الأنبياءِ، ومهبطَ الوحي، وهي دار التِّجارة للمؤمنين، اكتسبوا فيها الرَّحمة، وربحوا بها الجَنَّة، فهي نِعمَ الدَّارُ لمن كانت هذه صفَته.",
+         "en": "that in it are the places of prostration of the prophets and the place where revelation descends; and that it is the abode of trade for the believers, who earned mercy in it and gained Paradise through it as their profit. So it is an excellent abode for whoever has this description."
+        },
+        {
+         "ar": "وأمَّا ما ذكر من أنَّها تَغُرُّ وتخدَعُ، فإنَّها تُنادي بمواعظها، وتنصحُ بعبرها، وتُبدي عيوبَها بما تُري أهلها من مصارع الهلكى، وتقلُّبِ الأحوال مِنَ الصِّحَّة إلى السَّقم،",
+         "en": "As for what is said about its deluding and deceiving, it calls out with its admonitions and gives sincere counsel by its lessons, and it shows its faults by what it lets its people see of the places where the perishing fall, and of the turning of states from health to sickness,"
+        },
+        {
+         "ar": "ومِنَ الشَّبيبة إلى الهرم، ومن الغنى إلى الفقر، ومن العِزِّ إلى الذُّلِّ، لكنَّ مُحِبَّها قد أصمَّه وأعماه حبُّها، فهو لا يسمع نداءها، كما قيل:",
+         "en": "from youth to old age, from wealth to poverty and from might to abasement. But the one who loves it has been deafened and blinded by his love of it, so that he does not hear its call, as it has been said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c97",
+     "pages": [
+      657
+     ],
+     "paragraphs": [
+      {
+       "kind": "verse",
+       "segments": [
+        {
+         "ar": "قدْ نادَتِ الدُّنيا على نَفسِها … لَوْ كانَ في العَالَمِ مَنْ يَسمَعُ",
+         "en": "This world has proclaimed its own nature, / if only there were someone in the world to hear:"
+        },
+        {
+         "ar": "كَمْ وَاثِقٍ بالعُمْرِ أَفْنَيتُهُ … وجَامِعٍ بَدَّدَتُ ما يَجْمَعُ",
+         "en": "How many who trusted in life I have brought to an end, / and how many a hoarder whose hoard I have scattered!"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c98",
+     "pages": [
+      657
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال يحيى بنُ معاذ: لو يسمع الخلائقُ صوتَ النِّياحةِ على الدُّنيا في الغيبِ من ألسنةِ الفناءِ، لتساقطت القلوبُ منهم حُزناً.",
+         "en": "Yaḥyā ibn Muʿādh said: If creatures heard the sound of the lamentation over this world, in the unseen, from the tongues of extinction, their hearts would fall from them in grief."
+        },
+        {
+         "ar": "وقال بعضُ الحكماء: الدُّنيا أمثالٌ تضرِبُها الأيَّامُ للأنام، وعلمُ الزَّمان لا يحتاجُ إلى تَرجُمان، وبحبِّ الدُّنيا صُمَّتْ أسماعُ القلوب عنِ المواعظ، وما أحثَّ السائقَ لو شعرَ الخلائقُ.",
+         "en": "One of the sages said: This world is a set of parables that the days strike for mankind; the knowledge that time teaches needs no interpreter; through love of this world the ears of the hearts have been deafened to admonitions; and how hard the driver urges us on, if only creatures perceived it!"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c99",
+     "pages": [
+      657
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأهل الزُّهد في فضول الدُّنيا أقسام: فمنهم من يحصلُ له، فيمسكه ويتقرَّبُ به إلى الله، كما كان كثيرٌ مِنَ الصَّحابة وغيرهم،",
+         "en": "Those who are detached from the surplus of this world are of several kinds. Some obtain it and hold on to it, seeking nearness to Allah by it, as many of the Companions and others did."
+        },
+        {
+         "ar": "قال أبو سليمان: كان عثمان وعبد الرحمان بن عوف خازنين من خزان الله في أرضه، يُنفقان في طاعته، وكانت معاملتُهما لله بقلوبِهما.",
+         "en": "Abū Sulaymān said: ʿUthmān and ʿAbd al-Raḥmān ibn ʿAwf were two of Allah's treasurers on His earth, spending in obedience to Him, and their dealing with Allah was with their hearts."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c100",
+     "pages": [
+      658
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنهم من يُخرجه مِنْ يده، ولا يُمسكه، وهؤلاء نوعان: منهم من يُخرجه اختياراً وطواعية، ومنهم من يُخرجهُ ونفسه تأبى إخراجه، ولكن يُجاهدُها على ذلك.",
+         "en": "Others put it out of their hands and do not hold on to it. These are of two types: some put it out by choice and willingly, and some put it out though their souls resist, struggling against them to do it."
+        },
+        {
+         "ar": "وقد اختُلف في أيِّهما أفضل، فقال ابنُ السَّماك والجنيد: الأوَّل أفضلُ، لتحقُّق نفسه بمقامِ السَّخاءِ والزُّهد، وقال ابن عطاء: الثَّاني أفضل؛",
+         "en": "There is disagreement over which of the two is better. Ibn al-Sammāk and al-Junayd said: The first is better, because his soul has truly attained the station of generosity and zuhd. Ibn ʿAṭāʾ said: The second is better,"
+        },
+        {
+         "ar": "لأنَّ له عملاً ومجاهدة.",
+         "en": "because he has both effort and struggle to his credit."
+        },
+        {
+         "ar": "وفي كلام الإمام أحمد ما يدلُّ عليه أيضاً.",
+         "en": "There is also something in the words of Imam Aḥmad that indicates this."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c101",
+     "pages": [
+      658
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنهم من لم يحصُل له شيءٌ مِنَ الفُضولِ، وهو زاهدٌ في تحصيله، إمَّا مع قدرته، أو بدونها، والأوَّل أفضلُ مِنْ هذا،",
+         "en": "Others obtain nothing of the surplus, and are detached from acquiring it, whether they are able to acquire it or not. The first [kind] is better than this,"
+        },
+        {
+         "ar": "ولهذا قال كثيرٌ مِنَ السَّلفِ: إنَّ عمرَ ابن عبد العزيز كان أزهدَ مِنْ أويس ونحوه، كذا قال أبو سليمان وغيرُه.",
+         "en": "and that is why many of the Salaf said that ʿUmar ibn ʿAbd al-ʿAzīz was more detached than Uways and those like him; so said Abū Sulaymān and others."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c102",
+     "pages": [
+      658
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكان مالكُ بنُ دينار يقولُ: الناسُ يقولون: مالكٌ زاهدٌ، إنَّما الزَّاهدُ عمر ابن عبد العزيز.",
+         "en": "Mālik ibn Dīnār used to say: People say Mālik is a zāhid; the zāhid is only ʿUmar ibn ʿAbd al-ʿAzīz."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c103",
+     "pages": [
+      658
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد اختلف العلماء: أيُّما أفضلُ: من طلبَ الدُّنيا منَ الحلال، ليصل رحمَه، ويقدِّم منها لنفسه، أم من تركها فلم يطلبها بالكُليَّة؟",
+         "en": "The scholars have differed over which is better: one who seeks this world from what is lawful in order to keep ties with his kin and send something ahead for himself, or one who leaves it and does not seek it at all."
+        },
+        {
+         "ar": "فرجَّحت طائفةٌ من تركها وجانبها، منهم: الحسن وغيره، ورجَّحت طائفةٌ من طلبها على ذلك الوجه، منهم: النخعي وغيره، وروي عن الحسن عنه نحوه.",
+         "en": "One group, among them al-Ḥasan and others, preferred the one who leaves it and keeps away from it; another group, among them al-Nakhaʿī and others, preferred the one who seeks it in that way; and something like this has also been narrated from al-Ḥasan."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c104",
+     "pages": [
+      658
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والزَّاهدون في الدُّنيا بقلوبهم لهم ملاحظُ ومشاهدُ يشهدونها، فمنهم من يشهدُ كثرةَ التَّعب بالسَّعي في تحصيلها، فهو يزهدُ فيها قصداً لراحةِ نفسه.",
+         "en": "Those who are detached from this world in their hearts look at it from different points of view, each contemplating something in particular. Some see how much toil there is in striving to acquire it, so they are detached from it in order to give themselves rest."
+        },
+        {
+         "ar": "قال الحسن: الزُّهد في الدُّنيا يُريح القلب والبدن.",
+         "en": "Al-Ḥasan said: Detachment from this world gives rest to the heart and the body."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c105",
+     "pages": [
+      658
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنهم من يخافُ أنْ ينقصَ حظُّه من الآخرة بأخذ فضولِ الدُّنيا.",
+         "en": "Some fear that their share of the Hereafter will be reduced by taking the surplus of this world."
+        },
+        {
+         "ar": "ومنهم من يخافُ من طُولِ الحساب عليها، قال بعضهم: من سأل الله الدُّنيا، فإنَّما يسأل طولَ الوُقوفِ للحساب.",
+         "en": "Some fear the long reckoning for it. One of them said: Whoever asks Allah for this world is only asking for a long standing at the reckoning."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c106",
+     "pages": [
+      658,
+      659
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنهم من يشهدُ كثرةَ عُيوبِ الدُّنيا، وسرعة تقلُّبها وفنائها، ومزاحمةَ الأراذِلِ في طلبها، كما قيل لبعضهم: ما الذي زهَّدكَ في الدُّنيا؟",
+         "en": "Some see how many faults this world has, how quickly it changes and passes away, and how the base crowd one in seeking it. Thus one of them was asked: What made you detached from this world?"
+        },
+        {
+         "ar": "قالَ: قلَّةُ وفائها، وكثرةُ جفائها، وخسة شُركائها.",
+         "en": "He said: Its little loyalty, its great harshness and the baseness of its partners."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c107",
+     "pages": [
+      659
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنهم من كان ينظر إلى حقارةِ الدُّنيا عند الله، فيقذرها، كما قال الفضيلُ: لو أنَّ الدُّنيا بحذافيرها عرضت عليَّ حلالاً لا أحاسب بها في الآخرة، لكنت أتقذرها كما يتقذر الرَّجلُ الجيفةَ إذا مرَّ بها أنْ تصيبَ ثوبه.",
+         "en": "Some look at the worthlessness of this world in Allah's sight and find it repugnant, as al-Fuḍayl said: If the whole of this world were offered to me lawfully, with no reckoning for it in the Hereafter, I would still find it as repugnant as a man finds a carcass he passes, lest it touch his garment."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c108",
+     "pages": [
+      659
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنهم من كان يخافُ أنْ تشغلَه عن الاستعدادِ للآخرة والتزوُّدِ لها.",
+         "en": "Some fear that it will distract them from preparing for the Hereafter and taking provision for it."
+        },
+        {
+         "ar": "قال الحسن: إنْ كان أحدهم ليعيش عمره مجهوداً شديدَ الجهد، والمالُ الحلال إلى جنبه، يقال له: ألا تأتي هذا فتُصيب منه؟",
+         "en": "Al-Ḥasan said: One of them would live his whole life in hardship and great strain, with lawful wealth beside him, and would be told: Will you not go to this and take some of it?"
+        },
+        {
+         "ar": "فيقول: لا والله لا أفعل، إنِّي أخافُ أنْ آتيه، فأصيبَ منه، فيكون فسادَ قلبي وعملي.",
+         "en": "And he would say: No, by Allah, I will not. I fear that if I go to it and take some of it, it will be the ruin of my heart and my deeds."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c109",
+     "pages": [
+      659
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وبُعِثَ إلى عمر بن المنكدر بمالٍ، فبكى، واشتدَّ بكاؤه، وقال: خشيت أنْ تغلب الدُّنيا على قلبي، فلا يكون للآخرة فيه نصيب، فذلك الذي أبكاني، ثم أمر به، فتُصُدِّقَ به على فقراء أهل المدينة.",
+         "en": "Wealth was sent to ʿUmar ibn al-Munkadir, and he wept, weeping hard, and said: I feared that this world would overcome my heart and leave no share in it for the Hereafter; that is what made me weep. Then he gave orders for it, and it was given in charity to the poor of Madīnah."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c110",
+     "pages": [
+      659
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخواص هؤلاء يخشى أنْ يشتغلَ بها عن اللهِ، كما قالت رابعة: ما أحبُّ أنَّ لي الدُّنيا كلَّها مِنْ أوَّلها إلى آخرها حلالاً، وأنا أنفقُها في سبيل الله، وأنَّها شغلتني عنِ الله طرفةَ عينٍ.",
+         "en": "The elect among these fear being distracted by it from Allah, as Rābiʿah said: I would not like to have the whole of this world, from its beginning to its end, lawfully, and spend it in the path of Allah, if it distracted me from Allah for the blink of an eye."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c111",
+     "pages": [
+      659
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أبو سليمان: الزهد ترك ما يشغل عن الله.",
+         "en": "Abū Sulaymān said: Zuhd is giving up whatever distracts from Allah."
+        },
+        {
+         "ar": "وقال: كلُّ ما شغلك عن اللهِ مِنْ أهلٍ ومالٍ وولدٍ، فهو مشؤوم.",
+         "en": "He also said: Whatever distracts you from Allah — family, wealth or children — is an ill omen for you."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c112",
+     "pages": [
+      659
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال: أهلُ الزُّهد في الدُّنيا على طبقتين: منهم من يزهدُ في الدُّنيا، فلا يُفْتَحُ له فيها روح الآخرة، ومنهم من إذا زَهِدَ فيها، فُتحَ له فيها روحُ الآخرة، فليس شيءٌ أحبَّ إليه من البقاء ليطيع الله.",
+         "en": "He also said: The people of detachment from this world are of two levels. Some are detached from this world, yet the refreshment of the Hereafter is not opened to them in it; and some, when they become detached from it, have the refreshment of the Hereafter opened to them in it, so that nothing is dearer to them than remaining, in order to obey Allah."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c113",
+     "pages": [
+      659
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال: ليس الزاهد من ألقى همومَ الدُّنيا، واستراح منها، إنَّما الزَّاهد من زَهِدَ في الدُّنيا، وتعب فيها للآخرة.",
+         "en": "He also said: The zāhid is not one who has thrown off the worries of this world and rested from them; the zāhid is only one who is detached from this world and toils in it for the Hereafter."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c114",
+     "pages": [
+      660
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فالزُّهد في الدُّنيا يُرادُ به تفريغُ القلب منَ الاشتغال بها؛",
+         "en": "So detachment from this world means emptying the heart of preoccupation with it,"
+        },
+        {
+         "ar": "ليتفرَّغ لِطلب الله، ومعرفته، والقرب منه، والأُنس به، والشَّوقِ إلى لقائه، وهذه الأمورُ ليست مِنَ الدُّنيا كما كان النَّبيُّ صلى الله عليه وسلم يقول:",
+         "en": "so that it is free to seek Allah, to know Him, to draw near to Him, to find intimacy with Him and to long to meet Him. These things are not part of this world, as the Prophet ﷺ used to say:"
+        },
+        {
+         "ar": "«حُبِّبَ إلي من دُنياكم النِّساءُ والطِّيبُ، وجُعلت قرَّةُ عيني في الصَّلاة»، ولم يجعل الصَّلاةَ ممَّا حُبِّبَ إليه مِنَ الدُّنيا،",
+         "en": "“Of your world, women and perfume have been made dear to me, and the delight of my eye has been placed in prayer”; he did not count prayer among the things of this world that were made dear to him."
+        },
+        {
+         "ar": "كذا في \" المسند \" و\" النسائي \"، وأظنُّه وقع في غيرهما: «حبِّبَ إليَّ من دنياكم ثلاث»، فأدخل الصلاة في الدُّنيا، ويشهدُ لذلك حديث:",
+         "en": "So it is in the Musnad and al-Nasāʾī; I think that elsewhere it occurs as “Of your world three things have been made dear to me,” which counts prayer as part of this world. Supporting this is the hadith:"
+        },
+        {
+         "ar": "«الدُّنيا ملعونةٌ، ملعونٌ ما فيها، إلاَّ ذكر الله وما والاه، أو عالماً أو متعلماً» خرَّجه ابن ماجه والترمذي، وحسَّنه من حديث أبي هريرة مرفوعاً.",
+         "en": "“This world is cursed, and cursed is what is in it, except the remembrance of Allah and what goes with it, or a scholar or a student.” Ibn Mājah and al-Tirmidhī recorded it from the hadith of Abū Hurayrah as marfūʿ, and al-Tirmidhī graded it ḥasan."
+        },
+        {
+         "ar": "وروي نحوه من غير وجه مرسلاً ومتصلاً.",
+         "en": "Something similar has been narrated by other routes, both mursal and connected."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c115",
+     "pages": [
+      660
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الطبراني من حديث أبي الدرداء مرفوعاً قال: «الدُّنيا ملعونةٌ، ملعونٌ ما فيها إلا ما ابتُغِيَ به وجه الله».",
+         "en": "Al-Ṭabarānī recorded, from the hadith of Abū al-Dardāʾ as marfūʿ: “This world is cursed, and cursed is what is in it, except what is sought by it for the Face of Allah.”"
+        },
+        {
+         "ar": "وخرَّجه ابنُ أبي الدُّنيا موقوفاً،",
+         "en": "Ibn Abī al-Dunyā recorded it as mawqūf,"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c116",
+     "pages": [
+      660
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه أيضاً من رواية شهر بن حوشب، عن عبادة، أراه رفعه، قال : «يُؤتى بالدُّنيا يومَ القيامة، فيقال: مِيزوا منها ما كان لله عز وجل، وألقوا سائرها في النار».",
+         "en": "and he also recorded, through the narration of Shahr ibn Ḥawshab, from ʿUbādah — I think he raised it to the Prophet ﷺ — that he said: “This world will be brought on the Day of Resurrection, and it will be said: Pick out from it whatever was for Allah, the Mighty and Majestic, and throw the rest into the Fire.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c117",
+     "pages": [
+      661
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فالدُّنيا وكلُّ ما فيها ملعونة، أي: مُبعدَةٌ عن الله؛",
+         "en": "So this world and everything in it is cursed, that is, kept far from Allah,"
+        },
+        {
+         "ar": "لأنَّها تَشغلُ عنه، إلاَّ العلمَ النَّافع الدَّالَّ على الله، وعلى معرفته، وطلب قُرْبِه ورضاه، وذكر الله وما والاه ممَّا يُقَرِّبُ مِنَ الله، فهذا هو المقصودُ مِنَ الدُّنيا،",
+         "en": "because it distracts from Him — except beneficial knowledge that leads to Allah, to knowing Him and to seeking His nearness and good pleasure, and the remembrance of Allah and what goes with it of things that bring one near to Allah. This is what this world is for,"
+        },
+        {
+         "ar": "فإنَّ الله إنَّما أمرَ عبادَه بأنْ يتَّقوه ويُطيعوه، ولازِمُ ذلك دوامُ ذكره، كما قال ابن مسعود: تقوى الله حقّ تقواه أنْ يُذكَرَ فلا يُنسى.",
+         "en": "for Allah has commanded His servants only to fear Him and obey Him, and that necessarily entails remembering Him constantly, as Ibn Masʿūd said: To fear Allah as He truly deserves to be feared is that He be remembered and not forgotten."
+        },
+        {
+         "ar": "وإنَّما شرعَ الله أقام الصَّلاةِ لذكره، وكذلك الحج والطَّواف.",
+         "en": "Allah prescribed keeping up the prayer only for His remembrance, and likewise the Ḥajj and circumambulation."
+        },
+        {
+         "ar": "وأفضلُ أهل العبادات أكثرُهم ذكراً لله فيها، فهذا كلُّه ليس مِنَ الدُّنيا المذمومة، وهو المقصودُ من إيجاد الدُّنيا وأهلها، كما قال تعالى: {وَمَا خَلَقْتُ الْجِنَّ وَالإنْسَ إِلاَّ لِيَعْبُدُونِ}.",
+         "en": "The best of the people of worship are those who remember Allah most in it. None of this belongs to the censured world; rather, it is the purpose for which this world and its people were brought into being, as the Exalted says: “I did not create the jinn and mankind except to worship Me” [al-Dhāriyāt 51:56]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c118",
+     "pages": [
+      661
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد ظنَّ طوائفُ مِنَ الفقهاء والصُّوفيَّة أنَّ ما يُوجدُ في الدُّنيا مِنْ هذه العبادات أفضلُ ممَّا يُوجد في الجنَّة مِنَ النَّعيم، قالوا: لأنَّ نعيمَ الجنَّةِ حقُّ العبد، والعباداتُ في الدُّنيا حقُّ الربِّ،",
+         "en": "Groups of jurists and Sufis have thought that these acts of worship found in this world are better than the bliss found in Paradise. They said: That is because the bliss of Paradise is the servant's right, while the acts of worship in this world are the Lord's right,"
+        },
+        {
+         "ar": "وحقُّ الربِّ أفضلُ من حظِّ العبد، وهذا غلطٌ، ويقوِّي غلطَهم قولُ كثيرٍ من المفسِّرين في قوله: {مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ خَيْرٌ مِنْهَا} قالوا: الحسنةُ: لا إله إلا الله، وليس شيءٌ خيراً منها.",
+         "en": "and the Lord's right is better than the servant's portion. This is a mistake. Their mistake is reinforced by what many of the exegetes say about His words, “Whoever brings a good deed will have better than it” [al-Naml 27:89; al-Qaṣaṣ 28:84]: they said that the good deed is lā ilāha illā Allāh, and nothing is better than it."
+        },
+        {
+         "ar": "ولكنَّ الكلامَ على التَّقديم والتَّأخير، والمراد: فله منها خيرٌ، أي: له خيرٌ بسببها ولأجلها.",
+         "en": "But the phrase is to be read with its words rearranged, and what is meant is: he will have good from it, that is, he will have good because of it and for its sake."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c119",
+     "pages": [
+      661
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والصَّوابُ إطلاقُ ما جاءت به نصوصُ الكتاب والسُّنة أنَّ الآخرة خيرٌ مِنَ الأُولى مطلقاً.",
+         "en": "The correct position is to state without qualification what the texts of the Book and the Sunnah have brought: that the Hereafter is better than this first life, without qualification."
+        },
+        {
+         "ar": "وفي \" صحيح الحاكم \" عن المستورد بن شدَّادٍ، قال: كنَّا عندَ النَّبيِّ صلى الله عليه وسلم، فتذاكروا الدُّنيا والآخرة، فقال بعضهم: إنَّما الدُّنيا بلاغٌ للآخرة، وفيها العمل، وفيها الصلاةُ، وفيها الزَّكاةُ.",
+         "en": "In al-Ḥākim's Ṣaḥīḥ, from al-Mustawrid ibn Shaddād, who said: We were with the Prophet ﷺ, and they discussed this world and the Hereafter. Some of them said: This world is only a means of reaching the Hereafter; in it are deeds, in it is prayer, in it is zakāh."
+        },
+        {
+         "ar": "وقالت طائفة منهم: الآخرةُ فيها الجنَّةُ، وقالوا ما شاء الله، فقال رسول الله صلى الله عليه وسلم: «ما الدُّنيا في الآخرة إلاَّ كما يَمشي أحدكم إلى اليمِّ،",
+         "en": "Another group of them said: The Hereafter has Paradise in it; and they said what Allah willed. The Messenger of Allah ﷺ said: “This world compared with the Hereafter is only as if one of you walked to the sea"
+        },
+        {
+         "ar": "فأدخل إصبعه فيه، فما خرج منه، فهو الدُّنيا»، فهذا نصٌّ بتفضيل الآخرة على الدُّنيا، وما فيها من الأعمال.",
+         "en": "and put his finger in it; whatever comes out with it is this world.” This is an explicit text preferring the Hereafter over this world and the deeds that are in it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c120",
+     "pages": [
+      662
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ووجه ذلك: أنَّ كمالَ الدُّنيا إنَّما هو في العلم والعمل، والعلمُ مقصودُ الأعمالِ، يتضاعف في الآخرة بما لا نسبةَ لِمَا في الدُّنيا إليه،",
+         "en": "The reason for this is that the perfection of this world lies only in knowledge and action, and knowledge, which is the aim of the deeds, is multiplied in the Hereafter beyond any comparison with what is in this world."
+        },
+        {
+         "ar": "فإنَّ العلم أصلُه العلمُ بالله وأسمائه وصفاته، وفي الآخرة ينكشفُ الغِطاءُ، ويصيرُ الخبر عياناً، ويصيرُ علمُ اليقين عينَ اليقين، وتصيرُ المعرفةُ بالله رؤيةً له ومشاهدةً، فأين هذا مما في الدُّنيا؟",
+         "en": "For the root of knowledge is knowing Allah, His names and His attributes; and in the Hereafter the veil is lifted, report becomes sight, knowledge of certainty becomes the eye of certainty, and knowing Allah becomes seeing Him and beholding Him. Where is this compared with what is in this world?"
+        },
+        {
+         "ar": "وأما الأعمال البدنية، فإنَّ لها في الدُّنيا مقصدين:",
+         "en": "As for the bodily deeds, they have two purposes in this world."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c121",
+     "pages": [
+      662
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدهما: اشتغالُ الجوارح بالطَّاعة، وكدُّها بالعبادة.",
+         "en": "The first is the occupation of the limbs in obedience and their exertion in worship."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c122",
+     "pages": [
+      662
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثاني: اتِّصالُ القلوب بالله وتنويرُها بذكره.",
+         "en": "The second is the connection of the hearts with Allah and their illumination by His remembrance."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c123",
+     "pages": [
+      662
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فالأوَّلُ قد رُفعَ عن أهل الجنَّة، ولهذا رُوي أنَّهم إذا همُّوا بالسُّجودِ لله عند تجلِّيه لهم يقال لهم: ارفعوا رؤوسكم فإنَّكم لستم في دار مجاهدة.",
+         "en": "The first has been lifted from the people of Paradise. That is why it is narrated that when they move to prostrate to Allah as He manifests Himself to them, they will be told: Raise your heads, for you are not in an abode of striving."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c124",
+     "pages": [
+      662
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما المقصود الثاني، فحاصلٌ لأهل الجنَّة على أكمل الوُجُوهِ وأتمِّها، ولا نسبةَ لما حصل لقلوبهم في الدُّنيا من لطائف القُرْبِ والأنس والاتِّصال إلى ما يُشاهدونه في الآخرة عياناً،",
+         "en": "As for the second purpose, the people of Paradise attain it in the most perfect and complete way. What their hearts attained in this world of the subtleties of nearness, intimacy and connection bears no comparison with what they will behold openly in the Hereafter,"
+        },
+        {
+         "ar": "فتتنعَّمُ قلوبُهم وأبصارُهم وأسماعُهم بقرْبِ الله ورؤيته، وسماع كلامه، ولاسيما في أوقات الصَّلوات في الدُّنيا،",
+         "en": "where their hearts, eyes and ears will delight in Allah's nearness, in seeing Him and in hearing His speech, especially at the times of the prayers of this world,"
+        },
+        {
+         "ar": "كالجُمَع والأعياد، والمقرَّبون منهم يحصلُ ذلك لهم كلَّ يومٍ مرَّتين بكرةً وعشياً في وقت صلاة الصُّبح وصلاة العصر،",
+         "en": "such as Fridays and the Eids; and for those brought near among them this will happen twice every day, morning and evening, at the time of the dawn prayer and the afternoon prayer."
+        },
+        {
+         "ar": "ولهذا لمَّا ذكرَ النَّبيُّ صلى الله عليه وسلم أنَّ أهل الجنَّةِ يرونَ ربَّهم حضَّ عقيب ذلك على المحافظة على صلاةِ العصر وصلاة الفجر؛",
+         "en": "That is why, when the Prophet ﷺ mentioned that the people of Paradise will see their Lord, he urged straight afterwards that the afternoon prayer and the dawn prayer be guarded,"
+        },
+        {
+         "ar": "لأنَّ وقت هاتين الصَّلاتين وقتٌ لرؤية خواصِّ أهلِ الجنَّةِ ربَّهم وزيارتهم لهُ، وكذلك نعيمُ الذِّكر وتلاوةُ القرآن لا ينقطعُ عنهم أبداً، فيُلهمون التَّسبيحَ كما يُلهمونَ النَّفسَ.",
+         "en": "because the time of these two prayers is a time when the elect of the people of Paradise see their Lord and visit Him. Likewise the bliss of remembrance and of reciting the Qurʾān will never be cut off from them: they will be inspired with glorification as they are inspired with breath."
+        },
+        {
+         "ar": "قالَ ابنُ عيينة: لا إله إلا الله لأهلِ الجنَّة، كالماء البارد لأهل الدُّنيا، فأينَّ لذَّة الذِّكرِ للعارفين في الدُّنيا مِنْ لذَّتهم به في الجنَّة.",
+         "en": "Ibn ʿUyaynah said: Lā ilāha illā Allāh is to the people of Paradise like cold water to the people of this world. How far is the delight of remembrance for those who know Allah in this world from their delight in it in Paradise!"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c125",
+     "pages": [
+      663
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فتبيَّن بهذا أن قوله: {مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ خَيْرٌ مِنْهَا} على ظاهره، فإنَّ ثواب كلمة التَّوحيد في الدُّنيا أنْ يصِلَ صاحبها إلى قولها في الجَنَّةِ على الوجه الذي يختصُّ به أهل الجنّةِ.",
+         "en": "It is clear from this that His words, “Whoever brings a good deed will have better than it,” are to be taken in their apparent sense; for the reward of the word of tawḥīd in this world is that the one who says it comes to say it in Paradise in the manner peculiar to the people of Paradise."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c126",
+     "pages": [
+      663
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وبكلِّ حال، فالذي يحصُلُ لأهلِ الجنَّةِ مِنْ تفاصيل العلم بالله وأسمائه وصفاته وأفعاله، ومن قُربه ومشاهدته ولذَّةِ ذكره، هو أمرٌ لا يمكنُ التَّعبيرُ عن كُنهه في الدُّنيا؛",
+         "en": "In any case, what the people of Paradise attain of the details of knowledge of Allah, His names, attributes and acts, and of His nearness, of beholding Him and of the delight of His remembrance, is something whose essence cannot be expressed in this world,"
+        },
+        {
+         "ar": "لأنَّ أهلها لم يُدرِكوه على وجهه، بل هو ممَّا لا عينٌ رأت، ولا أُذنٌ سمعت، ولا خطر على قلب بشرٍ، والله تعالى المسؤول أنْ لا يَحْرِمنا خيرَ ما عنده بشرِّ ما عندنا بمنِّه وكرمه ورحمته آمين.",
+         "en": "because its people have not grasped it as it truly is. Rather, it is something no eye has seen, no ear has heard, and that has never occurred to any human heart. We ask Allah the Exalted not to deprive us of the best of what He has because of the worst of what we have, by His favour, generosity and mercy. Āmīn."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c127",
+     "pages": [
+      663
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولنرجع إلى شرح حديث: «ازهد في الدُّنيا يحبَّك الله»، فهذا الحديثُ يدلُّ على أنَّ الله يحبُّ الزاهدين في الدُّنيا، قال بعض السَّلف:",
+         "en": "Let us return to the explanation of the hadith, “Be detached from this world and Allah will love you.” This hadith shows that Allah loves those who are detached from this world. One of the Salaf said:"
+        },
+        {
+         "ar": "قال الحواريون لعيسى عليه السلام: يا روحَ الله، علِّمنا عملاً واحداً يُحبُّنا الله عز وجل عليهِ، قالَ: أبغِضُوا الدُّنيا يحبكُم الله عز وجل.",
+         "en": "The disciples said to ʿĪsā (peace be upon him): Spirit of Allah, teach us a single deed for which Allah, the Mighty and Majestic, will love us. He said: Hate this world, and Allah, the Mighty and Majestic, will love you."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c128",
+     "pages": [
+      663
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد ذمَّ الله تعالى من يحبُّ الدُّنيا ويؤثِرُها على الآخرة، كما قال: {كَلاَّ بَلْ تُحِبُّونَ الْعَاجِلَةَ وَتَذَرُونَ الآخِرَةَ}، وقال: {وَتُحِبُّونَ الْمَالَ حُبّاً جَمّاً}،",
+         "en": "Allah the Exalted has censured those who love this world and prefer it to the Hereafter, as He says: “No! Rather, you love the fleeting [life] and leave the Hereafter” [al-Qiyāmah 75:20–21]; and: “And you love wealth with an excessive love” [al-Fajr 89:20];"
+        },
+        {
+         "ar": "وقال: {وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ}، والمراد حبُّ المال، فإذا ذمَّ من أحبَّ الدُّنيا دلَّ على مدحِ مَنْ لا يحبُّها، بل يرفُضها ويترُكُها.",
+         "en": "and: “And indeed he is intense in his love of good [things]” [al-ʿĀdiyāt 100:8], meaning love of wealth. His censure of whoever loves this world shows that He praises whoever does not love it but rejects and leaves it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c129",
+     "pages": [
+      663
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" المسند \" و\" صحيح ابن حبان \" عن أبي موسى، عن النَّبيِّ صلى الله عليه وسلم، قال: «من أحبَّ دُنياه أضرَّ بآخرته، ومن أحبَّ آخرتَه، أضرَّ بدُنياه، فآثروا ما يبقى على ما يفنى».",
+         "en": "In the Musnad and Ṣaḥīḥ Ibn Ḥibbān, from Abū Mūsā, the Prophet ﷺ said: “Whoever loves his world harms his Hereafter, and whoever loves his Hereafter harms his world; so prefer what lasts to what perishes.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c130",
+     "pages": [
+      663,
+      664
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" المسند \" و\" سنن ابن ماجه \" عن زيد بن ثابت، عن النَّبيِّ صلى الله عليه وسلم، قال: «من كانت الدُّنيا همه، فرَّق الله عليه أمره،",
+         "en": "In the Musnad and the Sunan of Ibn Mājah, from Zayd ibn Thābit, the Prophet ﷺ said: “Whoever has this world as his concern, Allah scatters his affairs,"
+        },
+        {
+         "ar": "وجعل فقرَه بين عينيه، ولم يأته من الدُّنيا إلا ما كُتب له، ومن كانت الآخرة نيَّتَه، جمعَ الله له أمره، وجعل غناه في قلبه، وأتته الدُّنيا وهي راغمةٌ».",
+         "en": "places his poverty between his eyes, and nothing of this world comes to him but what has been written for him. Whoever has the Hereafter as his intention, Allah gathers his affairs for him, places his wealth in his heart, and this world comes to him in spite of itself.”"
+        },
+        {
+         "ar": "وخرَّجه الترمذي من حديث أنس مرفوعاً بمعناه.",
+         "en": "Al-Tirmidhī recorded something with this meaning from the hadith of Anas as marfūʿ."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c131",
+     "pages": [
+      664
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن كلام جندب بن عبد الله الصَّحابي: حبُّ الدُّنيا رأسُ كلِّ خطيئةٍ، وروي مرفوعاً، ورُوي عن الحسن مرسلاً.",
+         "en": "Among the sayings of Jundab ibn ʿAbdullāh the Companion: Love of this world is the head of every sin. It has also been narrated as marfūʿ, and from al-Ḥasan in mursal form."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c132",
+     "pages": [
+      664
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال الحسن: من أحبَّ الدُّنيا وسرَّته، خرج حبُّ الآخرة من قلبه.",
+         "en": "Al-Ḥasan said: When a person loves this world and is delighted by it, love of the Hereafter leaves his heart."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c133",
+     "pages": [
+      664
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال عونُ بن عبد الله: الدُّنيا والآخرةُ في القلب ككفَّتي الميزان بِقَدْرِ ما ترجحُ إحداهُما تخِفُّ الأخرى.",
+         "en": "ʿAwn ibn ʿAbdullāh said: This world and the Hereafter in the heart are like the two pans of a balance: as much as one goes down, the other goes up."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c134",
+     "pages": [
+      664
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال وهب: إنَّما الدُّنيا والآخرة كرجلٍ له امرأتانِ: إنْ أرضى إحداهما أسخط الأخرى.",
+         "en": "Wahb said: This world and the Hereafter are only like a man with two wives: if he pleases one, he angers the other."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c135",
+     "pages": [
+      664
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وبكلِّ حالٍ، فالزُّهد في الدُّنيا شعارُ أنبياءِ الله وأوليائه وأحبَّائه، قال عمرو بن العاص: ما أبعدَ هديكُم مِنْ هدي نبيِّكم صلى الله عليه وسلم، إنّه كان أزهدَ النَّاس في الدُّنيا، وأنتم أرغبُ الناس فيها، خرَّجه الإمام أحمد.",
+         "en": "In any case, detachment from this world is the hallmark of Allah's prophets, His friends and His beloved ones. ʿAmr ibn al-ʿĀṣ said: How far your way is from the way of your Prophet ﷺ! He was the most detached of people from this world, and you are the most desirous of people for it. Imam Aḥmad recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c136",
+     "pages": [
+      664
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال ابن مسعود لأصحابه: أنتم أكثرُ صوماً وصلاةً وجهاداً من أصحاب محمد صلى الله عليه وسلم، وهُمْ كانوا خيراً منكم، قالوا: وكيف ذلك؟",
+         "en": "Ibn Masʿūd said to his companions: You fast, pray and strive in jihād more than the Companions of Muḥammad ﷺ did, yet they were better than you. They said: How is that?"
+        },
+        {
+         "ar": "قال: كانوا أزهدَ منكم في الدُّنيا، وأرغب منكم في الآخرة.",
+         "en": "He said: They were more detached from this world than you, and more desirous of the Hereafter."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c137",
+     "pages": [
+      665
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أبو الدَّرداء: لَئِنْ حَلفتُمْ لِي على رجلٍ أنَّه أزهدُكم، لأحلفنَّ لكم أنَّه خيرُكم.",
+         "en": "Abū al-Dardāʾ said: If you swore to me about a man that he was the most detached of you, I would swear to you that he was the best of you."
+        },
+        {
+         "ar": "ويروى عن الحسن، قال: قالوا: يا رسول الله، من خيرُنا؟",
+         "en": "It is narrated that al-Ḥasan said: They said: Messenger of Allah, who is the best of us?"
+        },
+        {
+         "ar": "قال: «أزهدُكم في الدُّنيا، وأرغبُكم في الآخرة» والكلام في هذا الباب يطولُ جداً.",
+         "en": "He said: “The most detached of you from this world and the most desirous of you for the Hereafter.” Discussion of this subject would be very long;"
+        },
+        {
+         "ar": "وفيما أشرنا إليه كفاية إنْ شاء الله تعالى.",
+         "en": "what we have pointed to will suffice, if Allah the Exalted wills."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c138",
+     "pages": [
+      665
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "الوصية الثانية: الزهدُ فيما في أيدي الناس، وأنَّه موجبٌ لمحبَّة الناس.",
+         "en": "The second counsel is detachment from what people possess, and that it brings about people's love."
+        },
+        {
+         "ar": "وروي عن النَّبيِّ صلى الله عليه وسلم أنَّه وصَّى رجلاً، فقالَ: «ايأَسْ ممَّا في أيدي النَّاس تكُن غنياً» خرَّجه الطبراني وغيره.",
+         "en": "It is narrated that the Prophet ﷺ counselled a man, saying: “Despair of what people possess, and you will be rich.” Al-Ṭabarānī and others recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c139",
+     "pages": [
+      665
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويروى من حديث سهل بن سعد مرفوعاً: «شرف المؤمن قيامُه بالليل، وعزُّه استغناؤُه عن الناسِ».",
+         "en": "It is narrated, from the hadith of Sahl ibn Saʿd as marfūʿ: “The believer's honour is his standing [in prayer] at night, and his might is his independence of people.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c140",
+     "pages": [
+      665
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الحسن: لا تزالُ كريماً على الناس، أو لا يزالُ الناسُ يكرمُونَك ما لم تَعاطَ ما في أيديهم، فإذا فعلتَ ذلك، استخفُّوا بكَ، وكرهوا حديثك، وأبغضوك.",
+         "en": "Al-Ḥasan said: You will remain honoured by people — or, people will continue to honour you — so long as you do not reach for what is in their hands. When you do that, they will think little of you, dislike your talk and hate you."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c141",
+     "pages": [
+      665
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أيوب السَّختياني: لا يَنْبُلُ الرجلُ حتى تكونَ فيه خصلتان: العفَّةُ عمَّا في أيدي الناس، والتجاوزُ عمّا يكون منهم.",
+         "en": "Ayyūb al-Sakhtiyānī said: A man does not become noble until he has two traits: restraint from what people possess, and overlooking what comes from them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c142",
+     "pages": [
+      665
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكان عمر يقول في خطبته على المنبر: إنَّ الطمع فقر، وإنَّ اليأس غنى، وإنَّ الإنسانَ إذا أَيِسَ من الشيء استغنى عنه.",
+         "en": "ʿUmar used to say in his sermon from the pulpit: Greed is poverty and despair is wealth; when a person despairs of a thing, he can do without it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c143",
+     "pages": [
+      665
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروي أنَّ عبد الله بن سلام لقيَ كعب الأحبار عند عمر، فقال: يا كعب، مَنْ أربابُ العلم؟",
+         "en": "It is narrated that ʿAbdullāh ibn Salām met Kaʿb al-Aḥbār in ʿUmar's presence and said: Kaʿb, who are the masters of knowledge?"
+        },
+        {
+         "ar": "قال: الذين يعملون به، قال: فما يذهب بالعلم من قلوب العلماء بعد إذ حفظوه وعقلوه؟",
+         "en": "He said: Those who act on it. He said: Then what takes knowledge away from the hearts of the scholars after they have memorised and understood it?"
+        },
+        {
+         "ar": "قال: يُذهبه الطمعُ، وشرَهُ النفس، وتطلبُ الحاجات إلى النَّاس، قال: صدقت.",
+         "en": "He said: Greed, the soul's avidity and seeking one's needs from people take it away. He said: You are right."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c144",
+     "pages": [
+      666
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد تكاثرت الأحاديثُ عن النَّبيِّ صلى الله عليه وسلم بالأمر بالاستعفاف عن مسألة الناس والاستغناء عنهم، فمن سألَ النّاس ما بأيديهم، كرهوه وأبغضوه؛",
+         "en": "The hadiths from the Prophet ﷺ commanding people to refrain from asking others and to be independent of them are numerous. People dislike and hate whoever asks them for what is in their hands,"
+        },
+        {
+         "ar": "لأنَّ المال محبوبٌ لنفوس بني آدم، فمن طلب منهم ما يحبُّونه، كرهوه لذلك.",
+         "en": "because wealth is beloved to the souls of the children of Ādam, and they dislike whoever asks them for what they love."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c145",
+     "pages": [
+      666
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما من كان يرى المِنَّة للسائل عليه، ويرى أنَّه لو خرج له عن مُلكِه كُلِّه، لم يفِ له ببذل سؤاله له وذِلَّته له، أو كان يقول لأهله:",
+         "en": "As for one who regards the asker as having done him a favour, and holds that even if he gave him all his property he would not have repaid him for asking him and humbling himself before him, or who used to say to his family:"
+        },
+        {
+         "ar": "ثِيابُكم على غيركم أحسن منها عليكم، ودوابُّكم تحتَ غيركم أحسن منها تحتكم، فهذا نادرٌ جداً من طباع بني آدم، وقد انطوى بساطُ ذلك من أزمانٍ متطاولةٍ.",
+         "en": "Your clothes look better on others than on you, and your mounts look better under others than under you — this is very rare in the nature of the children of Ādam, and that carpet was rolled up long ages ago."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c146",
+     "pages": [
+      666
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما من زهد فيما في أيدي الناس، وعفَّ عنهم، فإنَّهم يحبُّونه ويُكرمونه لذلك ويسود به عليهم، كما قال أعرابيٌّ لأهل البصرة: من سيِّدُ أهل هذه القرية؟",
+         "en": "As for one who is detached from what people possess and refrains from it, they love and honour him for it, and by it he becomes their master. Thus a Bedouin asked the people of al-Baṣrah: Who is the master of the people of this town?"
+        },
+        {
+         "ar": "قالوا: الحسن، قال: بما سادهم؟",
+         "en": "They said: Al-Ḥasan. He said: By what did he become their master?"
+        },
+        {
+         "ar": "قالوا: احتاجَ الناسُ إلى علمه، واستغنى هو عن دنياهم، وما أحسن قول بعض السَّلف في وصف الدُّنيا وأهلها:",
+         "en": "They said: People needed his knowledge, while he had no need of their worldly goods. How fine is the saying of one of the Salaf describing this world and its people:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h31.c147",
+     "pages": [
+      666
+     ],
+     "paragraphs": [
+      {
+       "kind": "verse",
+       "segments": [
+        {
+         "ar": "وما هِيَ إلاَّ جِيفةٌ مستحيلةٌ … عليها كلابٌ هَمُّهُنَّ اجتذابُها",
+         "en": "It is nothing but a rotting carcass, / with dogs upon it intent on dragging it off;"
+        },
+        {
+         "ar": "فإنْ تَجْتَنبها كنتَ سِلْماً لأهلها … وإنْ تجتذبها نازعتك كِلابُها",
+         "en": "if you keep away from it, you are at peace with its people, / and if you drag at it, its dogs will fight you for it."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}

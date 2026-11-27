@@ -1,0 +1,2608 @@
+{
+ "id": "h15",
+ "number": 15,
+ "standard_number": 15,
+ "collection": "nawawi",
+ "heading": {
+  "ar": "الحديث الخامس عشر",
+  "en": "Hadith 15"
+ },
+ "title": {
+  "ar": "فليقل خيرًا أو ليصمت",
+  "en": "Speak Good or Remain Silent"
+ },
+ "pages": {
+  "start": 314,
+  "end": 342
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.n1",
+     "pages": [
+      314
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنْ أبي هُرَيرةَ رضي الله عنه عن رَسول اللهِ صلى الله عليه وسلم قالَ: «مَنْ كانَ يُؤْمِنُ بالله واليَومِ الآخرِ،",
+         "en": "Abū Hurayrah (may Allah be pleased with him) reported that the Messenger of Allah ﷺ said: “Whoever believes in Allah and the Last Day,"
+        },
+        {
+         "ar": "فَلْيَقُلْ خَيراً أَوْ لِيَصْمُتْ، ومَنْ كَانَ يُؤْمِنُ بالله واليَوْمِ الآخِرِ، فَليُكْرِمْ جَارَهُ، ومَنْ كَانَ يُؤْمِنُ بِاللهِ واليَومِ الآخرِ فَلْيُكْرِمْ ضَيْفَهُ» رواه البخاريُّ ومُسلمٌ.",
+         "en": "let him say what is good or keep silent. Whoever believes in Allah and the Last Day, let him honour his neighbour. Whoever believes in Allah and the Last Day, let him honour his guest.” Al-Bukhārī and Muslim reported it."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c1",
+     "pages": [
+      314
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "هذا الحديث خرَّجاه من طُرُقٍ عن أبي هريرة، وفي بعض ألفاظها: «فلا يؤذ جاره» وفي بعض ألفاظها: «فليُحسن قِرى ضيفِه»، وفي بعضها: «فليَصِلْ رحمه» بدل ذكر الجار.",
+         "en": "Al-Bukhārī and Muslim recorded this hadith through several routes from Abū Hurayrah. Some of its wordings have “let him not harm his neighbour”, some have “let him host his guest well”, and some have “let him maintain his ties of kinship” in place of the mention of the neighbour."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c2",
+     "pages": [
+      314
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجاه أيضاً بمعناه من حديث أبي شريح الخزاعي، عن النَّبيِّ صلى الله عليه وسلم.",
+         "en": "They also recorded something with the same meaning from the hadith of Abū Shurayḥ al-Khuzāʿī, from the Prophet ﷺ."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c3",
+     "pages": [
+      314,
+      315
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد رُوي هذا الحديثُ عن النَّبيِّ صلى الله عليه وسلم من حديث عائشة وابن مسعود وعبد الله بن عمرو، وأبي أيوب الأنصاري وابن عباس وغيرهم مِنَ الصَّحابة.",
+         "en": "This hadith has also been narrated from the Prophet ﷺ from the hadith of ʿĀʾishah, Ibn Masʿūd, ʿAbdullāh ibn ʿAmr, Abū Ayyūb al-Anṣārī, Ibn ʿAbbās and other Companions."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c4",
+     "pages": [
+      315
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فقوله صلى الله عليه وسلم: «مَنْ كان يؤمِنُ باللهِ واليوم الآخر» فليفعل كذا وكذا، يدلُّ على أنَّ هذه الخصال مِنْ خصال الإيمان،",
+         "en": "His words ﷺ, “Whoever believes in Allah and the Last Day, let him do such-and-such,” show that these traits are among the traits of faith."
+        },
+        {
+         "ar": "وقد سبق أنَّ الأعمال تدخلُ في الإيمان، وقد فسَّر النَّبيُّ صلى الله عليه وسلم الإيمان بالصبر والسماحة، قال الحسن: المراد: الصبر عن المعاصي، والسماحة بالطَّاعة.",
+         "en": "We have already seen that deeds are included in faith. The Prophet ﷺ explained faith as patience and generosity of spirit (samāḥah), and al-Ḥasan said: What is meant is patience in keeping away from sins, and generosity of spirit in acts of obedience."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c5",
+     "pages": [
+      315
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأعمال الإيمان تارة تتعلَّق بحقوق الله، كأداءِ الواجبات وترك المحرَّمات، ومِنْ ذلك قولُ الخير، والصمتُ عن غيره.",
+         "en": "The deeds of faith sometimes concern the rights of Allah, such as carrying out obligations and leaving what is forbidden; saying what is good, and otherwise keeping silent, is one of these."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c6",
+     "pages": [
+      315
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وتارةً تتعلق بحقوق عبادِه كإكرامِ الضيف، وإكرامِ الجارِ، والكفِّ عن أذاه، فهذه ثلاثة أشياء يؤمر بها المؤمن: أحدها: قولُ الخير والصمت عما سواه، وقد روى الطبراني من حديث أسودَ بنِ أصرم المحاربي، قال:",
+         "en": "At other times they concern the rights of His servants, such as honouring the guest, honouring the neighbour and refraining from harming him. These, then, are three things the believer is commanded to do. The first is to say what is good and otherwise keep silent. Al-Ṭabarānī narrated, from the hadith of Aswad ibn Aṣram al-Muḥāribī, that he said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c7",
+     "pages": [
+      315
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قلت: يا رسول الله أوصني، قال: «هل تملك لسانكَ؟»",
+         "en": "I said: O Messenger of Allah, give me some advice. He said: “Do you control your tongue?”"
+        },
+        {
+         "ar": "قلت: ما أملك إذا لم أملك لساني؟",
+         "en": "I said: What do I control, if I do not control my tongue?"
+        },
+        {
+         "ar": "قال: «فهل تملك يدك؟»",
+         "en": "He said: “Do you control your hand?”"
+        },
+        {
+         "ar": "قلت: فما أملك إذا لم أملك يدي؟",
+         "en": "I said: What do I control, if I do not control my hand?"
+        },
+        {
+         "ar": "قال: «فلا تَقُلْ بلسانك إلا معروفاً، ولا تبسُط يدَك إلاَّ إلى خير».",
+         "en": "He said: “Then say nothing with your tongue but what is right, and stretch out your hand only to what is good.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c8",
+     "pages": [
+      315,
+      316
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد ورد أنَّ استقامة اللسانِ من خصالِ الإيمان، كما في \" المسند \" عن أنس، عن النَّبيِّ صلى الله عليه وسلم قال: «لا يَستَقيمُ إيمانُ عبدٍ حتَّى يستقيمَ قلبُه، ولا يستقيم قلبُه حتَّى يستقيمَ لسانُه».",
+         "en": "It has come that uprightness of the tongue is one of the traits of faith, as in the Musnad, from Anas, from the Prophet ﷺ: “A servant's faith is not upright until his heart is upright, and his heart is not upright until his tongue is upright.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c9",
+     "pages": [
+      316
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الطبراني من حديث أنسٍ، عن النَّبيِّ صلى الله عليه وسلم قال: «لا يَبْلُغُ عبدٌ حقيقةَ الإيمانِ حتَّى يَخْزِنَ من لسانه»، وخرَّج الطبراني من حديث معاذ بن جبل، عن النَّبيِّ صلى الله عليه وسلم قال:",
+         "en": "Al-Ṭabarānī recorded, from the hadith of Anas, that the Prophet ﷺ said: “A servant does not attain the reality of faith until he holds back his tongue.” Al-Ṭabarānī also recorded, from the hadith of Muʿādh ibn Jabal, that the Prophet ﷺ said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c10",
+     "pages": [
+      316
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«إنَّكَ لن تزالَ سالماً ما سكتَّ، فإذا تكلَّمتَ، كُتِبَ لك أو عليك».",
+         "en": "“You will remain safe as long as you keep silent; when you speak, it is written either for you or against you.”"
+        },
+        {
+         "ar": "وفي \" مسند الإمام أحمد \"، عن عبد الله بن عمرو بن العاص، عن النَّبيِّ صلى الله عليه وسلم قال: «من صمت نجا».",
+         "en": "In the Musnad of Imam Aḥmad, ʿAbdullāh ibn ʿAmr ibn al-ʿĀṣ narrated that the Prophet ﷺ said: “Whoever keeps silent is saved.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c11",
+     "pages": [
+      316
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن أبي هُريرة، عن النَّبيِّ صلى الله عليه وسلم قال: «إنَّ الرَّجُلَ لَيَتكلَّمُ بالكلمة ما يتبيَّنُ ما فيها، يزِلُّ بها في النَّارِ أبعدَ ما بين المشرقِ والمغرب».",
+         "en": "In the two Ṣaḥīḥs, Abū Hurayrah narrated that the Prophet ﷺ said: “A man may speak a word without considering what is in it, and by it slip into the Fire farther than the distance between the east and the west.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c12",
+     "pages": [
+      316
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمامُ أحمد، والترمذي من حديث أبي هريرة، عن النَّبيِّ صلى الله عليه وسلم قال:",
+         "en": "Imam Aḥmad and al-Tirmidhī recorded, from the hadith of Abū Hurayrah, that the Prophet ﷺ said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c13",
+     "pages": [
+      317
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«إنَّ الرجلَ ليتكلَّمُ بالكلمةِ لا يرى بها بأساً يهوي بها سبعين خريفاً في النار».",
+         "en": "“A man may speak a word in which he sees no harm, and by it plunge seventy autumns into the Fire.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c14",
+     "pages": [
+      317
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح البخاري \" عن أبي هُريرة رضي الله عنه، عن النَّبيِّ صلى الله عليه وسلم قال:",
+         "en": "In Ṣaḥīḥ al-Bukhārī, Abū Hurayrah (may Allah be pleased with him) narrated that the Prophet ﷺ said:"
+        },
+        {
+         "ar": "«إنَّ الرَّجُلَ ليتكلمُ بالكلمةِ مِنْ رضوان الله لا يُلقي لها بالاً يرفعه الله بها درجاتٍ، وإنَّ العبدَ ليتكلم بالكلمة من سَخَطِ الله لا يُلقي لها بالاً يهوي بها في جهنَّم».",
+         "en": "“A man may speak a word that pleases Allah, paying it no heed, and Allah raises him by degrees for it; and a servant may speak a word that angers Allah, paying it no heed, and by it plunge into Hell.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c15",
+     "pages": [
+      317
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد من حديث سليمان بن سُحيم، عن أمِّه، قالت: سمعتُ النَّبيَّ صلى الله عليه وسلم يقولُ: «إنَّ الرجلَ ليدنو من الجنة حتَّى ما يكونَ بينه وبينَها إلا ذراعٌ فيتكلم بالكلمة، فيتباعد منها أبعدَ مِن صنعاء».",
+         "en": "Imam Aḥmad recorded, from the hadith of Sulaymān ibn Suḥaym, from his mother, that she said: I heard the Prophet ﷺ say: “A man may come so near to Paradise that there is only a cubit between him and it; then he speaks a word, and is driven farther from it than Ṣanʿāʾ.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c16",
+     "pages": [
+      317
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد، والترمذي، والنَّسائي من حديث بلالِ بنِ الحارث قال: سمعتُ النَّبيَّ صلى الله عليه وسلم يقول: «إنَّ أحدكم ليتكلَّمُ بالكلمة مِن رضوان الله ما يَظُنُّ أنْ تَبْلُغ ما بلغت،",
+         "en": "Imam Aḥmad, al-Tirmidhī and al-Nasāʾī recorded, from the hadith of Bilāl ibn al-Ḥārith, that he said: I heard the Prophet ﷺ say: “One of you may speak a word that pleases Allah, never imagining it will go as far as it does,"
+        },
+        {
+         "ar": "فيكتب الله له بها رضوانَه إلى يوم يلقاه، وإنَّ أحدَكُم ليتكلَّمُ بالكلمة من سخط الله ما يظنُّ أنْ تَبْلُغَ ما بلغت، فيكتب الله عليه بها سَخطه إلى يوم يلقاه».",
+         "en": "and Allah records for him by it His good pleasure until the day he meets Him; and one of you may speak a word that angers Allah, never imagining it will go as far as it does, and Allah records against him by it His anger until the day he meets Him.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c17",
+     "pages": [
+      318
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد ذكرنا فيما سبق حديثَ أمِّ حبيبة، عن النَّبيِّ صلى الله عليه وسلم قال: «كلامُ ابنِ آدم عليه لا له، إلا الأمرَ بالمعروف، والنهيَ عن المنكر، وذكر الله عز وجل».",
+         "en": "We cited earlier the hadith of Umm Ḥabībah, from the Prophet ﷺ: “All the speech of the son of Ādam counts against him, not for him, except enjoining good, forbidding evil, and the remembrance of Allah, the Mighty and Majestic.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c18",
+     "pages": [
+      318
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فقوله صلى الله عليه وسلم: «فليقل خيراً أو ليصمُت» أمر بقول الخير، وبالصمت عمَّا عداه، وهذا يدلُّ على أنَّه ليس هناك كلام يستوي قولُه والصمت عنه،",
+         "en": "His words ﷺ, “let him say what is good or keep silent”, command saying what is good and keeping silent about anything else. This shows that there is no speech for which speaking and keeping silent are equal;"
+        },
+        {
+         "ar": "بل إمَّا أنْ يكون خيراً، فيكون مأموراً بقوله، وإمَّا أنْ يكون غير خير، فيكون مأموراً بالصمت عنه، وحديث معاذ وأم حبيبة يدلان على هذا.",
+         "en": "rather, either it is good, and one is commanded to say it, or it is not good, and one is commanded to keep silent about it. The hadiths of Muʿādh and Umm Ḥabībah point to this."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c19",
+     "pages": [
+      318
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج ابنُ أبي الدنيا حديث معاذ بن جبل ولفظه: إنَّ النَّبيَّ صلى الله عليه وسلم قال له : «يا مُعاذُ ثكلتك أُمُّكَ وهَلْ تقول شيئاً إلاَّ وهو لك أو عليك».",
+         "en": "Ibn Abī al-Dunyā recorded the hadith of Muʿādh ibn Jabal with the wording that the Prophet ﷺ said to him: “Muʿādh, may your mother lose you! Do you say anything that does not count either for you or against you?”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c20",
+     "pages": [
+      318,
+      319
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد قال الله تعالى: {إِذْ يَتَلَقَّى الْمُتَلَقِّيَانِ عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ قَعِيدٌ مَا يَلْفِظُ مِنْ قَوْلٍ إِلاَّ لَدَيْهِ رَقِيبٌ عَتِيدٌ} وقد أجمع السَّلفُ الصَّالحُ على أنَّ الذي عن يمينه يكتُبُ الحسناتِ،",
+         "en": "Allah the Exalted has said: “When the two receivers receive, seated on the right and on the left, he utters no word but there is a watcher with him, ever present” [Qāf 50:17–18]. The righteous Salaf were unanimous that the one on his right records good deeds"
+        },
+        {
+         "ar": "والذي عن شِماله يكتبُ السيئات، وقد رُوي ذلك مرفوعاً من حديث أبي أمامة بإسناد ضعيف.",
+         "en": "and the one on his left records evil deeds. This has also been narrated as marfūʿ (attributed to the Prophet ﷺ) from the hadith of Abū Umāmah, with a weak chain."
+        },
+        {
+         "ar": "وفي \" الصحيح \" عن النَّبيِّ صلى الله عليه وسلم: «إذا كان أحدُكُم يُصَلِّي، فإنَّه يُناجي ربَّه والملك عن يمينه».",
+         "en": "In the Ṣaḥīḥ, from the Prophet ﷺ: “When one of you is praying, he is in intimate converse with his Lord, and the angel is on his right.”"
+        },
+        {
+         "ar": "ورُوي من حديث حُذيفة مرفوعاً: «إنَّ عن يمينه كاتب الحسنات».",
+         "en": "It has been narrated as marfūʿ from the hadith of Ḥudhayfah: “On his right is the recorder of good deeds.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c21",
+     "pages": [
+      319
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "واختلفوا: هل يكتب كلَّ ما تكلَّم به، أو لا يكتب إلا ما فيه ثواب أو عِقاب؟",
+         "en": "They differed over whether the recording angel writes down everything a person says, or only what carries reward or punishment."
+        },
+        {
+         "ar": "على قولين مشهورين.",
+         "en": "There are two well-known views."
+        },
+        {
+         "ar": "وقال عليُّ بنُ أبي طلحة، عن ابن عباس: يكتب كل ما تكلم به من خيرٍ أو شرٍّ حتى إنَّه ليكتب قوله: أكلتُ وشربتُ وذهبتُ وجئتُ،",
+         "en": "ʿAlī ibn Abī Ṭalḥah said, from Ibn ʿAbbās: He records everything a person says, good or bad, even his saying “I ate,” “I drank,” “I went,” “I came,”"
+        },
+        {
+         "ar": "حتّى إذا كان يوم الخميسِ عُرِضَ قوله وعمله فأقرَّ ما كان فيه من خير أو شرٍّ، وألقي سائره، فذلك قولُه تعالى: {يَمْحُوا اللهُ مَا يَشَاءُ وَيُثْبِتُ وَعِنْدَهُ أُمُّ الْكِتَابِ}.",
+         "en": "until, on Thursday, his words and deeds are presented, and whatever good or bad is in them is kept and the rest is discarded. That is the meaning of the words of the Exalted: “Allah erases what He wills and confirms [what He wills], and with Him is the Mother of the Book” [al-Raʿd 13:39]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c22",
+     "pages": [
+      319
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن يحيى بن أبي كثير، قال: ركب رجل الحمارَ، فعثر به، فقال: تَعِسَ الحمارُ، فقال صاحب اليمين: ما هي حسنة أكتبها، وقال صاحبُ الشمال:",
+         "en": "Yaḥyā ibn Abī Kathīr said: A man was riding a donkey, and it stumbled with him, and he said: May the donkey perish! The companion on the right said: That is not a good deed for me to record. The companion on the left said:"
+        },
+        {
+         "ar": "ما هي من السيئات فأكتبها، فأوحى الله إلى صاحب الشمال: ما ترك صاحبُ اليمين من شيء، فاكتبهُ، فأثبت في السيئات: «تَعِسَ الحمارُ».",
+         "en": "It is not one of the evil deeds for me to record. So Allah revealed to the companion on the left: Whatever the companion on the right leaves, record it. So the angel entered “May the donkey perish!” among the evil deeds."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c23",
+     "pages": [
+      319
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وظاهر هذا أنَّ ما ليس بحسنةٍ فهو سيئة، وإنْ كان لا يُعاقب عليها، فإنَّ بعضَ السيئات قد لا يُعاقب عليها،",
+         "en": "The apparent sense of this is that whatever is not a good deed is an evil deed, even if one is not punished for it; for some evil deeds may go unpunished"
+        },
+        {
+         "ar": "وقد تقع مكفرةً باجتناب الكبائر، ولكن زمانها قد خسره صاحبُها حيث ذهب باطلاً، فيحصل له بذلك حسرةٌ في القيامة وأسف عليه، وهو نوعُ عقوبة.",
+         "en": "and may be expiated by avoiding the major sins. But the person has lost the time spent on them, since it went to waste, and so on the Day of Resurrection he will feel regret and sorrow over it, which is a kind of punishment."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c24",
+     "pages": [
+      319
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمامُ أحمد وأبو داود والنسائي من حديث أبي هُريرة، عن النَّبيِّ صلى الله عليه وسلم قال: «مَا مِنْ قوم يقومون مِنْ مجلس لا يذكُرون الله فيه، إلاَّ قاموا عن مثلِ جِيفة حمار، وكان لهم حسرة».",
+         "en": "Imam Aḥmad, Abū Dāwūd and al-Nasāʾī recorded, from the hadith of Abū Hurayrah, that the Prophet ﷺ said: “No people rise from a gathering in which they did not remember Allah but they rise from something like the carcass of a donkey, and it will be a cause of regret for them.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c25",
+     "pages": [
+      320
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه الترمذي ولفظه: «ما جلسَ قوم مجلساً لم يذكروا الله فيه، ولم يُصَلُّوا على نبيهم، إلاَّ كان عليهم تِرَة، فإنْ شاء عذبهم، وإنْ شاء غفر لهم».",
+         "en": "Al-Tirmidhī recorded it with the wording: “No people sit in a gathering in which they do not remember Allah or send blessings on their Prophet but it will be a liability against them; if He wills, He will punish them, and if He wills, He will forgive them.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c26",
+     "pages": [
+      320
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي رواية لأبي داود والنَّسائي: «من قَعَدَ مقعداً لم يذكر الله فيه كانت عليه من الله ترة، ومن اضطجع مضطجعاً لم يذكر الله فيه،",
+         "en": "In a narration of Abū Dāwūd and al-Nasāʾī: “Whoever sits somewhere without remembering Allah there, it will be a liability against him from Allah; and whoever lies down somewhere without remembering Allah there,"
+        },
+        {
+         "ar": "كانت عليه من الله ترة» زاد النَّسائي: «ومَنْ قام مقاماً لم يذكر الله فيه، كانت عليه من اللهِ تِرة».",
+         "en": "it will be a liability against him from Allah.” Al-Nasāʾī added: “And whoever stands somewhere without remembering Allah there, it will be a liability against him from Allah.”"
+        },
+        {
+         "ar": "وخرَّج أيضاً من حديث أبي سعيدٍ، عن النَّبيِّ صلى الله عليه وسلم قال: «ما مِنْ قوم يجلسون مجلساً لا يذكُرونَ الله فيه إلا كانت عليهم حسرةً يوم القيامة، وإنْ دخلوا الجنَّة».",
+         "en": "Al-Nasāʾī also recorded, from the hadith of Abū Saʿīd, that the Prophet ﷺ said: “No people sit in a gathering in which they do not remember Allah but it will be a cause of regret for them on the Day of Resurrection, even if they enter Paradise.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c27",
+     "pages": [
+      320
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال مجاهد: ما جلس قومٌ مجلساً، فتفرَّقوا قبل أنْ يذكُرُوا الله، إلا تفرَّقوا عن أنتنِ من ريح الجيفة، وكان مجلسُهم يَشهدُ عليهم بغفلتهم،",
+         "en": "Mujāhid said: No people sit in a gathering and disperse before remembering Allah but they disperse from something fouler than the stench of a carcass, and their gathering bears witness against them for their heedlessness;"
+        },
+        {
+         "ar": "وما جلس قومٌ مجلساً، فذكروا الله قبل أنْ يتفرَّقوا، إلاَّ تفرَّقوا عن أطيب من ريحِ المسك، وكان مجلسهم يشهدُ لهم بذكرهم.",
+         "en": "and no people sit in a gathering and remember Allah before they disperse but they disperse from something sweeter than the scent of musk, and their gathering bears witness for them for their remembrance."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c28",
+     "pages": [
+      321
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال بعضُ السَّلف: يعرض على ابن آدم يوم القيامة ساعاتُ عمره، فكلُّ ساعة تمرُّ بابنِ آدمَ لم يذكر الله فيها تتقطَّعُ نفسه عليها حسراتٍ.",
+         "en": "One of the Salaf said: On the Day of Resurrection the hours of a person's life will be shown to him, and for every hour that passed him in which he did not remember Allah, his soul will be torn to pieces with regret."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c29",
+     "pages": [
+      321
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه الطبراني من حديث عائشة مرفوعاً: «ما مِنْ ساعة تمرُّ بابن آدم لم يذكرِ الله فيها بخيرٍ، إلا حسرَ عندَها يومَ القيامةِ».",
+         "en": "Al-Ṭabarānī recorded it as marfūʿ from the hadith of ʿĀʾishah: “No hour passes the son of Ādam in which he does not remember Allah with good but he will feel regret over it on the Day of Resurrection.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c30",
+     "pages": [
+      321
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فمن هنا يعلم أنَّ ما ليس بخيرٍ مِنَ الكلامِ، فالسُّكوتُ عنه أفضلُ من التكلم به، اللَّهمَّ إلا ما تدعو إليه الحاجةُ مما لابدَّ منه.",
+         "en": "From this it is clear that, where speech is not good, silence is better than speaking — except for what need calls for and cannot be done without."
+        },
+        {
+         "ar": "وقد روي عن ابن مسعود قال: إيَّاكم وفضولَ الكلام، حسبُ امرئ ما بلغ حاجته، وعن النَّخعي قال: يَهلِكُ الناسُ في فضول المال والكلام.",
+         "en": "It has been narrated that Ibn Masʿūd said: Beware of superfluous speech; it is enough for a man to say what meets his need. Al-Nakhaʿī said: People are ruined by superfluous wealth and superfluous speech."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c31",
+     "pages": [
+      321
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأيضاً فإنَّ الإكثارَ من الكلام الذي لا حاجة إليه يوجبُ قساوةَ القلب كما في \" الترمذي \" من حديث ابن عمر مرفوعاً:",
+         "en": "Moreover, much speech that is not needed hardens the heart, as in al-Tirmidhī, from the hadith of Ibn ʿUmar as marfūʿ:"
+        },
+        {
+         "ar": "«لا تُكثِرُوا الكلامَ بغيرِ ذكر الله، فإنَّ كثرةَ الكلامِ بغيرِ ذكرِ الله يُقسِّي القلب، وإنَّ أبعدَ الناس عن الله القلبُ القاسي».",
+         "en": "“Do not speak much without the remembrance of Allah, for much speech without the remembrance of Allah hardens the heart, and the farthest of people from Allah is the hard heart.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c32",
+     "pages": [
+      321
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال عمر: مَنْ كَثُرَ كلامُه، كَثُرَ سَقَطُهُ، ومَنْ كَثُرَ سَقَطُه، كَثُرَتْ ذُنوبهُ، ومَن كَثُرَتْ ذنوبُه، كانت النارُ أولى به.",
+         "en": "ʿUmar said: Whoever speaks much makes many slips; whoever makes many slips has many sins; and whoever has many sins, the Fire is more fitting for him."
+        },
+        {
+         "ar": "وخرَّجه العقيلي من حديث ابن عمر مرفوعاً بإسنادٍ ضعيفٍ.",
+         "en": "Al-ʿUqaylī recorded it as marfūʿ from the hadith of Ibn ʿUmar, with a weak chain."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c33",
+     "pages": [
+      321
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال محمد بن عجلان: إنَّما الكلام أربعة: أنْ تذْكُرَ الله، وتقرأ القرآن، وتسأل عن علم فتخبر به، أو تكلَّم فيما يعنيك من أمر دنياك.",
+         "en": "Muḥammad ibn ʿAjlān said: Speech is of four kinds only: that you remember Allah, recite the Qurʾān, are asked about some knowledge and give the answer, or speak about the worldly matters that concern you."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c34",
+     "pages": [
+      322
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال رجل لسلمان: أوصني، قال: لا تكلَّم، قال: ما يستطيعُ من عاش في الناس أنْ لا يتكلم، قال: فإنْ تكلَّمت، فتكلم بحقٍّ أو اسكُت.",
+         "en": "A man said to Salmān: Give me some advice. He said: Do not speak. The man said: No one who lives among people can manage not to speak. He said: Then if you speak, speak the truth, or keep quiet."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c35",
+     "pages": [
+      322
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكان أبو بكر الصديق رضي الله عنه يأخذ بلسانه ويقول: هذا أوردني الموارد.",
+         "en": "Abū Bakr al-Ṣiddīq (may Allah be pleased with him) used to take hold of his tongue and say: This is what has brought me to perilous places."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c36",
+     "pages": [
+      322
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال ابن مسعود: والله الذي لا إله إلا هو، ما على الأرض أحقُّ بطول سجنٍ مِنَ اللِّسانِ.",
+         "en": "Ibn Masʿūd said: By Allah, besides whom there is no god, nothing on earth more deserves a long imprisonment than the tongue."
+        },
+        {
+         "ar": "وقال وهب بن منبه: أجمعت الحكماءُ على أنَّ رأسَ الحكمِ الصمتُ.",
+         "en": "Wahb ibn Munabbih said: The sages are agreed that the head of wisdom is silence."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c37",
+     "pages": [
+      322
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال شميط بن عجلان: يا ابن آدم، إنَّك ما سكتَّ، فأنت سالمٌ، فإذا تكلمت، فخذ حِذرَك، إمَّا لك وإمَّا عليك.",
+         "en": "Shumayṭ ibn ʿAjlān said: Son of Ādam, as long as you are silent you are safe; but when you speak, be on your guard: it is either for you or against you."
+        },
+        {
+         "ar": "وهذا بابٌ يطول استقصاؤه.",
+         "en": "This is a subject that would take long to cover fully."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c38",
+     "pages": [
+      322
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والمقصود أنَّ النَّبيَّ صلى الله عليه وسلم أمر بالكلام بالخير، والسُّكوتِ عمَّا ليس بخيرٍ، وخرَّج الإمام أحمدُ وابنُ حبان من حديث البراء بن عازب: أنَّ رجلاً قال: يا رسولَ الله، علمني عملاً يُدخلُني الجنَّة، فذكر الحديثَ، وفيه قال:",
+         "en": "The point is that the Prophet ﷺ commanded us to speak what is good and to keep silent about what is not. Imam Aḥmad and Ibn Ḥibbān recorded, from the hadith of al-Barāʾ ibn ʿĀzib, that a man said: O Messenger of Allah, teach me a deed that will admit me into Paradise — and he mentioned the hadith, in which the Prophet ﷺ said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c39",
+     "pages": [
+      322
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«فأطعم الجائع، واسقِ الظمآن، وأْمُر بالمعروف، وانْهَ عَنِ المُنكر، واسكت عن الشَّرِ، فإنْ لم تُطِقْ ذلك، فكفَّ لسانك إلاَّ مِن خيرٍ».",
+         "en": "“Then feed the hungry, give water to the thirsty, enjoin good and forbid evil, and hold your tongue from evil. If you cannot manage that, then hold back your tongue except from good.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c40",
+     "pages": [
+      323
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فليس الكلامُ مأموراً به على الإطلاق، ولا السُّكوتُ كذلك، بل لابدَّ منَ الكلامِ بالخير، والسكوت عنِ الشرِّ، وكان السَّلفُ كثيراً يمدحُون الصَّمتَ عن الشَّرِّ، وعمَّا لا يعني؛",
+         "en": "Speech, then, is not commanded unconditionally, and neither is silence; rather, one must speak what is good and keep silent about what is evil. The Salaf often praised keeping silent about evil and about what does not concern one,"
+        },
+        {
+         "ar": "لِشِدَّته على النفس، ولذلك يقع فيه النَّاسُ كثيراً، فكانوا يُعالجون أنفسهم، ويُجاهدونها على السكوت عما لا يعنيهم.",
+         "en": "because it is hard on the soul, which is why people so often fall into it. They used to work on their souls and struggle with them to keep silent about what did not concern them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c41",
+     "pages": [
+      323
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال الفضيلُ بن عياض: ما حجٌّ ولا رِباطٌ ولا جهادٌ أشدَّ مِنْ حبس اللسان، ولو أصبحت يهمُّكَ لسانُك، أصبحتَ في غمٍّ شديد، وقال: سجنُ اللسان سجنُ المؤمن، ولو أصبحت يهمُّك لسانُك، أصبحت في غمٍّ شديد.",
+         "en": "Al-Fuḍayl ibn ʿIyāḍ said: No Ḥajj, no guarding the frontier and no jihād is harder than restraining the tongue. If you woke each morning anxious about your tongue, you would wake in great distress. He also said: Imprisoning the tongue is the believer's prison; if you woke each morning anxious about your tongue, you would wake in great distress."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c42",
+     "pages": [
+      323
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وسئلَ ابنُ المبارك عن قولِ لقمان لابنه: إنَّ كان الكلامُ من فضَّةٍ، فإنَّ الصَّمتَ من ذهبٍ، فقال: معناه: لو كان الكلامُ بطاعة الله من فضة، فإنَّ الصَّمتَ عن معصيةِ الله من ذهبٍ.",
+         "en": "Ibn al-Mubārak was asked about Luqmān's saying to his son, \"If speech is of silver, silence is of gold,\" and he said: It means that if speaking in obedience to Allah is silver, then keeping silent rather than disobeying Allah is gold."
+        },
+        {
+         "ar": "وهذا يرجعُ إلى أنَّ الكفَّ عن المعاصي أفضلُ من عمل الطاعات، وقد سبق القولُ في هذا مستوفى.",
+         "en": "This comes back to the point that refraining from sins is better than doing acts of obedience, which has already been discussed in full."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c43",
+     "pages": [
+      323
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وتذاكروا عندَ الأحنفِ بنِ قيس، أيُّما أفضل الصمتُ أو النطقُ؟",
+         "en": "People were discussing in the presence of al-Aḥnaf ibn Qays which is better, silence or speech."
+        },
+        {
+         "ar": "فقالَ قوم: الصمتُ أفضلُ، فقالَ الأحنفُ: النطقُ أفضل؛",
+         "en": "Some said: Silence is better. Al-Aḥnaf said: Speech is better,"
+        },
+        {
+         "ar": "لأنَّ فضلَ الصمت لا يعدو صاحبَه، والمنطق الحسن ينتفع به مَنْ سَمِعَهُ.",
+         "en": "because the merit of silence goes no further than the one who keeps it, while good speech benefits whoever hears it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c44",
+     "pages": [
+      323,
+      324
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال رجلٌ من العلماء عند عمرَ بنِ عبد العزيز رحمه الله: الصَّامت على علمٍ كالمتكلم على علمٍ، فقال عمر:",
+         "en": "One of the scholars said in the presence of ʿUmar ibn ʿAbd al-ʿAzīz (may Allah have mercy on him): The one who keeps silent with knowledge is like the one who speaks with knowledge. ʿUmar said:"
+        },
+        {
+         "ar": "إنِّي لأرجو أنْ يكونَ المتكلمُ على علم أفضلهما يوم القيامة حالاً، وذلك أنَّ منفعته للناس، وهذا صمتُه لنفسه، فقال له: يا أمير المؤمنين وكيف بفتنة المنطق؟",
+         "en": "I hope that the one who speaks with knowledge will be the better of the two in rank on the Day of Resurrection, because his benefit goes to people, whereas the other's silence is for himself. The man said to him: Commander of the Believers, what about the trial that speaking brings?"
+        },
+        {
+         "ar": "فبكى عمرُ عند ذلك بكاءً شديداً.",
+         "en": "At that ʿUmar wept bitterly."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c45",
+     "pages": [
+      324
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولقد خطب عمر بن عبد العزيز يوماً فرقَّ الناسُ وبكَوا، فقطع خطبته، فقيل له: لو أتممتَ كلامك رجونا أنْ ينفعَ الله به، فقال عمر: إنَّ القولَ فتنة والفعل أولى بالمؤمن من القول.",
+         "en": "ʿUmar ibn ʿAbd al-ʿAzīz once gave a sermon, and the people were moved and wept, so he broke off his sermon. He was told: If you had finished what you were saying, we would have hoped that Allah would bring benefit through it. ʿUmar said: Speech is a trial, and action is worthier of the believer than speech."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c46",
+     "pages": [
+      324
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكنت من مدَّةٍ طويلةٍ قد رأيتُ في المنام أميرَ المؤمنين عمرَ بنَ عبد العزيز رضي الله عنه، وسمعته يتكلَّمُ في هذه المسألة، وأظنُّ أنِّي فاوضتُه فيها، وفهمتُ من كلامِه أنَّ التكلُّم بالخير أفضلُ من السُّكوتِ،",
+         "en": "A long time ago I saw the Commander of the Believers ʿUmar ibn ʿAbd al-ʿAzīz (may Allah be pleased with him) in a dream and heard him speaking about this question. I think I discussed it with him, and I understood from his words that speaking good is better than keeping silent."
+        },
+        {
+         "ar": "وأظُنُّ أنَّه وقع في أثناء الكلام ذكرُ سليمان ابن عبد الملك، وأنَّ عمر قال ذلك له،",
+         "en": "I think that in the course of the conversation Sulaymān ibn ʿAbd al-Malik was mentioned, and that ʿUmar had said this to him."
+        },
+        {
+         "ar": "وقد رُويَ عن سليمانَ بن عبد الملك أنَّه قال: الصمت منامُ العقل، والمنطقُ يَقظَتُهُ، ولا يتمُّ حالٌ إلا بحالٍ، يعني: لابدَّ من الصَّمت والكلام.",
+         "en": "It has been narrated that Sulaymān ibn ʿAbd al-Malik said: Silence is the sleep of the mind and speech its waking, and neither state is complete without the other — meaning that both silence and speech are needed."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c47",
+     "pages": [
+      324
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وما أحسنَ ما قال عُبيدُ الله بن أبي جعفر فقيه أهل مصر في وقته، وكان أحدَ الحكماء: إذا كان المرءُ يحدِّث في مجلسٍ، فأعجبه الحديثُ فليسكتْ، وإذا كان ساكتاً،",
+         "en": "How excellent is what ʿUbaydullāh ibn Abī Jaʿfar said — the jurist of the people of Egypt in his time, and one of the wise: When a man is talking in a gathering and his talk pleases him, let him fall silent; and when he is silent"
+        },
+        {
+         "ar": "فأعجبه السكوتُ، فليُحدِّث، وهذا حسنٌ فإنَّ من كان كذلك، كان سكوتُه وحديثُه لمخالفة هواه وإعجابه بنفسه، ومن كان كذلك، كان جديراً بتوفيق الله إيَّاه وتسديده في نطقه وسكوته؛",
+         "en": "and his silence pleases him, let him talk. This is good, for whoever is like this keeps silent and talks against his own inclination and self-satisfaction, and whoever is like this deserves that Allah should grant him success and keep him on the right course in his speech and his silence,"
+        },
+        {
+         "ar": "لأنَّ كلامَه وسكوتَه يكونُ لله عز وجل.",
+         "en": "because both his speech and his silence are for Allah, the Mighty and Majestic."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c48",
+     "pages": [
+      324,
+      325
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي مراسيل الحسن، عن النَّبيِّ صلى الله عليه وسلم فيما يرويه عن ربِّه عز وجل قالَ: «علامة الطُّهر أنْ يكونَ قلبُ العبد عندي معلَّقاً، فإذا كانَ كذلك لم ينسني على حال،",
+         "en": "Among the mursal reports of al-Ḥasan is that the Prophet ﷺ said, in what he narrates from his Lord, the Mighty and Majestic: “The sign of purity is that the servant's heart is attached to Me. When that is so, he does not forget Me in any state;"
+        },
+        {
+         "ar": "وإذا كانَ كذلك مننتُ عليهِ بالاشتغال بي كي لا ينساني، فإذا نسيني حرَّكتُ قلبهُ، فإنْ تكلّم، تكلّم لي، وإن سكتَ، سكتَ لي، فذلك الذي تأتيه المعونةُ من عندي» خرَّجه إبراهيمُ بنُ الجنيد.",
+         "en": "and when that is so, I favour him with being occupied with Me so that he does not forget Me; and if he forgets Me, I stir his heart. If he speaks, he speaks for Me, and if he is silent, he is silent for Me. That is the one to whom help comes from Me.” Ibrāhīm ibn al-Junayd recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c49",
+     "pages": [
+      325
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وبكلِّ حالٍ، فالتزامُ الصمت مطلقاً، واعتقاده قربة إمَّا مطلقاً، أو في بعض العبادات، كالحجِّ والاعتكاف والصيام منهيٌّ عنه.",
+         "en": "In any case, binding oneself to total silence, and believing it to be an act that brings one near to Allah, whether in general or in certain acts of worship such as Ḥajj, spiritual retreat (iʿtikāf) and fasting, is forbidden."
+        },
+        {
+         "ar": "ورُوي من حديث أبي هريرة عن النَّبيِّ صلى الله عليه وسلم: أنَّه نهى عن صيامِ الصَّمت.",
+         "en": "It has been narrated, from the hadith of Abū Hurayrah, that the Prophet ﷺ forbade the fast of silence."
+        },
+        {
+         "ar": "وخرَّج الإسماعيلي من حديث عليٍّ قال: نهانا رسولُ الله صلى الله عليه وسلم عن الصمت في العُكوفِ، وفي \" سنن أبي داود \" من حديث عليٍّ، عن النَّبيِّ صلى الله عليه وسلم، قال: «لا صُماتَ يَومٍ إلى الليلِ».",
+         "en": "Al-Ismāʿīlī recorded from the hadith of ʿAlī: The Messenger of Allah ﷺ forbade us silence during spiritual retreat. In the Sunan of Abū Dāwūd, ʿAlī narrated that the Prophet ﷺ said: “There is no keeping silent for a whole day until night.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c50",
+     "pages": [
+      325
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أبو بكر الصديق رضي الله عنه لامرأة حَجَّتْ مُصمتَةً: إنَّ هذا لا يَحلُّ هذا من عمل الجاهلية.",
+         "en": "Abū Bakr al-Ṣiddīq (may Allah be pleased with him) said to a woman who was performing Ḥajj in silence: This is not lawful; this is one of the practices of the Jāhiliyyah."
+        },
+        {
+         "ar": "وروي عن عليِّ بنِ الحسين زين العابدين أنَّه قال: صومُ الصَّمْتِ حرام.",
+         "en": "It has been narrated that ʿAlī ibn al-Ḥusayn Zayn al-ʿĀbidīn said: The fast of silence is unlawful."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c51",
+     "pages": [
+      325,
+      326
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "الثاني مما أمر به النَّبيُّ صلى الله عليه وسلم في هذا الحديث المؤمنين: إكرامُ الجار، وفي بعض الرِّوايات: «النهي عن أذى الجار» فأمَّا أذى الجار، فمحرَّمٌ،",
+         "en": "The second thing the Prophet ﷺ commanded the believers in this hadith is honouring the neighbour; some narrations have “the prohibition of harming the neighbour”. Harming the neighbour is forbidden;"
+        },
+        {
+         "ar": "فإنَّ الأذى بغيرِ حقٍّ محرَّمٌ لكلِّ أحدٍ، ولكن في حقِّ الجار هو أشدُّ تحريماً، وفي \" الصحيحين \" عن ابن مسعودٍ، عن النَّبيِّ صلى الله عليه وسلم أنَّه سُئِلَ: أيُّ الذَّنبِ أعظمُ؟",
+         "en": "harming anyone without right is forbidden, but harming a neighbour is forbidden more strictly still. In the two Ṣaḥīḥs, Ibn Masʿūd narrated that the Prophet ﷺ was asked: Which sin is greatest?"
+        },
+        {
+         "ar": "قالَ: «أنْ تجعل للهِ ندَّاً وهو خلقك»، قيل: ثُمَّ أي؟",
+         "en": "He said: “That you set up a rival to Allah when He created you.” He was asked: Then what?"
+        },
+        {
+         "ar": "قالَ: «أنْ تقتُلَ ولدَكَ مخافة أنْ يَطْعَمَ معك»، قيل: ثُمَّ أي؟",
+         "en": "He said: “That you kill your child for fear that he will eat with you.” He was asked: Then what?"
+        },
+        {
+         "ar": "قال: «أن تُزَانِي حليلةَ جارك».",
+         "en": "He said: “That you commit adultery with your neighbour's wife.”"
+        },
+        {
+         "ar": "وفي \" مسند الإمام أحمد \" عن المقداد بنِ الأسود قال: قال رسول الله صلى الله عليه وسلم:",
+         "en": "In the Musnad of Imam Aḥmad, al-Miqdād ibn al-Aswad said: The Messenger of Allah ﷺ said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c52",
+     "pages": [
+      326
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«ما تقولون في الزنى؟» قالوا:",
+         "en": "“What do you say about fornication?” They said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c53",
+     "pages": [
+      326
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "حرام حرَّمه الله ورسوله، فهو حرامٌ إلى يوم القيامة، فقال رسول الله صلى الله عليه وسلم: «لأنْ يزني الرَّجلُ بعشرِ نسوةٍ أيسرُ عليه من أنْ يزنيَ بامرأةِ جاره»، قال: «فما تقولون في السَّرقة؟»",
+         "en": "It is unlawful; Allah and His Messenger have made it unlawful, so it is unlawful until the Day of Resurrection. The Messenger of Allah ﷺ said: “For a man to commit fornication with ten women is lighter for him than to commit it with his neighbour's wife.” He said: “What do you say about theft?”"
+        },
+        {
+         "ar": "قالوا: حرَّمها الله ورسوله، فهي حرام، قال: «لأنْ يَسرِقَ الرجلُ من عشرة أبياتٍ أيسرُ عليه من أنْ يسرق من جاره».",
+         "en": "They said: Allah and His Messenger have made it unlawful, so it is unlawful. He said: “For a man to steal from ten houses is lighter for him than to steal from his neighbour.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c54",
+     "pages": [
+      326
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح البخاري \" عن أبي شُريح، عن النَّبيِّ صلى الله عليه وسلم قال: «والله لا يُؤْمِنُ، والله لا يُؤْمِنُ، واللهِ لا يؤمنُ» قيل: وَمَنْ يا رسولَ الله؟",
+         "en": "In Ṣaḥīḥ al-Bukhārī, Abū Shurayḥ narrated that the Prophet ﷺ said: “By Allah, he does not believe! By Allah, he does not believe! By Allah, he does not believe!” He was asked: Who, O Messenger of Allah?"
+        },
+        {
+         "ar": "قالَ: «مَنْ لا يأْمَنُ جارهُ بوائِقَهُ».",
+         "en": "He said: “The one whose neighbour is not safe from his harm.”"
+        },
+        {
+         "ar": "وخرَّجه الإمامُ أحمد، وغيره من حديث أبي هُريرة.",
+         "en": "Imam Aḥmad and others recorded it from the hadith of Abū Hurayrah."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c55",
+     "pages": [
+      326
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح مسلم \" عن أبي هُريرة، عن النَّبيِّ صلى الله عليه وسلم قال: «لا يَدخُلُ الجنَّة مَنْ لا يَأْمَنُ جارُه بوائقهُ».",
+         "en": "In Ṣaḥīḥ Muslim, Abū Hurayrah narrated that the Prophet ﷺ said: “He will not enter Paradise whose neighbour is not safe from his harm.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c56",
+     "pages": [
+      326
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمامُ أحمد، والحاكم من حديث أبي هُريرة، قال: قيلَ:",
+         "en": "Imam Aḥmad and al-Ḥākim recorded, from the hadith of Abū Hurayrah, that he said: Someone said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c57",
+     "pages": [
+      326
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "يا رسولَ الله إنَّ فُلانةَ تُصلي الليلَ، وتصومُ النهار وفي لسانها شيءٌ تؤذي جيرانها سليطة، قال:",
+         "en": "O Messenger of Allah, a certain woman prays at night and fasts by day, but there is something in her tongue: she is sharp-tongued and harms her neighbours. He said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c58",
+     "pages": [
+      327
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«لا خير فيها، هي في النار»، وقيل له: إنَّ فلانة تُصلي المكتوبةَ، وتصومُ رمضانَ، وتتصدَّقُ بالأثوارِ، وليس لها شيء غيره، ولا تؤذي أحداً، قال: «هي في الجنة» ولفظ الإمام أحمد: «ولا تؤذي بلسانها جيرانها».",
+         "en": "“There is no good in her; she is in the Fire.” He was told: A certain woman prays the obligatory prayers, fasts Ramaḍān and gives pieces of dried curd in charity, and has nothing besides, but she harms no one. He said: “She is in Paradise.” Imam Aḥmad's wording is: “and she does not harm her neighbours with her tongue.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c59",
+     "pages": [
+      327
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الحاكمُ من حديث أبي جُحيفة قال: جاء رجلٌ إلى النَّبيِّ صلى الله عليه وسلم يشكو جارَه، فقال له: «اطرح متاعَك في الطَّريق»، قال:",
+         "en": "Al-Ḥākim recorded, from the hadith of Abū Juḥayfah, that a man came to the Prophet ﷺ complaining about his neighbour, and he said to him: “Put your belongings out in the road.” The narrator said:"
+        },
+        {
+         "ar": "فجعل النَّاسُ يمرُّون به فيلعنونه، فجاء إلى النَّبيِّ صلى الله عليه وسلم، فقال: يا رسولَ الله، ما لقيتُ من الناس، قال : «وما لقيتَ منهم؟»",
+         "en": "So people began passing by him and cursing [the neighbour]. Then [the neighbour] came to the Prophet ﷺ and said: O Messenger of Allah, what I have met with from people! He said: “What have you met with from them?”"
+        },
+        {
+         "ar": "قال: يلعنوني، قال: «فقد لعنك الله قبلَ النَّاسِ»، قال: يا رسولَ الله، فإني لا أعود.",
+         "en": "He said: They curse me. He said: “Allah cursed you before the people did.” He said: O Messenger of Allah, I will not do it again."
+        },
+        {
+         "ar": "وخرَّجه أبو داود بمعناه من حديث أبي هريرة، ولم يذكر فيه: «فقد لعنك الله قبل الناس».",
+         "en": "Abū Dāwūd recorded something with the same meaning from the hadith of Abū Hurayrah, but did not mention in it: “Allah cursed you before the people did.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c60",
+     "pages": [
+      327
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الخرائطي من حديث أمِّ سلمة، قالت: دخلت شاةٌ لجارٍ لنا، فأخذت قرصةً لنا، فقمت إليها فاجتذبتها من بين لحْيَيْهَا، فقال رسول الله صلى الله عليه وسلم : «إنَّه لا قليلَ من أذى الجار».",
+         "en": "Al-Kharāʾiṭī recorded, from the hadith of Umm Salamah, that she said: A sheep belonging to a neighbour of ours came in and took a round loaf of ours, so I went over to it and pulled it from between its jaws. The Messenger of Allah ﷺ said: “No harm done to a neighbour is a small matter.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c61",
+     "pages": [
+      327,
+      328
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأمَّا إكرامُ الجارِ والإحسانُ إليه، فمأمورٌ به، وقد قال الله عز وجل:",
+         "en": "As for honouring the neighbour and treating him well, that is commanded. Allah, the Mighty and Majestic, has said:"
+        },
+        {
+         "ar": "{وَاعْبُدُوا اللَّهَ وَلا تُشْرِكُوا بِهِ شَيْئاً وَبِالْوَالِدَيْنِ إِحْسَاناً وَبِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَالْجَارِ ذِي الْقُرْبَى وَالْجَارِ الْجُنُبِ وَالصَّاحِبِ بِالْجَنْبِ وَابْنِ السَّبِيلِ وَمَا مَلَكَتْ أَيْمَانُكُمْ إِنَّ اللهَ لا يُحِبُّ مَنْ كَانَ مُخْتَالاً فَخُوراً}،",
+         "en": "“Worship Allah and associate nothing with Him, and be good to parents, to relatives, orphans and the needy, to the near neighbour and the distant neighbour, to the companion at your side, to the wayfarer, and to those your right hands possess. Allah does not love whoever is arrogant and boastful” [al-Nisāʾ 4:36]."
+        },
+        {
+         "ar": "فجمع الله تعالى في هذه الآية بين ذكرِ حقِّه على العبد وحقوقِ العباد على العبد أيضاً، وجعل العبادَ الذين أمرَ بالإحسّان إليهم خمسة أنواع:",
+         "en": "In this verse Allah the Exalted brought together the mention of His own right over the servant and of the rights of His servants over the servant as well, and He made the servants whom He commanded us to treat well of five kinds."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c62",
+     "pages": [
+      328
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدها: من بينَه وبينَ الإنسان قرابةٌ، وخصَّ منهمُ الوالدين بالذِّكر؛",
+         "en": "The first: those to whom a person is related by kinship. Among them He singled out parents for mention,"
+        },
+        {
+         "ar": "لامتيازهما عن سائر الأقارب بما لا يَشْرَكونهما فيه، فإنَّهما كانا السببَ في وجود الولد ولهما حقُّ التربية والتأديب وغير ذلك.",
+         "en": "because they are distinguished from all other relatives by something they do not share with them: they were the cause of the child's existence, and theirs is the right of having raised and disciplined him, and more besides."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c63",
+     "pages": [
+      328
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "الثاني: مَنْ هو ضعيفٌ محتاجٌ إلى الإحسَّان، وهو نوعان: من هو محتاج لضعف بدنه، وهو اليتيم، ومن هو محتاج لِقِلَّةِ ماله، وهو المسكين.",
+         "en": "The second: whoever is weak and in need of kindness. These are of two kinds: one in need because of bodily weakness, who is the orphan, and one in need because of lack of wealth, who is the poor person (miskīn)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c64",
+     "pages": [
+      328
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثالث: مَنْ له حقُّ القُرب والمخالطة، وجعلهم ثلاثة أنواع: جارٌ ذو قربى، وجار جُنبٌ، وصاحبٌ بالجنب.",
+         "en": "The third: those who have a right through nearness and close association. He made them of three kinds: the near neighbour, the distant neighbour, and the companion at one's side."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c65",
+     "pages": [
+      328
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد اختلف المفسرون في تأويل ذلك، فمنهم مَن قال: الجارُ ذو القربى: الجارُ الذي له قرابةٌ، والجارُ الجُنب: الأجنبيُّ، ومنهم من أدخل المرأةَ في الجارِ ذي القربى، ومنهم من أدخلها في الجار الجُنب،",
+         "en": "The exegetes differed over how to interpret this. Some said: The near neighbour is a neighbour who is a relative, and the distant neighbour is one who is not related. Some included the wife under the near neighbour, and some included her under the distant neighbour,"
+        },
+        {
+         "ar": "ومنهم من أدخل الرَّفيقَ في السَّفر في الجارِ الجُنب، وقد روي عن النَّبيِّ صلى الله عليه وسلم أنَّه كان يقول في دعائه: «أعوذُ بكَ من جارِ السُّوءِ في دار الإقامة، فإنَّ جار البادية يتحوَّلُ».",
+         "en": "and some included the travelling companion under the distant neighbour. It has been narrated that the Prophet ﷺ used to say in his supplication: “I seek refuge in You from a bad neighbour in a settled home, for the neighbour in the desert moves on.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c66",
+     "pages": [
+      328,
+      329
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنهم من قال: الجارُ ذو القربى: الجار المسلم، والجارُ الجنب: الكافر (1)، وفي \" مسند البزار \" من حديث جابر مرفوعاً:",
+         "en": "Some said: The near neighbour is the Muslim neighbour, and the distant neighbour is the disbeliever. In the Musnad of al-Bazzār there is, from the hadith of Jābir as marfūʿ:"
+        },
+        {
+         "ar": "«الجيرانُ ثلاثةٌ: جارٌ له حقٌّ واحدٌ، وهو أدنى الجيران حقاً، وجارٌ له حَقَّان، وجار له ثلاثةُ حقوق وهو أفضلُ الجيران حقاً،",
+         "en": "“Neighbours are of three kinds: a neighbour who has one right, and he is the neighbour with the least right; a neighbour who has two rights; and a neighbour who has three rights, and he is the neighbour with the greatest right."
+        },
+        {
+         "ar": "فأمَّا الذي له حقٌّ واحدٌ، فجارٌ مشرك، لا رَحِمَ له، له حقُّ الجوار، وأمَّا الذي له حقَّان، فجارٌ مسلمٌ،",
+         "en": "The one who has one right is an idolater neighbour with no tie of kinship: he has the right of neighbourliness. The one who has two rights is a Muslim neighbour:"
+        },
+        {
+         "ar": "له حقُّ الإسلام وحقُّ الجوار، وأمَّا الذي له ثلاثةُ حقوقٍ، فجار مسلمٌ ذو رحم، له حقُّ الإسلام، وحقُّ الجوار، وحقُّ الرحم».",
+         "en": "he has the right of Islam and the right of neighbourliness. The one who has three rights is a Muslim neighbour who is a relative: he has the right of Islam, the right of neighbourliness and the right of kinship.”"
+        },
+        {
+         "ar": "وقد روي هذا الحديثُ من وجوه أُخر متصلة ومرسلة، ولا تخلو كلُّها مِنْ مقالٍ.",
+         "en": "This hadith has also been narrated by other routes, connected and mursal, and none of them is free of criticism."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c67",
+     "pages": [
+      329
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقيل: الجار ذو القربى: هو القريبُ الملاصق، والجار الجُنُب: البعيد الجوار.",
+         "en": "It has also been said: The near neighbour is the one close by, next door, and the distant neighbour is the one whose house is far off."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c68",
+     "pages": [
+      329
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح البخاري \" عن عائشة، قالت: قلت: يا رسولَ الله، إنَّ لي جارين، فإلى أيهما أُهدي؟",
+         "en": "In Ṣaḥīḥ al-Bukhārī, ʿĀʾishah said: I said: O Messenger of Allah, I have two neighbours; to which of them should I give gifts?"
+        },
+        {
+         "ar": "قال: «إلى أقربهما منك باباً».",
+         "en": "He said: “To the one whose door is nearer to you.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c69",
+     "pages": [
+      329
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال طائفة من السَّلف: حَدُّ الجوارِ أربعون داراً، وقيل: مستدار أربعين داراً من كلِّ جانب.",
+         "en": "A group of the Salaf said: Neighbourliness extends to forty houses; it has also been said: to forty houses all around, in every direction."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c70",
+     "pages": [
+      330
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي مراسيل الزهري: أنَّ رجلاً أتى النَّبيَّ صلى الله عليه وسلم يشكو جاراً له، فأمر النَّبيُّ صلى الله عليه وسلم بعضَ أصحابه أنْ يُنادي: «ألا إنَّ أربعين داراً جار».",
+         "en": "Among the mursal reports of al-Zuhrī: a man came to the Prophet ﷺ complaining about a neighbour of his, and the Prophet ﷺ ordered one of his Companions to call out: “Forty houses are neighbours!”"
+        },
+        {
+         "ar": "قال الزهري: أربعونَ هكذا، وأربعون هكذا، وأربعون هكذا، وأربعون هكذا، يعني: بين يديه، ومِن خلفه، وعن يمينه، وعن شماله.",
+         "en": "Al-Zuhrī said: Forty this way, forty this way, forty this way and forty this way — meaning in front of him, behind him, on his right and on his left."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c71",
+     "pages": [
+      330
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وسئل الإمام أحمد عمَّن يطبخ قدراً وهو في دارِ السبيل، ومعه في الدار نحو ثلاثين أو أربعين نفساً، يعني:",
+         "en": "Imam Aḥmad was asked about someone who cooks a pot while living in a lodging-house (dār al-sabīl) with about thirty or forty people in the house with him — meaning"
+        },
+        {
+         "ar": "أنَّهم سكان معه في الدار، فقال: يبدأ بنفسه، وبمن يعولُ، فإنْ فضلَ فضلٌ أعطى الأقرب إليه، وكيف يُمكنه أنْ يُعطِيَهم كلَّهم؟",
+         "en": "that they live in the house with him. He said: He begins with himself and his dependants; if anything is left over, he gives it to whoever is closest to him. How could he give to all of them?"
+        },
+        {
+         "ar": "قيل له: لعلَّ الذي هو جاره يتهاون بذلك القدر ليس له عنده موقع؟",
+         "en": "He was asked: What if his neighbour thinks little of that potful and it means nothing to him?"
+        },
+        {
+         "ar": "فرأى أنَّه لا يبعث إليه.",
+         "en": "He took the view that he need not send any to him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c72",
+     "pages": [
+      330,
+      331
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأمَّا الصَّاحبُ بالجنب، ففسره طائفةٌ بالزَّوجة، وفسره طائفةٌ منهم: ابن عباس بالرَّفيق في السفر، ولم يريدوا إخراجَ الصاحب الملازم في الحضر إنَّما أرادوا أنَّ صحبة السفر تكفي، فالصحبة الدائمة في الحضر أولى،",
+         "en": "As for the companion at one's side, one group explained it as the wife, and another group, among them Ibn ʿAbbās, as the travelling companion. They did not mean to exclude the constant companion at home; they meant that if companionship on a journey suffices, then lasting companionship at home has all the more right."
+        },
+        {
+         "ar": "ولهذا قالَ سعيدُ بن جبير: هوَ الرفيق الصالحُ، وقال زيدُ بن أسلم: هوَ جليسُك في الحضر، ورفيقُك في السَّفر، وقال ابنُ زيدٍ: هوَ الرَّجلُ يعتريك ويُلِمُّ بك لتنفعه.",
+         "en": "That is why Saʿīd ibn Jubayr said: He is the righteous companion; Zayd ibn Aslam said: He is the one who sits with you at home and your companion on a journey; and Ibn Zayd said: He is the man who comes to you and calls on you so that you may benefit him."
+        },
+        {
+         "ar": "وفي \" المسند \" والترمذي عن عبد الله بنِ عمرو بن العاص، عن النَّبيِّ صلى الله عليه وسلم قال:",
+         "en": "In the Musnad and al-Tirmidhī, ʿAbdullāh ibn ʿAmr ibn al-ʿĀṣ narrated that the Prophet ﷺ said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c73",
+     "pages": [
+      331
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«خيرُ الأصحابِ عندَ الله خيرُهُم لصاحبه، وخير الجيرانِ عندَ الله خيرُهم لجاره».",
+         "en": "“The best of companions in the sight of Allah is the best of them to his companion, and the best of neighbours in the sight of Allah is the best of them to his neighbour.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c74",
+     "pages": [
+      331
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "الرابع: من هو واردٌ على الإنسان، غيرُ مقيم عندَه، وهو ابن السبيل يعني: المسافر إذا ورد إلى بلدٍ آخر، وفسَّره بعضُهم بالضَّيف، يعني: به ابنَ السبيل إذا نزل ضيفاً على أحد.",
+         "en": "The fourth: one who comes to a person without staying with him permanently. This is the wayfarer (ibn al-sabīl), meaning the traveller who arrives in another land. Some explained it as the guest, meaning the wayfarer when he stops as someone's guest."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c75",
+     "pages": [
+      331,
+      332
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والخامس: ملكُ اليمين، وقد وصَّى النَّبيُّ صلى الله عليه وسلم بهم كثيراً وأمر بالإحسانِ إليهم، وروي أنَّ آخرَ ما وصَّى به عند موته:",
+         "en": "The fifth: those whom one's right hand possesses. The Prophet ﷺ often gave instructions concerning them and commanded that they be treated well, and it has been narrated that the last thing he enjoined at his death was:"
+        },
+        {
+         "ar": "«الصلاة وما ملكت أيمانكم»، وأدخل بعضُ السَّلف في هذه الآية: ما يملكُهُ الإنسان من الحيوانات والبهائم.",
+         "en": "“The prayer, and those your right hands possess.” Some of the Salaf included under this verse the animals and livestock a person owns."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c76",
+     "pages": [
+      332
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولنرجع إلى شرح حديث أبي هريرة في إكرام الجار، وفي \"الصحيحين\" عن عائشة وابن عمر، عن النَّبيِّ صلى الله عليه وسلم قال: «ما زال جبريل يُوصيني بالجارِ حتَّى ظننتُ أنَّه سيورِّثُه».",
+         "en": "Let us return to the explanation of Abū Hurayrah's hadith on honouring the neighbour. In the two Ṣaḥīḥs, ʿĀʾishah and Ibn ʿUmar narrated that the Prophet ﷺ said: “Jibrīl kept enjoining me to treat the neighbour well until I thought he would make him an heir.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c77",
+     "pages": [
+      332
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فمن أنواع الإحسَّان إلى الجارِ مواساتُه عندَ حاجته، وفي \" المسند \" عن عمر، عن النَّبيِّ صلى الله عليه وسلم قال: «لا يَشْبَعُ المؤمنُ دُونَ جارِه»،",
+         "en": "One form of kindness to the neighbour is to help him in his need. In the Musnad, ʿUmar narrated that the Prophet ﷺ said: “The believer does not eat his fill while his neighbour goes without.”"
+        },
+        {
+         "ar": "وخرَّج الحاكم من حديث ابنِ عباس عنِ النَّبيِّ صلى الله عليه وسلم قال: «لَيْسَ المؤمن الذي يشبعُ وجارُه جائعٌ»،",
+         "en": "Al-Ḥākim recorded, from the hadith of Ibn ʿAbbās, that the Prophet ﷺ said: “He is not a believer who eats his fill while his neighbour is hungry.”"
+        },
+        {
+         "ar": "وفي رواية أخرى عن ابن عباس، عن النَّبيِّ صلى الله عليه وسلم قال: «ما آمن مَنْ بات شبعاناً وجارُهُ طاوياً».",
+         "en": "In another narration from Ibn ʿAbbās, the Prophet ﷺ said: “He has not believed who spends the night full while his neighbour goes hungry.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c78",
+     "pages": [
+      332
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" المسند \" عن عقبة بن عامر، عن النَّبيِّ صلى الله عليه وسلم قال: «أوَّل خصمينِ يومَ القيامةِ جاران».",
+         "en": "In the Musnad, ʿUqbah ibn ʿĀmir narrated that the Prophet ﷺ said: “The first two disputants on the Day of Resurrection will be two neighbours.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c79",
+     "pages": [
+      332,
+      333
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي كتاب \" الأدب \" للبخاري عن ابن عمر، عن النَّبيِّ صلى الله عليه وسلم قال: «كم من جارٍ متعلِّقٌ بجاره يوم القيامة، فيقول: يا ربِّ هذا أغلقَ بابه دوني فمنع معروفه».",
+         "en": "In al-Bukhārī's book al-Adab, Ibn ʿUmar narrated that the Prophet ﷺ said: “How many a neighbour will cling to his neighbour on the Day of Resurrection, saying: My Lord, this man shut his door against me and withheld his kindness!”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c80",
+     "pages": [
+      333
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الخرائطي وغيرُه بإسنادٍ ضعيف من حديث عطاءٍ الخراساني، عن عمرو بن شعيب، عن أبيه، عن، جدِّه عن النَّبيِّ صلى الله عليه وسلم:",
+         "en": "Al-Kharāʾiṭī and others recorded, with a weak chain, from the hadith of ʿAṭāʾ al-Khurāsānī, from ʿAmr ibn Shuʿayb, from his father, from his grandfather, from the Prophet ﷺ:"
+        },
+        {
+         "ar": "«من أغلقَ بابَه دونَ جارِه مخافةً على أهله ومالِه، فليس ذلك بمؤمنٍ، وليس بمؤمن من لم يأمنْ جارُه بوائقه.",
+         "en": "“Whoever shuts his door against his neighbour for fear for his family and property, that one is not a believer; and he is not a believer whose neighbour is not safe from his harm."
+        },
+        {
+         "ar": "أتدري ما حقُّ الجار؟",
+         "en": "Do you know what the neighbour's right is?"
+        },
+        {
+         "ar": "إذا استعانك أعنته، وإذا استقرضك أقرضته، وإذا افتقر، عُدْتَ عليهِ، وإذا مَرِضَ عُدته، وإذا أصابه خير هنأته، وإذا أصابته مُصيبةٌ عزَّيته، وإذا ماتَ اتبعتَ جنازته، ولا تستطل عليه بالبناء، فتحجبَ عنه الرِّيح إلا بإذنه،",
+         "en": "When he asks your help, help him; when he asks you for a loan, lend to him; when he becomes poor, come to his aid; when he falls ill, visit him; when good comes to him, congratulate him; when calamity befalls him, console him; when he dies, follow his funeral. Do not build higher than him and block the breeze from him, except with his permission."
+        },
+        {
+         "ar": "ولا تؤذيه بقُتار قدرك إلاَّ أنْ تَغرفَ له منها، وإنِ اشتريتَ فاكهةً، فاهد له، فإنْ لم تفعل، فأدخلها سرَّاً، ولا يخرج بها ولدُك ليغيظَ بها ولدَه» ورَفْعُ هذا الكلام مُنكرٌ، ولعلَّه من تفسير عطاء الخراساني.",
+         "en": "Do not trouble him with the smell of your cooking pot unless you ladle some out for him. If you buy fruit, give him some as a gift; if you do not, bring it in secretly, and do not let your child take it out to provoke his child with it.” It is munkar (objectionable) to trace these words back to the Prophet ﷺ; perhaps they are ʿAṭāʾ al-Khurāsānī's own explanation."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c81",
+     "pages": [
+      333
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد روي أيضاً عن عطاء، عن الحسن، عن جابر مرفوعاً: «أدنى حقِّ الجوار أنْ لا تُؤذي جارَك بقتارِ قِدْرِك إلاَّ أنْ تَقدَحَ له منها».",
+         "en": "It has also been narrated from ʿAṭāʾ, from al-Ḥasan, from Jābir, as marfūʿ: “The least of the neighbour's right is that you do not trouble your neighbour with the smell of your cooking pot unless you scoop some out for him.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c82",
+     "pages": [
+      333,
+      334
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح مسلم \" عن أبي ذرٍّ قال: «أوصاني خليلي صلى الله عليه وسلم: إذا طبختَ مرقاً، فأكثِر ماءهُ، ثم انظُر إلى أهلِ بيتِ جيرانِك، فأصِبْهُم منها بمعروفٍ».",
+         "en": "In Ṣaḥīḥ Muslim, Abū Dharr said: “My dear friend ﷺ instructed me: When you cook broth, add plenty of water to it, then look to the households of your neighbours and give them some of it in a fitting way.”"
+        },
+        {
+         "ar": "وفي رواية أنَّ النَّبيَّ صلى الله عليه وسلم قال: «يا أبا ذرٍّ إذا طبخت مرقةً، فأكثِر ماءها، وتعاهد جيرانَك».",
+         "en": "In one narration, the Prophet ﷺ said: “Abū Dharr, when you cook broth, add plenty of water to it and look after your neighbours.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c83",
+     "pages": [
+      334
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" المسند \" والترمذي عن عبد الله بن عمرو بن العاص: أنَّه ذبح شاةً، فقال: هل أهديتُم منها لجارنا اليهودي ثلاثَ مرَّات،",
+         "en": "In the Musnad and al-Tirmidhī: ʿAbdullāh ibn ʿAmr ibn al-ʿĀṣ slaughtered a sheep and said three times: Have you given some of it as a gift to our Jewish neighbour?"
+        },
+        {
+         "ar": "ثم قال: سمعتُ النَّبيَّ صلى الله عليه وسلم يقول: «ما زال جبريلُ يوصيني بالجار حتَّى ظننت أنه سَيُورِّثُه».",
+         "en": "Then he said: I heard the Prophet ﷺ say: “Jibrīl kept enjoining me to treat the neighbour well until I thought he would make him an heir.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c84",
+     "pages": [
+      334
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن أبي هريرة، عن النَّبيِّ صلى الله عليه وسلم قال: «لا يَمنَعَنَّ أحدُكم جَارَه أن يَغْرِزَ خَشبَةً في جداره»، ثم يقول أبو هريرة: مالي أراكم عنها مُعرِضين، والله لأرمِيَنَّ بها بين أكتافكم.",
+         "en": "In the two Ṣaḥīḥs, Abū Hurayrah narrated that the Prophet ﷺ said: “None of you should forbid his neighbour to fix a beam in his wall.” Then Abū Hurayrah would say: Why do I see you turning away from it? By Allah, I will throw it between your shoulders!"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c85",
+     "pages": [
+      334
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومذهبُ الإمامِ أحمد أنَّ الجار يلزمه أنْ يُمَكِّنَ جاره من وضع خشبه على جداره إذا احتاجَ الجارُ إلى ذلك ولم يضرَّ بجداره،",
+         "en": "The school of Imam Aḥmad is that a man is obliged to let his neighbour rest his beams on his wall if the neighbour needs to and it does not damage his wall,"
+        },
+        {
+         "ar": "لهذا الحديث الصحيح، وظاهرُ كلامه أنَّه يجب عليه أنْ يُواسِيهَ من فضل ما عندَه بما لا يضرُّ به إذا علم حاجته.",
+         "en": "because of this authentic hadith. The apparent sense of his words is that he is obliged to help him from the surplus of what he has, in a way that does him no harm, when he knows of his need."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c86",
+     "pages": [
+      334
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال المروذي: قلتُ لأبي عبد الله: إني أسمع السائل في الطريق يقول: إنِّي جائع، فقال: قد يَصدُق وقد يَكذِبُ.",
+         "en": "Al-Marrūdhī said: I said to Abū ʿAbdillāh [Aḥmad]: I hear the beggar in the street saying, \"I am hungry.\" He said: He may be telling the truth, and he may be lying."
+        },
+        {
+         "ar": "قلت: فإذا كان لي جار أعلم أنَّه يجوعُ؟",
+         "en": "I said: What if I have a neighbour whom I know to be going hungry?"
+        },
+        {
+         "ar": "قال: تواسيه، قلت: إذا كان قوتي رغيفين؟",
+         "en": "He said: You help him. I said: What if my provision is two loaves?"
+        },
+        {
+         "ar": "قال: تُطعمه شيئاً، ثم قال: الذي جاء في الحديث إنَّما هو الجارُ.",
+         "en": "He said: You give him something to eat. Then he said: What has come in the hadith is only about the neighbour."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c87",
+     "pages": [
+      335
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال المروذي: قلتُ لأبي عبد الله: الأغنياءُ يجبُ عليهمُ المواساة؟",
+         "en": "Al-Marrūdhī said: I said to Abū ʿAbdillāh: Is it obligatory for the rich to help others?"
+        },
+        {
+         "ar": "قال: إذا كان قوم يضعون شيئاً على شيءٍ كيف لا يجبُ عليهم، قلت: إذا كان للرجل قميصان، أو قلت: جُبَّتان، يجب عليه المواساة؟",
+         "en": "He said: When people are piling up one thing on top of another, how could it not be obligatory for them? I said: If a man has two shirts — or I said: two cloaks — is he obliged to help?"
+        },
+        {
+         "ar": "قال: إذا كان يحتاج إلى أنْ يكون فضلاً.",
+         "en": "He said: If what he has is surplus."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c88",
+     "pages": [
+      335
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذا نصٌّ منه في وجوب المواساة من الفاضل، ولم يخصَّه بالجار، ونصُّه الأوَّل يقتضي اختصاصه بالجار.",
+         "en": "This is an explicit statement from him that helping others from one's surplus is obligatory, and he did not restrict it to the neighbour, whereas his first statement implies that it is restricted to the neighbour."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c89",
+     "pages": [
+      335
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال في رواية ابن هانئ في السُّؤال يكذِبُون أحبُّ إلينا لو صدقوا ما وَسِعَنا إلا مواساتُهم، وهذا يدلُّ على وجوب مواساة الجائع مِنَ الجيران، وغيرهم.",
+         "en": "In the narration of Ibn Hāniʾ he said, about beggars: That they are lying is dearer to us; if they were telling the truth, we would have no choice but to help them. This indicates that it is obligatory to help the hungry, whether neighbours or others."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c90",
+     "pages": [
+      335
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيح \" عن أبي موسى، عن النَّبيِّ صلى الله عليه وسلم، قال: «أطعِموا الجائع، وعُودُوا المريضَ، وفُكُّوا العاني».",
+         "en": "In the Ṣaḥīḥ, Abū Mūsā narrated that the Prophet ﷺ said: “Feed the hungry, visit the sick and free the captive.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c91",
+     "pages": [
+      335
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" المسند \" و\" صحيح الحاكم \" عن ابن عمرَ، عن النَّبيِّ صلى الله عليه وسلم، قال : «أيُّما أهل عَرَصةٍ أصبحَ فيهم امرؤٌ جائع، فقد برئت منهم ذِمَّةُ الله عز وجل».",
+         "en": "In the Musnad and the Ṣaḥīḥ of al-Ḥākim, Ibn ʿUmar narrated that the Prophet ﷺ said: “Any people of a quarter among whom a man wakes up hungry, the protection of Allah, the Mighty and Majestic, has been withdrawn from them.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c92",
+     "pages": [
+      335
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومذهب أحمدَ ومالكٍ أنَّه يمنع الجار أنْ يتصرَّف في خاصِّ ملكه بما يضرُّ بجاره، فيجبُ عندهما كفُّ الأذى عن الجار بمنعِ إحداث الانتفاع المضرِّ به،",
+         "en": "The school of Aḥmad and Mālik is that a neighbour is prevented from using his own private property in a way that harms his neighbour. In their view it is obligatory to keep harm from the neighbour by preventing any new use that harms him,"
+        },
+        {
+         "ar": "ولو كان المنتفعُ إنَّما ينتفعُ بخاصِّ ملكه، ويجب عندَ أحمد أنْ يبذُلَ لجاره ما يحتاجُ إليه، ولا ضررَ عليه في بَذله، وأعلى مِنْ هذين أنْ يصبر على أذى جاره، ولا يُقابله بالأذى.",
+         "en": "even if the one making use of it is only using his own private property. In Aḥmad's view it is also obligatory to give one's neighbour what he needs when giving it does one no harm. Higher than both of these is to bear one's neighbour's harm patiently and not repay it with harm."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c93",
+     "pages": [
+      336
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال الحسن: ليس حسنُ الجوار كفَّ الأذى، ولكن حسن الجوار احتمالُ الأذى، ويُروى من حديث أبي ذرٍّ يرفعه:",
+         "en": "Al-Ḥasan said: Good neighbourliness is not refraining from harm; good neighbourliness is bearing harm. It is narrated from the hadith of Abū Dharr, who attributed it to the Prophet ﷺ:"
+        },
+        {
+         "ar": "«إنَّ الله يحبُّ الرَّجل يكونُ له الجارُ يؤذيه جِوارُه، فيصبر على أذاه حتى يُفرِّقَ بينهما موتٌ أو ظعنٌ» خرَّجه الإمام أحمد.",
+         "en": "“Allah loves a man who has a neighbour who harms him by his proximity, and he bears his harm patiently until death or departure separates them.” Imam Aḥmad recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c94",
+     "pages": [
+      336
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي مراسيل أبي عبد الرحمان الحبلي: أنَّ رجلاً جاء إلى النَّبيِّ صلى الله عليه وسلم يشكو إليه جارَه، فقال النَّبيُّ صلى الله عليه وسلم: «كفَّ أذاكَ عنه، واصبِرْ لأذاه، فكفى بالموت مفرِّقاً» خرَّجه ابن أبي الدنيا.",
+         "en": "Among the mursal reports of Abū ʿAbd al-Raḥmān al-Ḥubulī: a man came to the Prophet ﷺ complaining to him about his neighbour, and the Prophet ﷺ said: “Keep your harm from him and bear his harm patiently; death is enough to separate you.” Ibn Abī al-Dunyā recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c95",
+     "pages": [
+      336
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "الثالث ممَّا أمر به النَّبيُّ صلى الله عليه وسلم المؤمنين: إكرامُ الضيف، والمرادُ: إحسّانُ ضيافته، وفي \"الصحيحين\" من حديث أبي شُريح، قال:",
+         "en": "The third thing the Prophet ﷺ commanded the believers is honouring the guest, meaning hosting him well. In the two Ṣaḥīḥs, from the hadith of Abū Shurayḥ, he said:"
+        },
+        {
+         "ar": "أبصَرَتْ عيناي رسولَ الله صلى الله عليه وسلم، وسمعتهُ أذنايَ حينَ تكلَّم به قال: «مَنْ كَانَ يُؤمِنُ باللهِ واليوم الآخر، فليُكْرِمْ ضيفَه جائزته» قالوا: وما جائزته؟",
+         "en": "My eyes saw the Messenger of Allah ﷺ and my ears heard him when he said it: “Whoever believes in Allah and the Last Day, let him honour his guest with his due (jāʾizah).” They said: What is his due?"
+        },
+        {
+         "ar": "قال: «يَومٌ وليلة» قال: «والضيافةُ ثلاثةُ أيام، وما كان بعد ذلك، فهو صدقة».",
+         "en": "He said: “A day and a night.” He said: “Hospitality is three days, and whatever is after that is charity.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c96",
+     "pages": [
+      336
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج مسلم من حديث أبي شُريح أيضاً، عن النَّبيِّ صلى الله عليه وسلم قال: «الضيافة ثلاثةُ أيَّام، وجائزتُه يومٌ وليلةٌ،",
+         "en": "Muslim also recorded, from the hadith of Abū Shurayḥ, that the Prophet ﷺ said: “Hospitality is three days, and his due is a day and a night."
+        },
+        {
+         "ar": "وما أنفق عليه بعد ذلك، فهو صدقةٌ، ولا يَحِلُّ له أنْ يَثْوِي عندَه حتى يُؤْثِمهُ»، قالوا: يا رسول الله وكيف يُؤثِمُهُ؟",
+         "en": "Whatever is spent on him after that is charity. It is not lawful for him to stay on with his host until he makes him fall into sin.” They said: O Messenger of Allah, how would he make him fall into sin?"
+        },
+        {
+         "ar": "قالَ: «يُقيم عنده ولا شيءَ لهُ يقرِيه به».",
+         "en": "He said: “He stays with him when he has nothing with which to host him.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c97",
+     "pages": [
+      336
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد من حديث أبي سعيدٍ الخدري رضي الله عنه، عن النَّبيِّ صلى الله عليه وسلم قال:",
+         "en": "Imam Aḥmad recorded, from the hadith of Abū Saʿīd al-Khudrī (may Allah be pleased with him), that the Prophet ﷺ said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c98",
+     "pages": [
+      336,
+      337
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«مَنْ كان يُؤمِنُ باللهِ واليومِ الآخرِ فليُكرِمْ ضَيفهُ».",
+         "en": "“Whoever believes in Allah and the Last Day, let him honour his guest.”"
+        },
+        {
+         "ar": "قالها ثلاثاً، قالوا: وما كرامة الضيف يا رسولَ الله؟",
+         "en": "He said it three times. They said: What is the honouring of the guest, O Messenger of Allah?"
+        },
+        {
+         "ar": "قالَ: «ثلاثةُ أيام، فما جلس بعد ذَلِكَ فهوَ صدقة».",
+         "en": "He said: “Three days; whatever he stays after that is charity.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c99",
+     "pages": [
+      337
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ففي هذه الأحاديث أنَّ جائزة الضيف يومٌ وليلةٌ، وأنَّ الضيافة ثلاثةُ أيام، ففرَّق بين الجائزة والضيافة، وأكَّدَ الجائزة، وقد ورد في تأكيدها أحاديثُ أخرُ، فخرَّج أبو داود مِنْ حديث المقدام بن معدي كرب،",
+         "en": "These hadiths state that the guest's due is a day and a night and that hospitality is three days, so he distinguished between the due and hospitality and stressed the due. Other hadiths have also come stressing it. Abū Dāwūd recorded, from the hadith of al-Miqdām ibn Maʿdīkarib,"
+        },
+        {
+         "ar": "عن النَّبيِّ صلى الله عليه وسلم قالَ: «ليلة الضيف حقٌّ على كلِّ مسلم، فمن أصبحَ بِفِنائه، فهو عليه دَيْنٌ، إنْ شاءَ اقتضى، وإنْ شاءَ ترك».",
+         "en": "that the Prophet ﷺ said: “The guest's night is a duty on every Muslim. If the morning finds him in someone's courtyard [unhosted], it is a debt owed to him: if he wishes he may claim it, and if he wishes he may let it go.”"
+        },
+        {
+         "ar": "وخرَّجه ابن ماجه ولفظه: «ليلةُ الضيفِ حقٌّ على كُلِّ مسلمٍ».",
+         "en": "Ibn Mājah recorded it with the wording: “The guest's night is a duty on every Muslim.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c100",
+     "pages": [
+      337
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمامُ أحمد، وأبو داود من حديث المقدام، عن النَّبيِّ صلى الله عليه وسلم، قال : «أيُّما رجلٍ أضاف قوماً، فأصبح الضيفُ محروماً، فإنَّ نَصْرَهُ حقٌّ على كُلِّ مسلمٍ حتَّى يأخذ بِقِرَى ليلةٍ من زرعه وماله».",
+         "en": "Imam Aḥmad and Abū Dāwūd recorded, from the hadith of al-Miqdām, that the Prophet ﷺ said: “If any man comes as a guest to a people and wakes up deprived, every Muslim is duty-bound to help him until he takes the hospitality of one night from their crops and property.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c101",
+     "pages": [
+      337,
+      338
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن عُقبة بن عامر، قال: قلنا يا رسول الله، إنَّك تبعثُنا، فننزلُ بقوم لا يُقرونا، فما ترى؟",
+         "en": "In the two Ṣaḥīḥs, ʿUqbah ibn ʿĀmir said: We said: O Messenger of Allah, you send us out, and we stop among people who do not host us. What do you think?"
+        },
+        {
+         "ar": "فقال لنا رسولُ الله صلى الله عليه وسلم: «إنْ نزلتُم بقومٍ فأمَرُوا لكم بما ينبغي للضَّيف، فاقْبَلُوا، فإنْ لم يفعلوا فخذُوا منهم حق الضَّيف الذي ينبغي لهم».",
+         "en": "The Messenger of Allah ﷺ said to us: “If you stop among a people and they order for you what is fitting for a guest, accept it; and if they do not, take from them the guest's due that they ought to give.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c102",
+     "pages": [
+      338
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد والحاكم من حديث أبي هُريرة، عن النَّبيِّ صلى الله عليه وسلم، قال : «أيُّما ضيفٍ نزلَ بقومٍ، فأصبح الضَّيفُ محروماً، فله أنْ يأخُذَ بقدرِ قراهُ، ولا حَرَجَ عليه».",
+         "en": "Imam Aḥmad and al-Ḥākim recorded, from the hadith of Abū Hurayrah, that the Prophet ﷺ said: “Any guest who stops among a people and wakes up deprived may take the equivalent of his hospitality, and there is no blame on him.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c103",
+     "pages": [
+      338
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال عبد الله بن عمرو: مَنْ لم يُضِف، فليس مِن محمَّدٍ، ولا من إبراهيم.",
+         "en": "ʿAbdullāh ibn ʿAmr said: Whoever does not host guests is not of Muḥammad, nor of Ibrāhīm."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c104",
+     "pages": [
+      338
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال عبد الله بن الحارث بن جَزْء: من لم يُكرِمْ ضيفَه، فليس من محمد، ولا من إبراهيم.",
+         "en": "ʿAbdullāh ibn al-Ḥārith ibn Jazʾ said: Whoever does not honour his guest is not of Muḥammad, nor of Ibrāhīm."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c105",
+     "pages": [
+      338
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أبو هريرة لِقوم نزل عليهم، فاستضافهم، فلم يُضَيِّفوهُ، فتنحَّى ونزل، فدعاهم إلى طعامه، فلم يُجيبوه، فقال لهم:",
+         "en": "Abū Hurayrah stopped among some people and asked them for hospitality, but they did not host him. So he moved aside and set up camp, and invited them to his food, but they did not accept. He said to them:"
+        },
+        {
+         "ar": "لا تُنزلون الضيف ولا تجيبون الدعوة ما أنتُم من الإسلام على شيء، فعرفه رجل منهم، فقال له: انْزِل عافاك الله، قال: هذا شرٌّ وشرٌّ، لا تنزلون إلاَّ مَنْ تَعرِفُون.",
+         "en": "You do not host the guest and you do not accept an invitation; you have nothing of Islam! One of them recognised him and said to him: Come and stay, may Allah keep you well. He said: This is evil upon evil: you host only those you know."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c106",
+     "pages": [
+      338
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ورُوي عن أبي الدرداء نحو هذه القضية إلاّ أنَّه قال لهم: ما أنتُم مِنَ الدِّين إلا على مثلِ هذه، وأشار إلى هُدبةٍ في ثوبه.",
+         "en": "Something similar has been narrated of Abū al-Dardāʾ, except that he said to them: You have no more of the religion than this — and he pointed to a loose thread on the edge of his garment."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c107",
+     "pages": [
+      339
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذه النُّصوصُ تدلُّ على وجوب الضِّيافة يوماً وليلة، وهو قولُ الليث وأحمد، وقال أحمد: له المطالبةُ بذلك إذا منعه؛",
+         "en": "These texts show that hosting for a day and a night is obligatory. This is the view of al-Layth and Aḥmad. Aḥmad said: The guest may demand it if he is refused,"
+        },
+        {
+         "ar": "لأنَّه حقٌّ له واجب، وهل يأخذُ بيده من ماله إذا منعه، أو يرفعه إلى الحاكم؟",
+         "en": "because it is an obligatory right owed to him. Does he take it with his own hand from the host's property if he is refused, or does he take the matter to the judge?"
+        },
+        {
+         "ar": "على روايتين منصوصتين عنه.",
+         "en": "On this there are two reported positions of Aḥmad, both stated explicitly."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c108",
+     "pages": [
+      339
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال حُميدُ بن زَنجويه: ليلةُ الضَّيف واجبةٌ، وليس له أنْ يأخذَ قِراه منهم قهراً، إلاَّ أنْ يكونَ مسافراً في مصالح المسلمين العامَّة دونَ مصلحة نفسه.",
+         "en": "Ḥumayd ibn Zanjawayh said: The guest's night is obligatory, but he may not take his hospitality from them by force, unless he is travelling on the general business of the Muslims and not on his own business."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c109",
+     "pages": [
+      339
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الليثُ بن سعد: لو نزل الضَّيفُ بالعبد أضافه من المال الذي بيده، وللضيف أنْ يأكلَ، وإنْ لم يعلم أنَّ سيِّده أذِنَ له؛",
+         "en": "Al-Layth ibn Saʿd said: If a guest stops with a slave, the slave hosts him from the property in his hands, and the guest may eat even if he does not know that the slave's master has given permission,"
+        },
+        {
+         "ar": "لأنَّ الضيافة واجبة.",
+         "en": "because hospitality is obligatory."
+        },
+        {
+         "ar": "وهو قياسُ قول أحمد؛",
+         "en": "This is in keeping with Aḥmad's view,"
+        },
+        {
+         "ar": "لأنَّه نصَّ على أنَّه يجوز إجابةُ دعوة العبد المأذون له في التجارة وقد روي عن جماعة من الصحابة أنَّهم أجابوا دعوة المملوك،",
+         "en": "since he stated explicitly that it is permissible to accept the invitation of a slave who has been permitted to trade. It has been narrated that a number of the Companions accepted the invitations of slaves,"
+        },
+        {
+         "ar": "ورُويَ ذلك عن النَّبيِّ صلى الله عليه وسلم أيضاً، فإذا جاز له أنْ يدعوَ الناس إلى طعامه ابتداءً وجازَ إجابةُ دعوته، فإضافتُه لمن نزل به أولى.",
+         "en": "and this has also been narrated from the Prophet ﷺ. If a slave may invite people to his food on his own initiative, and accepting his invitation is permissible, then his hosting someone who stops with him is all the more so."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c110",
+     "pages": [
+      339
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنع مالكٌ والشافعيُّ وغيرُهما مِنْ دعوة العبد المأذون له بدون إذن سيِّده، ونقل عليُّ بن سعيدٍ،",
+         "en": "Mālik, al-Shāfiʿī and others did not allow accepting the invitation of a slave permitted to trade without his master's permission. ʿAlī ibn Saʿīd transmitted"
+        },
+        {
+         "ar": "عن أحمدَ ما يدلُّ على وجوب الضيافة للغُزاة خاصَّةً بمن مرُّوا بهم ثلاثةَ أيَّامٍ، والمشهور عنه الأولُ، وهو وجوبُها لكلِّ ضيفٍ نزلَ بقومٍ.",
+         "en": "from Aḥmad something indicating that hospitality is obligatory only towards those on military campaign, from whoever they pass by, for three days; but the well-known view from him is the first: that it is obligatory towards every guest who stops among a people."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c111",
+     "pages": [
+      339
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "واختلف قوله: هل تجبُ على أهلِ الأمصار والقُرى أم تختصُّ بأهلِ القُرى ومَنْ كان على طريقٍ يمرُّ بهم المسافرون؟",
+         "en": "His statements differ on whether it is obligatory on the people of cities as well as villages, or only on the people of villages and those on a road along which travellers pass."
+        },
+        {
+         "ar": "على روايتين منصوصتين عنه.",
+         "en": "There are two reported positions of his on this, both stated explicitly."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c112",
+     "pages": [
+      340
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والمنصوص عنه: أنَّها تجبُ للمسلمِ والكافرِ، وخصَّ كثيرٌ من أصحابه الوجوبَ للمسلم، كما لا تجبُ نفقةُ الأقارب مع اختلاف الدِّين على إحدى الروايتين عنه.",
+         "en": "His stated view is that it is obligatory towards both Muslim and disbeliever, but many of his followers restricted the obligation to Muslims, just as maintenance of relatives is not obligatory when they differ in religion, according to one of his two reported positions."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c113",
+     "pages": [
+      340
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأمَّا اليومان الآخران، وهما الثاني والثالث، فهما تمامُ الضِّيافة، والمنصوصُ عن أحمد أنَّه لا يجبُ إلا الجائزةُ الأولى، وقال:",
+         "en": "As for the other two days, the second and the third, they complete the hospitality. Aḥmad's stated view is that only the first due (jāʾizah) is obligatory, and he said:"
+        },
+        {
+         "ar": "قد فرَّق بين الجائزة والضيافة، والجائزة أوكدُ، ومِنْ أصحابنا مَنْ أوجَبَ الضيافة ثلاثة أيام، منهم: أبو بكر بن عبد العزيز،",
+         "en": "[The Prophet ﷺ] distinguished between the due and hospitality, and the due is the more stressed. Some scholars of our [Ḥanbalī] school held that hospitality for three days is obligatory, among them Abū Bakr ibn ʿAbd al-ʿAzīz,"
+        },
+        {
+         "ar": "وابنُ أبي موسى، والآمدي، وما بعدَ الثَّلاث، فهو صدقة، وظنَّ بعضُ النَّاسِ أنَّ الضيافة ثلاثة أيام بعد اليوم والليلة الأولى،",
+         "en": "Ibn Abī Mūsā and al-Āmidī; whatever is beyond the three is charity. Some people thought that the hospitality is three days after the first day and night,"
+        },
+        {
+         "ar": "وردَّه أحمد بقوله صلى الله عليه وسلم: «الضيافة ثلاثة أيام، فما زاد فهو صدقة»، ولو كان كما ظنَّ هذا لكان أربعة.",
+         "en": "and Aḥmad refuted this with his words ﷺ: “Hospitality is three days, and whatever is more is charity”; if it were as this person thought, it would be four."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c114",
+     "pages": [
+      340
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قلتُ: ونظيرُ هذا قوله تعالى:",
+         "en": "I say: A parallel to this is the words of the Exalted:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c115",
+     "pages": [
+      340
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "{قُلْ أَإِنَّكُمْ لَتَكْفُرُونَ بِالَّذِي خَلَقَ الأَرْضَ فِي يَوْمَيْنِ} إلى قوله: {وَبَارَكَ فِيهَا وَقَدَّرَ فِيهَا أَقْوَاتَهَا فِي أَرْبَعَةِ أَيَّامٍ} والمراد: في تمام الأربعة.",
+         "en": "“Say: Do you really disbelieve in the One who created the earth in two days…” up to His words: “and blessed it and measured out its sustenance in four days” [Fuṣṣilat 41:9–10]; what is meant is four days in all."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c116",
+     "pages": [
+      340
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذا الحديث الذي احتجَّ به أحمد قد تقدَّم من حديث أبي شُريح، وخرَّجه البخاري من حديث أبي هريرة،",
+         "en": "The hadith that Aḥmad cited as proof has already been given from the hadith of Abū Shurayḥ. Al-Bukhārī also recorded it from the hadith of Abū Hurayrah,"
+        },
+        {
+         "ar": "عن النَّبيِّ صلى الله عليه وسلم، قال: «من كان يؤمن بالله واليوم الآخر، فَلْيُحسن قِرى ضَيفه»، قيل: يا رسول الله، وما قِرى الضيف؟",
+         "en": "from the Prophet ﷺ, who said: “Whoever believes in Allah and the Last Day, let him host his guest well.” He was asked: O Messenger of Allah, what is the hosting of the guest?"
+        },
+        {
+         "ar": "قال: «ثلاث، فما كان بعدُ فهو صدقة».",
+         "en": "He said: “Three [days]; whatever is after that is charity.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c117",
+     "pages": [
+      340,
+      341
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال حُميد بن زنجويه: عليه أنْ يتكلَّف له في اليوم والليلة من الطعام أطيب ما يأكله هو وعيالُه، وفي تمام الثلاث يطعمه من طعامه، وفي هذا نظر.",
+         "en": "Ḥumayd ibn Zanjawayh said: For the day and night he must go to the trouble of giving him the best food that he and his family eat, and for the rest of the three he feeds him from his ordinary food. This is questionable."
+        },
+        {
+         "ar": "وسنذكر حديثَ سلمان بالنَّهي عنِ التَّكلُّف للضَّيف، ونقل أشهبُ عن مالكٍ، قال: جائزتُه يومٌ وليلةٌ يُكرمه ويُتحفه ويخصه يوماً وليلةً وثلاثة أيَّام ضيافة،",
+         "en": "We shall cite the hadith of Salmān forbidding going to trouble for a guest. Ashhab transmitted that Mālik said: His due is a day and a night, in which he honours him, treats him to something special and attends to him particularly, for a day and a night; and three days are hospitality."
+        },
+        {
+         "ar": "وكان ابنُ عمر يمتنع مِن الأكل مِنْ مالِ مَنْ نزل عليه فوق ثلاثة أيامٍ، ويأمر أنْ يُنْفَقَ عليه من ماله.",
+         "en": "Ibn ʿUmar used to refuse to eat from the property of whoever he was staying with beyond three days, and would give orders that he be provided for from his own wealth."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c118",
+     "pages": [
+      341
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولصاحب المنْزل أن يأمر الضيف بالتحوّل عنه بعد الثلاث؛",
+         "en": "The householder may tell the guest to move on after the three days,"
+        },
+        {
+         "ar": "لأنَّه قضى ما عليهِ، وفعل ذَلِكَ الإمام أحمد.",
+         "en": "because he has discharged what he owed. Imam Aḥmad did this."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c119",
+     "pages": [
+      341
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقوله صلى الله عليه وسلم: «لا يَحِلُّ لهُ أنْ يَثوِيَ عندَه حتَّى يُحْرِجَه» يعني: يُقيم عندَه حتَّى يُضَيِّقَ عليهِ، لكن هل هذا في الأيام الثلاثة أم فيما زاد عليها؟",
+         "en": "His words ﷺ, “It is not lawful for him to stay on with him until he causes him difficulty”, mean that he stays with him until he puts him under strain. But does this apply within the three days or beyond them?"
+        },
+        {
+         "ar": "فأما فيما ليس بواجبٍ، فلا شك في تحريمه، وأما في ما هو واجب وهو اليوم والليلة فينبني على أنَّه هل تجب الضيافة على من لا يجد شيئاً أم لا تجب إلا على من وجد ما يضيف به؟",
+         "en": "As for what is not obligatory, there is no doubt that it is forbidden. As for what is obligatory, namely the day and the night, it depends on whether hospitality is obligatory on someone who has nothing, or only on someone who has the means to host."
+        },
+        {
+         "ar": "فإنْ قيل: إنَّها لا تجب إلا على من يجد ما يضيف به - وهو قولُ طائفةٍ من أهلِ الحديث، منهم: حُميدُ بنُ زنجويه - لم يحل للضيف أنْ يستضيف من هُوَ عاجز عن ضيافته.",
+         "en": "If it is said that it is obligatory only on someone who has the means to host — which is the view of a group of hadith scholars, among them Ḥumayd ibn Zanjawayh — then it is not lawful for the guest to seek hospitality from someone unable to provide it."
+        },
+        {
+         "ar": "وقد رُوِيَ من حديث سلمان قال: «نهانا رسولُ اللهِ صلى الله عليه وسلم أنْ نتكلَّفَ للضيفِ ما ليسَ عندنا» فإذا نهي المضيف أنْ يتكلَّفَ للضيف ما ليس عنده دلَّ على أنَّه لا تَجِبُ عليه المواساةُ للضيف إلا مما عنده،",
+         "en": "It has been narrated from the hadith of Salmān: “The Messenger of Allah ﷺ forbade us to go to trouble for a guest over what we do not have.” If the host is forbidden to go to trouble for the guest over what he does not have, this shows that he is not obliged to share with the guest except from what he has;"
+        },
+        {
+         "ar": "فإذا لم يكن عنده فَضلٌ لم يلزمه شيءٌ، وأما إذا آثَرَ على نفسه، كما فعل الأنصاريُّ الذي نزل فيه :",
+         "en": "so if he has no surplus, nothing is required of him. As for preferring the guest over oneself, as did the Anṣārī about whom this was revealed:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c120",
+     "pages": [
+      341
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "{وَيُؤْثِرُونَ عَلَى أَنْفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ} فذلك مقامُ فضلٍ وإحسّان، وليس بواجب.",
+         "en": "“They prefer others over themselves, even though they are in want” [al-Ḥashr 59:9] — that is a station of virtue and excellence, not an obligation."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c121",
+     "pages": [
+      341,
+      342
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولو علم الضيف أنَّهم لا يُضيفونه إلا بقوتِهم وقوت صبيانهم، وأنَّ الصبية يتأذَّوْنَ بذلك، لم يجز له استضافتُهم حينئذ عملاً بقوله صلى الله عليه وسلم: «ولا يَحِلُّ له أنْ يُقيمَ عندَه حتَّى يُحرجه».",
+         "en": "If the guest knew that they would host him only with their own food and their children's food, and that the children would suffer for it, it would not then be permissible for him to seek their hospitality, in keeping with his words ﷺ: “It is not lawful for him to stay on with him until he causes him difficulty.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h15.c122",
+     "pages": [
+      342
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأيضاً فالضيافة نفقة واجبة، فلا تجب إلا على مَنْ عنده فضلٌ عن قوته وقوتِ عياله، كنفقة الأقارب، وزكاةِ الفطر.",
+         "en": "Moreover, hospitality is an obligatory expense, so it is obligatory only on someone who has something left over beyond his own provision and that of his dependants, like the maintenance of relatives and zakāt al-fiṭr."
+        },
+        {
+         "ar": "وقد أنكر الخطابي تفسيرَ تأثيمه بأنْ يُقيمَ عندَه ولا شيءَ له يَقريه، وقال: أراه غلطاً، وكيف يأثم في ذلك وهو لا يتسع لِقراه، ولا يجد سبيلاً إليه؟",
+         "en": "Al-Khaṭṭābī objected to explaining “making him fall into sin” as staying with him when he has nothing with which to host him. He said: I consider it a mistake. How could he fall into sin over this when he cannot afford to host him and has no means of doing so?"
+        },
+        {
+         "ar": "وإنَّما الكلفة على قَدرِ الطاقة، قال: وإنَّما وَجْهُ الحديثِ أنَّه كَرِهَ له المقام عندَه بعدَ ثلاث لِئلا يضيقَ صدرُه بمكانه، فتكون الصدقة منه على وجه المنِّ والأذى فَيَبْطُلُ أجرُه، وهذا الذي قاله فيه نظر؛",
+         "en": "Obligation is only according to capacity. He said: The real sense of the hadith is that he disliked his staying with him after three days, lest the host should feel strained by his presence, so that his charity would come with reproach and hurt and his reward would be lost. What he said is questionable,"
+        },
+        {
+         "ar": "فإنَّه قد صحَّ تفسيرُه في الحديث بما أنكره، وإنَّما وجهه أنَّه إذا أقامَ عندَه ولاشيءَ له يقريه به، فربما دعاه ضيقُ صدره به،",
+         "en": "for the explanation he rejected is given in the hadith itself, and authentically. The real sense is that if the guest stays with him when he has nothing with which to host him, the strain the host feels on his account"
+        },
+        {
+         "ar": "وحرجه إلى ما يأثم به في قول، أو فعل، وليس المرادُ أنَّه يأثم بترك قِراه مع عجزه عنه، والله أعلم.",
+         "en": "may drive him to sin in word or deed. What is meant is not that he sins by not hosting him when he is unable to. And Allah knows best."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}

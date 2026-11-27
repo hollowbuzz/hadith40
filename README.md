@@ -42,7 +42,7 @@ The name comes from *jawāmiʿ al-kalim*, the concise, comprehensive words these
 - An optional **mufradāt path**: for each hadith, an overview of its key words and phrases as *al-Tuḥfah al-Rabbāniyyah* explains them, then a short test (word → meaning, meaning → word) with its own stars.
 
 **Read and understand**
-- Three commentaries on every hadith — *Fatḥ al-Qawī al-Matīn*, *al-Tuḥfah al-Rabbāniyyah* and *al-Sharḥ al-Mūjaz al-Mufīd* — in Arabic, English, or each Arabic sentence with its English beneath.
+- Four commentaries on every hadith — *Fatḥ al-Qawī al-Matīn*, *al-Tuḥfah al-Rabbāniyyah*, *al-Sharḥ al-Mūjaz al-Mufīd*, and Ibn Rajab’s full *Jāmiʿ al-ʿUlūm wa-l-Ḥikam* — in Arabic, English, or each Arabic sentence with its English beneath. Jāmiʿ’s chapters load as you open them.
 - A word-by-word iʿrāb of al-Nawawī’s 42 hadith: tap a word in the hadith to see its grammatical analysis.
 - English translation of every hadith, with or without tashkeel, in your choice of Arabic font and size.
 
@@ -65,6 +65,7 @@ The name comes from *jawāmiʿ al-kalim*, the concise, comprehensive words these
 | *Fatḥ al-Qawī al-Matīn* | ʿAbd al-Muḥsin al-ʿAbbād | [Shamela 11325](https://shamela.ws/book/11325) | Arabic + English (AI translation) |
 | *al-Tuḥfah al-Rabbāniyyah* | Ismāʿīl al-Anṣārī | [Shamela 4469](https://shamela.ws/book/4469) | Arabic + English (AI translation) |
 | *al-Sharḥ al-Mūjaz al-Mufīd* | ʿAbdullāh al-Muḥsin | [Shamela 8713](https://shamela.ws/book/8713) | Arabic + English (AI translation) |
+| *Jāmiʿ al-ʿUlūm wa-l-Ḥikam* | Ibn Rajab (d. 795), ed. Māhir al-Faḥl | [Shamela 949](https://shamela.ws/book/949) | Arabic (editor’s footnotes left out) + English (AI translation) |
 | *Iʿrāb al-Arbaʿīn al-Nawawiyyah* | ʿUmar al-ʿUmarī | [ketabonline 12753](https://ketabonline.com/ar/books/12753) | Arabic |
 | Audio | Google Cloud Text-to-Speech (`ar-XA-Wavenet-B`) | — | generated with `tools/audio/` |
 
@@ -99,7 +100,7 @@ js/mufradat.js        mufradāt path: al-Tuḥfah vocabulary overview and tests
 js/lesson.js          lesson runner, exercise screens, lightning round, end screens
 js/quiz.js            question generators, session builders, rotation (unseen and missed prompts first)
 js/srs.js             mastery facets, spaced repetition, strength and weak lists
-js/sharh.js           commentary reader (three books × three reading modes) and book pages
+js/sharh.js           commentary reader (four books × three reading modes) and book pages
 js/iraab.js           iʿrāb reader (tappable words, entry sheet) and its book page
 js/audio.js           recorded-audio player with word timings (falls back to the device voice)
 js/recorder.js        record yourself and play back at any speed (IndexedDB)
@@ -110,7 +111,7 @@ js/data.js            GENERATED hadith dataset (do not edit by hand)
 js/render.js, ui.js, sound.js, achievements.js
 sw.js, manifest.webmanifest, icons/, docs/screenshots/
 data/shamela-raw.json raw text scraped from Shamela
-data/commentaries/    the three commentaries, Arabic + English aligned by sentence (see its README)
+data/commentaries/    the four commentaries, Arabic + English aligned by sentence (see its README)
 data/iraab/           the iʿrāb of the 42 hadith, Arabic (see its README)
 data/audio/           hadith recordings + index.json with word timings (see tools/audio/README.md)
 tools/                build scripts: hadith data, commentaries, iʿrāb, audio

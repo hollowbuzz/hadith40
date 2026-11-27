@@ -1,0 +1,65 @@
+{
+ "book": {
+  "short_title": {
+   "ar": "جامع العلوم والحكم",
+   "en": "Jāmiʿ al-ʿUlūm wa-l-Ḥikam"
+  },
+  "title": {
+   "ar": "جامع العلوم والحكم في شرح خمسين حديثاً من جوامع الكلم",
+   "en": "Jāmiʿ al-ʿUlūm wa-l-Ḥikam: A Commentary on Fifty Hadith of the Prophet’s Comprehensive Words"
+  },
+  "author": {
+   "ar": "زين الدين أبو الفرج عبد الرحمن بن أحمد بن رجب الحنبلي",
+   "en": "Zayn al-Dīn Abū al-Faraj ʿAbd al-Raḥmān ibn Aḥmad ibn Rajab al-Ḥanbalī"
+  },
+  "author_death_ah": 795,
+  "editor": {
+   "ar": "ماهر ياسين الفحل",
+   "en": "Māhir Yāsīn al-Faḥl"
+  },
+  "category": {
+   "ar": "شروح الحديث",
+   "en": "Hadith commentaries"
+  },
+  "publisher": {
+   "ar": "دار ابن كثير، دمشق - بيروت",
+   "en": "Dār Ibn Kathīr, Damascus–Beirut"
+  },
+  "edition": {
+   "ar": "الأولى، 1429 هـ - 2008 م",
+   "en": "First edition, 1429 AH / 2008 CE"
+  },
+  "printed_page_count": 950,
+  "source": {
+   "platform": "al-Maktabah al-Shāmilah",
+   "url": "https://shamela.ws/book/949",
+   "shamela_publication_date": {
+    "ar": "25 ذو الحجة 1443",
+    "en": "25 Dhū al-Ḥijjah 1443 AH"
+   },
+   "filename": "جامع العلوم والحكم - ت الفحل.htm",
+   "page_numbering": "Page numbers are those of the printed edition, as given in the Shamela export.",
+   "included": "Ibn Rajab’s text only, from his preface to the end of the book. The editor’s introduction, his biography of Ibn Rajab, the description of the manuscript and his footnotes are not included."
+  }
+ },
+ "translation": {
+  "status": "complete",
+  "language": "en-GB",
+  "revised": "2026-11-27",
+  "method": "English translation made directly from the Arabic of the Shamela export, segment by segment, in batches of chapters; not abridged. Translated with Claude (AI) and not yet reviewed by a scholar. Until a chapter is translated its segments have en: null and the app shows the Arabic.",
+  "conventions": [
+   "Every Arabic paragraph is split into segments of a sentence or short clause; each segment carries its own English. Reading the segments in order gives continuous text in either language, and pairing them gives an interlinear view.",
+   "The Arabic is unchanged from the Shamela export apart from removing markup, running headers and invisible characters, normalising whitespace, and moving printed list numbers into the number/printed_number fields. Joining a prose paragraph's segments with single spaces reproduces its text; in a verse paragraph each segment is one line of poetry.",
+   "Evident misprints that affect the meaning are translated in their intended reading and recorded in a block's notes array; the Arabic itself is not corrected.",
+   "Square brackets in the English mark words supplied for clarity and Qurʾān references (Sūrah chapter:verse).",
+   "ﷺ renders صلى الله عليه وسلم; longer formulas (…وآله وسلم, رضي الله عنه/عنها/عنهما, رحمه الله, عز وجل, تعالى) are translated in full.",
+   "Names and technical terms use full transliteration (ʿUmar ibn al-Khaṭṭāb, al-Bukhārī, īmān, iḥsān, Qurʾān, Sharīʿah); British spelling.",
+   "Poetry: one segment per verse, with hemistichs separated by “ / ” to mirror the Arabic “…”. Verse is rendered for meaning, not metre.",
+   "The authors' doctrinal, legal and historical positions and their hadith gradings are translated as theirs, without comment or softening. This is not an official or scholar-reviewed translation."
+  ],
+  "notes": [
+   "Each chapter has the hadith as Ibn Rajab quotes it (section type hadith) and his commentary, one block per paragraph; «فصل» (“Section”) marks are blocks of their own, and verse is grouped into verse blocks.",
+   "The data is split per chapter: index.json (book, translation, front and back matter, chapter list with translation progress) and h01.json … h50.json."
+  ]
+ }
+}

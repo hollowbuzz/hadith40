@@ -1,0 +1,1915 @@
+{
+ "id": "h26",
+ "number": 26,
+ "standard_number": 26,
+ "collection": "nawawi",
+ "heading": {
+  "ar": "الحديث السادس والعشرون",
+  "en": "Hadith 26"
+ },
+ "title": {
+  "ar": "كل سلامى عليه صدقة",
+  "en": "Charity Is Due on Every Joint"
+ },
+ "pages": {
+  "start": 546,
+  "end": 565
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.n1",
+     "pages": [
+      546
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنْ أَبي هُرَيرةَ رضي الله عنه، قال: قالَ رسولُ اللهِ صلى الله عليه وسلم: «كُلُّ سُلامَى مِنَ النَّاسِ عليهِ صَدَقةٌ، كُلَّ يَوْمٍ تَطلُعُ فيه الشَّمْسِ: تَعدِلُ بَينَ الاثنينِ صدَقَةٌ،",
+         "en": "From Abū Hurayrah (may Allah be pleased with him), who said: The Messenger of Allah ﷺ said: “Every joint (sulāmā) of people owes a charity on every day on which the sun rises. Judging justly between two people is a charity;"
+        },
+        {
+         "ar": "وتُعينُ الرَّجُلَ في دابَّتِهِ، فتحمِلُهُ عليها، أو تَرْفَعُ لهُ عليها متاعَهُ صَدَقةٌ، والكَلِمَةُ الطَّيِّبَةُ صَدَقةٌ، وبِكُلِّ خُطوةٍ تَمشيها إلى الصَّلاةِ صَدَقةٌ، وتُميطُ الأذى عَنِ الطَّريقِ صَدَقَةٌ».",
+         "en": "helping a man with his mount, lifting him onto it or lifting his goods onto it for him, is a charity; a good word is a charity; every step you take towards the prayer is a charity; and removing harm from the road is a charity.”"
+        },
+        {
+         "ar": "رواهُ البُخاريُّ ومُسلمٌ.",
+         "en": "Al-Bukhārī and Muslim reported it."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c1",
+     "pages": [
+      546
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "هذا الحديث خرَّجاه من رواية همَّام بن مُنَبِّه، عن أبي هريرة،",
+         "en": "Al-Bukhārī and Muslim recorded this hadith through the narration of Hammām ibn Munabbih, from Abū Hurayrah."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c2",
+     "pages": [
+      546
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه البزار من رواية أبي صالح، عن أبي هريرة، عن النَّبيِّ صلى الله عليه وسلم، قال: «الإنسان ثلاث مئة وستون عظماً، أو ستة وثلاثون سلامى، عليه في كلِّ يوم صدقةٌ» قالوا: فمن لم يجد؟",
+         "en": "Al-Bazzār recorded it through the narration of Abū Ṣāliḥ, from Abū Hurayrah, from the Prophet ﷺ, who said: “A human being has three hundred and sixty bones” — or “thirty-six joints” — “and every day he owes a charity [for them].” They said: And whoever cannot find [the means]?"
+        },
+        {
+         "ar": "قالَ: «يأمر بالمعروف، وينهى عن المنكر» قالوا: فمن لم يستطع؟",
+         "en": "He said: “He enjoins what is right and forbids what is wrong.” They said: And whoever is unable to?"
+        },
+        {
+         "ar": "قال: «يرفع عَظْماً عن الطَّريقِ» قالوا: فمن لم يستطع؟",
+         "en": "He said: “He lifts a bone off the road.” They said: And whoever is unable to?"
+        },
+        {
+         "ar": "قال: «فليُعن ضعيفاً» قالوا: فمن لم يستطع ذلك؟",
+         "en": "He said: “Then let him help someone weak.” They said: And whoever is unable to do that?"
+        },
+        {
+         "ar": "قال: «فليدع النَّاسَ مِنْ شَرِّهِ».",
+         "en": "He said: “Then let him leave people safe from his evil.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c3",
+     "pages": [
+      546,
+      547
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج مسلم من حديث عائشة، عن النَّبيِّ صلى الله عليه وسلم قال: «خُلِقَ ابنُ آدم على ستين وثلاث مئة مَفْصِلٍ، فمن ذكر الله، وحَمِدَ الله، وهلَّل الله، وسبَّح الله،",
+         "en": "Muslim recorded, from the hadith of ʿĀʾishah, that the Prophet ﷺ said: “The son of Ādam was created with three hundred and sixty joints. Whoever remembers Allah, praises Allah, declares Allah's oneness and glorifies Allah,"
+        },
+        {
+         "ar": "وعزل حجراً عن طريق المسلمين، أو عزل شوكةً، أو عزل عظماً، أو أمر بمعروفٍ، أو نهى عن منكرٍ عددَ تلك الستين والثلاث مئة السُّلامى أمسى من يومه وقد زَحْزَحَ نفسه عن النَّارِ».",
+         "en": "moves a stone, a thorn or a bone out of the Muslims' path, or enjoins what is right or forbids what is wrong, to the number of those three hundred and sixty joints, reaches the evening of that day having moved himself away from the Fire.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c4",
+     "pages": [
+      547
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج مسلم أيضاً من رواية أبي الأسود الدَّيلي، عن أبي ذرٍّ، عَنِ النَّبيِّ صلى الله عليه وسلم، قال: «يُصبح على كلِّ سُلامى مِن أحدكم صدقةٌ،",
+         "en": "Muslim also recorded, through the narration of Abū al-Aswad al-Dīlī, from Abū Dharr, that the Prophet ﷺ said: “Every morning a charity is due on every joint of each of you."
+        },
+        {
+         "ar": "فكلُّ تسبيحةٍ صدقةٌ، وكلُّ تحميدةٍ صدقةٌ، وكلُّ تهليلةٍ صدقةٌ، وكلُّ تكبيرةٍ صدقةٌ، وأمرٌ بالمعروف صدقةٌ، ونهيٌ عَنِ المُنكرِ صدقةٌ، ويُجزئ من ذلك ركعتان يركعهما منَ الضُّحى».",
+         "en": "Every tasbīḥah [subḥān Allāh] is a charity, every taḥmīdah [al-ḥamdu lillāh] is a charity, every tahlīlah [lā ilāha illā Allāh] is a charity, every takbīrah [Allāhu akbar] is a charity, enjoining what is right is a charity and forbidding what is wrong is a charity; and two rakʿahs that one prays in the forenoon (ḍuḥā) suffice for all of that.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c5",
+     "pages": [
+      547
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد، وأبو داود من حديث بُريدة، عن النَّبيِّ صلى الله عليه وسلم، قال: «في الإنسان ثلاث مئة وستونَ مَفْصِلاً، فعليه أنْ يتصدَّقَ عن كلِّ مَفصِلٍ منه بصدقة» قالوا: ومَن يُطيق ذلك يا نبيَّ الله؟",
+         "en": "Imam Aḥmad and Abū Dāwūd recorded, from the hadith of Buraydah, that the Prophet ﷺ said: “In a human being there are three hundred and sixty joints, and he must give a charity for each joint of his.” They said: And who can manage that, Prophet of Allah?"
+        },
+        {
+         "ar": "قال: «النُّخَاعَةُ في المسجد تَدفنها، والشَّيء تُنَحِّيه عن الطريق، فإنْ لم تجد، فركعتا الضحى تجزئُك».",
+         "en": "He said: “Phlegm in the mosque that you bury, or something you move off the road; and if you cannot find [that], the two rakʿahs of the forenoon will suffice you.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c6",
+     "pages": [
+      547
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن أبي موسى، عن النَّبيِّ صلى الله عليه وسلم قال: «على كلِّ مسلمٍ صدقةٌ» قالوا: فإنْ لم يجد؟",
+         "en": "In the two Ṣaḥīḥs, from Abū Mūsā, the Prophet ﷺ said: “Every Muslim owes a charity.” They said: And if he cannot find [anything]?"
+        },
+        {
+         "ar": "قالَ: «فيعملُ بيده، فينفع نفسَه ويتصدَّقُ» قالوا: فإنْ لم يستطع، أو لم يفعل؟",
+         "en": "He said: “Then let him work with his hands, benefit himself and give charity.” They said: And if he is unable, or does not do it?"
+        },
+        {
+         "ar": "قال: «يُعينُ ذا الحاجة الملهوف»، قالوا: فإنْ لم يفعل؟",
+         "en": "He said: “He helps someone in need who is in distress.” They said: And if he does not do it?"
+        },
+        {
+         "ar": "قال: «فليأمر بالخير أو قال: بالمعروف» قالوا: فإنْ لم يفعل؟",
+         "en": "He said: “Then let him enjoin good” — or he said: “what is right.” They said: And if he does not do it?"
+        },
+        {
+         "ar": "قال: … «فليُمسِكْ عَنِ الشَّرِّ، فإنَّه له صدقة».",
+         "en": "He said: “Then let him refrain from evil, for that is a charity for him.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c7",
+     "pages": [
+      547
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج ابن حبان في \" صحيحه \" من حديث ابن عباس، عن النَّبيِّ صلى الله عليه وسلم، قال:",
+         "en": "Ibn Ḥibbān recorded in his Ṣaḥīḥ, from the hadith of Ibn ʿAbbās, that the Prophet ﷺ said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c8",
+     "pages": [
+      548
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«على كُل مَنْسِمٍ من ابن آدم صدقة كُلَّ يوم» فقال رجلٌ من القوم: ومن يُطِيق هذا؟",
+         "en": "“On every joint (mansim) of the son of Ādam there is a charity every day.” A man among the people said: And who can manage this?"
+        },
+        {
+         "ar": "قال: «أمر بالمعروف صدقة، ونهيٌّ عن المنكر صدقة، والحملُ على الضَّعيف صدقة، وكلُّ خطوةٍ يخطوها أحدُكم إلى الصَّلاة صدقةٌ».",
+         "en": "He said: “Enjoining what is right is a charity, forbidding what is wrong is a charity, carrying [loads] for the weak is a charity, and every step one of you takes towards the prayer is a charity.”"
+        },
+        {
+         "ar": "وخرَّجه البزار وغيره.",
+         "en": "Al-Bazzār and others recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c9",
+     "pages": [
+      548
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي رواية: «على كل مِيسَم من الإنسان صدقةٌ كل يوم، أو صلاة»، فقال رجل: هذا من أشدِّ ما أتيتنا به، فقال:",
+         "en": "In one narration: “On every mīsam of a human being there is a charity every day” — or “a prayer.” A man said: This is one of the hardest things you have brought us. He said:"
+        },
+        {
+         "ar": "«إنَّ أمراً بالمعروف ونهياً عن المنكر صلاةٌ أو صدقةٌ، وحملك عن الضعيف صلاة، وإنحاؤكَ القذرَ عَنِ الطَّريقِ صلاةٌ، وكلُّ خطوةٍ تَخطوها إلى الصَّلاة صلاةٌ».",
+         "en": "“Enjoining what is right and forbidding what is wrong is a prayer” — or “a charity” — “your carrying [loads] for the weak is a prayer, your removing filth from the road is a prayer, and every step you take towards the prayer is a prayer.”"
+        },
+        {
+         "ar": "وفي رواية البزار: «وإماطةُ الأذى عَنِ الطَّريق صدقةٌ» أو قال: «صلاةٌ».",
+         "en": "In al-Bazzār's narration: “and removing harm from the road is a charity” — or he said: “a prayer.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c10",
+     "pages": [
+      548
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال بعضهم: يريد بالمِيسم: كلَّ عضو على حِدة، مأخوذ من الوسم: وهو العلامة، إذ ما مِنْ عظم ولا عرق ولا عَصَبٍ إلا وعليه أثَرُ صنع الله،",
+         "en": "Someone said: By mīsam he means each limb on its own. The word is taken from wasm, a mark, since there is no bone, vein or sinew but bears the mark of Allah's handiwork."
+        },
+        {
+         "ar": "فيجبُ على العبدِ الشكرُ على ذلك للهِ والحمد له على خلقه سوياً صحيحاً، وهذا هو المراد بقوله: «عليه صلاةٌ كلَّ يومٍ»؛",
+         "en": "The servant must therefore thank Allah for that and praise Him for creating him well-formed and sound, and this is what is meant by his words, “there is a prayer due from him every day”;"
+        },
+        {
+         "ar": "لأنَّ الصَّلاة تحتوي على الحمد والشكر والثناء.",
+         "en": "for prayer contains praise, thanks and extolling."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c11",
+     "pages": [
+      548
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الطبراني من وجه آخر عن ابن عباس رفع الحديث إلى النَّبيِّ صلى الله عليه وسلم، قالَ: «على كلِّ سُلامَى، أو على كلِّ عضوٍ من بني آدم في كلِّ يوم صدقة، ويُجزئ من ذلك ركعتا الضحى».",
+         "en": "Al-Ṭabarānī recorded, by another route from Ibn ʿAbbās, who raised the hadith to the Prophet ﷺ: “On every joint” — or “on every limb” — “of the children of Ādam there is a charity every day, and the two rakʿahs of the forenoon suffice for that.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c12",
+     "pages": [
+      548
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ويُروى من حديث أبي الدرداء، عن النَّبيِّ صلى الله عليه وسلم، قال: «على كلِّ نفسٍ في كلِّ يومٍ صدقة» قيل: فإنْ كان لا يجد شيئاً؟",
+         "en": "It is narrated, from the hadith of Abū al-Dardāʾ, that the Prophet ﷺ said: “Every soul owes a charity every day.” Someone said: And if he finds nothing?"
+        },
+        {
+         "ar": "قال: «أليس بصيراً شهماً فصيحاً صحيحاً؟»",
+         "en": "He said: “Is he not sighted, vigorous, articulate and healthy?”"
+        },
+        {
+         "ar": "قال: بلى، قال: «يُعطي من قليله وكثيره، وإنَّ بصرَك للمنقوصِ بصرُه صدقةٌ، وإنَّ سمعكَ للمنقوص سمعُهُ صدقة».",
+         "en": "He said: Yes. He said: “He gives from his little and from his much. Your seeing for one whose sight is impaired is a charity, and your hearing for one whose hearing is impaired is a charity.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c13",
+     "pages": [
+      549
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد ذكرنا في شرح الحديث الماضي - حديث أبي ذرٍّ - الذي خرَّجه ابن حبان في \" صحيحه \": أنَّ النَّبيَّ صلى الله عليه وسلم قال:",
+         "en": "In explaining the previous hadith, the hadith of Abū Dharr, we mentioned what Ibn Ḥibbān recorded in his Ṣaḥīḥ: that the Prophet ﷺ said:"
+        },
+        {
+         "ar": "«لَيسَ مِنْ نفسِ ابن آدم إلا عليها صدقةٌ في كلِّ يومٍ طلعت فيه الشمس»، قيل: يا رسولَ الله، ومن أين لنا صدقة نتصدَّقُ بها؟",
+         "en": "“There is no soul of the son of Ādam but owes a charity on every day on which the sun rises.” He was asked: Messenger of Allah, where are we to find a charity to give?"
+        },
+        {
+         "ar": "قال: «إنَّ أبوابَ الخيرِ لكثيرةٌ: التَّسبيحُ، والتَّحميدُ، والتَّكبيرُ، والتَّهليلُ، والأمرُ بالمعروف، والنَّهيُ عن المُنكر، وتُميط الأذى عن الطَّريقِ، وتُسمِعُ الأصمَّ، وتهدي الأعمى،",
+         "en": "He said: “The doors of good are many: tasbīḥ, taḥmīd, takbīr and tahlīl; enjoining what is right and forbidding what is wrong; removing harm from the road; making the deaf hear; guiding the blind;"
+        },
+        {
+         "ar": "وتَدُلُّ المستدلَّ على حاجته، وتسعى بشدَّة ساقيك مع اللَّهفان المستغيث، وتحمل بشِدَّة ذراعيك معَ الضَّعيف، فهذا كلُّه صدقةٌ منكَ على نفسِكَ».",
+         "en": "directing one who seeks his need to it; hurrying on your two legs with one in distress who is calling for help; and carrying with the strength of your two arms along with the weak. All of this is charity from you to yourself.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c14",
+     "pages": [
+      549
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فقوله صلى الله عليه وسلم: «على كلِّ سُلامى مِن النَّاس عليه صدقة».",
+         "en": "His words ﷺ: “Every joint (sulāmā) of people owes a charity.”"
+        },
+        {
+         "ar": "قال أبو عُبيد: السُّلامى في الأصل عَظْمٌ يكون في فِرْسِنِ البعير، قال: فكأنَّ معنى الحديث: على كُلِّ عظم من عظام ابن آدم صدقةٌ،",
+         "en": "Abū ʿUbayd said: The sulāmā is originally a bone in the camel's foot (firsin). He said: So the meaning of the hadith is, as it were: on every one of the bones of the son of Ādam there is a charity."
+        },
+        {
+         "ar": "يُشير أبو عُبيد إلى أنَّ السُّلامى اسمٌ لبعض العظام الصغار التي في الإبل، ثم عبَّرَ بها عن العظام في الجملة بالنسبة إلى الآدمي وغيره.",
+         "en": "Abū ʿUbayd is indicating that sulāmā is the name of certain small bones in camels, and that it was then used for bones in general, in human beings and others."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c15",
+     "pages": [
+      549
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فمعنى الحديث عنده: على كُلِّ عظمٍ من عظام ابن آدم صدقة.",
+         "en": "So in his view the meaning of the hadith is: on every one of the bones of the son of Ādam there is a charity."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c16",
+     "pages": [
+      549
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال غيرُه: السُّلامى: عظمٌ في طرف اليد والرِّجلِ، وكني بذلك عن جميع عظام الجسد، والسُّلامى جمعٌ، وقيل: هو مفرد.",
+         "en": "Others said: The sulāmā is a bone at the extremity of the hand and the foot, and it stands by metonymy for all the bones of the body. Sulāmā is a plural; it has also been said to be a singular."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c17",
+     "pages": [
+      549
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد ذكر علماء الطبِّ أنَّ جميعَ عظام البدن مئتان وثمانية وأربعون عظماً سوى السمسمانيات، وبعضهم يقول: هي ثلاث مئة وستون عظماً،",
+         "en": "The physicians have mentioned that all the bones of the body number two hundred and forty-eight, besides the sesamoid bones (sumsumāniyyāt). Some of them say they are three hundred and sixty bones,"
+        },
+        {
+         "ar": "يظهر منها للحسِّ مئتان وخمسة وستون عظماً، والباقية صغارٌ لا تظهر تُسمى السمسمانية، وهذه الأحاديث تُصدق هذا القول، ولعلَّ السُّلامى عبر بها عن هذه العظام … الصغار،",
+         "en": "of which two hundred and sixty-five can be perceived by the senses, while the rest are small and invisible and are called sesamoid. These hadiths confirm this view, and perhaps sulāmā is used for these small bones,"
+        },
+        {
+         "ar": "كما أنَّها في الأصل اسم لأصغر ما في البعير من العظام، ورواية البزار لحديث أبي هريرة يشهد لهذا، حيث قال فيها:",
+         "en": "just as it is originally the name of the smallest bones in a camel. Al-Bazzār's narration of the hadith of Abū Hurayrah supports this, for in it he says:"
+        },
+        {
+         "ar": "«أو ستةٌ وثلاثون سُلامى» وقد خرَّجه غيرُ البزار، وقال فيه: «إنَّ في ابنِ آدمَ ست مئة وستين عظماً» وهذه الرواية غلطٌ.",
+         "en": "“or thirty-six joints.” Others besides al-Bazzār recorded it with the words: “In the son of Ādam there are six hundred and sixty bones,” but this narration is a mistake."
+        },
+        {
+         "ar": "وفي حديث عائشة وبُريدة ذكر ثلاث مئة وستين مفصلاً.",
+         "en": "In the hadiths of ʿĀʾishah and Buraydah, three hundred and sixty joints (mafṣil) are mentioned."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c18",
+     "pages": [
+      550
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومعنى الحديث: أنَّ تركيب هذه العظام وسلامتها مِن أعظم نِعَمِ الله على عبده، فيحتاج كلُّ عظم منها إلى صدقة يتصدق ابنُ آدم عنه، ليكونَ ذلك شكراً لهذه النعمة.",
+         "en": "The meaning of the hadith is that the assembling of these bones and their soundness are among the greatest of Allah's blessings upon His servant. Each one of them therefore needs a charity that the son of Ādam gives on its behalf, as thanks for this blessing."
+        },
+        {
+         "ar": "قال الله عز وجل: {يَا أَيُّهَا الإنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ فِي أَيِّ صُورَةٍ مَا شَاءَ رَكَّبَكَ}، وقال عز وجل:",
+         "en": "Allah, the Mighty and Majestic, says: “O mankind, what has deceived you about your Lord, the Most Generous, who created you, proportioned you and balanced you, and assembled you in whatever form He willed?” [al-Infiṭār 82:6–8]. He, the Mighty and Majestic, says:"
+        },
+        {
+         "ar": "{قُلْ هُوَ الَّذِي أَنْشَأَكُمْ وَجَعَلَ لَكُمُ السَّمْعَ وَالأَبْصَارَ وَالأَفْئِدَةَ قَلِيلاً مَا تَشْكُرُونَ}، وقال : {وَاللهُ أَخْرَجَكُمْ مِنْ بُطُونِ أُمَّهَاتِكُمْ لا تَعْلَمُونَ شَيْئاً وَجَعَلَ لَكُمُ السَّمْعَ وَالأَبْصَارَ وَالأَفْئِدَةَ لَعَلَّكُمْ تَشْكُرُونَ}،",
+         "en": "“Say: It is He who brought you into being and gave you hearing, sight and hearts; little do you give thanks” [al-Mulk 67:23]. He also says: “Allah brought you out of your mothers' wombs knowing nothing, and gave you hearing, sight and hearts so that you might give thanks” [al-Naḥl 16:78]."
+        },
+        {
+         "ar": "وقال: {أَلَمْ نَجْعَلْ لَهُ عَيْنَيْنِ وَلِسَاناً وَشَفَتَيْنِ}، قال مجاهد: هذه نِعَمٌ من الله متظاهرةٌ يقرِّرُكَ بها كيما تَشكُر،",
+         "en": "And He says: “Have We not given him two eyes, a tongue and two lips?” [al-Balad 90:8–9]. Mujāhid said: These are successive blessings from Allah, which He makes you acknowledge so that you may give thanks."
+        },
+        {
+         "ar": "وقرأ الفُضيلُ ليلةً هذه الآية، فبكى، فسئل عن بكائِهِ، فقال: هل بتَّ ليلة شاكراً لله أنْ جعل لك عينين تُبصر بهما؟",
+         "en": "Al-Fuḍayl recited this verse one night and wept. When he was asked why he was weeping, he said: Have you ever spent a night thankful to Allah for giving you two eyes with which you see?"
+        },
+        {
+         "ar": "هل بتَّ ليلةً شاكراً لله أنْ جعل لك لساناً تنطق به؟",
+         "en": "Have you ever spent a night thankful to Allah for giving you a tongue with which you speak?"
+        },
+        {
+         "ar": "وجعل يعدِّد من هذا الضرب.",
+         "en": "And he went on listing things of this kind."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c19",
+     "pages": [
+      550
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى ابنُ أبي الدُّنيا بإسناده عن سلمانَ الفارسي، قال: إنَّ رجُلاً بُسِطَ له مِنَ الدُّنيا، فانتزع ما في يديه، فجعل يحمَدُ الله عز وجل، ويُثني عليه،",
+         "en": "Ibn Abī al-Dunyā reported, with his chain of narration, from Salmān al-Fārisī, who said: A man had been given an abundance of this world, and then what he had was taken from him; yet he went on praising Allah, the Mighty and Majestic, and extolling Him,"
+        },
+        {
+         "ar": "حتَّى لم يكن له فراش إلا بوري، فجعل يَحمد الله، ويُثني عليه، وبسط للآخر من الدنيا، فقال لصاحب البُوري: أرأيتك أنتَ على ما تحمد الله عز وجل؟",
+         "en": "until he had no bedding but a reed mat (būrī), and still he went on praising Allah and extolling Him. Another man had been given an abundance of this world, and he said to the man with the reed mat: Tell me, what is it that you praise Allah, the Mighty and Majestic, for?"
+        },
+        {
+         "ar": "قال: أحْمَدُ اللهَ على ما لو أُعْطِيتُ به ما أُعْطِيَ الخَلقُ، لم أُعْطِهِمْ إيَّاه، قال: وما ذاك؟",
+         "en": "He said: I praise Allah for things that I would not give up even if I were offered, in exchange for them, all that people have been given. He said: And what are they?"
+        },
+        {
+         "ar": "قال: أرأيتَ بصرَك؟ أرأيت لسانَك؟ أرأيت يديك؟ أرأيت رجليك؟",
+         "en": "He said: What of your sight? What of your tongue? What of your hands? What of your feet?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c20",
+     "pages": [
+      550
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وبإسناده عن أبي الدرداء أنَّه كان يقول: الصِّحَّةُ غِنى الجسد.",
+         "en": "With his chain, from Abū al-Dardāʾ, that he used to say: Health is the wealth of the body."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c21",
+     "pages": [
+      550,
+      551
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن يونس بن عبيد: أنَّ رجلاً شكا إليه ضِيقَ حاله، فقال له يونس: أيسُرُّك أنَّ لك ببصرك هذا الذي تُبصِرُ به مئة ألف درهم؟",
+         "en": "From Yūnus ibn ʿUbayd: A man complained to him of his straitened circumstances, and Yūnus said to him: Would it please you to have a hundred thousand dirhams in exchange for this sight of yours with which you see?"
+        },
+        {
+         "ar": "قال الرجل: لا، قال: فبيدك مئة ألف درهم؟",
+         "en": "The man said: No. He said: Then a hundred thousand dirhams for your hand?"
+        },
+        {
+         "ar": "قال: لا، قال: فبرجليك؟",
+         "en": "He said: No. He said: Then for your feet?"
+        },
+        {
+         "ar": "قال: لا، قال: فذكَّره نِعَمَ الله عليه، فقال يونس: أرى عندك مئين ألوفٍ وأنت تشكو الحاجة.",
+         "en": "He said: No. The narrator said: Then he reminded him of Allah's blessings upon him, and Yūnus said: I see that you have hundreds of thousands, and yet you complain of need."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c22",
+     "pages": [
+      551
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن وهب بن مُنَبِّهٍ، قال: مكتوبٌ في حكمة آل داود: العافية المُلك الخفيُّ.",
+         "en": "From Wahb ibn Munabbih, who said: It is written in the wisdom of the family of Dāwūd: Well-being is a hidden kingdom."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c23",
+     "pages": [
+      551
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن بكر المزني قال: يا ابن آدم، إنْ أردتَ أنْ تعلمَ قدرَ ما أنعمَ اللهُ عليك، فغمِّضْ عينيك.",
+         "en": "From Bakr al-Muzanī, who said: Son of Ādam, if you want to know the extent of what Allah has blessed you with, close your eyes."
+        },
+        {
+         "ar": "وفي بعض الآثار: كم مِنْ نِعمَةٍ لله في عرقٍ ساكن.",
+         "en": "In one of the reports: How many a blessing of Allah lies in a vein that is still!"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c24",
+     "pages": [
+      551
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح البخاري \" عن ابن عباس، عن النَّبيِّ صلى الله عليه وسلم، قال: «نِعْمَتان مغبونٌ فيهما كثيرٌ من الناس: الصِّحَّةُ والفراغ».",
+         "en": "In Ṣaḥīḥ al-Bukhārī, from Ibn ʿAbbās, the Prophet ﷺ said: “There are two blessings in which many people are cheated: health and free time.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c25",
+     "pages": [
+      551
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فهذه النِّعم مما يُسألُ الإنسانُ عن شكرها يومَ القيامة، ويُطالب بها كما قال تعالى: {ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ}.",
+         "en": "So on the Day of Resurrection a person will be asked whether he gave thanks for these blessings, and will be called to account for them, as the Exalted says: “Then you will surely be asked that Day about the blessings” [al-Takāthur 102:8]."
+        },
+        {
+         "ar": "وخرَّج الترمذيُّ وابنُ حبَّانَ من حديث أبي هريرة، عن النَّبيِّ صلى الله عليه وسلم، قال: «إنَّ أوَّلَ ما يُسأل العبد عنه يوم القيامة مِن النعيم، فيقول له: ألم نصحَّ لك جسمَك، ونُرْويكَ من الماء البارد؟».",
+         "en": "Al-Tirmidhī and Ibn Ḥibbān recorded, from the hadith of Abū Hurayrah, that the Prophet ﷺ said: “The first of the blessings the servant will be asked about on the Day of Resurrection is that He will say to him: Did We not give you a healthy body, and quench your thirst with cold water?”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c26",
+     "pages": [
+      551
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال ابن مسعود رضي الله عنه: النعيمُ: الأمنُ والصحة.",
+         "en": "Ibn Masʿūd (may Allah be pleased with him) said: The blessings are security and health."
+        },
+        {
+         "ar": "وروي عنه مرفوعاً.",
+         "en": "It has also been narrated from him as marfūʿ (attributed to the Prophet ﷺ)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c27",
+     "pages": [
+      551
+     ],
+     "paragraphs": [
+      {
+       "kind": "verse",
+       "segments": [
+        {
+         "ar": "وقال عليُّ بن أبي طلحة، عن ابن عباس في قوله: {ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ … النَّعِيمِ}، قال: النعيم: صحَّةُ الأبدان والأسماع والأبصار، يسأَلُ الله",
+         "en": "ʿAlī ibn Abī Ṭalḥah reported from Ibn ʿAbbās, concerning His words, “Then you will surely be asked that Day about the blessings”: The blessings are the health of bodies, of hearing and of sight. Allah will ask"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c28",
+     "pages": [
+      552
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "العبادَ: فيما استعملوها؟",
+         "en": "His servants what they used them for,"
+        },
+        {
+         "ar": "وهو أعلمُ بذلك منهم، وهو قوله تعالى: {إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَئِكَ كَانَ عَنْهُ مَسْؤُولاً}.",
+         "en": "though He knows that better than they do. This is the sense of His words, Exalted is He: “Indeed hearing, sight and the heart — about all of these one will be questioned” [al-Isrāʾ 17:36]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c29",
+     "pages": [
+      552
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الطبراني من رواية أيوب بن عُتبة - وفيه ضعف -، عن عطاء، عن ابن عمر، عن النَّبيِّ صلى الله عليه وسلم:",
+         "en": "Al-Ṭabarānī recorded, through the narration of Ayyūb ibn ʿUtbah — and there is weakness in him — from ʿAṭāʾ, from Ibn ʿUmar, from the Prophet ﷺ:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c30",
+     "pages": [
+      552
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«من قال: لا إله إلا الله، كان لهُ بها عهدٌ عند الله، ومن قال: سبحان الله وبحمده، كتب له بها مئة ألف حسنة وأربعة وعشرون ألف حسنة»، فقال رجل: كيف نَهلكُ بعدَ هذا يا رسول الله؟",
+         "en": "“Whoever says lā ilāha illā Allāh will have a covenant with Allah by it, and whoever says subḥān Allāh wa-bi-ḥamdihi, a hundred thousand and twenty-four thousand good deeds will be written for him by it.” A man said: How can we perish after this, Messenger of Allah?"
+        },
+        {
+         "ar": "قال: «إنَّ الرجلَ ليأتي يومَ القيامة بالعملِ، لو وُضِعَ على جبل لأثقله، فتقوم النِّعمَةُ مِن نعمِ اللهِ، فتكاد أنْ تستنفد ذلك كلَّه، إلاَّ أنْ يتطاول الله برحمته».",
+         "en": "He said: “A man will come on the Day of Resurrection with deeds which, if they were placed on a mountain, would weigh it down. Then one of the blessings of Allah will stand up and almost use it all up, unless Allah bestows His mercy abundantly.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c31",
+     "pages": [
+      552
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى ابن أبي الدنيا بإسنادٍ فيه ضعف أيضاً عن أنس، عن النَّبيِّ صلى الله عليه وسلم، قال: «يُؤتى بالنِّعم يومَ القيامة،",
+         "en": "Ibn Abī al-Dunyā reported, with a chain that also contains weakness, from Anas, that the Prophet ﷺ said: “The blessings will be brought on the Day of Resurrection,"
+        },
+        {
+         "ar": "وبالحسنات والسيئات، فيقول الله لنعمةٍ مِنْ نِعَمِهِ: خذي حقك من حسناته فما تترك له حسنةً إلا ذهبت بها».",
+         "en": "along with the good deeds and the bad deeds, and Allah will say to one of His blessings: Take your due from his good deeds. And it will leave him no good deed without taking it away.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c32",
+     "pages": [
+      553
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وبإسناده عن وهب بن مُنَبِّه قال: عَبَدَ الله عابدٌ خمسين عاماً، فأوحى الله عز وجل إليه: إني قد غفرتُ لك، قال: يا ربِّ، وما تغفر لي ولم أذنبْ؟",
+         "en": "With his chain, from Wahb ibn Munabbih, who said: A worshipper worshipped Allah for fifty years. Then Allah, the Mighty and Majestic, revealed to him: I have forgiven you. He said: My Lord, what is there for You to forgive me, when I have committed no sin?"
+        },
+        {
+         "ar": "فأذِنَ الله عز وجل لِعِرْقٍ في عنقه، فضرب عليه، فلم ينم، ولم يُصلِّ، ثم سكن وقام، فأتاه مَلَكٌ،",
+         "en": "So Allah, the Mighty and Majestic, gave leave to a vein in his neck, and it throbbed painfully, so that he could neither sleep nor pray. Then it settled down and he stood [in prayer], and an angel came to him,"
+        },
+        {
+         "ar": "فشكا إليه ما لقي من ضربان العرق، فقال الملك: إنَّ ربَّك عز وجل يقول: عبادتُك خمسين سنة تعدل سكون ذا العرق.",
+         "en": "and he complained to him of the throbbing of the vein that he had suffered. The angel said: Your Lord, the Mighty and Majestic, says: Your worship of fifty years equals the stillness of that vein."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c33",
+     "pages": [
+      553
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الحاكم هذا المعنى مرفوعاً من رواية سليمان بن هرم القرشي، عن محمد بن المنكدر، عن جابر، عن النَّبيِّ صلى الله عليه وسلم:",
+         "en": "Al-Ḥākim recorded this meaning as marfūʿ, through the narration of Sulaymān ibn Haram al-Qurashī, from Muḥammad ibn al-Munkadir, from Jābir, from the Prophet ﷺ:"
+        },
+        {
+         "ar": "أنَّ جبريل أخبره أنَّ عابداً عبد الله على رأس جبلٍ في البحر خمس مئة سنة، ثم سأل ربَّه أنْ يَقبِضَهُ وهو ساجدٌ، قال: فنحن نمُرُّ عليه إذا هبطنا وإذا عرَجنا، ونجد في العلم أنَّه يُبعث يَوْمَ القيامةِ،",
+         "en": "that Jibrīl told him that a worshipper worshipped Allah on the top of a mountain in the sea for five hundred years, and then asked his Lord to take his soul while he was prostrating. He said: We pass by him whenever we descend and whenever we ascend, and we find in [Allah's] knowledge that he will be raised up on the Day of Resurrection"
+        },
+        {
+         "ar": "فيوقف بَيْنَ يدي الله عز وجل، فيقول الربُّ عز وجل: أدخلوا عبدي الجنة برحمتي، فيقولُ العبدُ: يا ربِّ، بعملي، ثلاثَ مرَّات، ثم يقول الله للملائكة: قايسوا عبدي بنعمتي عليه وبعمله،",
+         "en": "and made to stand before Allah, the Mighty and Majestic. The Lord, the Mighty and Majestic, will say: Admit My servant into Paradise by My mercy. The servant will say: My Lord, by my deeds — three times. Then Allah will say to the angels: Weigh My servant against My blessing upon him and against his deeds."
+        },
+        {
+         "ar": "فيجدون نعمة البصر قد أحاطت بعبادةِ خمس مئة سنة، وبقيت نِعَمُ الجسد له، فيقول: أدخلوا عَبْديَ النار، فيجرُّ إلى النار، فينادي ربه: برحمتك أدخلني الجنَّة، برحمتك، فيدخله الجنَّة، قال جبريل: إنَّما الأشياءُ برحمة الله يا محمد.",
+         "en": "They will find that the blessing of sight alone has taken up the worship of five hundred years, while the blessings of the body are still owed by him. He will say: Put My servant into the Fire. He will be dragged towards the Fire and will call out to his Lord: By Your mercy admit me into Paradise, by Your mercy! So He will admit him into Paradise. Jibrīl said: All things are only by the mercy of Allah, Muḥammad."
+        },
+        {
+         "ar": "وسُليمان بن هرم، قال العقيلي: هو مجهول وحديثُه غيرُ محفوظ.",
+         "en": "As for Sulaymān ibn Haram, al-ʿUqaylī said: He is unknown, and his hadith is not preserved (ghayr maḥfūẓ)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c34",
+     "pages": [
+      553,
+      554
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى الخرائطي بإسنادٍ فيه نظر عن عبد الله بن عمرو مرفوعاً: «يُؤتى بالعبد يومَ القيامة، فيُوقَفُ بين يدي الله عز وجل فيقول للملائكة: انظرُوا في عمل عبدي ونعمتي عليه، فينظرون فيقولون:",
+         "en": "Al-Kharāʾiṭī reported, with a chain open to question, from ʿAbdullāh ibn ʿAmr as marfūʿ: “The servant will be brought on the Day of Resurrection and made to stand before Allah, the Mighty and Majestic, and He will say to the angels: Look into My servant's deeds and My blessing upon him. They will look and say:"
+        },
+        {
+         "ar": "ولا بقدْرِ نعمةٍ واحدةٍ من نِعَمِكَ عليه، فيقول: انظروا في عمله سيِّئه وصالحه، فينظرون فيجدونه كَفافاً، فيقول: عبدي، قد قبلتُ حسناتِك، وغفرت لك سيِّئاتِك، وقد وهبتُ لك نعمتي فيما بين ذلك».",
+         "en": "Not even the measure of a single one of Your blessings upon him. He will say: Look into his deeds, the bad and the good. They will look and find them evenly balanced. He will say: My servant, I have accepted your good deeds and forgiven your bad deeds, and I have made you a gift of My blessings in all that lies between.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c35",
+     "pages": [
+      554
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والمقصودُ: أنَّ الله تعالى أنعمَ على عباده بما لا يُحصونَه كما قال: {وَإِنْ تَعُدُّوا نِعْمَتَ اللهِ لا تُحْصُوهَا}، وطلب منهمُ الشُّكرَ، ورضي به منهم.",
+         "en": "The point is that Allah the Exalted has blessed His servants with more than they can count, as He said: “If you were to count the blessings of Allah, you could not number them” [Ibrāhīm 14:34; al-Naḥl 16:18]; and He has asked them for thanks, and is pleased with it from them."
+        },
+        {
+         "ar": "قال سليمان التيمي: إنَّ الله أنعم على العباد على قدره، وكلَّفهم الشكر على قدرهم حتى رَضِيَ منهم مِنَ الشُّكرِ بالاعتراف بقلوبهم بنعمه، وبالحمد بألسنتهم … عليها، كما خرَّجه أبو داود والنَّسائي من حديث عبد الله بن غَنَّام،",
+         "en": "Sulaymān al-Taymī said: Allah has blessed His servants according to His measure and charged them with thanks according to theirs, so that, by way of thanks, He is pleased with them when they acknowledge His blessings in their hearts and praise Him for them with their tongues. Thus Abū Dāwūd and al-Nasāʾī recorded, from the hadith of ʿAbdullāh ibn Ghannām,"
+        },
+        {
+         "ar": "عن النَّبيِّ صلى الله عليه وسلم أنَّه قال: «من قال حينَ يُصبِحُ: اللهمَّ ما أَصبَحَ بي من نعمةٍ أو بأحدٍ من خلقك،",
+         "en": "that the Prophet ﷺ said: “Whoever says in the morning: ‘O Allah, whatever blessing has come to me this morning, or to any of Your creation,"
+        },
+        {
+         "ar": "فمنك وحْدَكَ لا شريكَ لك، فلكَ الحمدُ ولك الشُّكْرُ، فقد أدَّى شُكْرَ ذلك اليومِ، ومن قالها حين يُمسي أدَّى شكر ليلته».",
+         "en": "is from You alone, without partner; so Yours is the praise and Yours is the thanks,’ has fulfilled the thanks due for that day; and whoever says it in the evening has fulfilled the thanks due for his night.”"
+        },
+        {
+         "ar": "وفي روايةٍ للنَّسائي عن عبد الله بن عباس.",
+         "en": "In a narration of al-Nasāʾī's it is from ʿAbdullāh ibn ʿAbbās."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c36",
+     "pages": [
+      554,
+      555
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الحاكم من حديث عائشة، عن النَّبيِّ صلى الله عليه وسلم قال: «ما أنعم الله على عبدٍ نعمةً،",
+         "en": "Al-Ḥākim recorded, from the hadith of ʿĀʾishah, that the Prophet ﷺ said: “Allah does not bless a servant with a blessing,"
+        },
+        {
+         "ar": "فعلم أنَّها مِنْ عند الله إلا كتب الله له شُكرها قبل أنْ يَشكُرَها، وما أذنَبَ عبدٌ ذنباً، فندم عليه إلا كتب الله له مغفرته قبل أنْ يستغفره».",
+         "en": "and he knows that it is from Allah, but Allah writes for him the thanks for it before he gives thanks for it; and no servant commits a sin and then regrets it but Allah writes forgiveness for him before he asks for forgiveness.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c37",
+     "pages": [
+      555
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال أبو عمرو الشيباني: قال موسى عليه السلام يوم الطُّورِ: يا ربِّ، إنْ أنا صلَّيتُ فمِنْ قِبَلِكَ، وإنْ أنا تصدقت فمن قبلك، وإنْ أنا بلَّغتُ رسالتَك فمن قبلك، فكيف أشكرُكَ؟",
+         "en": "Abū ʿAmr al-Shaybānī said: On the day of the Mount (al-Ṭūr), Mūsā (peace be upon him) said: My Lord, if I pray, it is from You; if I give charity, it is from You; and if I convey Your message, it is from You. So how can I thank You?"
+        },
+        {
+         "ar": "قال: الآن شكرتني.",
+         "en": "He said: Now you have thanked Me."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c38",
+     "pages": [
+      555
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن الحسن قال: قال موسى عليه السلام: يا ربِّ، كيف يستطيع آدم أنْ يؤدِّي شكرَ ما صنعت إليه؟",
+         "en": "From al-Ḥasan, who said: Mūsā (peace be upon him) said: My Lord, how can Ādam fulfil the thanks for what You did for him?"
+        },
+        {
+         "ar": "خلقتَه بيدِكَ، ونفخت فيه من رُوحِكَ، وأسكنته جنَّتَكَ، وأمرتَ الملائكة فسجدوا له، فقال: يا موسى، عَلِمَ أَنَّ ذلك مني، فحمدني عليه، فكان ذلك شكراً لما صنعته.",
+         "en": "You created him with Your hand, breathed into him of Your spirit, made him dwell in Your Paradise, and commanded the angels, and they prostrated to him. He said: Mūsā, he knew that this was from Me and praised Me for it, and that was thanks for what I had done."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c39",
+     "pages": [
+      555
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن أبي الجلد قال: قرأتُ في مسألة داود أنَّه قال: أي ربِّ كيف لي أنْ أشكُرَكَ وأنا لا أصلُ إلى شكرك إلاَّ بنعمتك؟",
+         "en": "From Abū al-Jald, who said: I read in the supplications of Dāwūd that he said: My Lord, how can I thank You, when I can only attain to thanking You through Your blessing?"
+        },
+        {
+         "ar": "قال: فأتاه الوحي: أنْ يا داود، أليس تعلمُ أنَّ الذي بك من النِّعم مني؟",
+         "en": "He said: Then the revelation came to him: Dāwūd, do you not know that the blessings you have are from Me?"
+        },
+        {
+         "ar": "قال: بلى يا ربِّ، قال: فإنِّي أرضى بذلك منك شكراً.",
+         "en": "He said: Certainly, my Lord. He said: Then I accept that from you as thanks."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c40",
+     "pages": [
+      555
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال: وقرأتُ في مسألةِ موسى: يا ربِّ، كيف لي أنْ أشكركَ وأصغرُ نعمةٍ وضعتَها عندي مِنْ نِعَمِكَ لا يُجازي بها عملي كله؟",
+         "en": "He said: And I read in the supplications of Mūsā: My Lord, how can I thank You, when the smallest of the blessings You have bestowed on me cannot be repaid by all my deeds?"
+        },
+        {
+         "ar": "قال: فأتاه الوحيُ: أنْ يا موسى، الآن شكرتني.",
+         "en": "He said: Then the revelation came to him: Mūsā, now you have thanked Me."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c41",
+     "pages": [
+      555,
+      556
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال أبو بكر بن عبد الله: ما قال عبد قطُّ: الحمدُ لله مرَّةً، إلاَّ وجبت عليه نعمةٌ بقوله: الحمد لله، فما جزاء تلك النَّعمة؟",
+         "en": "Abū Bakr ibn ʿAbdullāh said: No servant ever says al-ḥamdu lillāh once without his saying al-ḥamdu lillāh placing him in debt for a further blessing. And what is the recompense for that blessing?"
+        },
+        {
+         "ar": "جزاؤها أنْ يقولَ: الحمد لله، فجاءت نعمةٌ أخرى، فلا تنفد نعماءُ الله.",
+         "en": "Its recompense is that he says al-ḥamdu lillāh; and then another blessing has come. So the blessings of Allah never run out."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c42",
+     "pages": [
+      556
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد روى ابنُ ماجه من حديث أنسٍ مرفوعاً: «ما أنعمَ الله على عبدٍ نعمةً، فقال: الحمدُ لله، إلاَّ كان الذي أعطى أفضلَ مما أخذ».",
+         "en": "Ibn Mājah reported, from the hadith of Anas as marfūʿ: “Allah does not bless a servant with a blessing, and he says al-ḥamdu lillāh, but what he gave is better than what he took.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c43",
+     "pages": [
+      556
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروينا نحوه من حديث شهر بن حوشب، عن أسماء بنت يزيد مرفوعاً أيضاً.",
+         "en": "We have narrated something similar from the hadith of Shahr ibn Ḥawshab, from Asmāʾ bint Yazīd, also as marfūʿ."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c44",
+     "pages": [
+      556
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروي هذا عن الحسن البصري من قوله.",
+         "en": "This has also been narrated from al-Ḥasan al-Baṣrī as his own words."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c45",
+     "pages": [
+      556
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكتب بعضُ عمال عمر بن عبد العزيز إليه: إني بأرضٍ قد كثُرَت فيها النِّعم، حتى لقد أشفقتُ على أهلها مِنْ ضعفِ الشُّكر، فكتب إليه عُمَرُ:",
+         "en": "One of ʿUmar ibn ʿAbd al-ʿAzīz's governors wrote to him: I am in a land where blessings have become so plentiful that I fear for its people that their thanks will fall short. ʿUmar wrote back to him:"
+        },
+        {
+         "ar": "إنِّي قد كنتُ أراك أعلم بالله ممَّا أنتَ، إنَّ الله لم يُنعم على عبدٍ نعمةً، فحمِدَ الله عليها، إلاَّ كان حمدُه أفضلَ من نِعَمِه،",
+         "en": "I used to think you knew Allah better than you do. Allah has not blessed a servant with a blessing, and he praised Allah for it, without his praise being better than His blessings;"
+        },
+        {
+         "ar": "لو كنتَ لا تعرف ذلك إلاَّ في كتاب الله المنزل، قال الله تعالى: {وَلَقَدْ آتَيْنَا دَاوُدَ وَسُلَيْمَانَ عِلْماً وَقَالا الْحَمْدُ للهِ الَّذِي فَضَّلَنَا عَلَى كَثِيرٍ مِنْ عِبَادِهِ الْمُؤْمِنِينَ}،",
+         "en": "and you would know this even if you had nothing but the revealed Book of Allah. Allah the Exalted says: “We gave Dāwūd and Sulaymān knowledge, and they said: Praise be to Allah, who has favoured us over many of His believing servants” [al-Naml 27:15]."
+        },
+        {
+         "ar": "وقال تعالى: {وَسِيقَ الَّذِينَ اتَّقَوْا رَبَّهُمْ إِلَى الْجَنَّةِ زُمَراً حَتَّى إِذَا جَاءوهَا} إلى قوله: {وَقَالُوا الْحَمْدُ للهِ} وأيّ نعمة أفضلُ من دخول الجنَّة؟",
+         "en": "The Exalted also says: “Those who feared their Lord will be driven to Paradise in groups, until, when they reach it…” up to His words: “And they will say: Praise be to Allah” [al-Zumar 39:73–74]. And what blessing is better than entering Paradise?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c46",
+     "pages": [
+      556
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد ذكر ابنُ أبي الدنيا في \" كتاب الشكر \" عن بعض العُلماء أنَّه صوَّب هذا القولَ: أعني قولَ من قال:",
+         "en": "Ibn Abī al-Dunyā mentioned in Kitāb al-Shukr (“The Book of Thanks”), from one of the scholars, that he judged this view correct — I mean the view of whoever said"
+        },
+        {
+         "ar": "إنَّ الحمدَ أفضلُ من النِّعم، وعن ابن عُيينة أنَّه خطَّأ قائلَه، قال: ولا يكون فعلُ العبدِ أفضلَ من فعلِ الربِّ عز وجل.",
+         "en": "that praise is better than the blessings — and, from Ibn ʿUyaynah, that he judged whoever said it to be mistaken. He said: The servant's act cannot be better than the act of the Lord, the Mighty and Majestic."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c47",
+     "pages": [
+      556,
+      557
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولكن الصواب قول من صوَّبه، فإنَّ المرادَ بالنعم: النعم الدنيوية، كالعافية والرِّزق والصِّحَّة، ودفع المكروه، ونحو ذلك، والحمد هو مِنَ النِّعم الدينية،",
+         "en": "But the correct view is that of the one who judged it correct. What is meant by the blessings here is the worldly blessings, such as well-being, provision and health, the warding off of what is disliked, and so on, whereas praise is one of the religious blessings."
+        },
+        {
+         "ar": "وكلاهما نعمةٌ مِنَ اللهِ، لكن نعمة الله على عبده بهدايته لشكر نعمه بالحمد عليها أفضل من نعمه الدنيوية على عبده،",
+         "en": "Both are a blessing from Allah; but Allah's blessing upon His servant in guiding him to thank Him for His blessings by praising Him for them is better than His worldly blessings upon His servant."
+        },
+        {
+         "ar": "فإنَّ النعم الدنيوية إنْ لم يقترن بها الشُّكرُ، كانت بليةً كما قال أبو حازم: كلُّ نعمةٍ لا تقرِّبُ مِنَ الله فهي بليَّةٌ،",
+         "en": "For worldly blessings, if thanks is not joined to them, are an affliction, as Abū Ḥāzim said: Every blessing that does not bring one closer to Allah is an affliction."
+        },
+        {
+         "ar": "فإذا وفَّقَ الله عبدَه للشكر على نعمه الدنيوية بالحمدِ أو غيره من أنواع الشكر، كانت هذه النعمةُ خيراً من تلك النعم وأحبَّ إلى الله عز وجل منها،",
+         "en": "So when Allah grants His servant success in thanking Him for His worldly blessings, by praise or by some other kind of thanks, this blessing is better than those blessings and more beloved to Allah, the Mighty and Majestic, than they are."
+        },
+        {
+         "ar": "فإنَّ الله يُحِبُّ المحامدَ، ويرضى عن عبدِه أنْ يأكلَ الأكلة، فيحمده عليها، ويشرب الشربة، فيحمَده عليها،",
+         "en": "For Allah loves praises, and He is pleased with His servant when he eats a mouthful and praises Him for it, and drinks a draught and praises Him for it."
+        },
+        {
+         "ar": "والثناء بالنِّعم والحمدُ عليها وشكرُها عندَ أهل الجود والكرم أحبُّ إليهم من … أموالهم، فهم يبذلُونَها طلباً للثناء، والله عز وجل أكرمُ الأكرمين، وأجودُ الأجودين،",
+         "en": "To the generous and the noble, being extolled for their favours, and praised and thanked for them, is dearer than their wealth; they give their wealth away in pursuit of praise. And Allah, the Mighty and Majestic, is the Most Generous of the generous and the most bountiful of the bountiful;"
+        },
+        {
+         "ar": "فهو يَبذُلُ نِعَمَهُ لعباده، ويطلب منهم الثناءَ بها، وذكرها، والحمد عليها، ويرضى منهم بذلك شكراً عليها، وإنْ كان ذلك كلُّه من فضله عليهم،",
+         "en": "so He bestows His blessings on His servants and asks them to extol Him for them, to mention them and to praise Him for them, and He is pleased with that from them as thanks for them, even though all of that is from His bounty to them,"
+        },
+        {
+         "ar": "وهو غيرُ محتاجٍ إلى شكرهم، لكنَّه يُحِبُّ ذلك من عباده، حيث كان صلاحُ العبدِ وفلاحُه وكماله فيه.",
+         "en": "and He has no need of their thanks. Yet He loves this from His servants, since the servant's righteousness, success and perfection lie in it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c48",
+     "pages": [
+      557
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومِن فضله أنَّه نسب الحمدَ والشُّكر إليهم، وإنْ كان من أعظم نِعَمِه عليهم، وهذا كما أنَّه أعطاهم ما أعطاهم من الأموال، ثم استقرض منهم بعضَهُ،",
+         "en": "It is part of His bounty that He attributes praise and thanks to them, even though it is one of His greatest blessings upon them. In the same way He gave them the wealth He gave them and then asked them to lend Him some of it,"
+        },
+        {
+         "ar": "ومدحهم بإعطائه، والكلُّ ملكُه، ومِنْ فضله، ولكن كرمه اقتضى ذلك، ومِنْ هُنا يُعلم معنى الأثرِ الذي جاء مرفوعاً وموقوفاً: «الحمد لله حمداً يُوافي نعمَه، ويكافئُ مزيده».",
+         "en": "and praised them for giving it, though all of it is His property and from His bounty; but His generosity required that. From here the meaning can be known of the report that has come both as marfūʿ and as mawqūf (stopping short of the Prophet ﷺ): “Praise be to Allah, a praise that matches His blessings and is equal to His increase.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c49",
+     "pages": [
+      557
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولنرجع الآن إلى تفسير حديث: «كلُّ سُلامى مِنَ النَّاس عليه صدقة كُلَّ يوم تطلع فيه الشَّمسُ».",
+         "en": "Let us now return to the explanation of the hadith: “Every joint of people owes a charity on every day on which the sun rises.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c50",
+     "pages": [
+      557,
+      558
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "يعني: أنَّ الصَّدقةَ على ابنِ آدمَ عن هذه الأعضاء في كُلِّ يومٍ من أيَّامِ الدُّنيا، فإنَّ اليوم قد يُعَبَّرُ به عن مدَّةٍ أزيدَ مِنْ ذلك،",
+         "en": "This means that the charity is due from the son of Ādam for these limbs on every one of the days of this world; for “day” is sometimes used of a period longer than that,"
+        },
+        {
+         "ar": "كما يقال: يوم صِفِّين، وكان مدَّةَ أيَّام، وعن مطلق الوقت كما في قوله: {أَلا يَوْمَ يَأْتِيهِمْ لَيْسَ مَصْرُوفاً عَنْهُمْ}.",
+         "en": "as when one says “the Day of Ṣiffīn”, which lasted several days, and of time in general, as in His words: “Indeed, on the Day it comes to them, it will not be averted from them” [Hūd 11:8]."
+        },
+        {
+         "ar": "وقد يكون ذلك ليلاً ونهاراً، فإذا قيل: كلَّ يوم تطلعُ فيه الشمس، علم أنَّ هذه الصدقة على ابن آدم في كلِّ يوم يعيشُ فيه من أيام الدُّنيا،",
+         "en": "It may also include both night and day. So when it is said, “every day on which the sun rises”, it is understood that this charity is due from the son of Ādam on every day he lives of the days of this world."
+        },
+        {
+         "ar": "وظاهرُ الحديث يدلُّ على أنَّ هذا الشُّكر بهذه الصَّدقة واجبٌ على المسلم كلَّ يوم، ولكن الشُّكر على درجتين:",
+         "en": "The apparent sense of the hadith indicates that this thanks, by means of this charity, is obligatory on the Muslim every day. But thanks is of two degrees."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c51",
+     "pages": [
+      558
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "إحداهما: واجب، وهو أنْ يأتي بالواجبات، ويجتنب المحارم، فهذا لابدَّ منه، ويكفي في شكر هذه النِّعم، ويدلُّ على ذلك ما خرَّجه أبو داود من حديث أبي الأسود الدِّيلي،",
+         "en": "The first is obligatory: that one does the obligatory duties and avoids the forbidden things. This is indispensable, and it suffices as thanks for these blessings. This is shown by what Abū Dāwūd recorded from the hadith of Abū al-Aswad al-Dīlī,"
+        },
+        {
+         "ar": "قال: كنا عند أبي ذرٍّ، فقال: يُصبح على كُلِّ سُلامى مِنْ أحدكم في كُلِّ يومٍ صدقة، فله بكلِّ صلاة صدقةٌ،",
+         "en": "who said: We were with Abū Dharr, and he said: Every morning a charity is due on every joint of each of you, every day. He has a charity for every prayer;"
+        },
+        {
+         "ar": "وصيام صدقة، وحجٍّ صدقة، وتسبيح صدقة، وتكبير صدقة، وتحميد صدقة، فعدَّ رسول الله صلى الله عليه وسلم مِنْ هذه الأعمال الصالحات قال:",
+         "en": "fasting is a charity, Ḥajj is a charity, tasbīḥ is a charity, takbīr is a charity and taḥmīd is a charity. The Messenger of Allah ﷺ listed [several] of these righteous deeds and said:"
+        },
+        {
+         "ar": "«يجزئ أحدكم مِنْ ذلك ركعتا الضحى» وقد تقدَّم في حديث أبي موسى المخرَّج في \" الصحيحين \": «فإنْ لم يفعل، فليمسك عَنِ الشَّرِّ، فإنَّه له صدقة».",
+         "en": "“Two rakʿahs of the forenoon suffice each of you for all of that.” It has already been mentioned, in the hadith of Abū Mūsā recorded in the two Ṣaḥīḥs: “And if he does not do it, then let him refrain from evil, for that is a charity for him.”"
+        },
+        {
+         "ar": "وهذا يدلُّ على أنَّه يكفيه أنْ لا يفعل شيئاً من الشرِّ، وإنَّما يكون مجتنباً للشرِّ إذا قام بالفرائض، واجتنبَ المحارمَ، فإنَّ أعظمَ الشرِّ تركُ الفرائض، ومن هنا قال بعضُ السَّلف: الشُّكرُ ترك المعاصي.",
+         "en": "This shows that it is enough for him not to do any evil. Yet he only avoids evil when he carries out the obligatory duties and avoids the forbidden things, for the greatest evil is to abandon the obligatory duties. Hence one of the Salaf said: Thanks is the abandoning of sins."
+        },
+        {
+         "ar": "وقال بعضهم: الشُّكرُ أنْ لا يُستعانَ بشيءٍ مِنَ النِّعَمِ على معصية.",
+         "en": "Another said: Thanks is that none of the blessings be used as a help to disobedience."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c52",
+     "pages": [
+      558
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وذكر أبو حازمٍ الزاهد شُكْرَ الجوارح كُلِّها، وأنْ تُكفَّ عن المعاصي وتُستعمل في الطاعات، ثم قال: وأمَّا من شكر بلسانه،",
+         "en": "Abū Ḥāzim the ascetic spoke of the thanks of all the limbs: that they be held back from sins and used in acts of obedience. Then he said: As for one who gives thanks with his tongue"
+        },
+        {
+         "ar": "ولم يشكر بجميع أعضائه، فمثله كمثل رجل له كِساءٌ، فأخذ بطرفه، فلم يلبسه، فلم ينفعه ذلك من الحر والبرد والثلج والمطر.",
+         "en": "but does not give thanks with all his limbs, his likeness is that of a man who has a cloak and takes hold of its edge without putting it on; that does not protect him from heat, cold, snow or rain."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c53",
+     "pages": [
+      559
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال عبد الرحمن بن زيد بن أسلم: لينظر العبدُ في نعم الله عليه في بدنه وسمعه وبصرِه ويديه ورجليه وغير ذلك، ليس من هذا شيءٌ إلاَّ وفيه نعمةٌ من الله عز وجل،",
+         "en": "ʿAbd al-Raḥmān ibn Zayd ibn Aslam said: Let the servant consider Allah's blessings upon him in his body, his hearing, his sight, his hands, his feet and so on. There is nothing of this but contains a blessing from Allah, the Mighty and Majestic."
+        },
+        {
+         "ar": "حقٌّ على العبد أنْ يعملَ بالنِّعم التي في بدنه لله عز وجل في طاعته، ونعمة أخرى في الرزق،",
+         "en": "The servant is duty-bound to use the blessings in his body for Allah, the Mighty and Majestic, in obeying Him. Another blessing lies in provision;"
+        },
+        {
+         "ar": "حق عليه أنْ يعمل لله عز وجل فيما أنعم عليه مِنَ الرِّزق في طاعته، فمن عمل بهذا، كان قد أخذ بحزم الشُّكر وأصله وفرعه.",
+         "en": "he is duty-bound to act for Allah, the Mighty and Majestic, in obeying Him with the provision He has bestowed on him. Whoever does this has taken the sure course of thanks, its root and its branch."
+        },
+        {
+         "ar": "ورأى الحسن رجلاً يتبختر في مشيته، فقال: للهِ في كُلِّ عُضوٍ منه نعمة، اللهمَّ لا تجعلنا ممن يتقوَّى بنعمك على معصيتك.",
+         "en": "Al-Ḥasan saw a man strutting as he walked, and said: Allah has a blessing in every limb of his. O Allah, do not make us among those who use Your blessings to gain strength for disobeying You."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c54",
+     "pages": [
+      559
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "الدرجة الثانية من الشكر: الشكر المستحبُّ، وهو أنْ يعملَ العبدُ بعد أداءِ الفرائض، واجتنابِ المحارم بنوافل الطَّاعات، وهذه درجةُ السَّابقين المقرَّبين، وهي التي أرشد إليها النَّبيُّ صلى الله عليه وسلم في هذه الأحاديث التي سبق ذكرُها،",
+         "en": "The second degree of thanks is recommended thanks: that the servant, after fulfilling the obligatory duties and avoiding the forbidden things, does voluntary acts of obedience. This is the degree of the foremost, those brought near, and it is what the Prophet ﷺ directed people to in the hadiths mentioned above."
+        },
+        {
+         "ar": "وكذلك كان النَّبيُّ صلى الله عليه وسلم يجتهد في الصَّلاة، ويقوم حتَّى تتفطَّر قدماه، فإذا قيل له: أتفعلُ هذا وقد غَفَرَ الله لك ما تقدَّم من ذنبك وما تأخر؟",
+         "en": "So too the Prophet ﷺ used to strive hard in prayer, standing until his feet were swollen and cracked; and when it was said to him: Do you do this, when Allah has forgiven you your past and future sins?"
+        },
+        {
+         "ar": "فيقول: «أفلا أكونُ عبداً شكوراً؟».",
+         "en": "he would reply: “Should I not be a thankful servant?”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c55",
+     "pages": [
+      559
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال بعضُ السَّلف: لما قال الله عز وجل: {اعْمَلُوا آلَ دَاوُدَ شُكْراً}، لم يأتِ عليهم ساعةٌ من ليلٍ أو نهارٍ إلاَّ وفيهم مصلٍّ يُصلي.",
+         "en": "One of the Salaf said: When Allah, the Mighty and Majestic, said, “Work, family of Dāwūd, in thanks” [Sabaʾ 34:13], no hour of night or day passed over them without someone among them praying."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c56",
+     "pages": [
+      559
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذا مع أنَّ بعضَ هذه الأعمال التي ذكرها النَّبيُّ صلى الله عليه وسلم واجبٌ: إمَّا على الأعيان، كالمشي إلى الصلاة عندَ من يرى وجوبَ الصَّلاة في الجماعات في المساجد،",
+         "en": "This is so even though some of the deeds the Prophet ﷺ mentioned are obligatory: either on each individual, such as walking to the prayer, according to those who hold that praying in congregation in the mosques is obligatory,"
+        },
+        {
+         "ar": "وإما على الكفاية، كالأمر بالمعروف، والنَّهي عن المنكر، وإغاثة الملهوف، والعدلِ بينَ الناسِ، إمَّا في الحكم بينهم، أو في الإصلاح.",
+         "en": "or as a communal obligation, such as enjoining what is right, forbidding what is wrong, coming to the aid of one in distress, and justice between people, whether in judging between them or in reconciling them."
+        },
+        {
+         "ar": "وقد روي من حديث عبد الله بن عمرو، عنِ النَّبيِّ صلى الله عليه وسلم، قال: «أفضلُ الصَّدقةِ إصلاحُ ذات البين».",
+         "en": "It has been narrated, from the hadith of ʿAbdullāh ibn ʿAmr, that the Prophet ﷺ said: “The best charity is setting things right between people.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c57",
+     "pages": [
+      559,
+      560
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذه الأنواع التي أشار إليها النَّبيُّ صلى الله عليه وسلم من الصدقة، منها ما نفعُهُ متعدٍّ كالإصلاح، وإعانةِ الرَّجُلِ على دابته يحمله عليها أو يرفع متاعه عليها، والكلمة الطيبة،",
+         "en": "Of the kinds of charity the Prophet ﷺ pointed to, some have a benefit that extends to others, such as reconciling people; helping a man with his mount, lifting him onto it or lifting his goods onto it; and the good word,"
+        },
+        {
+         "ar": "ويدخل فيها السلام، وتشميتُ العاطس، وإزالة الأذى عن الطَّريق، والأمر بالمعروف، والنَّهيُ عن المنكرِ، ودفنُ النُّخامة في المسجد، وإعانة ذي الحاجة الملهوف، وإسماع الأصمّ، والبصر للمنقوص بصره، وهداية الأعمى أو غيره الطريق.",
+         "en": "which includes the greeting of peace and blessing one who sneezes; removing harm from the road; enjoining what is right and forbidding what is wrong; burying phlegm in the mosque; helping someone in need who is in distress; making the deaf hear; seeing for one whose sight is impaired; and guiding the blind, or anyone else, on the way."
+        },
+        {
+         "ar": "وجاء في بعض روايات حديثِ أبي ذرٍّ: «وبيانك عن الأَرتم صدقة» يعني: من لا يُطيق الكلام، إمَّا لآفةٍ في لسانه، أو لِعُجْمة في لغته، فيُبَيِّنُ عنه ما يحتاج إلى بيانه.",
+         "en": "In some narrations of the hadith of Abū Dharr: “and your speaking for one who cannot speak (al-artam) is a charity,” meaning one who is unable to speak, whether because of a defect in his tongue or because his speech is foreign, so that you explain on his behalf what needs explaining."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c58",
+     "pages": [
+      560
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنه ما هو قاصرُ النَّفع: كالتَّسبيحِ، والتَّكبير، والتَّحميد، والتَّهليل، والمشي إلى الصَّلاةِ، وصلاة ركعتي الضُّحى، وإنَّما كانتا مجزئتين عن ذلك كلِّه؛",
+         "en": "Others have a benefit confined to the one who does them, such as tasbīḥ, takbīr, taḥmīd and tahlīl, walking to the prayer, and praying the two rakʿahs of the forenoon. These two rakʿahs suffice for all of that only"
+        },
+        {
+         "ar": "لأنَّ في الصَّلاة استعمالاً للأعضاء كلِّها في الطَّاعة والعبادة، فتكون كافيةً في شكر نعمه سلامة هذه الأعضاء.",
+         "en": "because in prayer all the limbs are used in obedience and worship, so it suffices as thanks for the blessing of the soundness of these limbs."
+        },
+        {
+         "ar": "وبقية هذه الخصال المذكورة أكثرُها استعمالٌ لبعض أعضاء البدن خاصَّةً، فلا تكمُلُ الصدقة بها حتَّى يأتيَ منها بعدد سُلامى البدن، وهي ثلاث مئة وستون كما في حديث عائشة رضي الله عنها.",
+         "en": "Most of the other traits mentioned involve the use of only some of the body's limbs, so the charity is not complete through them until one does as many of them as there are joints in the body, which are three hundred and sixty, as in the hadith of ʿĀʾishah (may Allah be pleased with her)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c59",
+     "pages": [
+      560
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" المسند \" عن ابنِ مسعود، عن النَّبيِّ صلى الله عليه وسلم، قال: «أتدرون أيُّ الصَّدقة أفضلُ وخير؟»",
+         "en": "In the Musnad, from Ibn Masʿūd, the Prophet ﷺ said: “Do you know which charity is best and finest?”"
+        },
+        {
+         "ar": "قالوا: الله ورسولُه أعلمُ.",
+         "en": "They said: Allah and His Messenger know best."
+        },
+        {
+         "ar": "قال: «المِنحة: أنْ تمنح أخاك الدَّراهم، أو ظهرَ الدابَّةِ، أو لبنَ الشَّاةِ أو لبنَ البقرة».",
+         "en": "He said: “The minḥah: that you lend your brother dirhams, or the back of a mount, or the milk of a sheep or the milk of a cow.”"
+        },
+        {
+         "ar": "والمراد بمنحة الدراهم: قرضُها، وبمنحة ظهر الدَّابةِ إفقارها، وهو إعارتها لمن يركبُها، وبمنحة لبن الشاة أو البقرة أنْ يمنحه بقرةً أو شاةً ليشربَ لبنها ثمَّ يعيدها إليه، وإذا أطلقت المنيحةُ، لم تنصرِفْ إلاَّ إلى هذا.",
+         "en": "What is meant by the minḥah of dirhams is lending them; by the minḥah of a mount's back, ifqār, which is lending it to someone to ride; and by the minḥah of the milk of a sheep or a cow, that he gives him a cow or a sheep to drink its milk and then return it to him. When manīḥah is used without qualification, it refers only to this last."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c60",
+     "pages": [
+      560,
+      561
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد والترمذي من حديث البراء بن عازبٍ، عن النَّبيِّ صلى الله عليه وسلم، قال: «من منح منيحة لبن، أو وَرِقٍ، أو هدى زُقاقاً،",
+         "en": "Imam Aḥmad and al-Tirmidhī recorded, from the hadith of al-Barāʾ ibn ʿĀzib, that the Prophet ﷺ said: “Whoever gives a manīḥah of milk or of silver, or guides someone along a lane (zuqāq),"
+        },
+        {
+         "ar": "كان له مثلُ عِتْقِ رقبةٍ» وقال الترمذي: معنى قوله: «من منح منيحة وَرِق» إنَّما يعني به قرض الدراهم، وقوله: «أو هدى زقاقاً» إنَّما يعني به هداية الطريق، وهو إرشادُ السبيل.",
+         "en": "will have the like of freeing a slave.” Al-Tirmidhī said: His words, “Whoever gives a manīḥah of silver”, mean only the lending of dirhams, and his words, “or guides someone along a lane”, mean only guiding on the road, that is, showing the way."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c61",
+     "pages": [
+      561
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج البخاري من حديث حسّان بن عطية، عن أبي كبشةَ السَّلولي، قال: سمعتُ عبد الله بنَ عمرٍو يقول: قال رسولُ الله صلى الله عليه وسلم:",
+         "en": "Al-Bukhārī recorded, from the hadith of Ḥassān ibn ʿAṭiyyah, from Abū Kabshah al-Salūlī, who said: I heard ʿAbdullāh ibn ʿAmr say: The Messenger of Allah ﷺ said:"
+        },
+        {
+         "ar": "«أربعون خَصلةً، أعلاها منيحة العنْز، ما مِنْ عاملٍ يعملُ بخصلةٍ منها رجاءَ ثوابها، وتصديقَ موعودها، إلاَّ أدخله الله بها الجنة».",
+         "en": "“There are forty traits, the highest of which is lending a she-goat [for its milk]. No one acts on one of them, hoping for its reward and believing in what is promised for it, but Allah admits him into Paradise by it.”"
+        },
+        {
+         "ar": "قال حسان: فعددنا ما دونَ منيحة العنْزِ من ردِّ السَّلام، وتشميت العاطس، وإماطة الأذى عن الطَّريق ونحوه، فما استَطعنا أنْ نبلُغَ خمس عشرة خصلة.",
+         "en": "Ḥassān said: We counted the traits below lending a she-goat — returning the greeting, blessing one who sneezes, removing harm from the road and the like — and we could not reach fifteen."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c62",
+     "pages": [
+      561
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح مسلم \" عن جابر، عن النَّبيِّ صلى الله عليه وسلم، قال: «حقُّ الإبل حلبُها على الماء، وإعارةُ دلوها، وإعارةُ فحلها، ومنيحتها، وحملٌ عليها في سبيل الله».",
+         "en": "In Ṣaḥīḥ Muslim, from Jābir, the Prophet ﷺ said: “The due on camels is milking them at the watering place, lending their bucket, lending their stud, lending them out [for their milk], and giving a mount on them in the path of Allah.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c63",
+     "pages": [
+      561
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمامُ أحمد من حديث جابر، عن النَّبيِّ صلى الله عليه وسلم، قال: «كلُّ معروفٍ صدقةٌ، ومِنَ المعروف أنْ تلقَى أخاكَ بوجهٍ طلقٍ، وأنْ تُفرِغَ من دلوك في إنائه».",
+         "en": "Imam Aḥmad recorded, from the hadith of Jābir, that the Prophet ﷺ said: “Every good deed (maʿrūf) is a charity. It is a good deed to meet your brother with a cheerful face, and to pour from your bucket into his vessel.”"
+        },
+        {
+         "ar": "وخرَّجه الحاكم وغيره بزيادة، وهي: «وما أنفق المرءُ على نفسه وأهلِه، كُتِبَ له به صدقةٌ، وما وقى به عرضَه كُتِبَ له به صدقة، وكُلُّ نفقةٍ أنفقها مؤمن، فعلى الله خَلَفُها ضامن إلاَّ نفقةً في معصيةٍ أو بنيانٍ».",
+         "en": "Al-Ḥākim and others recorded it with an addition: “Whatever a person spends on himself and his family is written for him as a charity; whatever he protects his honour with is written for him as a charity; and for every expenditure a believer makes, Allah stands surety for its replacement, except spending on sin or on building.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c64",
+     "pages": [
+      562
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" المسند \" عن أبي جُري الهُجيمي، قال: سألتُ النَّبيَّ صلى الله عليه وسلم عَنِ المعروف، فقال: «لا تَحقِرنَّ من المعروف شيئاً، ولو أنْ تُعْطيَ صِلةَ الحبلِ، ولو أنْ تُعطي شِسْعَ النَّعلِ،",
+         "en": "In the Musnad, from Abū Jurayy al-Hujaymī, who said: I asked the Prophet ﷺ about doing good, and he said: “Do not belittle any good deed, even if it is giving a piece of rope, even if it is giving a sandal strap,"
+        },
+        {
+         "ar": "ولو أنْ تُفرِغَ من دلوكَ في إناء المستسقي، ولو أنْ تُنَحِّي الشَّيءَ مِنْ طريق النَّاسِ يؤذيهم، ولو أنْ تلقى أخاكَ ووجهُك إليه منطلق، ولو أنْ تلقى أخاك فتسلِّمَ عليه، ولو أنْ تُؤْنِسَ الوحشان في الأرض».",
+         "en": "even if it is pouring from your bucket into the vessel of one seeking water, even if it is moving something from people's path that harms them, even if it is meeting your brother with your face cheerful towards him, even if it is meeting your brother and greeting him with peace, and even if it is keeping company with the lonely in the land.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c65",
+     "pages": [
+      562
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومِنْ أنواع الصَّدقة: كفُّ الأذى عن النَّاس باليد واللسان، كما في \"الصحيحين\" عن أبي ذرٍّ، قلتُ: يا رسولَ الله، أيُّ الأعمال أفضل؟",
+         "en": "Among the kinds of charity is withholding harm from people, with the hand and the tongue, as in the two Ṣaḥīḥs from Abū Dharr: I said: Messenger of Allah, which deeds are best?"
+        },
+        {
+         "ar": "قالَ: «الإيمانُ بالله، والجهاد في سبيله» قلتُ: فإنْ لم أفعل؟",
+         "en": "He said: “Faith in Allah and jihād in His path.” I said: And if I do not do [that]?"
+        },
+        {
+         "ar": "قال: «تُعين صانعاً، أو تصنع لأخرق»، قلت: أرأيت إنْ ضعُفت عن بعضِ العمل؟",
+         "en": "He said: “Help a craftsman, or make something for one who is unskilled.” I said: Tell me, what if I am too weak for some of the work?"
+        },
+        {
+         "ar": "قال: «تكفُّ شرَّكَ عن النَّاسِ، فإنها صدقة».",
+         "en": "He said: “Withhold your evil from people, for that is a charity.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c66",
+     "pages": [
+      562
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح ابن حبان \" عن أبي ذرٍّ قال: قلتُ: يا رسولَ الله، دُلَّني على عملٍ، إذا عملَ به العبدُ دخلَ به الجنَّةَ، قال: «يُؤمِنُ بالله» قلت:",
+         "en": "In Ṣaḥīḥ Ibn Ḥibbān, from Abū Dharr, who said: I said: Messenger of Allah, direct me to a deed that will take the servant into Paradise if he does it. He said: “He believes in Allah.” I said:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c67",
+     "pages": [
+      562
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "يا رسولَ الله، إنَّ مع الإيمان عملاً؟",
+         "en": "Messenger of Allah, surely there is a deed to go with faith?"
+        },
+        {
+         "ar": "قالَ: «يرضخُ ممَّا رزقه الله»، قلت: وإنْ كانَ معدماً لا شيء لهُ؟",
+         "en": "He said: “He gives a little of what Allah has provided him.” I said: And if he is destitute and has nothing?"
+        },
+        {
+         "ar": "قالَ: «يقول معروفاً بلسانه»، قلتُ: فإنْ كانَ عيياً لا يُبلغُ عنه لسانُه؟",
+         "en": "He said: “He says something good with his tongue.” I said: And if he is inarticulate and his tongue cannot speak for him?"
+        },
+        {
+         "ar": "قال: «فيُعين مغلوباً»، قلت: فإنْ كان ضعيفاً لا قُدرةَ له؟",
+         "en": "He said: “Then he helps one who is overpowered.” I said: And if he is weak and has no strength?"
+        },
+        {
+         "ar": "قال: «فليصنع لأخرق»، قلت: فإنْ كان أخرقَ؟",
+         "en": "He said: “Then let him make something for one who is unskilled.” I said: And if he is himself unskilled?"
+        },
+        {
+         "ar": "فالتفت إليَّ، فقال: «ما تريدُ أنْ تدعَ في صاحبك شيئاً مِنَ الخيرِ؟",
+         "en": "He turned to me and said: “Do you not want to leave any good at all in your companion?"
+        },
+        {
+         "ar": "فليدع النَّاس من أذاه»، قلتُ: يا رسول الله، إنَّ هذا كلَّه ليسيرٌ، قال: «والذي نفسي بيده، ما مِنْ عبدٍ يعملُ بخصلةٍ منها يُريد بها ما عندَ الله، إلا أَخذت بيده يومَ القيامة حتى يدخل الجنَّة».",
+         "en": "Let him leave people safe from his harm.” I said: Messenger of Allah, all of this is easy. He said: “By the One in whose hand my soul is, there is no servant who acts on one of these traits, seeking by it what is with Allah, but it will take him by the hand on the Day of Resurrection until he enters Paradise.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c68",
+     "pages": [
+      563
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فاشترط في هذا الحديث لهذه الأعمال كلِّها إخلاص النية كما في حديث عبد الله بن عمرو الذي فيه ذكر الأربعين خصلةً، وهذا كما في قوله عز وجل:",
+         "en": "So in this hadith he made sincerity of intention a condition for all of these deeds, as in the hadith of ʿAbdullāh ibn ʿAmr which mentions the forty traits. This is like His words, the Mighty and Majestic:"
+        },
+        {
+         "ar": "{لا خَيْرَ فِي كَثِيرٍ مِنْ نَجْوَاهُمْ إِلاَّ مَنْ أَمَرَ بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلاحٍ بَيْنَ النَّاسِ وَمَنْ يَفْعَلْ ذَلِكَ ابْتِغَاءَ مَرْضَاتِ اللهِ فَسَوْفَ نُؤْتِيهِ أَجْراً عَظِيماً}.",
+         "en": "“There is no good in much of their private conversation, except for one who enjoins charity, or what is right, or setting things right between people; and whoever does that seeking the pleasure of Allah — We shall give him a great reward” [al-Nisāʾ 4:114]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c69",
+     "pages": [
+      563
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد رُوي عن الحسن، وابن سيرين أنَّ فعلَ المعروف يُؤجَرُ عليه، وإنْ لم يكن له فيه نيّة.",
+         "en": "It has been narrated from al-Ḥasan and Ibn Sīrīn that one is rewarded for doing good even if one has no intention in it."
+        },
+        {
+         "ar": "سئل الحسنُ عن الرَّجلِ يسألُه آخَرُ حاجةً وهو يُبغِضُهُ، فيُعطيه حياءً: هل له فيه أجر؟",
+         "en": "Al-Ḥasan was asked about a man whom someone he dislikes asks for something he needs, and who gives it to him out of shyness: does he have a reward for it?"
+        },
+        {
+         "ar": "فقال: إنَّ ذلك لمن المعروف، وإنَّ في المعروف لأجراً.",
+         "en": "He said: That is part of doing good, and in doing good there is a reward."
+        },
+        {
+         "ar": "خرَّجه حميدُ بنُ زنجويه.",
+         "en": "Ḥumayd ibn Zanjawayh recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c70",
+     "pages": [
+      563
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وسُئِلَ ابنُ سيربن عن الرجل يتبع الجنازة، لا يتبعها حسبةً، يتبعها حياءً من أهلها: أله في ذلك أجرٌ؟",
+         "en": "Ibn Sīrīn was asked about a man who follows a funeral procession, not seeking the reward but out of shyness before the family of the deceased: does he have a reward for that?"
+        },
+        {
+         "ar": "فقالَ: أجرٌ واحد؟",
+         "en": "He said: One reward?"
+        },
+        {
+         "ar": "بل لهُ أجران: أجرٌ لِصلاته على أخيه، وأجرٌ لصلته الحيّ.",
+         "en": "No, he has two rewards: a reward for praying over his brother, and a reward for keeping ties with the living."
+        },
+        {
+         "ar": "خرَّجه أبو نعيم في \" الحلية \".",
+         "en": "Abū Nuʿaym recorded it in al-Ḥilyah."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c71",
+     "pages": [
+      563
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن أنواع الصدقة: أداءُ حقوق المسلم على المسلم، وبعضُها مذكورٌ في الأحاديث الماضية، ففي \" الصحيحين \" عن أبي هريرة، عن النَّبيِّ صلى الله عليه وسلم، قال:",
+         "en": "Among the kinds of charity is fulfilling the rights a Muslim has over another Muslim, some of which are mentioned in the preceding hadiths. In the two Ṣaḥīḥs, from Abū Hurayrah, the Prophet ﷺ said:"
+        },
+        {
+         "ar": "… «حقُّ المسلم على المسلمِ خمسٌ، ردُّ السَّلامِ، وعيادةُ المريض، واتِّباعُ الجنائز، وإجابةُ الدَّعوة، وتشميتُ العاطس» وفي روايةٍ لمسلم: «للمسلم على المسلم سِتٌّ»، قيل: ما هُنَّ يا رسول الله؟",
+         "en": "“The rights of a Muslim over a Muslim are five: returning the greeting, visiting the sick, following funerals, accepting invitations and blessing one who sneezes.” In a narration of Muslim's: “A Muslim has six rights over a Muslim.” Someone said: What are they, Messenger of Allah?"
+        },
+        {
+         "ar": "قال: «إذا لقيته تُسلِّمُ عليه، وإذا دعاك فأجبه، وإذا استنصحك، فانصح له، وإذا عطس فَحَمِدَ الله، فشمِّته، وإذا مَرِضَ فعُدْهُ، وإذا مات فاتَّبعه».",
+         "en": "He said: “When you meet him, greet him; when he invites you, accept; when he asks your counsel, give him sincere counsel; when he sneezes and praises Allah, bless him; when he falls ill, visit him; and when he dies, follow [his funeral].”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c72",
+     "pages": [
+      563
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن البراء قال: أمرنا رسولُ الله صلى الله عليه وسلم بسبع: بعيادةِ المريض واتِّباع الجنازة، وتَشميتِ العاطس، وإبرارِ القسم، ونصر المظلوم، وإجابة الداعي، وإفشاء السلام.",
+         "en": "In the two Ṣaḥīḥs, from al-Barāʾ, who said: The Messenger of Allah ﷺ commanded us to do seven things: to visit the sick, follow the funeral, bless one who sneezes, help others fulfil their oaths, help the wronged, accept the invitation of one who invites, and spread the greeting of peace."
+        },
+        {
+         "ar": "وفي روايةٍ لمسلم: وإرشاد الضال، بدل إبرار القسم.",
+         "en": "In a narration of Muslim's, “guiding one who has lost his way” takes the place of helping others fulfil their oaths."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c73",
+     "pages": [
+      564
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن أنواع الصَّدقة: المشي بحقوق الآدميين الواجبة إليهم، قال ابن عباس: من مشى بحقِّ أخيه إليه ليقضيه، فله بكلِّ خطوة صدقة.",
+         "en": "Among the kinds of charity is walking to deliver to people the rights that are due to them. Ibn ʿAbbās said: Whoever walks to his brother with his due in order to pay it has a charity for every step."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c74",
+     "pages": [
+      564
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها: إنظارُ المعسر، وفي \" المسند \" و\" سنن ابن ماجه \" عن بُريدة مرفوعاً:",
+         "en": "Among them is granting respite to one in hardship. In the Musnad and the Sunan of Ibn Mājah, from Buraydah as marfūʿ:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c75",
+     "pages": [
+      564
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "«من أنظرَ معسراً، فله بكلِّ يوم صدقة قبل أنْ يَحُلَّ الدَّيْنُ، فإذا حلَّ الدين، فأنظره بعد ذلك، فله بكلِّ يوم مثله صدقة».",
+         "en": "“Whoever grants respite to one in hardship has a charity for every day before the debt falls due; and when the debt falls due and he grants him respite after that, he has for every day the like of it in charity.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c76",
+     "pages": [
+      564
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها: الإحسّان إلى البهائم، كما قال النَّبيُّ صلى الله عليه وسلم لما سُئِلَ عن سقيها، فقال: «في كلِّ كبدٍ رطبةٍ أجر»، وأخبر أنَّ بغيّاً سقت كلباً يلهثُ مِن العطش، فغفر لها.",
+         "en": "Among them is kindness to animals, as the Prophet ﷺ said when he was asked about giving them water: “In every moist liver there is a reward.” He also told of a prostitute who gave water to a dog panting with thirst, and she was forgiven."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c77",
+     "pages": [
+      564
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأمَّا الصَّدقة القاصرةُ على نفس العامل بها، فمثل أنواع الذكر مِن التَّسبيح، والتكبير، والتحميد، والتهليل، والاستغفار، والصلاة على النَّبيِّ صلى الله عليه وسلم، وكذلك تلاوةُ القرآن، والمشي إلى المساجد، والجلوسُ فيها لانتظار الصلاة، أو لاستماع الذكر.",
+         "en": "As for charity whose benefit is confined to the one who does it, examples are the forms of remembrance — tasbīḥ, takbīr, taḥmīd, tahlīl and seeking forgiveness — and invoking blessings on the Prophet ﷺ; likewise reciting the Qurʾān, walking to the mosques, and sitting in them to wait for the prayer or to listen to remembrance."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c78",
+     "pages": [
+      564
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن ذلك: التَّواضعُ في اللِّباس، والمشي، والهدي، والتبذل في المهنة، واكتساب الحلال، والتحرِّي فيه.",
+         "en": "Among them also are humility in dress, gait and bearing; dressing plainly for work; and earning what is lawful, taking care that it is so."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h26.c79",
+     "pages": [
+      564,
+      565
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنها أيضاً: محاسبةُ النفس على ما سلف من أعمالها، والندم والتوبة من الذنوب السالفة، والحزن عليها، واحتقار النفس، والازدراء عليها، ومقتها في الله - عز وجل -، والبكاء من خشية الله تعالى،",
+         "en": "Among them too are calling oneself to account for one's past deeds; remorse and repentance for past sins, and grief over them; holding oneself in low esteem, disparaging oneself and detesting oneself for the sake of Allah, the Mighty and Majestic; and weeping out of fear of Allah the Exalted;"
+        },
+        {
+         "ar": "والتفكر في ملكوت السماوات والأرض، وفي أمور الآخرة، وما فيها مِنَ الوعد والوعيد ونحوِ ذلك مما يزيد الإيمانَ في القلب، وينشأ عنه كثيرٌ من أعمال القلوب، كالخشية، والمحبَّةِ، والرَّجاء، والتوكُّل، وغير ذَلِكَ.",
+         "en": "and reflecting on the dominion of the heavens and the earth, on the matters of the Hereafter and the promise and threat they hold, and the like, which increases faith in the heart and gives rise to many of the deeds of the heart, such as fear, love, hope, reliance on Allah and others."
+        },
+        {
+         "ar": "وقد قيل: إنَّ هذا التفكُّر أفضلُ من نوافل الأعمال البدنية، روي ذَلِكَ عن غير واحد من التَّابعين، منهم: سعيدُ بن المسيب، والحسن، وعمر بن عبد العزيز، وفي كلام الإمام أحمد ما يدلُّ عليهِ.",
+         "en": "It has been said that this reflection is better than voluntary bodily deeds. This was narrated from more than one of the Successors, among them Saʿīd ibn al-Musayyib, al-Ḥasan and ʿUmar ibn ʿAbd al-ʿAzīz, and there is something in the words of Imam Aḥmad that indicates it."
+        },
+        {
+         "ar": "وقال كعب: لأنْ أبكي من خشية الله أحبُّ إليَّ من أنْ أتصدَّق بوزني ذهباً.",
+         "en": "Kaʿb said: To weep out of fear of Allah is dearer to me than to give my weight in gold in charity."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}

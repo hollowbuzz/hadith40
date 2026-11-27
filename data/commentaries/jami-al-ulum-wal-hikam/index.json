@@ -1,0 +1,1591 @@
+{
+ "schema": "arbaeen.commentary",
+ "schema_version": "2.0",
+ "id": "jami-al-ulum-wal-hikam",
+ "book": {
+  "short_title": {
+   "ar": "جامع العلوم والحكم",
+   "en": "Jāmiʿ al-ʿUlūm wa-l-Ḥikam"
+  },
+  "title": {
+   "ar": "جامع العلوم والحكم في شرح خمسين حديثاً من جوامع الكلم",
+   "en": "Jāmiʿ al-ʿUlūm wa-l-Ḥikam: A Commentary on Fifty Hadith of the Prophet’s Comprehensive Words"
+  },
+  "author": {
+   "ar": "زين الدين أبو الفرج عبد الرحمن بن أحمد بن رجب الحنبلي",
+   "en": "Zayn al-Dīn Abū al-Faraj ʿAbd al-Raḥmān ibn Aḥmad ibn Rajab al-Ḥanbalī"
+  },
+  "author_death_ah": 795,
+  "editor": {
+   "ar": "ماهر ياسين الفحل",
+   "en": "Māhir Yāsīn al-Faḥl"
+  },
+  "category": {
+   "ar": "شروح الحديث",
+   "en": "Hadith commentaries"
+  },
+  "publisher": {
+   "ar": "دار ابن كثير، دمشق - بيروت",
+   "en": "Dār Ibn Kathīr, Damascus–Beirut"
+  },
+  "edition": {
+   "ar": "الأولى، 1429 هـ - 2008 م",
+   "en": "First edition, 1429 AH / 2008 CE"
+  },
+  "printed_page_count": 950,
+  "source": {
+   "platform": "al-Maktabah al-Shāmilah",
+   "url": "https://shamela.ws/book/949",
+   "shamela_publication_date": {
+    "ar": "25 ذو الحجة 1443",
+    "en": "25 Dhū al-Ḥijjah 1443 AH"
+   },
+   "filename": "جامع العلوم والحكم - ت الفحل.htm",
+   "page_numbering": "Page numbers are those of the printed edition, as given in the Shamela export.",
+   "included": "Ibn Rajab’s text only, from his preface to the end of the book. The editor’s introduction, his biography of Ibn Rajab, the description of the manuscript and his footnotes are not included."
+  }
+ },
+ "translation": {
+  "status": "complete",
+  "language": "en-GB",
+  "revised": "2026-11-27",
+  "method": "English translation made directly from the Arabic of the Shamela export, segment by segment, in batches of chapters; not abridged. Translated with Claude (AI) and not yet reviewed by a scholar. Until a chapter is translated its segments have en: null and the app shows the Arabic.",
+  "conventions": [
+   "Every Arabic paragraph is split into segments of a sentence or short clause; each segment carries its own English. Reading the segments in order gives continuous text in either language, and pairing them gives an interlinear view.",
+   "The Arabic is unchanged from the Shamela export apart from removing markup, running headers and invisible characters, normalising whitespace, and moving printed list numbers into the number/printed_number fields. Joining a prose paragraph's segments with single spaces reproduces its text; in a verse paragraph each segment is one line of poetry.",
+   "Evident misprints that affect the meaning are translated in their intended reading and recorded in a block's notes array; the Arabic itself is not corrected.",
+   "Square brackets in the English mark words supplied for clarity and Qurʾān references (Sūrah chapter:verse).",
+   "ﷺ renders صلى الله عليه وسلم; longer formulas (…وآله وسلم, رضي الله عنه/عنها/عنهما, رحمه الله, عز وجل, تعالى) are translated in full.",
+   "Names and technical terms use full transliteration (ʿUmar ibn al-Khaṭṭāb, al-Bukhārī, īmān, iḥsān, Qurʾān, Sharīʿah); British spelling.",
+   "Poetry: one segment per verse, with hemistichs separated by “ / ” to mirror the Arabic “…”. Verse is rendered for meaning, not metre.",
+   "The authors' doctrinal, legal and historical positions and their hadith gradings are translated as theirs, without comment or softening. This is not an official or scholar-reviewed translation."
+  ],
+  "notes": [
+   "Each chapter has the hadith as Ibn Rajab quotes it (section type hadith) and his commentary, one block per paragraph; «فصل» (“Section”) marks are blocks of their own, and verse is grouped into verse blocks.",
+   "The data is split per chapter: index.json (book, translation, front and back matter, chapter list with translation progress) and h01.json … h50.json."
+  ]
+ },
+ "stats": {
+  "hadiths": 50,
+  "blocks": 4133,
+  "segments": 8589,
+  "untranslated_segments": 0,
+  "editorial_notes": 14,
+  "translated_chapters": 50
+ },
+ "front_matter": [
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i1",
+   "pages": [
+    23
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "بسم الله الرحمن الرحيم",
+       "en": "In the name of Allah, the Most Gracious, the Most Merciful."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i2",
+   "pages": [
+    23
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "وبه نستعين",
+       "en": "And from Him we seek help."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i3",
+   "pages": [
+    23
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "الحمدُ للهِ الَّذي أكملَ لنا الدِّين، وأتمَّ علينا النِّعمةَ، وجعل أُمَّتنا -ولله الحمد- خيرَ أمَّة، وبعث فينا رسولاً منَّا يتلو علينا آياتِه، ويزكِّينا ويعلِّمنا الكتابَ والحكمة.",
+       "en": "All praise is due to Allah, who perfected the religion for us, completed His favour upon us, made our nation — and to Allah be the praise — the best of nations, and sent among us a Messenger from among ourselves who recites His verses to us, purifies us, and teaches us the Book and wisdom."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i4",
+   "pages": [
+    23
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "أحمَدُه على نِعَمِهِ الجمَّة، وأشهدُ أنْ لا إله إلاَّ الله وحدَه لا شريكَ له، شهادةً تكونُ لمنِ اعتصمَ بها خيرَ عِصْمَة، وأشهدُ أنَّ محمَّداً عبدُه ورسولُهُ، أرسله للعالمين رحمة، وفوّض إليه بيانَ ما أُنزِلَ إلينا،",
+       "en": "I praise Him for His abundant blessings, and I bear witness that there is no god but Allah alone, without partner — a testimony that will be the best of safeguards for whoever holds fast to it — and I bear witness that Muḥammad is His servant and Messenger, whom He sent as a mercy to the worlds and to whom He entrusted the explanation of what was sent down to us;"
+      },
+      {
+       "ar": "فأوضحَ لنا كلَّ الأمورِ المهمَّة، وخصَّه بجوامعِ الكلِمِ، فربَّما جمعَ أشتاتَ الحِكَمِ والعُلومِ في كلمةٍ، أوْ في شطرِ كلمة، صلى الله عليه وسلم وعلى آله وأصحابه صلاةً تكونُ لنا نوراً مِنْ كلِّ ظُلْمةٍ، وسلَّم تَسليماً كثيراً.",
+       "en": "so he made every important matter clear to us. Allah singled him out with comprehensive words (jawāmiʿ al-kalim), so that he would sometimes gather scattered pieces of wisdom and knowledge into a single phrase, or half a phrase. May Allah send blessings upon him, his family and his Companions — blessings that will be a light for us in every darkness — and grant them abundant peace."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i5",
+   "pages": [
+    23
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "أمَّا بعدُ:",
+       "en": "To proceed:"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i6",
+   "pages": [
+    23
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "فإنَّ الله سبحانه وتعالى بعثَ محمَّداً صلى الله عليه وسلم بجوامِعِ الكَلِمِ، وخصَّهُ ببدائع الحِكَمِ.",
+       "en": "Allah, Glorified and Exalted is He, sent Muḥammad ﷺ with comprehensive words and singled him out with remarkable wisdom."
+      },
+      {
+       "ar": "كما في \" الصحيحين \" عن أبي هريرةَ، عن النَّبيِّ صلى الله عليه وسلم قال: «بُعِثْتُ بجوامِعِ الكَلِمِ».",
+       "en": "So it is related in the two Ṣaḥīḥs from Abū Hurayrah that the Prophet ﷺ said: “I have been sent with comprehensive words.”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i7",
+   "pages": [
+    24
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "قال الزُّهري رحمه الله: جوامِعُ الكَلِمِ -فيما بَلَغَنَا- أنَّ اللهَ تعالى يجمع له الأُمورَ الكثيرةَ التي كانت تُكْتَبُ في الكُتب قبلَه في الأمرِ الواحدِ والأمرينِ، ونحو ذلك.",
+       "en": "Al-Zuhrī (may Allah have mercy on him) said: Comprehensive words, as we have been told, means that Allah the Exalted gathers for him into one or two statements, or the like, the many matters that used to be written in the books before him."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i8",
+   "pages": [
+    24
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "وخرّج الإمام أحمدُ من حديثِ عبد الله بن عمرو بن العاص رضي الله عنهما، قال: خرجَ علينا رسولُ اللهِ صلى الله عليه وسلم يوماً كالمودِّع، فقال: «أنا محمَّدٌ النَّبيُّ الأُمِّيُّ».",
+       "en": "Imam Aḥmad recorded from the hadith of ʿAbdullāh ibn ʿAmr ibn al-ʿĀṣ (may Allah be pleased with them both), who said: The Messenger of Allah ﷺ came out to us one day like someone bidding farewell, and said: “I am Muḥammad, the unlettered Prophet.”"
+      },
+      {
+       "ar": "قال ذلك ثلاثَ مرَّاتٍ.",
+       "en": "He said that three times."
+      },
+      {
+       "ar": "«ولا نَبيَّ بعدي، أوتيتُ فواتحَ الكَلِمِ وخَواتِمَهُ وجوَامِعَهُ» … ، وذكر الحديثَ.",
+       "en": "“And there is no prophet after me. I have been given the openings of speech, its conclusions and its comprehensive forms…” and he mentioned the rest of the hadith."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i9",
+   "pages": [
+    24
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "وخرَّج أبو يعلى المَوصلي من حديثِ عمر بن الخطَّاب رضي الله عنه، عَنِ النَّبيِّ صلى الله عليه وسلم، قال: «إنِّي أُوتيتُ جوامعَ الكَلِمِ وخواتمَهُ، واختُصِرَ لي الكلام اختصاراً».",
+       "en": "Abū Yaʿlā al-Mawṣilī recorded from the hadith of ʿUmar ibn al-Khaṭṭāb (may Allah be pleased with him) that the Prophet ﷺ said: “I have been given comprehensive words and their conclusions, and speech has been made concise for me.”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i10",
+   "pages": [
+    24
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "وخرَّج الدَّارقطنيُّ رحمه الله من حديثِ ابنِ عبَّاس رضي الله عنهما، عن النَّبيِّ صلى الله عليه وسلم، قال: «أُعطيتُ جوامعَ الكَلِمِ، واختُصِرَ لي الحَديثُ اختصاراً».",
+       "en": "Al-Dāraquṭnī (may Allah have mercy on him) recorded from the hadith of Ibn ʿAbbās (may Allah be pleased with them both) that the Prophet ﷺ said: “I have been given comprehensive words, and speech has been made concise for me.”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i11",
+   "pages": [
+    24,
+    25
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "وروينا مِنْ حديث عبد الرَّحمان بن إسحاقَ القُرَشيّ، عن أبي بُردَةَ، عن أبي موسى الأشعري رضي الله عنه، قال:",
+       "en": "We have also narrated, from the hadith of ʿAbd al-Raḥmān ibn Isḥāq al-Qurashī, from Abū Burdah, from Abū Mūsā al-Ashʿarī (may Allah be pleased with him), that he said:"
+      },
+      {
+       "ar": "قال رسول الله صلى الله عليه وسلم: «أُعطيتُ فواتحَ الكَلِمِ وخواتِمَهُ وجَوامِعَهُ»، فقلنا: يا رسول الله، علِّمنا ممَّا علَّمك الله عز وجل، قال: فعلَّمَنَا التَّشَهُّدَ.",
+       "en": "The Messenger of Allah ﷺ said: “I have been given the openings of speech, its conclusions and its comprehensive forms.” We said: O Messenger of Allah, teach us from what Allah, the Mighty and Majestic, has taught you. And he taught us the tashahhud."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i12",
+   "pages": [
+    25
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "وفي \" صحيح مسلم \" عن سعيد بن أبي بُردة بن أبي موسى، عن أبيه، عن جدِّهِ: أنَّ النبيَّ صلى الله عليه وسلم سُئِلَ عَنِ البِتْعِ والمِزْرِ،",
+       "en": "In Ṣaḥīḥ Muslim, from Saʿīd ibn Abī Burdah ibn Abī Mūsā, from his father, from his grandfather: the Prophet ﷺ was asked about bitʿ and mizr [drinks made from honey and from barley],"
+      },
+      {
+       "ar": "قال: وكان رسول الله صلى الله عليه وسلم قد أُعطِي جوامع الكَلِمِ بخواتمه، فقال: «أنهى عَنْ كُلِّ مُسكرٍ أسكرَ عَنِ الصَّلاةِ».",
+       "en": "and — the narrator said — the Messenger of Allah ﷺ had been given comprehensive words and their conclusions, so he said: “I forbid every intoxicant that intoxicates one away from the prayer.”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i13",
+   "pages": [
+    25
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "وروى هشامُ بنُ عمَّارٍ في كتاب \" المبعث \" بإسناده عن أبي سلاّم الحبشيِّ، قال: حُدِّثْتُ أنَّ النَّبيَّ صلى الله عليه وسلم كان يقول: «فُضِّلْتُ على مَنْ كانَ قَبلِي بستٍّ ولا فخر»،",
+       "en": "Hishām ibn ʿAmmār related in his book al-Mabʿath, with his chain of narration, from Abū Sallām al-Ḥabashī, who said: I was told that the Prophet ﷺ used to say: “I have been favoured over those before me with six things, and I say it without boasting,”"
+      },
+      {
+       "ar": "فذكر منها: قال: «وأُعطيتُ جَوامعَ الكَلِمِ، وكانَ أهلُ الكِتابِ يجعلونها جزءاً باللَّيل إلى الصّباح، فجمعها الله لي في آيةٍ واحدةٍ {سَبَّحَ لله مَا فِي السَّمَاوَاتِ وَالأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ}».",
+       "en": "and among them he mentioned: “I have been given comprehensive words. The People of the Book used to recite them as a portion through the night until morning, and Allah gathered them for me in a single verse: ‘Whatever is in the heavens and the earth glorifies Allah, and He is the Mighty, the Wise’ [al-Ḥadīd 57:1].”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i14",
+   "pages": [
+    25
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "فجوامعُ الكلم التي خُصَّ بها النَّبيُّ صلى الله عليه وسلم نوعان:",
+       "en": "The comprehensive words with which the Prophet ﷺ was singled out are, then, of two kinds."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i15",
+   "pages": [
+    25
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "أحدهما: ما هو في القُرآن، كقوله عز وجل: {إِنَّ اللهَ يَأْمُرُ بِالْعَدْلِ وَالإحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَى وَيَنْهَى عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ وَالْبَغْي} قال الحسنُ:",
+       "en": "The first is what is in the Qurʾān, such as His words, Mighty and Majestic is He: “Indeed, Allah commands justice, excellence and giving to relatives, and forbids indecency, wrongdoing and transgression” [al-Naḥl 16:90]. Al-Ḥasan said:"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i16",
+   "pages": [
+    26
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "لم تترك هذه الآيةُ خيراً إلاَّ أَمرت به، ولا شرّاً إلاَّ نَهَتْ عنه.",
+       "en": "This verse left no good without commanding it, and no evil without forbidding it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i17",
+   "pages": [
+    26
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "والثَّاني: ما هو في كلامه صلى الله عليه وسلم، وهو موجودٌ منتشرٌ في السُّنن المأثورةِ عنه صلى الله عليه وسلم.",
+       "en": "The second is what is in his own speech ﷺ, and it is found throughout the Sunnah transmitted from him ﷺ."
+      },
+      {
+       "ar": "وقد جمع العُلماء جموعاً من كلماتِه صلى الله عليه وسلم الجامِعَةِ، فصنَّف الحافظُ أبو بكر بن السُّنِّيِّ كتاباً سماه:",
+       "en": "Scholars have made collections of his comprehensive sayings ﷺ. The ḥāfiẓ Abū Bakr ibn al-Sunnī compiled a book he named"
+      },
+      {
+       "ar": "\" الإيجاز وجوامع الكلم مِنَ السُّنَن المأثورة \"، وجمع القاضي أبو عبدِ الله القُضاعي مِنْ جوامع الكلم الوجيزة كتاباً سمَّاه:",
+       "en": "al-Ījāz wa-Jawāmiʿ al-Kalim min al-Sunan al-Maʾthūrah, and the judge Abū ʿAbdillāh al-Quḍāʿī gathered concise comprehensive sayings into a book he named"
+      },
+      {
+       "ar": "\" الشهاب في الحِكَم والآداب \"، وصنَّفَ على مِنوالِه قومٌ آخرون، فزادُوا على ما ذكره زيادةً كثيرةً، وأَشار الخطَّابيُّ في أوَّل كتابه \" غريب الحديث \" إلى يسير من الأحاديث الجامعة.",
+       "en": "al-Shihāb fī al-Ḥikam wa-l-Ādāb. Others compiled works on the same pattern and added a great deal to what he had mentioned, and al-Khaṭṭābī pointed to a few of the comprehensive hadiths at the beginning of his book Gharīb al-Ḥadīth."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i18",
+   "pages": [
+    26
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "وأملى الإمامُ الحافظُ أبو عمرو بنُ الصَّلاحِ رحمه الله مجلساً سمَّاه \" الأحاديث الكلّيَّة \" جمع فيه الأحاديثَ الجوامعَ التي يُقال:",
+       "en": "The imam and ḥāfiẓ Abū ʿAmr ibn al-Ṣalāḥ (may Allah have mercy on him) dictated a session he named al-Aḥādīth al-Kulliyyah (“The Universal Hadiths”), gathering in it the comprehensive hadiths of which it is said"
+      },
+      {
+       "ar": "إنَّ مدارَ الدِّين عليها، وما كان في معناها مِنَ الكلمات الجامعةِ الوجيزةِ، فاشتمل مجلسهُ هذا على ستَّةٍ وعشرين حديثاً.",
+       "en": "that the religion revolves around them, together with concise, comprehensive sayings of similar meaning; that session of his contained twenty-six hadiths."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i19",
+   "pages": [
+    26
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "ثمَّ إنَّ الفقيهَ الإمامَ الزَّاهِدَ القُدوةَ أبا زكريا يحيى النَّوويَّ -رحمةُ اللهِ عليهِ- أخذَ هذه الأحاديثَ التي أملاها ابنُ الصَّلاحِ، وزادَ عليها تمامَ اثنينِ وأربعينَ حديثاً،",
+       "en": "Then the jurist, imam, ascetic and exemplar Abū Zakariyyā Yaḥyā al-Nawawī (Allah's mercy be upon him) took the hadiths Ibn al-Ṣalāḥ had dictated and added to them until they reached forty-two,"
+      },
+      {
+       "ar": "وسمى كتابه بـ \" الأربعين \"، واشتهرت هذه الأربعون التي جمعها، وكَثُرَ حفظُها، ونفع الله بها ببركة نيَّة جامِعِها، وحُسْنِ قصدِه رحمه الله.",
+       "en": "and he named his book al-Arbaʿīn (“The Forty”). These Forty became famous and were widely memorised, and Allah brought benefit through them by the blessing of their compiler's intention and the goodness of his purpose (may Allah have mercy on him)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i20",
+   "pages": [
+    26,
+    27
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "وقد تكرَّر سؤالُ جماعةٍ مِنْ طلبةِ العلمِ والدِّينِ لتعليق شرح لهذه الأحاديث المُشار إليها، فاستخرتُ الله سبحانه وتعالى في جمع كتابٍ يتضمَّنُ شرح ما يُيسِّرُه الله تعالى مِنْ معانيها،",
+       "en": "A number of students of knowledge and religion asked me again and again to write a commentary on these hadiths, so I sought Allah's guidance, Glorified and Exalted is He, about compiling a book that would explain whatever of their meanings Allah the Exalted makes easy,"
+      },
+      {
+       "ar": "وتقييد ما يفتحُ الله به سبحانه من تبيين قواعدِها ومبانيها، وإيَّاه أسألُ العونَ على ما قَصَدْتُ، والتَّوفيقَ في صلاح النِّيَّةِ والقصد فيما أردتُ، وأُعَوِّلُ في أمري كلّه عليه، وأبرأ مِنَ الحَوْلِ والقُوَّةِ إلاَّ إليه.",
+       "en": "and set down whatever He, Glorified is He, opens up of their principles and foundations. It is Him I ask for help in what I have set out to do, and for success in keeping my intention and purpose sound. I rely on Him in all my affairs, and I disclaim all might and power except His."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i21",
+   "pages": [
+    27
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "وقد كان بعضُ مَنْ شرحَ هذه الأربعينَ قد تعقَّب على جامعها رحمه الله تركَه لحديثِ: «أَلحِقُوا الفَرائِضَ بأهلها، فما أبقتِ الفرائِضُ، فلأَوْلَى رجُلٍ ذكرٍ»، قال:",
+       "en": "One of those who wrote a commentary on these Forty had faulted their compiler (may Allah have mercy on him) for leaving out the hadith “Give the fixed shares to those entitled to them, and whatever the shares leave over goes to the nearest male relative,” saying"
+      },
+      {
+       "ar": "لأنَّه جامعٌ لقواعدِ الفرائض التي هي نصفُ العلمِ، فكان ينبغي ذكرهُ في هذه الأحاديث الجامعة، كما ذكرَ حديثَ: «البيِّنَةُ على المُدَّعي، واليمينُ على من أنكر» لجمعه لأحكامِ القضاء.",
+       "en": "that since it brings together the principles of inheritance, which are half of knowledge, it ought to have been included among these comprehensive hadiths, just as he included the hadith “The burden of proof is on the claimant, and the oath is on the one who denies,” because it brings together the rulings of judgement."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i22",
+   "pages": [
+    27
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "فرأيتُ أنا أن أضُمَّ هذا الحديثَ إلى أحاديثِ الأربعين التي جمعها الشيخُ رحمه الله، وأن أضُمَّ إلى ذلك كُلِّه أحاديثَ أُخُرَ مِنْ جَوامعِ الكَلِمِ الجامِعَةِ لأنواعِ العُلومِ والحِكَمِ،",
+       "en": "So I decided to add this hadith to the Forty that the Shaykh (may Allah have mercy on him) compiled, and to add to them all further hadiths from among the comprehensive words that gather different kinds of knowledge and wisdom,"
+      },
+      {
+       "ar": "حتَّى تكمُلَ عدَّةُ الأحاديث كلّها خمسينَ حديثاً، وهذه تسميةُ الأحاديثِ المزيدة على ما ذكره الشيخُ رحمه الله في كتابه:",
+       "en": "until the hadiths number fifty in all. These are the hadiths added to those the Shaykh (may Allah have mercy on him) gave in his book:"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i23",
+   "pages": [
+    27,
+    28
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "حديث: «ألحِقوا الفَرائِضَ بأهلها»، وحديث: «يحرُمُ مِنَ الرَّضَاع ما يَحْرُمُ من النَّسَبِ»، وحديث: «إنَّ اللهَ إذا حرَّمَ شيئاً، حرَّمَ ثَمَنَهُ»، وحديث: «كلُّ مُسكِرٍ حرامٌ»، وحديث: «ما ملأَ آدميٌّ وعاءً شرّاً من بطن»،",
+       "en": "the hadith “Give the fixed shares to those entitled to them”; the hadith “Breastfeeding makes unlawful what lineage makes unlawful”; the hadith “When Allah makes something unlawful, He makes its price unlawful”; the hadith “Every intoxicant is unlawful”; the hadith “No human being fills a vessel worse than his stomach”;"
+      },
+      {
+       "ar": "وحديث: «أرْبَعٌ مَنْ كُنَّ فيه كانَ مُنافِقاً»، وحديث: «لو أنَّكم توكَّلون على الله حَقَّ توكُّلِهِ لرَزَقَكُم كما يرزُقُ الطَّير»، وحديث: «لا يزالُ لسانُكَ رَطْباً مِنْ ذِكرِ اللهِ عز وجل».",
+       "en": "the hadith “There are four traits: whoever has them is a hypocrite”; the hadith “If you relied on Allah as He truly deserves to be relied upon, He would provide for you as He provides for the birds”; and the hadith “Let your tongue remain moist with the remembrance of Allah, the Mighty and Majestic.”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i24",
+   "pages": [
+    28
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "وسمَّيته:",
+       "en": "I have named it:"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i25",
+   "pages": [
+    28
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "\" جامع العلوم والحكم في شرح خمسين حديثاً من جوامع الكلم \".",
+       "en": "Jāmiʿ al-ʿUlūm wa-l-Ḥikam fī Sharḥ Khamsīn Ḥadīthan min Jawāmiʿ al-Kalim (“The Compendium of Knowledge and Wisdom: A Commentary on Fifty Hadiths of Comprehensive Words”)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i26",
+   "pages": [
+    28
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "واعلم أنه ليس غرضي إلاَّ شرحُ الألفاظ النَّبويَّةِ التي تضمَّنَتْها هذه الأحاديثُ الكلِّية، فلذلك لا أتقيَّد بألفاظِ الشَّيخِ رحمه الله في تراجمِ رُواةِ هذه الأحاديث مِنَ الصَّحابةِ رضي الله عنهم،",
+       "en": "Know that my only aim is to explain the Prophet's words contained in these universal hadiths. For that reason I do not keep to the Shaykh's wording (may Allah have mercy on him) when he introduces the Companions who narrated these hadiths (may Allah be pleased with them),"
+      },
+      {
+       "ar": "ولا بألفاظه في العَزْوِ إلى الكُتب التي يعزُو إليها، وإنَّما آتي بالمعنى الذي يدلُّ على ذلك؛",
+       "en": "nor to his wording when he attributes them to the books he cites; I simply give the sense that conveys this,"
+      },
+      {
+       "ar": "لأني قد أعلمتُك أنَّه ليس لي غرضٌ إلاّ في شرح معاني كلمات النبيِّ صلى الله عليه وسلم الجوامع، وما تضمَّنَته مِنَ الآداب والحِكَمِ والمعارف والأحكام والشرائع.",
+       "en": "because, as I have told you, my only aim is to explain the meanings of the comprehensive words of the Prophet ﷺ and the manners, wisdom, knowledge, rulings and laws they contain."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jami-al-ulum-wal-hikam.front.i27",
+   "pages": [
+    28
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "وأشيرُ إشارةً لطيفةً قبلَ الكلامِ في شرح الحديث إلى إسناده؛",
+       "en": "Before explaining each hadith, I briefly indicate its chain of narration,"
+      },
+      {
+       "ar": "ليُعْلَمَ بذلك صحَّتُهُ وقوَّتُه وضعفُه، وأذكرُ بعضَ ما رُوي في معناه مِنَ الأحاديث إنْ كان في ذلك الباب شيءٌ غير الحديث الذي ذكره الشيخ،",
+       "en": "so that its authenticity, strength or weakness may be known; and I mention some of what has been narrated with the same meaning, if there is anything on the subject besides the hadith the Shaykh gave."
+      },
+      {
+       "ar": "وإنْ لم يكن في الباب غيرُه، أو لم يكن يصحُّ فيه غيره، نبَّهت على ذلك كلِّه، والله المستعان، وعليه التُّكلانُ، ولا حَولَ ولا قوَّة إلاَّ باللهِ.",
+       "en": "If there is nothing else on the subject, or nothing else on it is authentic, I point all of that out. Allah is the One whose help is sought, upon Him we rely, and there is no might and no power except through Allah."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "back_matter": [
+  {
+   "id": "jami-al-ulum-wal-hikam.back.z1",
+   "pages": [
+    950
+   ],
+   "paragraphs": [
+    {
+     "kind": "prose",
+     "segments": [
+      {
+       "ar": "آخر الكتاب والحمد لله وحده، وصلى الله على سيدنا محمد وآله وصحبه وسلم وحسبنا الله ونعم الوكيل",
+       "en": "The end of the book. All praise is due to Allah alone; may Allah send blessings and peace upon our master Muḥammad, his family and his Companions. Allah is sufficient for us, and He is the best Disposer of affairs."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "hadiths": [
+  {
+   "id": "h01",
+   "number": 1,
+   "standard_number": 1,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الأول",
+    "en": "Hadith 1"
+   },
+   "title": {
+    "ar": "إنما الأعمال بالنيات",
+    "en": "Actions Are by Intentions"
+   },
+   "pages": {
+    "start": 29,
+    "end": 69
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h02",
+   "number": 2,
+   "standard_number": 2,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الثاني",
+    "en": "Hadith 2"
+   },
+   "title": {
+    "ar": "حديث جبريل: الإسلام والإيمان والإحسان",
+    "en": "Jibrīl: Islām, Īmān and Iḥsān"
+   },
+   "pages": {
+    "start": 70,
+    "end": 120
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h03",
+   "number": 3,
+   "standard_number": 3,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الثالث",
+    "en": "Hadith 3"
+   },
+   "title": {
+    "ar": "بني الإسلام على خمس",
+    "en": "Islām Is Built upon Five"
+   },
+   "pages": {
+    "start": 121,
+    "end": 130
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h04",
+   "number": 4,
+   "standard_number": 4,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الرابع",
+    "en": "Hadith 4"
+   },
+   "title": {
+    "ar": "خلق الإنسان والقدر",
+    "en": "Creation in the Womb and the Decree"
+   },
+   "pages": {
+    "start": 131,
+    "end": 154
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h05",
+   "number": 5,
+   "standard_number": 5,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الخامس",
+    "en": "Hadith 5"
+   },
+   "title": {
+    "ar": "رد المحدثات",
+    "en": "Rejection of Innovations"
+   },
+   "pages": {
+    "start": 155,
+    "end": 171
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h06",
+   "number": 6,
+   "standard_number": 6,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث السادس",
+    "en": "Hadith 6"
+   },
+   "title": {
+    "ar": "الحلال بيّن والحرام بيّن",
+    "en": "The Lawful Is Clear and the Unlawful Is Clear"
+   },
+   "pages": {
+    "start": 172,
+    "end": 192
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h07",
+   "number": 7,
+   "standard_number": 7,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث السابع",
+    "en": "Hadith 7"
+   },
+   "title": {
+    "ar": "الدين النصيحة",
+    "en": "The Religion Is Sincere Counsel"
+   },
+   "pages": {
+    "start": 193,
+    "end": 204
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h08",
+   "number": 8,
+   "standard_number": 8,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الثامن",
+    "en": "Hadith 8"
+   },
+   "title": {
+    "ar": "أمرت أن أقاتل الناس",
+    "en": "The Sanctity of a Muslim"
+   },
+   "pages": {
+    "start": 205,
+    "end": 217
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h09",
+   "number": 9,
+   "standard_number": 9,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث التاسع",
+    "en": "Hadith 9"
+   },
+   "title": {
+    "ar": "ما نهيتكم عنه فاجتنبوه",
+    "en": "Avoid What I Have Forbidden"
+   },
+   "pages": {
+    "start": 218,
+    "end": 238
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h10",
+   "number": 10,
+   "standard_number": 10,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث العاشر",
+    "en": "Hadith 10"
+   },
+   "title": {
+    "ar": "إن الله طيب لا يقبل إلا طيبًا",
+    "en": "Allah Is Good and Accepts Only the Good"
+   },
+   "pages": {
+    "start": 239,
+    "end": 259
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h11",
+   "number": 11,
+   "standard_number": 11,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الحادي عشر",
+    "en": "Hadith 11"
+   },
+   "title": {
+    "ar": "دع ما يريبك",
+    "en": "Leave What Makes You Doubt"
+   },
+   "pages": {
+    "start": 260,
+    "end": 267
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h12",
+   "number": 12,
+   "standard_number": 12,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الثاني عشر",
+    "en": "Hadith 12"
+   },
+   "title": {
+    "ar": "ترك ما لا يعني",
+    "en": "Leaving What Does Not Concern You"
+   },
+   "pages": {
+    "start": 268,
+    "end": 281
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h13",
+   "number": 13,
+   "standard_number": 13,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الثالث عشر",
+    "en": "Hadith 13"
+   },
+   "title": {
+    "ar": "يحب لأخيه ما يحب لنفسه",
+    "en": "Love for Your Brother What You Love for Yourself"
+   },
+   "pages": {
+    "start": 282,
+    "end": 290
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h14",
+   "number": 14,
+   "standard_number": 14,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الرابع عشر",
+    "en": "Hadith 14"
+   },
+   "title": {
+    "ar": "حرمة دم المسلم",
+    "en": "The Sanctity of a Muslim’s Blood"
+   },
+   "pages": {
+    "start": 291,
+    "end": 313
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h15",
+   "number": 15,
+   "standard_number": 15,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الخامس عشر",
+    "en": "Hadith 15"
+   },
+   "title": {
+    "ar": "فليقل خيرًا أو ليصمت",
+    "en": "Speak Good or Remain Silent"
+   },
+   "pages": {
+    "start": 314,
+    "end": 342
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h16",
+   "number": 16,
+   "standard_number": 16,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث السادس عشر",
+    "en": "Hadith 16"
+   },
+   "title": {
+    "ar": "لا تغضب",
+    "en": "Do Not Become Angry"
+   },
+   "pages": {
+    "start": 343,
+    "end": 359
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h17",
+   "number": 17,
+   "standard_number": 17,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث السابع عشر",
+    "en": "Hadith 17"
+   },
+   "title": {
+    "ar": "الإحسان في كل شيء",
+    "en": "Excellence in Everything"
+   },
+   "pages": {
+    "start": 360,
+    "end": 374
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h18",
+   "number": 18,
+   "standard_number": 18,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الثامن عشر",
+    "en": "Hadith 18"
+   },
+   "title": {
+    "ar": "اتق الله حيثما كنت",
+    "en": "Fear Allah Wherever You Are"
+   },
+   "pages": {
+    "start": 375,
+    "end": 431
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h19",
+   "number": 19,
+   "standard_number": 19,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث التاسع عشر",
+    "en": "Hadith 19"
+   },
+   "title": {
+    "ar": "احفظ الله يحفظك",
+    "en": "Be Mindful of Allah and He Will Protect You"
+   },
+   "pages": {
+    "start": 432,
+    "end": 463
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h20",
+   "number": 20,
+   "standard_number": 20,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث العشرون",
+    "en": "Hadith 20"
+   },
+   "title": {
+    "ar": "الحياء",
+    "en": "Modesty (Ḥayāʾ)"
+   },
+   "pages": {
+    "start": 464,
+    "end": 470
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h21",
+   "number": 21,
+   "standard_number": 21,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الحادي والعشرون",
+    "en": "Hadith 21"
+   },
+   "title": {
+    "ar": "قل آمنت بالله ثم استقم",
+    "en": "Say: I Believe in Allah — Then Be Steadfast"
+   },
+   "pages": {
+    "start": 471,
+    "end": 476
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h22",
+   "number": 22,
+   "standard_number": 22,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الثاني والعشرون",
+    "en": "Hadith 22"
+   },
+   "title": {
+    "ar": "الاقتصار على الفرائض",
+    "en": "Will I Enter Paradise?"
+   },
+   "pages": {
+    "start": 477,
+    "end": 488
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h23",
+   "number": 23,
+   "standard_number": 23,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الثالث والعشرون",
+    "en": "Hadith 23"
+   },
+   "title": {
+    "ar": "الطهور شطر الإيمان",
+    "en": "Purity Is Half of Faith"
+   },
+   "pages": {
+    "start": 489,
+    "end": 510
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h24",
+   "number": 24,
+   "standard_number": 24,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الرابع والعشرون",
+    "en": "Hadith 24"
+   },
+   "title": {
+    "ar": "تحريم الظلم",
+    "en": "The Prohibition of Injustice"
+   },
+   "pages": {
+    "start": 511,
+    "end": 532
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h25",
+   "number": 25,
+   "standard_number": 25,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الخامس والعشرون",
+    "en": "Hadith 25"
+   },
+   "title": {
+    "ar": "ذهب أهل الدثور بالأجور",
+    "en": "The Wealthy Have Taken the Rewards"
+   },
+   "pages": {
+    "start": 533,
+    "end": 545
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h26",
+   "number": 26,
+   "standard_number": 26,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث السادس والعشرون",
+    "en": "Hadith 26"
+   },
+   "title": {
+    "ar": "كل سلامى عليه صدقة",
+    "en": "Charity Is Due on Every Joint"
+   },
+   "pages": {
+    "start": 546,
+    "end": 565
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h27",
+   "number": 27,
+   "standard_number": 27,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث السابع والعشرون",
+    "en": "Hadith 27"
+   },
+   "title": {
+    "ar": "البر حسن الخلق",
+    "en": "Righteousness Is Good Character"
+   },
+   "pages": {
+    "start": 566,
+    "end": 580
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h28",
+   "number": 28,
+   "standard_number": 28,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الثامن والعشرون",
+    "en": "Hadith 28"
+   },
+   "title": {
+    "ar": "الوصية بالسنة",
+    "en": "Hold Fast to My Sunnah"
+   },
+   "pages": {
+    "start": 581,
+    "end": 601
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h29",
+   "number": 29,
+   "standard_number": 29,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث التاسع والعشرون",
+    "en": "Hadith 29"
+   },
+   "title": {
+    "ar": "أبواب الخير",
+    "en": "The Gates of Good"
+   },
+   "pages": {
+    "start": 602,
+    "end": 616
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h30",
+   "number": 30,
+   "standard_number": 30,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الثلاثون",
+    "en": "Hadith 30"
+   },
+   "title": {
+    "ar": "حدود الله",
+    "en": "The Limits Set by Allah"
+   },
+   "pages": {
+    "start": 617,
+    "end": 638
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h31",
+   "number": 31,
+   "standard_number": 31,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الحادي والثلاثون",
+    "en": "Hadith 31"
+   },
+   "title": {
+    "ar": "الزهد",
+    "en": "Renunciation (Zuhd)"
+   },
+   "pages": {
+    "start": 639,
+    "end": 666
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h32",
+   "number": 32,
+   "standard_number": 32,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الثاني والثلاثون",
+    "en": "Hadith 32"
+   },
+   "title": {
+    "ar": "لا ضرر ولا ضرار",
+    "en": "No Harm and No Reciprocal Harm"
+   },
+   "pages": {
+    "start": 667,
+    "end": 683
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h33",
+   "number": 33,
+   "standard_number": 33,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الثالث والثلاثون",
+    "en": "Hadith 33"
+   },
+   "title": {
+    "ar": "البينة على المدعي",
+    "en": "The Burden of Proof"
+   },
+   "pages": {
+    "start": 684,
+    "end": 697
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h34",
+   "number": 34,
+   "standard_number": 34,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الرابع والثلاثون",
+    "en": "Hadith 34"
+   },
+   "title": {
+    "ar": "تغيير المنكر",
+    "en": "Changing Evil"
+   },
+   "pages": {
+    "start": 698,
+    "end": 709
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h35",
+   "number": 35,
+   "standard_number": 35,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الخامس والثلاثون",
+    "en": "Hadith 35"
+   },
+   "title": {
+    "ar": "أخوة الإسلام",
+    "en": "The Brotherhood of Islām"
+   },
+   "pages": {
+    "start": 710,
+    "end": 730
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h36",
+   "number": 36,
+   "standard_number": 36,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث السادس والثلاثون",
+    "en": "Hadith 36"
+   },
+   "title": {
+    "ar": "تفريج الكربات",
+    "en": "Relieving Hardships"
+   },
+   "pages": {
+    "start": 731,
+    "end": 753
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h37",
+   "number": 37,
+   "standard_number": 37,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث السابع والثلاثون",
+    "en": "Hadith 37"
+   },
+   "title": {
+    "ar": "كتابة الحسنات والسيئات",
+    "en": "The Recording of Good and Bad Deeds"
+   },
+   "pages": {
+    "start": 754,
+    "end": 769
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h38",
+   "number": 38,
+   "standard_number": 38,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الثامن والثلاثون",
+    "en": "Hadith 38"
+   },
+   "title": {
+    "ar": "من عادى لي وليًّا",
+    "en": "Whoever Shows Enmity to My Ally"
+   },
+   "pages": {
+    "start": 770,
+    "end": 795
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h39",
+   "number": 39,
+   "standard_number": 39,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث التاسع والثلاثون",
+    "en": "Hadith 39"
+   },
+   "title": {
+    "ar": "رفع الحرج",
+    "en": "Pardon for Mistakes, Forgetfulness and Coercion"
+   },
+   "pages": {
+    "start": 796,
+    "end": 809
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h40",
+   "number": 40,
+   "standard_number": 40,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الأربعون",
+    "en": "Hadith 40"
+   },
+   "title": {
+    "ar": "كن في الدنيا كأنك غريب",
+    "en": "Be in This World as a Stranger"
+   },
+   "pages": {
+    "start": 810,
+    "end": 823
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h41",
+   "number": 41,
+   "standard_number": 41,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الحادي والأربعون",
+    "en": "Hadith 41"
+   },
+   "title": {
+    "ar": "اتباع الهوى للشرع",
+    "en": "Desires Following the Revelation"
+   },
+   "pages": {
+    "start": 824,
+    "end": 829
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h42",
+   "number": 42,
+   "standard_number": 42,
+   "collection": "nawawi",
+   "heading": {
+    "ar": "الحديث الثاني والأربعون",
+    "en": "Hadith 42"
+   },
+   "title": {
+    "ar": "سعة مغفرة الله",
+    "en": "The Vastness of Allah’s Forgiveness"
+   },
+   "pages": {
+    "start": 830,
+    "end": 845
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h43",
+   "number": 43,
+   "standard_number": 43,
+   "collection": "ibn-rajab",
+   "heading": {
+    "ar": "الحديث الثالث والأربعون",
+    "en": "Hadith 43"
+   },
+   "title": {
+    "ar": "ألحقوا الفرائض بأهلها",
+    "en": "Give the Inheritance Shares to Their Owners"
+   },
+   "pages": {
+    "start": 846,
+    "end": 863
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h44",
+   "number": 44,
+   "standard_number": 44,
+   "collection": "ibn-rajab",
+   "heading": {
+    "ar": "الحديث الرابع والأربعون",
+    "en": "Hadith 44"
+   },
+   "title": {
+    "ar": "الرضاعة تحرم ما تحرم الولادة",
+    "en": "Nursing Prohibits What Birth Prohibits"
+   },
+   "pages": {
+    "start": 864,
+    "end": 870
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h45",
+   "number": 45,
+   "standard_number": 45,
+   "collection": "ibn-rajab",
+   "heading": {
+    "ar": "الحديث الخامس والأربعون",
+    "en": "Hadith 45"
+   },
+   "title": {
+    "ar": "تحريم بيع الخمر والميتة",
+    "en": "Forbidden Sales"
+   },
+   "pages": {
+    "start": 871,
+    "end": 880
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h46",
+   "number": 46,
+   "standard_number": 46,
+   "collection": "ibn-rajab",
+   "heading": {
+    "ar": "الحديث السادس والأربعون",
+    "en": "Hadith 46"
+   },
+   "title": {
+    "ar": "كل مسكر حرام",
+    "en": "Every Intoxicant Is Unlawful"
+   },
+   "pages": {
+    "start": 881,
+    "end": 890
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h47",
+   "number": 47,
+   "standard_number": 47,
+   "collection": "ibn-rajab",
+   "heading": {
+    "ar": "الحديث السابع والأربعون",
+    "en": "Hadith 47"
+   },
+   "title": {
+    "ar": "ما ملأ آدمي وعاء شرًّا من بطن",
+    "en": "Moderation in Eating"
+   },
+   "pages": {
+    "start": 891,
+    "end": 900
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h48",
+   "number": 48,
+   "standard_number": 48,
+   "collection": "ibn-rajab",
+   "heading": {
+    "ar": "الحديث الثامن والأربعون",
+    "en": "Hadith 48"
+   },
+   "title": {
+    "ar": "خصال النفاق",
+    "en": "The Traits of Hypocrisy"
+   },
+   "pages": {
+    "start": 901,
+    "end": 913
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h49",
+   "number": 49,
+   "standard_number": 49,
+   "collection": "ibn-rajab",
+   "heading": {
+    "ar": "الحديث التاسع والأربعون",
+    "en": "Hadith 49"
+   },
+   "title": {
+    "ar": "التوكل على الله",
+    "en": "True Reliance upon Allah"
+   },
+   "pages": {
+    "start": 914,
+    "end": 926
+   },
+   "translated": 1.0
+  },
+  {
+   "id": "h50",
+   "number": 50,
+   "standard_number": 50,
+   "collection": "ibn-rajab",
+   "heading": {
+    "ar": "الحديث الخمسون",
+    "en": "Hadith 50"
+   },
+   "title": {
+    "ar": "فضل ذكر الله",
+    "en": "Keep Your Tongue Moist with Remembrance"
+   },
+   "pages": {
+    "start": 927,
+    "end": 950
+   },
+   "translated": 1.0
+  }
+ ]
+}

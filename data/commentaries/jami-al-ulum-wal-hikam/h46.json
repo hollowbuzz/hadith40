@@ -1,0 +1,910 @@
+{
+ "id": "h46",
+ "number": 46,
+ "standard_number": 46,
+ "collection": "ibn-rajab",
+ "heading": {
+  "ar": "الحديث السادس والأربعون",
+  "en": "Hadith 46"
+ },
+ "title": {
+  "ar": "كل مسكر حرام",
+  "en": "Every Intoxicant Is Unlawful"
+ },
+ "pages": {
+  "start": 881,
+  "end": 890
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.n1",
+     "pages": [
+      881
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنْ أَبي بُردَةَ، عن أَبيه أَبي مُوسى الأَشعَريِّ أنَّ النَّبيَّ صلى الله عليه وسلم بَعَثَهُ إلى اليَمَنِ، فسأَلَهُ عَنِ أَشربةٍ تُصنَعُ بها، فقال: «ومَا هِي؟»",
+         "en": "From Abū Burdah, from his father, Abū Mūsā al-Ashʿarī: The Prophet ﷺ sent him to Yemen, and he asked him about drinks that were made there. He said: “And what are they?”"
+        },
+        {
+         "ar": "قالَ: البِتْعُ والمِزْرُ، فقيل لأبي بُردَةَ: وما البِتْعُ؟",
+         "en": "He said: Bitʿ and mizr. Abū Burdah was asked: What is bitʿ?"
+        },
+        {
+         "ar": "قال: نَبيذُ العسلِ، والمِزْرُ نَبيذُ الشَّعير، فقال: «كُلُّ مُسكرٍ حَرامٌ» خرَّجه البُخاريُّ.",
+         "en": "He said: Nabīdh [a steeped drink] of honey; and mizr is nabīdh of barley. He said: “Every intoxicant is unlawful.” Al-Bukhārī recorded it."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c1",
+     "pages": [
+      881
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه مسلم، ولفظه قال: بعثني رسولُ الله صلى الله عليه وسلم أنا ومعاذٌ إلى اليمنِ، فقلتُ: يا رسولَ الله، إنَّ شراباً يُصنع بأرضنا يقال له: المِزْرُ مِنَ الشَّعير، وشرابٌ يقالُ له: الِبتع من العسل، فقال: «كلُّ مسكرٍ حرامٌ».",
+         "en": "Muslim recorded it too, and his wording is: He said: The Messenger of Allah ﷺ sent me and Muʿādh to Yemen, and I said: Messenger of Allah, a drink is made in our land called mizr, from barley, and a drink called bitʿ, from honey. He said: “Every intoxicant is unlawful.”"
+        },
+        {
+         "ar": "وفي رواية لمسلم: فقال: «كُلُّ ما أسكر عن الصَّلاةِ فهو حرامٌ»، وفي رواية له قال: وكان رسول الله صلى الله عليه وسلم قد أُعطِيَ جوامعَ الكلم بخواتمه، فقال: «أنهى عن كلِّ مسكر أسكر عن الصَّلاةِ».",
+         "en": "In a narration of Muslim's he said: “Everything that intoxicates one away from the prayer is unlawful.” In another narration of his, he said: The Messenger of Allah ﷺ had been given comprehensive words and their conclusions, so he said: “I forbid every intoxicant that intoxicates one away from the prayer.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c2",
+     "pages": [
+      881,
+      882
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "هذا الحديثُ أصلٌ في تحريم تناول جميع المسكرات، المغطِّيةِ للعقل، وقد ذكر الله في كتابه العلَّةَ المقتضية لتحريم المسكرات، وكان أوَّل ما حُرِّمتِ الخمرُ عند حضورِ وقتِ الصلاة لما صلَّى بعضُ المُهاجرين،",
+         "en": "This hadith is a foundation for the prohibition of consuming any intoxicant, anything that covers the mind. Allah has mentioned in His Book the cause that makes intoxicants prohibited. Wine (khamr) was first prohibited at the times of prayer, after one of the Emigrants prayed,"
+        },
+        {
+         "ar": "وقرأ في صلاته، فخلط في قراءته، فنَزل قولُه تعالى: {يَا أَيُّهَا الَّذِينَ آمَنُوا لا تَقْرَبُوا الصَّلاةَ وَأَنْتُمْ سُكَارَى حَتَّى تَعْلَمُوا مَا تَقُولُونَ}،",
+         "en": "recited in his prayer and muddled his recitation; and the words of the Exalted were revealed: “O you who believe, do not approach the prayer while you are intoxicated, until you know what you are saying” [al-Nisāʾ 4:43]."
+        },
+        {
+         "ar": "فكان منادي رسول الله صلى الله عليه وسلم ينادي: لا يقرب الصَّلاةَ سكران، ثم إنَّ الله حرَّمها على الإطلاق بقوله تعالى:",
+         "en": "After that the caller of the Messenger of Allah ﷺ used to call out: No one who is intoxicated is to approach the prayer. Then Allah prohibited it absolutely, with His words, Exalted is He:"
+        },
+        {
+         "ar": "{إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالأَنْصَابُ وَالأَزْلامُ رِجْسٌ مِنْ عَمَلِ الشَّيْطَانِ فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ إِنَّمَا يُرِيدُ الشَّيْطَانُ أَنْ يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ فِي الْخَمْرِ وَالْمَيْسِرِ وَيَصُدَّكُمْ عَنْ ذِكْرِ اللهِ وَعَنِ الصَّلاةِ فَهَلْ أَنْتُمْ مُنْتَهُونَ}.",
+         "en": "“Wine, gambling, idolatrous altars and divining arrows are only a filth of Satan's handiwork, so avoid it, that you may prosper. Satan only wants to cast enmity and hatred among you through wine and gambling, and to turn you away from the remembrance of Allah and from the prayer. So will you not desist?” [al-Māʾidah 5:90–91]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c3",
+     "pages": [
+      882
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فذكر سبحانه علَّة تحريم الخمر والميسر، وهو القمار، وهو أنَّ الشيطان يُوقعُ بهما العداوةَ والبغضاء، فإنَّ مَنْ سَكِرَ اختلَّ عقلُه،",
+         "en": "Here He, Glorified is He, mentioned the reason why wine and maysir — that is, gambling — are prohibited: through them Satan casts enmity and hatred among people. Whoever is intoxicated, his reason is disordered,"
+        },
+        {
+         "ar": "فربَّما تَسَلَّط على أذى الناسِ في أنفسهم وأموالهم، وربما بَلَغَ إلى القتل، وهي أمُّ الخبائث، فمن شَربها، قتلَ النفس وزنى، وربما كفر.",
+         "en": "and he may set about harming people in their persons and their property, and may even go as far as killing. It is the mother of vile things: whoever drinks it may kill and fornicate, and may even disbelieve."
+        },
+        {
+         "ar": "وقد روي هذا المعنى عن عثمان وغيره، وروي مرفوعاً أيضاً.",
+         "en": "This meaning has been narrated from ʿUthmān and others, and it has also been narrated as marfūʿ (attributed to the Prophet ﷺ)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c4",
+     "pages": [
+      882
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومن قامر، فربما قُهرَ، وأُخذ ماله منه قهراً، فلم يبق له شيء، فيشتدُّ حِقدُه على من أخذ ماله.",
+         "en": "As for the gambler, he may be beaten and have his wealth taken from him against his will until nothing is left to him, and then his rancour against the one who took his wealth grows intense."
+        },
+        {
+         "ar": "وكلُّ ما أدى إلى إيقاع العداوة والبغضاء كان حراماً، وأخبر سبحانه أنَّ الشيطان يصدُّ بالخمر والميسر عن ذكر الله وعنِ الصَّلاةِ، فإنَّ السَّكران يزولُ عقلُه، أو يختلُّ، فلا يستطيعُ أنْ يذكرَ الله،",
+         "en": "Whatever leads to enmity and hatred is unlawful. He, Glorified is He, also told us that Satan turns people away from the remembrance of Allah and from the prayer through wine and gambling. The intoxicated person's mind is lost or disordered, so he cannot remember Allah"
+        },
+        {
+         "ar": "ولا أنْ يُصلِّي، ولهذا قال طائفة مِنَ السَّلف: إنَّ شاربَ الخمر تمرُّ عليه ساعة لا يعرف فيها ربَّه، والله سبحانه إنَّما خلق الخلق ليعرفوه، ويذكروه، ويعبدوه، ويُطيعوه، فما أدَّى إلى الامتناعِ من ذلك،",
+         "en": "or pray. That is why a group of the Salaf said: The wine-drinker passes through an hour in which he does not know his Lord. Allah, Glorified is He, created His creatures only so that they would know Him, remember Him, worship Him and obey Him; so whatever leads to abstaining from that,"
+        },
+        {
+         "ar": "وحال بين العبد وبين معرفة ربه وذكره ومناجاته، كان محرَّماً، وهو السكر، وهذا بخلاف النَّوم، فإنَّ الله تعالى جَبَل العباد عليه، واضطرهم إليه، ولا قِوام لأبدانهم إلا به، إذ هو راحة لهم من السعي والنصب،",
+         "en": "and stands between the servant and knowing his Lord, remembering Him and conversing with Him, is prohibited — and that is intoxication. Sleep is different. Allah the Exalted made His servants by nature to need it and compelled them to it, and their bodies cannot be sustained without it, since it gives them rest from striving and toil;"
+        },
+        {
+         "ar": "فهو من أعظم نِعَمِ الله على عباده، فإذا نام المؤمن بقدر الحاجة، ثم استيقظ إلى ذكر الله ومناجاته ودعائه، كان نومُه عوناً له على الصلاة والذكر، ولهذا قال من قال من الصحابة: إني أحتسب نومتي كما أحتسب قومتي.",
+         "en": "so it is among the greatest of Allah's blessings to His servants. When the believer sleeps as much as he needs and then wakes to remember Allah, converse with Him and call on Him, his sleep helps him to pray and to remember. That is why one of the Companions said: I hope for reward for my sleep just as I hope for reward for my standing [in prayer]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c5",
+     "pages": [
+      883
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكذلك الميسرُ يَصُدُّ عن ذكر الله وعنِ الصَّلاة، فإنَّ صاحبه يَعْكُفُ بقلبه عليه، ويشتغل به عن جميع مصالحه ومهماته حتى لا يكاد يذكرها لاستغراقه فيه،",
+         "en": "Gambling likewise turns people away from the remembrance of Allah and from the prayer. The gambler's heart stays devoted to it, and it distracts him from all his interests and concerns, so that he barely remembers them, being so absorbed in it."
+        },
+        {
+         "ar": "ولهذا قال عليٌّ لما مرَّ على قوم يلعبون بالشطرنج: ما هذه التماثيلُ التي أنتم لها عاكفون؟",
+         "en": "That is why ʿAlī, when he passed some people playing chess, said: “What are these images to which you are devoted?” [al-Anbiyāʾ 21:52]."
+        },
+        {
+         "ar": "فشبههم بالعاكفين على التماثيل.",
+         "en": "He likened them to those who were devoted to images."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c6",
+     "pages": [
+      883
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وجاء في الحديث: «إنَّ مدمِنَ الخمرِ كعابدِ وثنٍ»، فإنَّه يتعلق قلبُه بها، فلا يكادُ يُمكنه أنْ يدعَها كما لا يدعُ عابدُ الوثنِ عبادتَه.",
+         "en": "A hadith says: “The one addicted to wine is like a worshipper of an idol.” His heart becomes attached to it, so that he can hardly leave it, just as the idol-worshipper does not leave his worship."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c7",
+     "pages": [
+      883
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذا كلُّه مضادٌّ لِما خَلَق اللهُ العبادَ لأجله مِنْ تفريغِ قلوبهم لمعرفته، ومحبَّته، وخشيته، وذكره، ومناجاتِه، ودعائِه، والابتهال إليه، فما حالَ بين بالعبد وبين ذلك،",
+         "en": "All of this is opposed to what Allah created His servants for: emptying their hearts for knowing Him, loving Him, fearing Him, remembering Him, conversing with Him, calling on Him and humbly beseeching Him. Whatever stands between the servant and that,"
+        },
+        {
+         "ar": "ولم يكن بالعبد إليه ضرورةٌ، بل كان ضرراً محضاً عليه، كان محرماً، وقد رُوي عن عليٍّ أنّه قال لمن رآهم يلعبون بالشِّطرنج: ما لهذا خُلقتم.",
+         "en": "when the servant has no necessity for it and it is, rather, pure harm to him, is prohibited. It has been narrated that ʿAlī said to some people he saw playing chess: This is not what you were created for."
+        },
+        {
+         "ar": "ومن هنا يعلم أنَّ الميسرَ محرَّمٌ، سواء كان بِعوَضٍ أو بغيرِ عوضٍ، وإنَّ الشطرنج كالنَّرد أو شرٌّ منه؛",
+         "en": "From this it is known that maysir is unlawful, whether it is played for a stake or without one, and that chess is like backgammon or worse,"
+        },
+        {
+         "ar": "لأنَّها تشغلُ أصحابَها عن ذكر الله، وعن الصَّلاةِ أكثر مِنَ النَّرد.",
+         "en": "because it distracts those who play it from the remembrance of Allah and from the prayer more than backgammon does."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c8",
+     "pages": [
+      883
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والمقصودُ أنَّ النَّبيَّ صلى الله عليه وسلم قال: «كلُّ مسكر حرامٌ، وكلُّ ما أسكر عن الصلاة فهو حرام».",
+         "en": "The point is that the Prophet ﷺ said: “Every intoxicant is unlawful,” and “Everything that intoxicates one away from the prayer is unlawful.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c9",
+     "pages": [
+      883,
+      884
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد تواترت الأحاديثُ بذلك عن النَّبيِّ صلى الله عليه وسلم، فخرَّجا في \" الصحيحين \" عن ابنِ عمر، عن النَّبيِّ صلى الله عليه وسلم، قال: «كلُّ مسكرٍ خمرٌ، وكلُّ خمر حرام» ولفظ مسلم: «وكل مسكر حرام».",
+         "en": "The hadiths from the Prophet ﷺ to this effect are mass-transmitted (mutawātir). Both al-Bukhārī and Muslim recorded in the two Ṣaḥīḥs, from Ibn ʿUmar, that the Prophet ﷺ said: “Every intoxicant is wine, and all wine is unlawful.” Muslim's wording is: “and every intoxicant is unlawful.”"
+        },
+        {
+         "ar": "وخرّجا أيضاً من حديث عائشة أنَّ النَّبيَّ صلى الله عليه وسلم سئل عن البِتع، فقال: «كلّ شراب أسكر فهوَ حرام»، وفي رواية لمسلم: «كل شراب مسكر حرام» وقد صحَّح هذا الحديث أحمد ويحيى بن معين،",
+         "en": "Both also recorded, from the hadith of ʿĀʾishah, that the Prophet ﷺ was asked about bitʿ and said: “Every drink that intoxicates is unlawful.” In a narration of Muslim's: “Every intoxicating drink is unlawful.” Aḥmad and Yaḥyā ibn Maʿīn declared this hadith authentic"
+        },
+        {
+         "ar": "واحتجا به ونقل ابن عبد البرّ إجماعَ أهل العلم بالحديث على صحته، وأنَّه أثبت شيء يُروى عن النَّبيِّ صلى الله عليه وسلم في تحريم المسكر.",
+         "en": "and used it as evidence. Ibn ʿAbd al-Barr reported that the people of knowledge of hadith are agreed that it is authentic, and that it is the most firmly established report from the Prophet ﷺ on the prohibition of intoxicants."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c10",
+     "pages": [
+      884
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأمَّا ما نقله بعضُ فقهاء الحنفية عن ابن معينٍ من طعنه فيه، فلا يثبت ذلك عنه.",
+         "en": "As for the criticism of it that some Ḥanafī jurists have reported from Ibn Maʿīn, it is not established from him."
+        },
+        {
+         "ar": "وقد خرَّج مسلم من حديث أبي الزبير، عن جابر، عن النَّبيِّ صلى الله عليه وسلم قال: «كلّ مسكر حرام».",
+         "en": "Muslim also recorded, from the hadith of Abū al-Zubayr, from Jābir, that the Prophet ﷺ said: “Every intoxicant is unlawful.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c11",
+     "pages": [
+      884
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وإلى هذا القول ذهب جمهورُ علماء المسلمين مِنَ الصَّحابة والتابعين ومن بعدهم من عُلماء الأمصار، وهو مذهبُ مالك والشافعي والليث والأوزاعي وأحمد وإسحاق ومحمد بن الحسن وغيرهم، وهو ممَّا اجتمع على القول به أهلُ المدينة كلهم.",
+         "en": "This is the view of the great majority of Muslim scholars, among the Companions, the Successors and the scholars of the great cities after them. It is the position of Mālik, al-Shāfiʿī, al-Layth, al-Awzāʿī, Aḥmad, Isḥāq, Muḥammad ibn al-Ḥasan and others, and it is one of the views on which the people of Madīnah were all agreed."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c12",
+     "pages": [
+      884
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخالف فيه طوائفُ مِنْ عُلماء أهل الكوفة، وقالوا: إنَّ الخمرَ إنَّما هو خمرُ العنب خاصّةً، وما عداها، فإنَّما يحرم منه القدرُ الذي يُسكر،",
+         "en": "Various groups of the scholars of al-Kūfah disagreed, saying: Wine (khamr) is grape wine alone; of anything else, only the amount that intoxicates is unlawful,"
+        },
+        {
+         "ar": "ولا يحرم ما دُونَه، وما زال علماءُ الأمصار يُنكرون ذلك عليهم، وإنْ كانوا في ذلك مجتهدين مغفوراً لهم، وفيهم خَلقٌ مِنْ أئمَّة العلمِ والدين.",
+         "en": "and less than that is not. The scholars of the great cities never ceased to reject this from them, even though they held it by independent reasoning (ijtihād) and are forgiven for it, and among them were many leading figures in knowledge and religion."
+        },
+        {
+         "ar": "قال ابنُ المبارك: ما وجدتُ في النبيذ رخصةً عن أحد صحيح إلاّ عن إبراهيم، - يعني: النَّخعي -، وكذلك أنكر الإمامُ أحمد أنْ يكونَ فيه شيءٌ يصحُّ،",
+         "en": "Ibn al-Mubārak said: I have not found an authentic concession regarding nabīdh from anyone except Ibrāhīm — meaning al-Nakhaʿī. Imam Aḥmad likewise denied that anything authentic exists on it."
+        },
+        {
+         "ar": "وقد صنف كتاب \" الأشربة \" ولم يذكر فيه شيئاً من الرخصة، وصنَّف كتاباً في المسح على الخفين،",
+         "en": "He compiled the book al-Ashribah (“Drinks”) and mentioned no concession in it; and he compiled a book on wiping over leather socks"
+        },
+        {
+         "ar": "وذكر فيه عن بعض السَّلف إنكاره، فقيل له: كيف لم تجعل في كتاب \" الأشربة \" الرخصة كما جعلت في المسح؟",
+         "en": "and mentioned in it that some of the Salaf rejected wiping. He was asked: How is it that you did not put the concession in al-Ashribah, as you put [the dissenting view] in the book on wiping?"
+        },
+        {
+         "ar": "فقال: ليس في الرخصة في المسكر حديثٌ صحيح.",
+         "en": "He said: There is no authentic hadith granting a concession for intoxicants."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c13",
+     "pages": [
+      884,
+      885
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومما يدلُّ على أن كُلَّ مسكر خمر أنَّ تحريم الخمر إنَّما نزل في المدينة بسبب سؤال أهل المدينة عمّا عندهم من الأشربة، ولم يكن بها خمرُ العنب، فلو لم تكن آية تحريم الخمر شاملةً لِما عِندهم،",
+         "en": "Among what shows that every intoxicant is wine is that the prohibition of wine was revealed in Madīnah because its people asked about the drinks they had, and there was no grape wine there. Had the verse prohibiting wine not covered what they had,"
+        },
+        {
+         "ar": "لما كان فيها بيانٌ لِما سألوا عنه، ولكانَ محلُّ السبب خارجاً مِنْ عُموم الكلام، وهو ممتنع، ولمَّا نزل تحريمُ الخمر أراقوا ما عندهم من الأشربة، فدلَّ على أنَّهم فَهِمُوا أنَّه منَ الخمر المأمور باجتنابه.",
+         "en": "it would have explained nothing of what they had asked about, and the very occasion of its revelation would have fallen outside the general scope of its words, which is impossible. When the prohibition of wine was revealed, they poured out the drinks they had, which shows that they understood these to be part of the wine they had been commanded to avoid."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c14",
+     "pages": [
+      885
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح البخاري \" عن أنسٍ قال: حُرِّمت علينا الخمرُ حين حرمت وما نَجِدُ خمرَ الأعناب إلاّ قليلاً، وعامة خمرنا البسرُ والتمرُ.",
+         "en": "In Ṣaḥīḥ al-Bukhārī, from Anas, who said: Wine was prohibited to us when it was prohibited, and we found little grape wine; most of our wine was from unripe dates (busr) and dried dates."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c15",
+     "pages": [
+      885
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعنه أنَّه قال: إنِّي لأسقي أبا طلحة، وأبا دُجانة، وسهيلَ بن بيضاءَ خليطَ بُسرٍ وتمرٍ إذ حرمَتِ الخمر، فقذفتها، وأنا ساقيهم وأصغرُهم، وإنا نَعُدُّها يومئذ الخمر.",
+         "en": "He also said: I was serving drink to Abū Ṭalḥah, Abū Dujānah and Suhayl ibn Bayḍāʾ — a mixture of unripe and dried dates — when wine was prohibited, and I threw it out. I was their cupbearer and the youngest of them, and at that time we counted it as wine."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c16",
+     "pages": [
+      885
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عنه قال: ما كان لنا خمرٌ غير فَضِيخِكُم هذا الذي تسمونه الفَضيخَ.",
+         "en": "In the two Ṣaḥīḥs, also from him, he said: We had no wine other than this faḍīkh of yours [a drink of crushed unripe dates], the one you call faḍīkh."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c17",
+     "pages": [
+      885
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح مسلم \" عنه قال: لقد أنزل الله الآية التي حرَّم فيها الخمرَ، وما بالمدينة شرابٌ يشرب إلاَّ من تمر.",
+         "en": "In Ṣaḥīḥ Muslim, from him, he said: Allah sent down the verse in which He prohibited wine at a time when the only drink drunk in Madīnah was made from dates."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c18",
+     "pages": [
+      885
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح البخاري \" عن ابنِ عمر، قال: نَزَلَ تحريمُ الخمر وإنَّ بالمدينة يومئذ لخمسة أشربةٍ ما منها شراب العنب.",
+         "en": "In Ṣaḥīḥ al-Bukhārī, from Ibn ʿUmar, who said: The prohibition of wine was revealed when there were five drinks in Madīnah at the time, and none of them was a drink of grapes."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c19",
+     "pages": [
+      885,
+      886
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" الصحيحين \" عن الشعبي، عن ابنِ عمر، قال: قام عمر على المنبر، فقال: أما بعدُ، نزل تحريمُ الخمرِ وهي من خمس: العنب والتمرِ والعسلِ والحنطةِ والشعيرِ.",
+         "en": "In the two Ṣaḥīḥs, from al-Shaʿbī, from Ibn ʿUmar, who said: ʿUmar stood on the pulpit and said: To proceed: the prohibition of wine has been revealed, and it is made from five things: grapes, dates, honey, wheat and barley."
+        },
+        {
+         "ar": "والخمرُ: ما خامر العقل.",
+         "en": "Wine (khamr) is whatever befogs (khāmara) the mind."
+        },
+        {
+         "ar": "وخرَّجه الإمامُ أحمد، وأبو داود، والترمذي من حديث الشعبي عن النعمان بن بشير، عن النَّبيِّ صلى الله عليه وسلم.",
+         "en": "Imam Aḥmad, Abū Dāwūd and al-Tirmidhī recorded it from the hadith of al-Shaʿbī, from al-Nuʿmān ibn Bashīr, from the Prophet ﷺ."
+        },
+        {
+         "ar": "وذكر الترمذي أنَّ قولَ من قال: عن الشعبي عن ابن عمر، عن عمر أصحّ، وكذا قال ابنُ المديني.",
+         "en": "Al-Tirmidhī mentioned that the version of those who said “from al-Shaʿbī, from Ibn ʿUmar, from ʿUmar” is more correct, and Ibn al-Madīnī said the same."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c20",
+     "pages": [
+      886
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى أبو إسحاق عن أبي بُردة قال: قال عُمَرُ: ما خمرته فعتقته، فهو خمر، وأنّى كانت لنا الخمر خمر العنب.",
+         "en": "Abū Isḥāq narrated from Abū Burdah, who said: ʿUmar said: Whatever you have fermented and aged is wine; and where would we have had grape wine?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c21",
+     "pages": [
+      886
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" مسند \" الإمام أحمد عن المختار بن فُلفل قال: سألت أنسَ بنَ مالك عن الشرب في الأوعية فقال:",
+         "en": "In the Musnad of Imam Aḥmad, from al-Mukhtār ibn Fulful, who said: I asked Anas ibn Mālik about drinking from [different kinds of] vessels, and he said:"
+        },
+        {
+         "ar": "نهى رسولُ الله صلى الله عليه وسلم عن المزفتة وقال: «كُلُّ مسكر حرام» قلتُ له: صدقت السكر حرام، فالشربةُ والشربتان على طعامنا؟",
+         "en": "The Messenger of Allah ﷺ forbade pitch-lined vessels, and he said: “Every intoxicant is unlawful.” I said to him: You are right, intoxication is unlawful; but what about a drink or two with our meal?"
+        },
+        {
+         "ar": "قال: المسكر قليلُه وكثيرُه حرامٌ وقال: الخمر من العنب والتمر والعسل والحنطة والشعير والذرة، فما خمرتَ من ذلك فهو الخمر، خرَّجه أحمد عن عبد الله ابن إدريس: سمعتُ المختار بن فلفل يقول فذكره، وهذا إسنادٌ على شرط مسلم.",
+         "en": "He said: Of an intoxicant, a little and a lot are both unlawful. He also said: Wine is from grapes, dates, honey, wheat, barley and sorghum; whatever of these you have fermented is wine. Aḥmad recorded it from ʿAbdullāh ibn Idrīs: I heard al-Mukhtār ibn Fulful say… and he mentioned it. This chain meets Muslim's conditions."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c22",
+     "pages": [
+      886
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" صحيح مسلم \"، عن أبي هريرة، عن النَّبيِّ صلى الله عليه وسلم، قال: «الخمرُ مِنْ هَاتَينِ الشَّجرتين: النخلة والعِنبة»، وهذا صريح في أنَّ نبيذ التمر خمر.",
+         "en": "In Ṣaḥīḥ Muslim, from Abū Hurayrah, the Prophet ﷺ said: “Wine is from these two trees: the date palm and the vine.” This states explicitly that date nabīdh is wine."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c23",
+     "pages": [
+      886
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وجاء التصريحُ بالنهي عن قليل ما أسكر كثيره، كما خرَّجه أبو داود، وابنُ ماجه، والترمذي، وحسّنه من حديث جابرٍ، عن النَّبيِّ صلى الله عليه وسلم، قال: «ما أسكرَ كَثيرُهُ فَقَليلُهُ حَرامٌ».",
+         "en": "A small amount of whatever intoxicates in large amounts has also been forbidden explicitly, as in the hadith of Jābir that Abū Dāwūd, Ibn Mājah and al-Tirmidhī recorded, al-Tirmidhī grading it good, that the Prophet ﷺ said: “Whatever intoxicates in large amounts, a small amount of it is unlawful.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c24",
+     "pages": [
+      886,
+      887
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج أبو داود، والترمذي، وحسّنه من حديث عائشة، عن النَّبيِّ صلى الله عليه وسلم، قال: «كُلُّ مُسكرٍ حَرَامٌ، وما أسكر الفَرقُ، فملءُ الكَفِّ منه حَرام»، وفي رواية «الحسوة منه حرام»، وقد احتجَّ به أحمد، وذهب إليه.",
+         "en": "Abū Dāwūd and al-Tirmidhī, who graded it good, recorded from the hadith of ʿĀʾishah that the Prophet ﷺ said: “Every intoxicant is unlawful, and whatever a faraq [a large measure] of it intoxicates, a palmful of it is unlawful.” In one narration: “a sip of it is unlawful.” Aḥmad used it as evidence and held this view."
+        },
+        {
+         "ar": "وسئل عمن قال: إنَّه لا يصحُّ؟",
+         "en": "He was asked about someone who said that it is not authentic."
+        },
+        {
+         "ar": "فقال: هذا رجلٌ مُغْلٍ، يعني أنَّه قد غلا في مقالته.",
+         "en": "He said: This man is mughlī — meaning that he has gone to extremes in what he says."
+        },
+        {
+         "ar": "وقد خرَّج النَّسائي هذا الحديث من رواية سعد بن أبي وقاص، وعبد الله بن عمرو، عن النَّبيِّ صلى الله عليه وسلم، وقد رُوي عن النَّبيِّ صلى الله عليه وسلم من وجوهٍ كثيرةٍ يطولُ ذكرُها.",
+         "en": "Al-Nasāʾī recorded this hadith in the narrations of Saʿd ibn Abī Waqqāṣ and ʿAbdullāh ibn ʿAmr, from the Prophet ﷺ, and it has been narrated from the Prophet ﷺ by many routes that would take too long to mention."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c25",
+     "pages": [
+      887
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى ابنُ عجلان، عن عمرو بن شعيب، حدثني أبو وهب الجيشاني، عن وفد أهلِ اليمن أنَّهم قَدِموا على النَّبيِّ صلى الله عليه وسلم،",
+         "en": "Ibn ʿAjlān narrated from ʿAmr ibn Shuʿayb: Abū Wahb al-Jayshānī told me, from the delegation of the people of Yemen, that they came to the Prophet ﷺ"
+        },
+        {
+         "ar": "فسألوه عن أشربة تكون باليمن، قال: فسَمَّوا له البِتْعَ مِن العسَل، والمِزْرَ من الشعير، قال النَّبيُّ صلى الله عليه وسلم: «هل تسكرون منها؟»",
+         "en": "and asked him about drinks found in Yemen. He said: They named for him bitʿ, from honey, and mizr, from barley. The Prophet ﷺ said: “Do you become intoxicated from them?”"
+        },
+        {
+         "ar": "قالوا: إنْ أكثرنا سكِرنَا، قال: «فحرام قليل ما أسكر كثيره» خرَّجه القاضي إسماعيل.",
+         "en": "They said: If we drink a lot, we become intoxicated. He said: “Then a little of whatever intoxicates in large amounts is unlawful.” The judge Ismāʿīl recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c26",
+     "pages": [
+      887
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد كانت الصحابةُ تحتجُّ بقول النَّبيِّ - صلى الله عليه وسلم -: «كُلُّ مُسكِرٍ حَرامٌ» على تحريم جميع أنواع المسكرات، ما كان موجوداً منها على عهد النَّبيِّ صلى الله عليه وسلم وما حدثَ بعده،",
+         "en": "The Companions used to cite the Prophet's words ﷺ, “Every intoxicant is unlawful,” as evidence that every kind of intoxicant is prohibited, both those that existed in the time of the Prophet ﷺ and those that appeared after him."
+        },
+        {
+         "ar": "كما سُئِلَ ابن عباس عن الباذق، فقال: سبق محمّدٌ الباذقَ، فما أسكر، فهو حرام، خرَّجه البخاري، يشير إلى أنَّه إنْ كان مسكراً، فقد دخل في هذه الكلمة الجامعة العامة.",
+         "en": "So when Ibn ʿAbbās was asked about bādhaq [a cooked grape drink], he said: Muḥammad came before bādhaq; whatever intoxicates is unlawful. Al-Bukhārī recorded it. He meant that if it intoxicates, it falls under this comprehensive, general statement."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c27",
+     "pages": [
+      887
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "واعلم أنَّ المسكرَ المزيل للعقل نوعان:",
+         "en": "Know that intoxicants that remove the mind are of two kinds."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c28",
+     "pages": [
+      887
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدهما: ما كان فيه لَذَّةٌ وطربٌ، فهذا هو الخمر المحرَّم شربه، وفي \" المسند \" عن طلق الحنفيِّ أنَّه كان جالساً عند النَّبيِّ صلى الله عليه وسلم،",
+         "en": "The first is whatever brings pleasure and exhilaration. This is the wine whose drinking is prohibited. In the Musnad, from Ṭalq al-Ḥanafī: He was sitting with the Prophet ﷺ"
+        },
+        {
+         "ar": "فقال له رجل: يا رسولَ الله، ما ترى في شراب نصنعُه بأرضنا من ثمارنا؟",
+         "en": "when a man said to him: Messenger of Allah, what do you think of a drink we make in our land from our fruits?"
+        },
+        {
+         "ar": "فقال صلى الله عليه وسلم: «من سائلٌ عَنِ المسكر؟",
+         "en": "He ﷺ said: “Who is it that asks about the intoxicant?"
+        },
+        {
+         "ar": "فلا تشربه، ولا تسقه أخاك المسلم، فوالذي نفسي بيده - أو بالذي يُحلف به - لا يشربه رجلٌ ابتغاءَ لذَّة سُكره، فيسقيه الله الخمر يومَ القيامة».",
+         "en": "Do not drink it, and do not give it to your Muslim brother to drink. By the One in whose hand is my soul” — or: by that by which one swears — “no man drinks it seeking the pleasure of its intoxication but Allah will give him wine to drink on the Day of Resurrection.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c29",
+     "pages": [
+      888
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "قال طائفة من العلماء: وسواءٌ كان هذا المسكرُ جامداً أو مائعاً، وسواءٌ كان مطعوماً أو مشروباً، وسواءٌ كان من حبٍّ أو ثمرٍ أو لبنٍ، أو غير ذلك، وأدخلوا في ذلك الحشيشة التي تُعمل من ورق القِنَّب،",
+         "en": "A group of scholars said: It makes no difference whether this intoxicant is solid or liquid, eaten or drunk, or made from grain, fruit, milk or anything else. They included in it hashish, which is made from the leaves of hemp,"
+        },
+        {
+         "ar": "وغيرها ممَّا يُؤْكَلُ لأجل لذَّته وسكره، وفي \" سنن أبي داود \" من حديث شهر بن حوشب، عن أمِّ سلمة، قالت:",
+         "en": "and other things that are eaten for their pleasure and intoxication. In the Sunan of Abū Dāwūd, from the hadith of Shahr ibn Ḥawshab, from Umm Salamah, who said:"
+        },
+        {
+         "ar": "نهى رسول الله صلى الله عليه وسلم عن كلِّ مُسكرٍ ومُفتِّرٍ» والمفتر: هو المخدر للجسد، وإنْ لم ينته إلى حدِّ الإسكار.",
+         "en": "The Messenger of Allah ﷺ forbade every intoxicant and every mufattir. The mufattir is what numbs the body, even if it does not reach the point of intoxication."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c30",
+     "pages": [
+      888
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثاني: ما يُزيلُ العقلَ ويسكر، ولا لذَّة فيه ولا طرب، كالبنج ونحوه، فقال أصحابنا: إنَّ تناوله لحاجة التداوي به، وكان الغالبُ منه السلامة جاز، وقد رُوي عن عُروة بن الزُّبير أنَّه لمَّا وقعت الأكِلَة في رجله،",
+         "en": "The second is what removes the mind and intoxicates without any pleasure or exhilaration, such as banj [henbane] and the like. The scholars of our [Ḥanbalī] school said: If one takes it because one needs it as a medicine, and it is usually safe, it is permitted. It is narrated of ʿUrwah ibn al-Zubayr that when gangrene set into his leg"
+        },
+        {
+         "ar": "وأرادوا قطعَها، قال له الأطباء: نسقيك دواءً حتى يغيبَ عقلُك، ولا تُحِسَّ بألم القطع، فأبى، وقال: ما ظننتُ أنَّ خلقاً يشربُ شراباً يزولُ منه عقلُه حتّى لا يعرف ربّه.",
+         "en": "and they wanted to amputate it, the physicians said to him: We will give you a medicine to drink so that your mind goes absent and you do not feel the pain of the cutting. He refused, and said: I never thought that any creature would drink a drink that takes his mind away until he does not know his Lord."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c31",
+     "pages": [
+      888
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروي عنه أنَّه قال: لا أشرب شيئاً يحولُ بيني وبين ذكر ربي عز وجل.",
+         "en": "It is also narrated that he said: I will not drink anything that comes between me and the remembrance of my Lord, the Mighty and Majestic."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c32",
+     "pages": [
+      888,
+      889
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وإنْ تناول ذلك لغير حاجة التداوي، فقال أكثرُ أصحابنا كالقاضي، وابنِ عقيل، وصاحب \" المغني \": إنَّه محرم؛",
+         "en": "If one takes it without needing it as a medicine, most of the scholars of our school, such as al-Qāḍī Abū Yaʿlā, Ibn ʿAqīl and the author of al-Mughnī, said that it is prohibited,"
+        },
+        {
+         "ar": "لأنَّه تسبب إلى إزالة العقل لغير حاجة، فحرم كشرب المسكر، وروى حنش الرحبي - وفيه ضعف - عن عكرمة، عن ابن عباس مرفوعاً: «مَنْ شرب شراباً يَذهَبُ بعقلِه، فقد أتى باباً مِنْ أبواب الكبائر».",
+         "en": "because it is a means of removing the mind without need, and so it is prohibited, like drinking an intoxicant. Ḥanash al-Raḥabī — who has weakness — narrated from ʿIkrimah, from Ibn ʿAbbās as marfūʿ: “Whoever drinks a drink that takes away his mind has come to one of the doors of the major sins.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c33",
+     "pages": [
+      889
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقالت طائفة منهم ابنُ عقيل في \" فنونه \": لا يَحرُمُ ذلك؛",
+         "en": "A group of them, among them Ibn ʿAqīl in his Funūn, said that it is not unlawful,"
+        },
+        {
+         "ar": "لأنَّه لا لذَّة فيه، والخمرُ إنَّما حرِّمت لِما فيها مِنَ الشِّدَّةِ المطرِبَة، ولا اطراب في البنج ونحوه ولا شدَّة.",
+         "en": "because there is no pleasure in it. Wine was prohibited only because of the exhilarating potency in it, and there is neither exhilaration nor potency in banj and the like."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c34",
+     "pages": [
+      889
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فعلى قولِ الأكثرين: لو تناول ذلك لِغير حاجة، وسكر به، فطلَّق، فحكمُ طلاقه حكمُ طلاق السَّكران، قاله أكثرُ أصحابنا كابن حامد والقاضي،",
+         "en": "On the view of the majority, then, if someone takes it without need, becomes intoxicated by it and pronounces a divorce, his divorce is judged as the divorce of a drunk. Most of the scholars of our school, such as Ibn Ḥāmid and al-Qāḍī, said this,"
+        },
+        {
+         "ar": "وأصحاب الشافعي، وقالت الحنفية: لا يقعُ طلاقه، وعلَّلوا بأنَّه ليس فيه لذَّة، وهذا يدلُّ على أنَّهم لم يُحرِّموه.",
+         "en": "and so did al-Shāfiʿī's followers. The Ḥanafīs said that his divorce does not take effect, giving as their reason that there is no pleasure in it; this shows that they did not hold it prohibited."
+        },
+        {
+         "ar": "وقالت الشافعية: هو محرَّم، وفي وقوع الطلاق معه وجهان، وظاهرُ كلام أحمد أنّه لا يقعُ طلاقُه بخلافِ السَّكران، وتأوله القاضي، وقال: إنَّما قال ذلك إلزاماً للحنفية، لا اعتقاداً له، وسياق كلامه محتمل لذلك.",
+         "en": "The Shāfiʿīs said: It is prohibited, and there are two views on whether divorce takes effect under it. The apparent sense of Aḥmad's words is that his divorce does not take effect, unlike the drunk's. Al-Qāḍī interpreted this, saying: He said it only to hold the Ḥanafīs to their own principle, not as his own belief. The context of his words allows for that."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c35",
+     "pages": [
+      889
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأمَّا الحدُّ، فإنَّما يجبُ بتناول ما فيه شِدَّة وطربٌ مِنَ المسكراتِ؛",
+         "en": "As for the prescribed punishment (ḥadd), it is due only for consuming intoxicants that have potency and exhilaration,"
+        },
+        {
+         "ar": "لأنّه هو الذي تدعو النفوس إليه، فجُعِلَ الحدُّ زاجراً عنه.",
+         "en": "because these are what people's souls are drawn to, and so the ḥadd was made a deterrent from them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c36",
+     "pages": [
+      889
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فأمَّا ما فيه سكرٌ بغيرِ طربٍ ولا لذَّة، فليس فيه سوى التعزير؛",
+         "en": "What intoxicates without exhilaration or pleasure carries no more than a discretionary punishment (taʿzīr),"
+        },
+        {
+         "ar": "لأنَّه ليس في النفوس داع إليه حتّى يحتاج إلى حدٍّ مقدَّر زاجرٍ عنه، فهو كأكل الميتة ولحم الخنزير، وشرب الدم.",
+         "en": "because nothing in people's souls draws them to it, such that a fixed punishment would be needed to deter them. It is like eating carrion and pork, or drinking blood."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h46.c37",
+     "pages": [
+      889,
+      890
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأكثرُ العلماء الذين يرونَ تحريمَ قليلِ ما أسكر كثيرُه يرونَ حدَّ مَنْ شربَ ما يُسكر كثيره، وإنِ اعتقد حِلَّه متأولاً، وهو قولُ الشافعي وأحمد، خلافاً لأبي ثور، فإنَّه قال: لا يحدُّ لتأوُّله، فهو كالنَّاكح بلا وليٍّ.",
+         "en": "Most of the scholars who hold that a small amount of whatever intoxicates in large amounts is prohibited also hold that the ḥadd is applied to someone who drinks what intoxicates in large amounts, even if he believes it lawful on the basis of an interpretation. This is the view of al-Shāfiʿī and Aḥmad, unlike Abū Thawr, who said: He is not given the ḥadd, because of his interpretation; he is like someone who marries without a guardian."
+        },
+        {
+         "ar": "وفي حدِّ الناكح بلا وليٍّ خلاف أيضاً، ولكنَّ الصحيح أنَّه لا يُحَدُّ،",
+         "en": "There is also disagreement over the ḥadd for one who marries without a guardian, but the correct view is that he is not given the ḥadd."
+        },
+        {
+         "ar": "وقد فرَّق من فرَّق بينه وبين شرب النبيذ متأوِّلاً بأنَّ شرب النبيذ المختلف فيه داعٍ إلى شرب الخمر المجمع على تحريمه بخلاف الناكح بغير وليٍّ، فإنَّه مغنٍ عن الزنى المجمع على تحريمه، وموجب للاستعفاف عنه.",
+         "en": "Some have distinguished between him and the one who drinks nabīdh on the basis of an interpretation: drinking the disputed nabīdh invites one to drink the wine whose prohibition is agreed upon, whereas marrying without a guardian frees one from any need for fornication, whose prohibition is agreed upon, and leads one to keep chaste from it."
+        },
+        {
+         "ar": "والمنصوصُ عن أحمد أنَّه إنَّما حدَّ شارب النبيذ متأوِّلاً؛",
+         "en": "What Aḥmad stated explicitly is that he applied the ḥadd to one who drinks nabīdh on the basis of an interpretation only"
+        },
+        {
+         "ar": "لأنَّ تأويلَه ضعيف لا يُدرأُ عنه الحدُّ به، فإنَّه قال في رواية الأثرم: يُحدُّ من شرب النبيذ متأوِّلاً،",
+         "en": "because his interpretation is weak and does not avert the ḥadd from him. For he said, in the narration of al-Athram: Whoever drinks nabīdh on the basis of an interpretation is given the ḥadd;"
+        },
+        {
+         "ar": "ولو رُفِعَ إلى الإمام من طَلَّق البتة، ثم راجعها متأوِّلاً أنَّ طلاق البتة واحدة، والإمام يرى أنَّها ثلاث لا يُفرق بينهما،",
+         "en": "yet if someone is brought before the ruler who pronounced an irrevocable divorce (al-battah) and then took his wife back, interpreting the irrevocable divorce as a single one, while the ruler holds that it is three, the couple are not separated."
+        },
+        {
+         "ar": "وقال: هذا غيرُ ذاك، أمره بيِّنٌ في كتاب الله، وسنَّة نبيه صلى الله عليه وسلم، ونزل تحريم الخمر وشرابهم الفضيخ،",
+         "en": "He said: This is not like that. The matter [of wine] is clear in the Book of Allah and the Sunnah of His Prophet ﷺ. The prohibition of wine was revealed when their drink was faḍīkh,"
+        },
+        {
+         "ar": "وقال النَّبيُّ صلى الله عليه وسلم: «كلُّ مسكرٍ خمر»، فهذا بيِّن، وطلاق البتة إنَّما هو شيءٌ اختلفَ النَّاسُ فيه.",
+         "en": "and the Prophet ﷺ said: “Every intoxicant is wine.” This is clear, whereas the irrevocable divorce is a matter on which people have disagreed."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}

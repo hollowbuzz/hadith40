@@ -1,0 +1,1405 @@
+{
+ "id": "h17",
+ "number": 17,
+ "standard_number": 17,
+ "collection": "nawawi",
+ "heading": {
+  "ar": "الحديث السابع عشر",
+  "en": "Hadith 17"
+ },
+ "title": {
+  "ar": "الإحسان في كل شيء",
+  "en": "Excellence in Everything"
+ },
+ "pages": {
+  "start": 360,
+  "end": 374
+ },
+ "sections": [
+  {
+   "type": "hadith",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.n1",
+     "pages": [
+      360
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "عَنْ أَبي يَعْلَى شَدَّاد بنِ أوسٍ، عَنْ رسولِ الله صلى الله عليه وسلم قال: «إنَّ الله كَتَبَ الإحسّانَ على كُلِّ شيءٍ، فإذَا قَتَلْتُم فَأَحْسِنُوا القِتْلَة، وإذا ذَبَحْتُم فَأَحْسِنُوا الذِّبْحَةَ، وليُحِدَّ أحدُكُمْ شَفْرَتَهُ، ولْيُرِحْ ذَبِيحَتَهُ». رواهُ مُسلم.",
+         "en": "Abū Yaʿlā Shaddād ibn Aws reported that the Messenger of Allah ﷺ said: “Allah has prescribed excellence (iḥsān) upon everything. So when you kill, kill in a good manner; and when you slaughter, slaughter in a good manner. Let each of you sharpen his blade and spare his animal suffering.” Muslim reported it."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "commentary",
+   "heading": null,
+   "blocks": [
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c1",
+     "pages": [
+      360
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "هذا الحديث خرَّجه مسلم دونَ البخاري من رواية أبي قلابة، عن أبي الأشعث الصنعاني، عن شدَّادِ بنِ أوس، وتركه البخاري؛",
+         "en": "Muslim, but not al-Bukhārī, recorded this hadith by way of Abū Qilābah, from Abū al-Ashʿath al-Ṣanʿānī, from Shaddād ibn Aws. Al-Bukhārī left it out"
+        },
+        {
+         "ar": "لأنَّه لم يخرِّج في \" صحيحه \" لأبي الأشعث شيئاً وهو شاميٌّ ثقة.",
+         "en": "because he recorded nothing at all from Abū al-Ashʿath in his Ṣaḥīḥ, though he is a reliable narrator from al-Shām."
+        },
+        {
+         "ar": "وقد روي نَحوهُ من حديث سَمُرُةَ، عن النَّبيِّ صلى الله عليه وسلم قال: «إنَّ الله عز وجل محسِنٌ فأحسنوا، فإذا قَتَلَ أحدكُم، فليُكْرِم مقتولَه، وإذا ذبح، فليحدَّ شفرته، وليُرِحْ ذبيحته» خرَّجه ابن عدي.",
+         "en": "Something similar has been narrated from the hadith of Samurah, from the Prophet ﷺ: “Allah, the Mighty and Majestic, is excellent in all He does, so act with excellence. When one of you kills, let him treat the one he kills with dignity; and when he slaughters, let him sharpen his blade and spare his animal suffering.” Ibn ʿAdī recorded it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c2",
+     "pages": [
+      360
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الطبراني من حديث أنس، عن النَّبيِّ صلى الله عليه وسلم قال: «إذا حكمتُمْ فاعْدِلُوا، وإذا قَتَلتُم فأَحْسِنُوا، فإنَّ الله مُحْسِنٌ يُحِبُّ المحسنين».",
+         "en": "Al-Ṭabarānī recorded, from the hadith of Anas, that the Prophet ﷺ said: “When you judge, be just; and when you kill, do it well; for Allah is excellent in all He does and loves those who act with excellence.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c3",
+     "pages": [
+      361
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فقولُه صلى الله عليه وسلم: «إنَّ الله كتب الإحسّانَ على كُلِّ شيء»، وفي رواية لأبي إسحاق الفزاري في كتاب \" السير \" عن خالدٍ،",
+         "en": "His words ﷺ, “Allah has prescribed excellence upon everything” — which in a narration of Abū Isḥāq al-Fazārī in his book al-Siyar, from Khālid,"
+        },
+        {
+         "ar": "عن أبي قِلابة، عن النَّبيِّ صلى الله عليه وسلم: «إنَّ الله كتبَ الإحسّانَ على كلِّ شيءٍ»،",
+         "en": "from Abū Qilābah, from the Prophet ﷺ, read “Allah has prescribed excellence upon everything”"
+        },
+        {
+         "ar": "أو قال: «على كلِّ خلقٍ» هكذا خرَّجها مرسلةً، وبالشكِّ في: «كُلِّ شيءٍ»، أو: «كلِّ خلق»، وظاهرُهُ يقتضي أنَّه كتب على كلِّ مخلوق الإحسّان، فيكون كُلُّ شيءٍ، أو كُلُّ مخلوق هو المكتوبَ عليه، والمكتوب هو الإحسّانُ.",
+         "en": "or, he said, “upon every created being” (that is how he recorded it: as mursal, and with the doubt between “everything” and “every created being”) — have as their apparent sense that He has prescribed excellence upon every created being. Everything, or every created being, is then that upon which it is prescribed, and what is prescribed is excellence."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c4",
+     "pages": [
+      361
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقيل: إنَّ المعنى: أنَّ الله كتب الإحسّانَ إلى كلِّ شيء، أو في كلِّ شيء، أو كتب الإحسّانَ في الولاية على كُلِّ شيءٍ، فيكون المكتوبُ عليه غيرَ مذكور، وإنَّما المذكورُ المحسن إليه.",
+         "en": "It has also been said that the meaning is that Allah has prescribed excellence towards everything, or in everything, or excellence in having charge over anything. On this reading, the one upon whom it is prescribed is not mentioned; what is mentioned is only the one to whom excellence is shown."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c5",
+     "pages": [
+      361,
+      362
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولفظ: «الكتابة» يقتضي الوجوب عندَ أكثرِ الفقهاء والأصوليين خلافاً لبعضهم، وإنَّما يعرف استعمالُ لفظة الكتابة في القرآن فيما هو واجب حتمٌ إمَّا شرعاً، كقوله تعالى: {إِنَّ الصَّلاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَاباً مَوْقُوتاً}، وقوله: {كُتِبَ عَلَيْكُمُ الصِّيَامُ}،",
+         "en": "The word “prescribe” (kataba) entails obligation according to most jurists and legal theorists, though some disagree. In the Qurʾān the word is known to be used only for what is binding without fail, either by the Sharīʿah, as in the words of the Exalted, “Indeed, the prayer has been prescribed for the believers at fixed times” [al-Nisāʾ 4:103], and His words, “Fasting has been prescribed for you” [al-Baqarah 2:183]"
+        },
+        {
+         "ar": "{كُتِبَ عَلَيْكُمُ الْقِتَالُ}، أو فيما هو واقع قدراً لا محالة، كقوله: {كَتَبَ اللهُ لأَغْلِبَنَّ أَنَا وَرُسُلِي}، وقوله: {وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِنْ بَعْدِ الذِّكْرِ أَنَّ الأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ}، وقوله : {أُولَئِكَ كَتَبَ فِي قُلُوبِهِمُ الإِيمَان}.",
+         "en": "and “Fighting has been prescribed for you” [al-Baqarah 2:216]; or for what is decreed and must come about, as in His words, “Allah has written: I will surely prevail, I and My messengers” [al-Mujādilah 58:21], His words, “We have written in the Psalms, after the Reminder, that My righteous servants shall inherit the earth” [al-Anbiyāʾ 21:105], and His words, “Those — He has inscribed faith in their hearts” [al-Mujādilah 58:22]."
+        },
+        {
+         "ar": "وقال النَّبيُّ صلى الله عليه وسلم في قيام شهر رمضانَ : «إنِّي خشيتُ أنْ يُكْتَبَ عَلَيكُمْ»، وقال: «أُمِرْتُ بالسِّواكِ حتَّى خشيتُ أنْ يُكتَبَ عليَّ»، وقال: «كُتِبَ على ابنِ آدمَ حظُّه من الزِّنى، فهو مُدرِكٌ ذلك لا محالة».",
+         "en": "The Prophet ﷺ said about the night prayer in Ramaḍān: “I feared that it would be prescribed for you”; he said: “I was commanded to use the tooth-stick until I feared it would be prescribed for me”; and he said: “The son of Ādam's share of fornication has been written for him, and he will come to it without fail.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c6",
+     "pages": [
+      362
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وحينئذٍ فهذا الحديث نصٌّ في وجوب الإحسّان، وقد أمر الله تعالى به، فقال: {إِنَّ اللهَ يَأْمُرُ بِالْعَدْلِ وَالإِحْسَانِ}، وقال: {وَأَحْسِنُوا إِنَّ اللهَ يُحِبُّ الْمُحْسِنِينَ}.",
+         "en": "That being so, this hadith is an explicit text on the obligation of excellence. Allah the Exalted has commanded it, saying: “Indeed, Allah commands justice and excellence” [al-Naḥl 16:90], and saying: “And do good; Allah loves those who do good” [al-Baqarah 2:195]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c7",
+     "pages": [
+      362
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذا الأمرُ بالإحسّان تارةً يكونُ للوجوب كالإحسّان إلى الوالدين والأرحام بمقدار ما يحصل به البرُّ والصِّلَةُ والإحسّانُ إلى الضيف بقدر ما يحصل به قِراه على ما سبق ذكره.",
+         "en": "This command to excellence is sometimes an obligation, as with doing good to parents and kin to the extent that dutifulness and the keeping of ties are achieved, and doing good to the guest to the extent that his hospitality is provided, as was discussed earlier."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c8",
+     "pages": [
+      362
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وتارةً يكونُ للندب كصدقةِ التطوعِ ونحوها.",
+         "en": "At other times it is a recommendation, as with voluntary charity and the like."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c9",
+     "pages": [
+      362
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذا الحديثُ يدلُّ على وجوب الإحسّانِ في كل شيء من الأعمال، لكن إحسانُ كُلِّ شيء بحسبه، فالإحسّانُ في الإتيان بالواجبات الظاهرة والباطنةِ:",
+         "en": "This hadith shows that excellence is obligatory in every kind of deed, but the excellence of each thing is according to what it is. Excellence in carrying out obligations, outward and inward,"
+        },
+        {
+         "ar": "الإتيانُ بها على وجه كمال واجباتها، فهذا القدرُ من الإحسّان فيها واجب، وأمَّا الإحسانُ فيها بإكمالِ مستحباتها فليس بواجب.",
+         "en": "is to carry them out with all their obligatory elements complete; this much excellence in them is obligatory. Excellence in them by completing their recommended elements is not obligatory."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c10",
+     "pages": [
+      362
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والإحسّانُ في ترك المحرَّمات: الانتهاءُ عنها، وتركُ ظاهرها وباطنها، كما قال تعالى: {وَذَرُوا ظَاهِرَ الإِثْمِ وَبَاطِنَهُ}.",
+         "en": "Excellence in leaving what is forbidden is to refrain from it and leave it outwardly and inwardly, as the Exalted said: “Leave sin, outward and inward” [al-Anʿām 6:120]."
+        },
+        {
+         "ar": "فهذا القدرُ من الإحسّان فيها واجب.",
+         "en": "This much excellence in it is obligatory."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c11",
+     "pages": [
+      362
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأما الإحسّانُ في الصبر على المقدورات، فأنْ يأتي بالصبر عليها على وجهه من غير تَسَخُّطٍ ولا جَزَع.",
+         "en": "Excellence in patience with what is decreed is to bear it patiently in the proper way, without resentment or panic."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c12",
+     "pages": [
+      363
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والإحسّانُ الواجبُ في معاملة الخلق ومعاشرتهم: القيامُ بما أوجب الله من حقوق ذلك كلِّه، والإحسّانُ الواجب في ولاية الخلق وسياستهم، القيام بواجبات الولاية كُلِّها، والقدرُ الزائد على الواجب في ذلك كلِّه إحسانٌ ليس بواجب.",
+         "en": "The obligatory excellence in dealing with people and living among them is to fulfil all the rights in them that Allah has made obligatory, and the obligatory excellence in having charge over people and governing them is to fulfil all the obligations of that charge. Whatever goes beyond the obligatory in all of this is excellence that is not obligatory."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c13",
+     "pages": [
+      363
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والإحسّانُ في قتل ما يجوزُ قتله من الناس والدواب: إزهاقُ نفسه على أسرعِ الوجوه وأسهلِها وأَوحاها من غير زيادةٍ في التعذيب، فإنَّه إيلامٌ لا حاجة إليه.",
+         "en": "Excellence in killing those people and animals that may lawfully be killed is to take their life in the quickest, easiest and swiftest way, without adding to their torment, for that is pain for which there is no need."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c14",
+     "pages": [
+      363
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وهذا النوعُ هو الذي ذكره النَّبيُّ صلى الله عليه وسلم في هذا الحديث، ولعله ذكره على سبيلِ المثال، أو لحاجته إلى بيانه في تلك الحال فقال:",
+         "en": "This is the kind that the Prophet ﷺ mentioned in this hadith. Perhaps he mentioned it by way of example, or because it needed explaining in that situation. He said:"
+        },
+        {
+         "ar": "«إذا قتلتُم فأحسِنوا القِتلة، وإذا ذبحتم فأحسِنوا الذِّبحة» والقِتلة والذِّبحة بالكسر، أي: الهيئة، والمعنى: أحسنوا هيئة الذبح، وهيئة القتل.",
+         "en": "“When you kill, kill in a good manner, and when you slaughter, slaughter in a good manner.” Qitlah and dhibḥah, with an i-vowel, denote the manner; the meaning is: make the manner of slaughter and the manner of killing good."
+        },
+        {
+         "ar": "وهذا يدلُّ على وجوب الإسراع في إزهاق النفوس التي يُباحُ إزهاقُها على أسهلِ الوجوه.",
+         "en": "This shows that it is obligatory to be quick, and to use the easiest means, in taking those lives that it is permissible to take."
+        },
+        {
+         "ar": "وقد حكى ابنُ حَزمٍ الإجماع على وجوب الإحسان في الذبيحة، وأسهلُ وجوه قتل الآدمي ضربه بالسيف على العنق،",
+         "en": "Ibn Ḥazm reported consensus that excellence in slaughtering is obligatory. The easiest way of killing a human being is to strike his neck with the sword."
+        },
+        {
+         "ar": "قال الله تعالى في حقِّ الكفار: {فَإِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا فَضَرْبَ الرِّقَابِ}، وقال تعالى: {سَأُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ فَاضْرِبُوا فَوْقَ الأَعْنَاقِ}.",
+         "en": "Allah the Exalted said concerning the disbelievers, “So when you meet those who disbelieve, strike the necks” [Muḥammad 47:4], and the Exalted said, “I will cast terror into the hearts of those who disbelieve, so strike above the necks” [al-Anfāl 8:12]."
+        },
+        {
+         "ar": "وقد قيل: إنَّه عيَّن الموضع الذي يكونُ الضربُ فيه أسهلَ على المقتول وهو فوقَ العظام دونَ الدماغ، ووصى دريدُ بنُ الصِّمة قاتله أنْ يَقْتُلَهُ كذلك.",
+         "en": "It has been said that He specified the place where a blow is easiest on the one killed, which is above the bones and below the brain. Durayd ibn al-Ṣimmah instructed the man who was to kill him to kill him in that way."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c15",
+     "pages": [
+      363
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وكان النَّبيُّ صلى الله عليه وسلم إذا بعث سريةً تغزوا في سبيل الله قال لهم: «لا تُمَثِّلُوا ولا تقتلوا وليداً».",
+         "en": "When the Prophet ﷺ sent out a raiding party to fight in the path of Allah, he would say to them: “Do not mutilate, and do not kill a child.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c16",
+     "pages": [
+      363
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج أبو داود، وابن ماجه من حديثِ ابنِ مسعود، عن النَّبيِّ صلى الله عليه وسلم قال : «أَعَفُّ الناسِ قِتلةً أهلُ الإيمانِ».",
+         "en": "Abū Dāwūd and Ibn Mājah recorded, from the hadith of Ibn Masʿūd, that the Prophet ﷺ said: “The most restrained of people in killing are the people of faith.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c17",
+     "pages": [
+      364
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج أحمد وأبو داود من حديث عمران بنِ حُصينٍ وسَمُرَة بنِ جُندبٍ: أنَّ النَّبيَّ صلى الله عليه وسلم كان ينهى عن المُثْلةِ.",
+         "en": "Aḥmad and Abū Dāwūd recorded, from the hadith of ʿImrān ibn Ḥuṣayn and of Samurah ibn Jundub, that the Prophet ﷺ used to forbid mutilation."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c18",
+     "pages": [
+      364
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّجه البخاري من حديث عبد الله بن يزيد، عن النَّبيِّ صلى الله عليه وسلم أنَّه: نَهى عن المُثلَةِ.",
+         "en": "Al-Bukhārī recorded, from the hadith of ʿAbdullāh ibn Yazīd, that the Prophet ﷺ forbade mutilation."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c19",
+     "pages": [
+      364
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمامُ أحمدُ من حديث يعلى بنِ مُرة، عن النَّبيِّ صلى الله عليه وسلم: «قال الله تعالى: لا تُمَثِّلوا بِعِبادي».",
+         "en": "Imam Aḥmad recorded, from the hadith of Yaʿlā ibn Murrah, from the Prophet ﷺ: “Allah the Exalted said: Do not mutilate My servants.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c20",
+     "pages": [
+      364
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج أيضاً من حديث رجلٍ من الصحابة عن النَّبيِّ صلى الله عليه وسلم قال: «من مَثَّلَ بذي روحٍ، ثم لم يَتُبْ مثَّلَ الله به يومَ القيامة».",
+         "en": "He also recorded, from the hadith of a man among the Companions, that the Prophet ﷺ said: “Whoever mutilates any living creature and then does not repent, Allah will mutilate him on the Day of Resurrection.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c21",
+     "pages": [
+      364
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "واعلم أنَّ القتلَ المباحَ يقع على وجهين:",
+         "en": "Know that lawful killing takes place in one of two ways."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c22",
+     "pages": [
+      364
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدُهما أنْ يكون قصاصاً، فلا يجوزُ التمثيلُ فيه بالمقتص منه، بل يُقتَلُ كما قَتَلَ، فإنْ كان قد مَثَّلَ بالمقتولِ، فهل يُمثَّلُ به كما فعل أمْ لا يُقتل إلا بالسيف؟",
+         "en": "The first is in retaliation. It is not permitted to mutilate the person on whom retaliation is exacted; rather, he is killed as he killed. If he mutilated the person he killed, is he to be mutilated as he did, or is he killed only with the sword?"
+        },
+        {
+         "ar": "فيهِ قولان مشهوران للعلماء:",
+         "en": "Scholars hold two well-known views on this."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c23",
+     "pages": [
+      365
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدُهما: أنَّه يُفعَلُ به كما فَعَلَ، وهو قولُ مالك والشافعي وأحمد في المشهور عنه، وفي \" الصحيحين \" عن أنسٍ قالَ: خَرَجَتْ جاريةٌ عليها أوضاحٌ بالمدينة،",
+         "en": "The first is that he is treated as he treated his victim. This is the view of Mālik, al-Shāfiʿī, and Aḥmad in his well-known reported position. In the two Ṣaḥīḥs, Anas said: A girl wearing silver ornaments went out in Madīnah,"
+        },
+        {
+         "ar": "فرماها يهودي بحجر، فجيء بها إلى رسول الله صلى الله عليه وسلم وبها رَمَقٌ، فقالَ لها رسول الله صلى الله عليه وسلم: «فلانٌ قتلك؟»",
+         "en": "and a Jew threw a stone at her. She was brought to the Messenger of Allah ﷺ with only a little life left in her, and the Messenger of Allah ﷺ said to her: “Did so-and-so kill you?”"
+        },
+        {
+         "ar": "فرفعت رأسها، فقال لها في الثالثة: «فلان قتلك؟»",
+         "en": "She raised her head [to say no]. The third time he said to her: “Did so-and-so kill you?”"
+        },
+        {
+         "ar": "فخفضت رأسها، فدعا به رسولُ الله صلى الله عليه وسلم، فرضخ رأسه بَيْنَ الحَجَرَين.",
+         "en": "she lowered her head. The Messenger of Allah ﷺ summoned him and crushed his head between two stones."
+        },
+        {
+         "ar": "وفي روايةٍ لهما: فَأُخِذَ فاعترفَ، وفي روايةٍ لمسلم: أنَّ رجلاً من اليهود قتلَ جاريةً من الأنصار على حليٍّ لها، ثم ألقاها في القَلِيب،",
+         "en": "In one narration of theirs: He was seized and confessed. In a narration of Muslim's: A Jewish man killed a girl of the Anṣār for some jewellery of hers, then threw her into a well"
+        },
+        {
+         "ar": "ورضَخَ رأسَها بالحجارة، فأُخِذَ، فأُتي به النَّبيَّ صلى الله عليه وسلم، فأمر به أنْ يُرجَمَ حتّى يموت، فرُجِمَ حتى ماتَ.",
+         "en": "and crushed her head with stones. He was seized and brought to the Prophet ﷺ, who ordered that he be stoned until he died; and he was stoned until he died."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c24",
+     "pages": [
+      365
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والقول الثاني: لا قَوَدَ إلاَّ بالسيف، وهو قولُ الثوري، وأبي حنيفة، ورواية عن أحمد.",
+         "en": "The second view is that retaliation is only with the sword. This is the view of al-Thawrī and Abū Ḥanīfah, and a reported position of Aḥmad."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c25",
+     "pages": [
+      365
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وعن أحمد رواية ثالثة: يُفعل به كما فعل إلا أنْ يكونَ حرَّقه بالنار أو مَثَّلَ به، فيُقْتَلُ بالسيف للنهي عن المُثلة وعن التحريق بالنار نقلها عنه الأثرمُ، وقد رُوِيَ عن النَّبيِّ صلى الله عليه وسلم قال:",
+         "en": "There is a third reported position of Aḥmad: he is treated as he treated his victim, unless he burned him with fire or mutilated him, in which case he is killed with the sword, because of the prohibition of mutilation and of burning with fire. Al-Athram transmitted it from him. It has been narrated that the Prophet ﷺ said:"
+        },
+        {
+         "ar": "«لا قَودَ إلاَّ بالسيف» خرَّجه ابن ماجه وإسناده ضعيف، قال أحمد: يُروى: «لا قَوَدَ إلاَّ بالسيف» وليس إسنادُه بجيدٍ، وحديث أنس، يعني: في قتل اليهودي بالحجارة أسندُ منه وأجودُ.",
+         "en": "“There is no retaliation except with the sword.” Ibn Mājah recorded it, and its chain is weak. Aḥmad said: “There is no retaliation except with the sword” is narrated, but its chain is not good; the hadith of Anas — meaning the one about killing the Jew with stones — has a better-connected and sounder chain."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c26",
+     "pages": [
+      366
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ولو مَثَّلَ به، ثم قتله مثلَ أنْ قطّع أطرافَه، ثم قتله، فهل يُكتفى بقتله أم يُصنع به كما صنع، فَتُقطع أطرافُه ثم يُقتل؟ على قولين:",
+         "en": "If he mutilated his victim and then killed him — for example, if he cut off his limbs and then killed him — is it enough to kill him, or is he treated as he treated the victim, his limbs being cut off before he is killed? There are two views."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c27",
+     "pages": [
+      366
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "أحدهما: يُفعل به كما فعل سواء، وهو قولُ أبي حنيفة والشافعي وأحمد في إحدى الروايتين وإسحاق وغيرهم.",
+         "en": "The first is that he is treated exactly as he treated the victim. This is the view of Abū Ḥanīfah, al-Shāfiʿī, Aḥmad in one of his two reported positions, Isḥāq and others."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c28",
+     "pages": [
+      366
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والثاني: يُكتفى بقتله، وهو قولُ الثوري وأحمد في رواية وأبي يوسف ومحمد، وقال مالك: إنْ فعل به ذلك على سبيل التمثيلِ والتعذيبِ، فُعِلَ به كما فَعَلَ، وإنْ لم يكن على هذا الوجه اكتفي بقتله.",
+         "en": "The second is that it is enough to kill him. This is the view of al-Thawrī, of Aḥmad in one reported position, and of Abū Yūsuf and Muḥammad [al-Shaybānī]. Mālik said: If he did that to him by way of mutilation and torture, the same is done to him; if not, killing him is enough."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c29",
+     "pages": [
+      366
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "الوجه الثاني: أنْ يكون القتلُ للكفر، إما لكفر أصلي، أو لردَّة عن الإسلام، فأكثرُ العلماء على كراهة المُثلة فيه أيضاً،",
+         "en": "The second way is killing for disbelief, whether original disbelief or apostasy from Islam. Most scholars hold that mutilation is disliked here too,"
+        },
+        {
+         "ar": "وأنَّه يُقتل فيه بالسيف، وقد رُوي عن طائفةٍ من السَّلف جوازُ التمثيل فيه بالتحريق بالنار وغير ذلك، كما فعله خالدُ بن الوليد وغيره.",
+         "en": "and that such a person is killed with the sword. It has been narrated from a group of the Salaf that mutilation in this case is permissible, by burning with fire and otherwise, as Khālid ibn al-Walīd and others did."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c30",
+     "pages": [
+      366
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ورُوي عن أبي بكر: أنَّه حرَّق الفجاءة بالنَّار.",
+         "en": "It has been narrated that Abū Bakr burned al-Fujāʾah with fire."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c31",
+     "pages": [
+      366
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ورُوي أنَّ أم قِرْفة الفزارية ارتدت في عهد أبي بكر الصديق، فأمر بها، فشدَّت ذوائِبُها في أذناب قَلُوصَيْنِ أو فرسين، ثم صاح بهما فتقطعت المرأة، وأسانيد هذه القصة منقطعة.",
+         "en": "It has been narrated that Umm Qirfah al-Fazāriyyah apostatised in the time of Abū Bakr al-Ṣiddīq, and he gave orders concerning her: her locks of hair were tied to the tails of two young she-camels, or two horses, which were then driven off with a shout, and the woman was torn apart. The chains of this story are broken."
+        },
+        {
+         "ar": "وقد ذكر ابنُ سعد في \" طبقاته \" بغير إسناد: أنَّ زيدَ بن حارثة قتلها هذه القتلة على عهد رسولِ الله صلى الله عليه وسلم، وأخبر النَّبيَّ صلى الله عليه وسلم بذلك.",
+         "en": "Ibn Saʿd mentioned in his Ṭabaqāt, without a chain, that Zayd ibn Ḥārithah killed her in this way in the time of the Messenger of Allah ﷺ and told the Prophet ﷺ of it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c32",
+     "pages": [
+      367
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وصحَّ عن عليٍّ أنَّه حرَّق المرتدين، وأنكر ذلك ابنُ عباس عليه، وقيل: إنَّه لم يُحرّقهم، وإنَّما دَخَّنَ عليهم حتى ماتوا، وقيل: إنَّه قتلهم، ثم حَرَّقَهُم، ولا يصحُّ ذلك.",
+         "en": "It is authentically reported that ʿAlī burned apostates, and that Ibn ʿAbbās objected to this. It has been said that he did not burn them but smoked them out until they died, and also that he killed them and then burned them; but that is not authentic."
+        },
+        {
+         "ar": "وروي عنه أنَّه جيء بمرتدٍّ، فأمر به فوطئ بالأرجل حتَّى مات.",
+         "en": "It has also been narrated of him that an apostate was brought to him, and he gave orders that he be trampled underfoot until he died."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c33",
+     "pages": [
+      367,
+      368
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "واختار ابنُ عقيلٍ - من أصحابنا - جوازَ القتل بالتمثيل للكفر لاسيما إذا تغلَّظ، وحمل النهي عن المُثلةِ على القتل بالقصاص، واستدلَّ من أجاز ذلك بحديثِ العُرنيين، وقد خرَّجاه في \" الصحيحين \" من حديث أنس:",
+         "en": "Ibn ʿAqīl, one of the scholars of our [Ḥanbalī] school, held that killing by mutilation is permissible for disbelief, especially when the disbelief is aggravated, and took the prohibition of mutilation to refer to killing in retaliation. Those who permit it cite the hadith of the men of ʿUraynah, recorded in the two Ṣaḥīḥs from the hadith of Anas:"
+        },
+        {
+         "ar": "أنَّ أناساً من عُرينة قَدِمُوا على رسولِ الله صلى الله عليه وسلم المدينة فاجْتَوَوْهَا، فقال لهم رسولُ الله صلى الله عليه وسلم: «إنْ شئتم أنْ تَخْرُجُوا إلى إبل الصدقة، فتشربوا من ألبانها وأبوالها،",
+         "en": "Some people of ʿUraynah came to the Messenger of Allah ﷺ in Madīnah and found its climate did not agree with them. The Messenger of Allah ﷺ said to them: “If you wish to go out to the camels of the zakāh and drink of their milk and their urine,"
+        },
+        {
+         "ar": "فافعلوا» ففعلوا فصحُّوا، ثم مالوا على الرعاء، فقتلوهم، وارتدُّوا عن الإسلام، وساقوا ذَودَ رسولِ الله صلى الله عليه وسلم، فبلغ ذلك النَّبيَّ صلى الله عليه وسلم، فبعث في أثرهم، فأُتي بهم، فقطع أيديهم وأرجُلَهم، وسَمَلَ أعينَهم،",
+         "en": "do so.” They did so and recovered. Then they fell upon the herdsmen and killed them, apostatised from Islam and drove off the camels of the Messenger of Allah ﷺ. News of this reached the Prophet ﷺ, and he sent men after them. They were brought, and he had their hands and feet cut off and their eyes put out,"
+        },
+        {
+         "ar": "وتركهم في الحرة حتى ماتوا، وفي روايةٍ: ثم نُبِذُوا في الشمس حتى ماتوا، وفي روايةٍ: وسمرت أعينُهم، وألقوا في الحرَّةِ يَستسقونَ فلا يُسقون، وفي رواية للترمذي: قطع أيديَهم وأرجلهم من خلافٍ، وفي رواية للنسائي: وصَلَبَهُم.",
+         "en": "and left them in the Ḥarrah until they died. In one narration: Then they were thrown out in the sun until they died. In another: Their eyes were branded with heated nails, and they were thrown into the Ḥarrah, asking for water and not being given any. In a narration of al-Tirmidhī: He cut off their hands and feet on opposite sides. In a narration of al-Nasāʾī: and he crucified them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c34",
+     "pages": [
+      368
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد اختلف العلماء في وجه عقوبة هؤلاء، فمنهم من قال: من فعل مِثلَ فعلهم فارتدَّ، وحارب، وأخذ المالَ، صنع به كما صنع بهؤلاء، وروي هذا عن طائفة، منهم: أبو قِلابة، وهو روايةٌ عن أحمد.",
+         "en": "Scholars have differed over the basis of these men's punishment. Some said: Whoever does as they did — apostatises, wages war and takes property — is dealt with as these men were. This has been narrated from a group, among them Abū Qilābah, and it is a reported position of Aḥmad."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c35",
+     "pages": [
+      368
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنهم مَنْ قال: بل هذا يدلُّ على جواز التمثيل بمن تغلَّظَتْ جرائمُهُ في الجملة، وإنَّما نهي عن التمثيل في القصاص، وهو قول ابنِ عقيل من أصحابنا.",
+         "en": "Some said: Rather, this shows that it is permissible in general to mutilate those whose crimes are aggravated, and that mutilation was forbidden only in retaliation. This is the view of Ibn ʿAqīl among the scholars of our school."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c36",
+     "pages": [
+      368
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنهم من قال: بل نسخ ما فعل بالعرنيين بالنهي عن المُثلةِ.",
+         "en": "Some said: Rather, what was done to the men of ʿUraynah was abrogated by the prohibition of mutilation."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c37",
+     "pages": [
+      368
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنهم من قال: كان قبلَ نزولِ الحدود وآيةِ المحاربة، ثم نُسخ بذلك، وهذا قولُ جماعة منهم: الأوزاعي وأبو عُبيد.",
+         "en": "Some said: It happened before the revelation of the prescribed punishments and of the verse on waging war, and was then abrogated by them. This is the view of a number of scholars, among them al-Awzāʿī and Abū ʿUbayd."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c38",
+     "pages": [
+      368
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "ومنهم من قال: بل ما فعله النَّبيُّ صلى الله عليه وسلم بهم إنَّما كان بآية المحاربة، ولم ينسخ شيء من ذلك، وقالوا: إنَّما قتلهم النَّبيُّ صلى الله عليه وسلم، وقَطَعَ أيديهم؛",
+         "en": "Some said: Rather, what the Prophet ﷺ did to them was done only on the basis of the verse on waging war, and none of it was abrogated. They said: The Prophet ﷺ killed them and cut off their hands"
+        },
+        {
+         "ar": "لأنَّهم أخذوا المالَ، ومن أخذ المالَ وقَتَلَ، قُطِعَ وقُتِلَ، وصُلِبَ حتماً، فيُقتَلُ لقتله ويُقطع لأخذه المال يَدُه ورجلُه من خِلاف، ويُصلَبُ لجمعه بين الجنايتين وهما: القتلُ وأخذُ المال، وهذا قول الحسن، ورواية عن أحمد.",
+         "en": "only because they had taken property, and whoever takes property and kills must be amputated, killed and crucified: he is killed for killing, his hand and foot are cut off on opposite sides for taking property, and he is crucified for combining the two crimes of killing and taking property. This is the view of al-Ḥasan, and a reported position of Aḥmad."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c39",
+     "pages": [
+      369
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وإنَّما سَمَلَ أعينهم؛",
+         "en": "He put out their eyes only"
+        },
+        {
+         "ar": "لأنَّهم سملوا أعينَ الرعاة كذا خرَّجه مسلم من حديثِ أنس، وذكر ابنُ شهابٍ أنَّهم قتلوا الراعي، ومَثَّلوا به، وذكر ابن سعد أنَّهم قطعوا يدَه ورجله، وغرسوا الشوكَ في لسانه وعينيه حتّى مات،",
+         "en": "because they had put out the herdsmen's eyes; that is how Muslim recorded it, from the hadith of Anas. Ibn Shihāb mentioned that they killed the herdsman and mutilated him, and Ibn Saʿd mentioned that they cut off his hand and foot and drove thorns into his tongue and eyes until he died."
+        },
+        {
+         "ar": "وحينئذ فقد يكونُ قطعُهم، وسملُ أعينهم، وتعطيشُهم قصاصاً، وهذا يتخرَّجُ على قول مَنْ يقولُ: إنَّ المحاربَ إذا جنى جنايةً توجبُ القصاصَ استُوفِيت منه قبل قتله، وهو مذهب أحمد.",
+         "en": "So the cutting off of their limbs, the putting out of their eyes and leaving them to thirst may have been retaliation. This fits the view of those who hold that if a brigand commits a crime that requires retaliation, it is exacted from him before he is killed — which is the school of Aḥmad."
+        },
+        {
+         "ar": "لكن هل يستوفى منه تحتماً كقتله أم على وجه القصاص، فيسقط بعفو الولي؟",
+         "en": "But is it exacted from him as a mandatory penalty, like his killing, or by way of retaliation, so that it lapses if the victim's next of kin pardons?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c40",
+     "pages": [
+      369
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "على روايتين عنه، ولكن رواية الترمذي أنَّ قطعَهُم من خلاف يدلُّ على أنَّ قطعهم للمحاربة إلا أنْ يكونوا قد قطعوا يدَ الراعي ورجلَه من خلاف، والله أعلم.",
+         "en": "There are two reported positions of his on this. Al-Tirmidhī's narration, however, that their limbs were cut off on opposite sides, shows that they were cut off for waging war — unless they had cut off the herdsman's hand and foot on opposite sides. And Allah knows best."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c41",
+     "pages": [
+      369,
+      370
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد رُوي عن النَّبيِّ صلى الله عليه وسلم: أنَّه كان أَذِنَ في التحريق بالنار، ثم نهى عنه كما في \" صحيح البخاري \" عن أبي هريرة قال: بعثنا رسولُ الله صلى الله عليه وسلم في بعث فقال:",
+         "en": "It has been narrated that the Prophet ﷺ had given permission for burning with fire and then forbade it, as in Ṣaḥīḥ al-Bukhārī, where Abū Hurayrah said: The Messenger of Allah ﷺ sent us on an expedition and said:"
+        },
+        {
+         "ar": "«إنْ وَجَدتُم فلاناً وفلاناً - لرجلين من قريشٍ - فاحرقوهما بالنار»، ثمَّ قال رسولُ الله صلى الله عليه وسلم حين أردنا الخروجَ:",
+         "en": "“If you find so-and-so and so-and-so” — two men of Quraysh — “burn them with fire.” Then, when we were about to set out, the Messenger of Allah ﷺ said:"
+        },
+        {
+         "ar": "«إني كنتُ أمرتُكم أنْ تحرِقوا فُلاناً وفُلاناً بالنار، وإنَّ النارَ لا يُعذِّبُ بها إلا الله، فإنْ وجدتموهما فاقتلوهما».",
+         "en": "“I commanded you to burn so-and-so and so-and-so with fire, but none punishes with fire except Allah. If you find them, kill them.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c42",
+     "pages": [
+      370
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفيه أيضاً عن ابن عبَّاسٍ: أنَّ النَّبيَّ صلى الله عليه وسلم قال: «لا تُعذِّبُوا بعذاب الله عز وجل».",
+         "en": "Also in it, Ibn ʿAbbās narrated that the Prophet ﷺ said: “Do not punish with the punishment of Allah, the Mighty and Majestic.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c43",
+     "pages": [
+      370
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد، وأبو داود، والنَّسائي من حديث ابن مسعودٍ قال: كُنَّا مع النَّبيِّ صلى الله عليه وسلم،",
+         "en": "Imam Aḥmad, Abū Dāwūd and al-Nasāʾī recorded, from the hadith of Ibn Masʿūd, that he said: We were with the Prophet ﷺ,"
+        },
+        {
+         "ar": "فمَرَرنا بقريةِ نملٍ قد أُحرقَت، فغَضِب النَّبيُّ صلى الله عليه وسلم وقال: «إنَّه لا ينبغي لِبشرٍ أنْ يعذِّبَ بعذاب الله عز وجل».",
+         "en": "and we passed by an ant colony that had been burned. The Prophet ﷺ became angry and said: “It is not fitting for any human being to punish with the punishment of Allah, the Mighty and Majestic.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c44",
+     "pages": [
+      370
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد حرَّقَ خالدٌ جماعة في الرِّدة، وروي عن طائفة من الصحابة تحريقُ من عَمِل عمل قومِ لوطٍ،",
+         "en": "Khālid burned a number of people during the apostasy, and burning those who do the deed of the people of Lūṭ has been narrated from a group of the Companions."
+        },
+        {
+         "ar": "ورُوي عن عليٍّ أنَّه أشار على أبي بكر أنْ يقتلَه ثم يحرقه بالنار، واستحسن ذلك إسحاق بن راهويه لئلا يكون تعذيباً بالنار.",
+         "en": "It has been narrated that ʿAlī advised Abū Bakr to kill such a man and then burn him with fire, and Isḥāq ibn Rāhawayh approved of this, so that it would not be punishment by fire."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c45",
+     "pages": [
+      370
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" مسند الإمام أحمد \": أنَّ علياً لما ضربه ابنُ مُلجم، قال: افعلوا به كما أرادَ رسولُ الله صلى الله عليه وسلم أنْ يفعلَ برجل أراد قتلَه، قال: «اقتلوه ثم حرِّقوه».",
+         "en": "In the Musnad of Imam Aḥmad: when Ibn Muljam struck ʿAlī, ʿAlī said: Do to him what the Messenger of Allah ﷺ wanted to do to a man who wanted to kill him. He said: “Kill him, then burn him.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c46",
+     "pages": [
+      370
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وأكثرُ العلماء على كراهةِ التحريق بالنار حتى للهوام، وقال إبراهيم النَّخعيُّ: تحريقُ العقرب بالنار مُثلةٌ.",
+         "en": "Most scholars hold that burning with fire is disliked, even for vermin. Ibrāhīm al-Nakhaʿī said: Burning a scorpion with fire is mutilation."
+        },
+        {
+         "ar": "ونهت أمُ الدرداء عن تحريق البرغوث بالنار.",
+         "en": "Umm al-Dardāʾ forbade burning fleas with fire."
+        },
+        {
+         "ar": "وقال أحمد: لا يُشوى السمكُ في النار وهو حيٌّ، وقال: الجرادُ أهونُ؛",
+         "en": "Aḥmad said: A fish should not be roasted on the fire while it is alive. He also said: Locusts are a lighter matter,"
+        },
+        {
+         "ar": "لأنَّه لا دم لهُ.",
+         "en": "because they have no blood."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c47",
+     "pages": [
+      370,
+      371
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد ثبت عن النَّبيِّ صلى الله عليه وسلم: أنَّه نهى عن صَبرِ البهائم، وهو: أنْ تحبس البهيمة، ثُمَّ تُضرب بالنبل ونحوه حتَّى تموتَ.",
+         "en": "It is firmly established that the Prophet ﷺ forbade making animals stand as targets (ṣabr): that is, confining an animal and then shooting it with arrows and the like until it dies."
+        },
+        {
+         "ar": "ففي \" الصحيحين \" عن أنسٍ: أنَّ النَّبيَّ صلى الله عليه وسلم نهى أنْ تُصبر البهائم.",
+         "en": "In the two Ṣaḥīḥs, Anas narrated that the Prophet ﷺ forbade making animals stand as targets."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c48",
+     "pages": [
+      371
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفيهما أيضاً عن ابن عمر: أنَّه مرَّ بقوم نصبوا دجاجةً يرمونها، فقال ابنُ عمر: من فعل هذا؟",
+         "en": "Also in both: Ibn ʿUmar passed by some people who had set up a hen and were shooting at it. Ibn ʿUmar said: Who did this?"
+        },
+        {
+         "ar": "إنَّ رسول الله صلى الله عليه وسلم لعن من فعل هذا.",
+         "en": "The Messenger of Allah ﷺ cursed whoever does this."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c49",
+     "pages": [
+      371
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج مسلم من حديث ابنِ عباس، عن النَّبيِّ صلى الله عليه وسلم: أنَّه نهى أنْ يُتخذ شيء فيه الروح غرضاً، والغرض: هو الذي يرمى فيه بالسهام.",
+         "en": "Muslim recorded, from the hadith of Ibn ʿAbbās, that the Prophet ﷺ forbade taking anything that has a soul as a target (gharaḍ) — the gharaḍ being what is shot at with arrows."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c50",
+     "pages": [
+      371
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" مسند الإمام أحمد \" عن أبي هُريرة: أنَّ النَّبيَّ صلى الله عليه وسلم نهى عن الرَّمِيَّةِ: أنْ ترمى الدابة ثم تُؤكلُ ولكن تُذبح، ثم يرموا إنْ شاؤوا.",
+         "en": "In the Musnad of Imam Aḥmad, Abū Hurayrah narrated that the Prophet ﷺ forbade the shot animal (ramiyyah): that an animal should be shot and then eaten. Rather, it should be slaughtered, after which they may shoot at it if they wish."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c51",
+     "pages": [
+      371
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي هذا المعنى أحاديث كثيرة.",
+         "en": "There are many hadiths with this meaning."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c52",
+     "pages": [
+      371
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فلهذا أمر النَّبيُّ صلى الله عليه وسلم بإحسانِ القتلِ والذبح، وأمر أنْ تُحَدَّ الشفرةُ، وأنْ تُراح الذبيحة، يشير إلى أنَّ الذبح بالآلة الحادة يُرِيحُ الذبيحة بتعجيل زهوق نفسها.",
+         "en": "That is why the Prophet ﷺ commanded that killing and slaughter be done well, and commanded that the blade be sharpened and the animal spared suffering, indicating that slaughtering with a sharp instrument spares the animal by hastening the departure of its life."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c53",
+     "pages": [
+      371,
+      372
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الإمام أحمد، وابنُ ماجه من حديث ابنِ عمر، قال: أمر رسولُ الله صلى الله عليه وسلم بحَدِّ الشفارِ، وأنْ تُوارى عن البهائم، وقال: «إذا ذَبَحَ أَحَدُكُم، فليُجْهِزْ» يعني:",
+         "en": "Imam Aḥmad and Ibn Mājah recorded, from the hadith of Ibn ʿUmar, that he said: The Messenger of Allah ﷺ commanded that blades be sharpened and hidden from the animals, and said: “When one of you slaughters, let him finish it off quickly” — meaning:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c54",
+     "pages": [
+      372
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "فليسرع الذبح.",
+         "en": "let him slaughter swiftly."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c55",
+     "pages": [
+      372
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد ورد الأمر بالرفق بالذبيحة عندَ ذبحها، وخرَّج ابنُ ماجه من حديث أبي سعيد الخدري قال:",
+         "en": "The command to be gentle with the animal at the time of slaughter has also come. Ibn Mājah recorded, from the hadith of Abū Saʿīd al-Khudrī, that he said:"
+        },
+        {
+         "ar": "مرَّ رسولُ الله صلى الله عليه وسلم برجل وهو يجرُّ شاة بأُذنها، فقال رسولُ الله صلى الله عليه وسلم: «دع أُذنَها وخُذْ بِسالِفَتِها» والسالفة: مقدَّمُ العنق.",
+         "en": "The Messenger of Allah ﷺ passed by a man who was dragging a sheep by its ear, and the Messenger of Allah ﷺ said: “Leave its ear and take hold of it by the front of its neck (sālifah).” The sālifah is the front part of the neck."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c56",
+     "pages": [
+      372
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وخرَّج الخلالُ والطبرانيُّ من حديث عكرمة، عن ابن عباس قال: مرَّ رسولُ الله صلى الله عليه وسلم برجلٍ واضع رجلَه على صفحة شاةٍ وهو يحدُّ شفرته وهي تلحظ إليه ببصرها، فقال: «أفلا قبْلَ هذا؟",
+         "en": "Al-Khallāl and al-Ṭabarānī recorded, from the hadith of ʿIkrimah, from Ibn ʿAbbās, that he said: The Messenger of Allah ﷺ passed by a man who had put his foot on the side of a sheep and was sharpening his blade while it watched him, and he said: “Could this not have been done before?"
+        },
+        {
+         "ar": "تريدُ أنْ تُميتها موتتان؟».",
+         "en": "Do you want to make it die twice?”"
+        },
+        {
+         "ar": "وقد روي عن عكرمة مرسلاً خرَّجه عبدُ الرزاق وغيره، وفيه زيادة: «هلاَّ حددت شفرتك قبل أنْ تُضْجِعها».",
+         "en": "It has also been narrated from ʿIkrimah as mursal — ʿAbd al-Razzāq and others recorded it — with the addition: “Why did you not sharpen your blade before laying it down?”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c57",
+     "pages": [
+      372
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال الإمام أحمد: تُقاد إلى الذبح قوداً رفيقاً، وتُوارى السكينُ عنها، ولا تُظهر السكين إلا عندَ الذبح، أمر رسولُ الله صلى الله عليه وسلم بذلك: أنْ تُوارى الشفار.",
+         "en": "Imam Aḥmad said: It should be led to slaughter gently and the knife hidden from it, and the knife should not be shown except at the moment of slaughter. The Messenger of Allah ﷺ commanded this: that blades be hidden."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c58",
+     "pages": [
+      372
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال: ما أبهمت عليه البهائم فلم تبهم أنَّها تعرف ربها، وتعرف أنَّها تموت.",
+         "en": "He also said: Whatever may be hidden from animals, it is not hidden from them that they know their Lord and know that they will die."
+        },
+        {
+         "ar": "وقال: يُروى عن ابن سابط أنَّه قال: إنَّ البهائم جُبِلَتْ على كلِّ شيءٍ إلاَّ على أنَّها تعرف ربها، وتخافُ الموتَ.",
+         "en": "He also said: It is narrated that Ibn Sābiṭ said: Animals have been left unknowing of everything except that they know their Lord and fear death."
+        }
+       ]
+      }
+     ],
+     "notes": [
+      {
+       "en": "The printed text of Ibn Sābiṭ's saying reads جُبِلَتْ على كلِّ شيءٍ (“have been given a disposition for everything”), which contradicts its exception; read it, like Aḥmad's statement just before it, as “have been left unknowing of everything” (أُبهِمَتْ عن كلِّ شيءٍ)."
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c59",
+     "pages": [
+      372,
+      373
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد وردَ الأمرُ بقطع الأوداج عندَ الذبح، كما خرَّجه أبو داود من حديث عِكرمة، عن ابن عباس، وأبي هريرة، عن النَّبيِّ صلى الله عليه وسلم: أنَّه نهى عن شريطة الشيطان،",
+         "en": "The command to cut the jugular veins in slaughter has also come, as Abū Dāwūd recorded from the hadith of ʿIkrimah, from Ibn ʿAbbās and Abū Hurayrah, that the Prophet ﷺ forbade “Satan's nick” (sharīṭat al-shayṭān):"
+        },
+        {
+         "ar": "وهي التي تذبح فتقطع الجلد، ولا تفري الأوداج، وخرَّجه ابن حبان في \" صحيحه \" وعنده: قال عكرمة: كانوا يقطعون منها الشيء اليسيرَ، ثم يدعونها حتى تموتَ، ولا يقطعون الودجَ، فنهى عن ذلك.",
+         "en": "an animal that is slaughtered by cutting the skin without severing the jugular veins. Ibn Ḥibbān recorded it in his Ṣaḥīḥ, and in his version ʿIkrimah said: They used to cut a little of it and then leave it until it died, without cutting the jugular vein, and he forbade that."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c60",
+     "pages": [
+      373
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى عبدُ الرزاق في \" كتابه \" عن محمد بن راشدٍ، عن الوضين بنِ عطاء، قال: إنَّ جزَّاراً فتح باباً على شاةٍ ليذبحها فانفلتت منه حتَّى جاءت النَّبيَّ صلى الله عليه وسلم،",
+         "en": "ʿAbd al-Razzāq narrated in his book, from Muḥammad ibn Rāshid, from al-Waḍīn ibn ʿAṭāʾ, who said: A butcher opened a door on a sheep in order to slaughter it, and it slipped away from him and came to the Prophet ﷺ."
+        },
+        {
+         "ar": "فاتبعها، فأخذ يَسْحَبُها برجلها، فقال لها النَّبيُّ صلى الله عليه وسلم: «اصبري لأمرِ الله، وأنتَ يا جزَّارُ فسُقْها إلى الموتِ سَوقاً رفيقاً».",
+         "en": "He followed it and began dragging it by its leg. The Prophet ﷺ said to it: “Be patient with the command of Allah. And you, butcher, drive it to its death gently.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c61",
+     "pages": [
+      373
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وبإسناده عن ابن سيرين: أنَّ عُمَرَ رأى رجلاً يسحب شاةً برجلها ليذبحها، فقال له: وَيْلَكَ قُدْها إلى الموت قوداً جميلاً.",
+         "en": "With his chain, from Ibn Sīrīn: ʿUmar saw a man dragging a sheep by its leg to slaughter it, and said to him: Woe to you! Lead it to its death in a seemly way."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c62",
+     "pages": [
+      373
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وروى محمدُ بنُ زيادٍ: أنَّ ابن عمر رأى قصَّاباً يجُرُّ شاةً، فقال: سُقها إلى الموت سوقاً جميلاً، فأخرج القصابُ شفرة، فقال: ما أسوقها سوقا جميلاً وأنا أريد أنْ أذبحها الساعة، فقال: سقها سوقاً جميلاً.",
+         "en": "Muḥammad ibn Ziyād narrated that Ibn ʿUmar saw a butcher dragging a sheep and said: Drive it to its death in a seemly way. The butcher took out a blade and said: How can I drive it in a seemly way when I mean to slaughter it this very moment? He said: Drive it in a seemly way."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c63",
+     "pages": [
+      373
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" مسند الإمام أحمد \" عن معاوية بنِ قُرة، عن أبيه: أنَّ رجلاً قال للنَّبيِّ صلى الله عليه وسلم:",
+         "en": "In the Musnad of Imam Aḥmad, from Muʿāwiyah ibn Qurrah, from his father: a man said to the Prophet ﷺ:"
+        },
+        {
+         "ar": "يا رسولَ اللهِ إني لأذبحُ الشاةَ وأنا أرحمها، فقال النَّبيُّ صلى الله عليه وسلم: «والشاة إنْ رحمتها رَحِمَكَ الله».",
+         "en": "O Messenger of Allah, when I slaughter a sheep I feel mercy for it. The Prophet ﷺ said: “The sheep too — if you have mercy on it, Allah will have mercy on you.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c64",
+     "pages": [
+      374
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال مطرف بنُ عبد الله: إنَّ الله ليرحم برحمة العصفور.",
+         "en": "Muṭarrif ibn ʿAbdillāh said: Allah shows mercy in return for mercy shown to a sparrow."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c65",
+     "pages": [
+      374
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقال نوفٌ البكالي: إنَّ رجلاً ذبح عِجَّوْلاً له بين يدي أمه، فخُبِّلَ، فبينما هو تحتَ شجرة فيها وكْرٌ فيه فَرْخٌ، فوقع الفرخُ إلى الأرض، فرحمه فأعاده في مكانه، فردَّ الله إليه قوَّته.",
+         "en": "Nawf al-Bikālī said: A man slaughtered a calf of his in front of its mother, and he was struck with paralysis. Then, while he was sitting under a tree with a nest in it holding a chick, the chick fell to the ground; he felt pity for it and put it back in its place, and Allah restored his strength to him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c66",
+     "pages": [
+      374
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وقد رُوي من غير وجه عن النَّبيِّ صلى الله عليه وسلم: أنَّه نهى أنْ تُولَّه والدة عن ولدها، وهو عام في بني آدم وغيرهم.",
+         "en": "It has been narrated by more than one route from the Prophet ﷺ that he forbade making a mother distraught by parting her from her young; this applies generally, to the children of Ādam and to others."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c67",
+     "pages": [
+      374
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "وفي \" سنن أبي داود \": أنَّ النَّبيَّ صلى الله عليه وسلم سُئِلَ عن الفَرَعِ، فقال: «هو حَقٌّ وإنْ تتركوه حتّى يكونَ بكراً ابنَ مخاض،",
+         "en": "In the Sunan of Abū Dāwūd: the Prophet ﷺ was asked about the faraʿ [the firstborn camel that was sacrificed], and he said: “It is a right; but if you leave it until it is a young camel in its second year"
+        },
+        {
+         "ar": "أو ابنَ لَبُون، فتُعطيه أرملة، أو تحمل عليه في سبيل الله خيرٌ من أنْ تَذْبَحَهُ فيلصقَ لحمُه بوبره، وتُكفئ إناءك وتُولِّه ناقتك».",
+         "en": "or its third, and give it to a widow or mount someone on it in the path of Allah, that is better than slaughtering it while its flesh still sticks to its hair, overturning your milking-vessel and leaving your she-camel distraught.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jami-al-ulum-wal-hikam.h17.c68",
+     "pages": [
+      374
+     ],
+     "paragraphs": [
+      {
+       "kind": "prose",
+       "segments": [
+        {
+         "ar": "والمعنى: أنَّ ولد الناقة إذا ذبح وهو صغير عندَ ولادته لم يُنتفع بلحمه، وتضرَّر صاحبُه بانقطاع لبنِ ناقته، فتُكفِئ إناه وهُوَ المِحْلَبُ الذي تُحلَب فيه الناقة، وتولَّه الناقة على ولدها بفقدها إيَّاه.",
+         "en": "The meaning is that if a she-camel's young is slaughtered while small, at its birth, its meat is of no use, and its owner is harmed by the drying-up of his she-camel's milk: so “you overturn your vessel”, that is, the pail into which the she-camel is milked, and the she-camel is distraught over the loss of her young."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "translated": 1.0
+}
