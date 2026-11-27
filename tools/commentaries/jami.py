@@ -2,6 +2,7 @@
 
 usage: python3 -I jami.py <scratch_dir>              build the skeleton and worksheets
        python3 -I jami.py <scratch_dir> --read N     print chapter N's English as continuous text (0 = preface)
+       python3 -I jami.py <scratch_dir> --read N --book fath   the same for another book (after prep.py <scratch_dir>)
 
 Keeps Ibn Rajab's text only: his preface, the 50 chapters and the closing lines. The editor's introduction,
 biography, manuscript description and footnotes (with their markers) are left out. Writes
@@ -144,11 +145,11 @@ def build():
     return sk, raw[start:]
 
 
-def read_english(tr, n):
+def read_english(tr, n, book='jami'):
     """Print chapter n (0 = preface/closing) as continuous English from en/jami/NN.tsv — the read-through check.
     Untranslated segments show as [AR: …]."""
-    sk = json.load(open(os.path.join(tr, 'work', 'jami', 'skel.json')))
-    path = os.path.join(HERE, 'en', 'jami', f'{n:02d}.tsv')
+    sk = json.load(open(os.path.join(tr, 'work', book, 'skel.json')))
+    path = os.path.join(HERE, 'en', book, f'{n:02d}.tsv')
     tsv = {}
     if os.path.exists(path):
         for line in open(path, encoding='utf-8'):
@@ -174,7 +175,8 @@ def read_english(tr, n):
 
 def main():
     if '--read' in sys.argv:
-        read_english(sys.argv[1], int(sys.argv[sys.argv.index('--read') + 1]))
+        read_english(sys.argv[1], int(sys.argv[sys.argv.index('--read') + 1]),
+                     sys.argv[sys.argv.index('--book') + 1] if '--book' in sys.argv else 'jami')
         return
     tr = sys.argv[1]
     work = os.path.join(tr, 'work', 'jami')
